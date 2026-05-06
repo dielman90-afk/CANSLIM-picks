@@ -1,0 +1,75 @@
+{
+  "updated": "2026-05-06",
+  "market_signal": "GREEN",
+  "market_note": "S&P 500 7.259,22 ATH (+0,81%) und Nasdaq 25.326,13 ATH (+1,03%) am 05.05. -- beide auf neuen Rekordhochs. Brent -3,99% auf $109,87, WTI -3,9% auf $102,27 -- Oel-Entspannung nach Hormuz-Sorgen. Tech +2%, alle Sektoren ausser Communication positiv. Bullish, Hormuz-Tensions weiter im Auge behalten.",
+  "picks": [
+    {
+      "ticker": "STRL",
+      "name": "Sterling Infrastructure",
+      "price": 806.00,
+      "chart_pattern": "Cup with Handle (Mega-Breakout)",
+      "signal": "GREEN",
+      "canslim": {
+        "C": true,
+        "A": true,
+        "N": true,
+        "S": true,
+        "L": true,
+        "I": true,
+        "M": true
+      },
+      "note": "Post-Earnings-Explosion +52,4% am 05.05. von $529 auf $806. Q1-EPS $3,59 vs Konsens $2,19, Umsatz $825,7M (+92% YoY). FY26-Guidance auf $18,40-19,05 EPS angehoben. KeyBanc PT $572, Argus $510. Bis Juli kein Earnings-Risiko."
+    },
+    {
+      "ticker": "FIX",
+      "name": "Comfort Systems USA",
+      "price": 1950.00,
+      "chart_pattern": "Flat Base Breakout / ATH",
+      "signal": "GREEN",
+      "canslim": {
+        "C": true,
+        "A": true,
+        "N": true,
+        "S": true,
+        "L": true,
+        "I": true,
+        "M": true
+      },
+      "note": "ATH $2.003,65 am 05.05. (Range $1.907-$2.003). Q1-EPS $10,51 (+54% Beat), Umsatz +56,5%, Backlog $12,45B Rekord. Naechste Earnings ~Juli."
+    },
+    {
+      "ticker": "VRT",
+      "name": "Vertiv Holdings",
+      "price": 341.02,
+      "chart_pattern": "Cup with Handle (bestaetigt)",
+      "signal": "GREEN",
+      "canslim": {
+        "C": true,
+        "A": true,
+        "N": true,
+        "S": true,
+        "L": true,
+        "I": true,
+        "M": true
+      },
+      "note": "Neues ATH $341,02 am 05.05. (+3,04%). Q1-EPS $1,17 (+136% GAAP, +83% adj.), FY-Guidance $6,30-6,40. Vanguard 7,48% Stake. Earnings erst ~Juli."
+    },
+    {
+      "ticker": "ECG",
+      "name": "Everus Construction Group",
+      "price": 173.00,
+      "chart_pattern": "Cup with Handle (Post-Earnings-Breakout)",
+      "signal": "GREEN",
+      "canslim": {
+        "C": true,
+        "A": true,
+        "N": true,
+        "S": true,
+        "L": true,
+        "I": true,
+        "M": true
+      },
+      "note": "+10,1% am 05.05. nach Q1-Beat: EPS $1,14 vs Konsens $0,81, Umsatz $1,04B. FY-Guidance angehoben. 52W +244%, FFTY Top-3. Cup-Handle-Breakout ueber $156."
+    }
+  ]
+}
