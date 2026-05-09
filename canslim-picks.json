@@ -1,13 +1,13 @@
 {
-  "updated": "2026-05-06",
+  "updated": "2026-05-07",
   "market_signal": "GREEN",
-  "market_note": "S&P 500 7.259,22 ATH (+0,81%) und Nasdaq 25.326,13 ATH (+1,03%) am 05.05. -- beide auf neuen Rekordhochs. Brent -3,99% auf $109,87, WTI -3,9% auf $102,27 -- Oel-Entspannung nach Hormuz-Sorgen. Tech +2%, alle Sektoren ausser Communication positiv. Bullish, Hormuz-Tensions weiter im Auge behalten.",
+  "market_note": "S&P 500 7.365,12 ATH (+1,46%) und Nasdaq 25.838,94 ATH (+2,02%) am 06.05. -- beide auf neuen Rekordhochs. Iran-Peace-Deal-Hoffnung beflügelt Markt, Oel rueckläufig. Industrials +2,7%, Tech +2,2% fuehren. AMD-Mega-Beat triggert Halbleiter-Rally. Klar bullish.",
   "picks": [
     {
-      "ticker": "STRL",
-      "name": "Sterling Infrastructure",
-      "price": 806.00,
-      "chart_pattern": "Cup with Handle (Mega-Breakout)",
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices",
+      "price": 421.39,
+      "chart_pattern": "Cup with Handle Breakout",
       "signal": "GREEN",
       "canslim": {
         "C": true,
@@ -18,12 +18,46 @@
         "I": true,
         "M": true
       },
-      "note": "Post-Earnings-Explosion +52,4% am 05.05. von $529 auf $806. Q1-EPS $3,59 vs Konsens $2,19, Umsatz $825,7M (+92% YoY). FY26-Guidance auf $18,40-19,05 EPS angehoben. KeyBanc PT $572, Argus $510. Bis Juli kein Earnings-Risiko."
+      "note": "Mega Q1-Beat: EPS $1,37, Umsatz $10,25B (+38% YoY), Datacenter +57% auf $5,8B. Q2-Guide $11,2B. +18,61% am 06.05. mit Mega-Volumen, bestes Earnings seit 7 Jahren. Cup-Handle aus Jan-Feb-Korrektur ($266 ATH-Region) gebrochen."
+    },
+    {
+      "ticker": "STRL",
+      "name": "Sterling Infrastructure",
+      "price": 881.98,
+      "chart_pattern": "Cup with Handle Fortsetzung",
+      "signal": "GREEN",
+      "canslim": {
+        "C": true,
+        "A": true,
+        "N": true,
+        "S": true,
+        "L": true,
+        "I": true,
+        "M": true
+      },
+      "note": "Q1 EPS $3,59 vs $2,28 (+57% Beat), Umsatz +92%. FY-Guidance auf $18,40-19,05 angehoben (+72% YoY). 7-Tage +70,8%, Datacenter-Backlog +$1,2 Mrd. Kein Earnings-Risiko bis Aug."
+    },
+    {
+      "ticker": "VRT",
+      "name": "Vertiv Holdings",
+      "price": 358.92,
+      "chart_pattern": "Cup with Handle bestaetigt",
+      "signal": "GREEN",
+      "canslim": {
+        "C": true,
+        "A": true,
+        "N": true,
+        "S": true,
+        "L": true,
+        "I": true,
+        "M": true
+      },
+      "note": "Neues ATH $358,92 am 06.05. Q1 EPS $1,17 (+15,8% Beat), Adj-EPS +83%, Umsatz +30%. FY-Guidance erneut angehoben. Cup-Handle aus April-Konsolidierung gebrochen. Kein Earnings-Risiko bis Juli."
     },
     {
       "ticker": "FIX",
       "name": "Comfort Systems USA",
-      "price": 1950.00,
+      "price": 2003.65,
       "chart_pattern": "Flat Base Breakout / ATH",
       "signal": "GREEN",
       "canslim": {
@@ -35,41 +69,7 @@
         "I": true,
         "M": true
       },
-      "note": "ATH $2.003,65 am 05.05. (Range $1.907-$2.003). Q1-EPS $10,51 (+54% Beat), Umsatz +56,5%, Backlog $12,45B Rekord. Naechste Earnings ~Juli."
-    },
-    {
-      "ticker": "VRT",
-      "name": "Vertiv Holdings",
-      "price": 341.02,
-      "chart_pattern": "Cup with Handle (bestaetigt)",
-      "signal": "GREEN",
-      "canslim": {
-        "C": true,
-        "A": true,
-        "N": true,
-        "S": true,
-        "L": true,
-        "I": true,
-        "M": true
-      },
-      "note": "Neues ATH $341,02 am 05.05. (+3,04%). Q1-EPS $1,17 (+136% GAAP, +83% adj.), FY-Guidance $6,30-6,40. Vanguard 7,48% Stake. Earnings erst ~Juli."
-    },
-    {
-      "ticker": "ECG",
-      "name": "Everus Construction Group",
-      "price": 173.00,
-      "chart_pattern": "Cup with Handle (Post-Earnings-Breakout)",
-      "signal": "GREEN",
-      "canslim": {
-        "C": true,
-        "A": true,
-        "N": true,
-        "S": true,
-        "L": true,
-        "I": true,
-        "M": true
-      },
-      "note": "+10,1% am 05.05. nach Q1-Beat: EPS $1,14 vs Konsens $0,81, Umsatz $1,04B. FY-Guidance angehoben. 52W +244%, FFTY Top-3. Cup-Handle-Breakout ueber $156."
+      "note": "5-Tage-Rally +14%, Marketcap $69B. Q1 EPS $10,51 vs $6,78 (+55% Beat), Umsatz $2,9B (+56% YoY), Backlog rekordhoch. Flat-Base-Breakout aus 5W-Konsolidierung. Earnings ~Juli."
     }
   ]
 }
