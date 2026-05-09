@@ -1,5 +1,95 @@
 # CANSLIM-Bericht Verbesserungslog
 
+## Lauf 21 -- 07. Mai 2026 (Donnerstag)
+
+### Was gut lief
+- Slack-Nachricht beim ersten Versuch erfolgreich gesendet -- ASCII-only Formatierung bewaehrt (~3.300 Zeichen)
+- JSON-Export per Read+Write direkt nach Projektordner erfolgreich
+- Marktampel klar GRUEN: S&P 500 7.365,12 ATH (+1,46%) und Nasdaq 25.838,94 ATH (+2,02%) am 06.05. -- beide auf neuen Rekordhochs
+- Iran-Peace-Deal-Hoffnung treibt Markt, Oel weiter rueckläufig nach Spike auf $114
+- AMD als #1 GREEN NEU aufgenommen -- Mega-Q1-Beat: EPS $1,37, Umsatz $10,25B (+38%), Datacenter +57% auf $5,8B, Q2-Guide $11,2B vs $9,9B Konsens. +18,61% am 06.05. = bestes Earnings-Day in 7 Jahren
+- STRL als #2 GREEN gehalten -- Fortsetzung post +52% Mega-Rally, Schlusskurs $881,98 am 06.05. (+9,4% Folgetag), 7-Tage +70,8%
+- VRT als #3 GREEN bestaetigt -- ATH $358,92 am 06.05., Cup-Handle voll bestaetigt
+- FIX als #4 GREEN -- ATH-Zone $2.000+, 5-Tage +14%, Marketcap $69B
+- ECG als #5 GREEN gehalten -- $169,16 am 06.05., bestaetigt nach Q1-Beat
+- 5 von 5 Picks haben Q1-Earnings hinter sich -- niedrigste Earnings-Konzentration ueberhaupt
+- Sektor-Diversifizierung verbessert: AMD bringt Halbleiter-Exposure rein (statt 100% Datacenter-Infrastruktur)
+- MOD ausgelassen wegen Earnings 27.05. (3 Wochen) -- Risiko-Vermeidung
+
+### Probleme
+- AMD bei $421 = +18,6% Tagesperformance -- evtl. Pullback-Risiko nach Mega-Rally
+- STRL nach +70% in 7 Tagen extrem ueberkauft -- Konsolidierung erwartet
+- Workspace-Bash war NICHT verfuegbar -- GitHub-Push konnte NICHT ausgefuehrt werden
+- EU-Pool weiter leer (RHM unter Threshold, ASML/SAP nicht geprueft)
+- Sektor-Konzentration noch hoch: 4 von 5 Picks Datacenter/Infrastruktur (AMD bringt Halbleiter-Diversifikation)
+
+### Verbesserungen fuer naechsten Lauf (08.05.)
+
+1. **POST-RALLY MONITORING (KRITISCH):**
+   - AMD: nach +18,6% Konsolidierung erwartet -- bei Bruch unter $390 sofort YELLOW, sonst GREEN solange ueber $400
+   - STRL: nach +70% in 7 Tagen scharfer Pullback moeglich -- bei Bruch unter $800 YELLOW
+   - VRT: Cup-Handle bestaetigt, GREEN solange ueber $340
+   - FIX: ATH $2.003,65 -- bei Bruch unter $1.900 YELLOW
+   - ECG: GREEN solange ueber $156
+
+2. **MARKTAMPEL-MONITORING:**
+   - S&P 7.365 ATH -- GRUEN solange ueber 7.250
+   - Bei Bruch unter 7.150 (50-Tage-MA Naehe) sofort GELB
+   - Iran-Peace-Deal-Hoffnung treibt Markt -- bei Scheitern der Verhandlungen Risiko fuer Marktampel
+   - Oel zurueck unter $100 = sehr bullish, bei erneutem Spike auf $115+ Vorsicht
+
+3. **Slack-Formatierung (bewaehrt, beibehalten):**
+   - Nur ASCII, keine Emojis, kein EUR-Zeichen
+   - Umlaute als ae/oe/ue
+   - Punkt-Tausender und Komma-Dezimal fuer DACH-Style
+   - Nachricht unter 3.500 Zeichen (Lauf 21: ~3.300)
+
+4. **Datenquellen (funktionierend):**
+   - finance.yahoo.com, marketbeat.com, cnbc.com, fool.com, thestreet.com
+   - tradingkey.com fuer Stock-Movers
+   - timothysykes.com fuer After-Hours-Bewegungen
+   - prnewswire.com, stocktitan.net fuer Earnings-Pressemitteilungen
+   - tradingeconomics.com, investing.com fuer EU-Kurse
+   - 247wallst.com (NEU): zuverlaessig fuer Live-Updates
+   - artvoice.com (NEU): gut fuer Mega-Rally-Stories
+   - BLOCKIERT: swingtradebot.com, stockanalysis.com (intermittent)
+
+5. **Kandidatenpool fuer naechsten Lauf (08.05.):**
+   - AMD als #1 -- nach +18,6% evtl. Pullback erwartet, weiter GREEN solange ueber $400
+   - STRL als #2 -- evtl. Konsolidierung nach +70%, GREEN solange ueber $800
+   - VRT als #3 -- bestaetigt, GREEN
+   - FIX als #4 -- bestaetigt, GREEN
+   - ECG als #5 -- bestaetigt, GREEN
+   - MOD weiter aus Pool wegen Earnings 27.05.
+   - POWL als Watchlist nach +10% trotz Miss
+   - RHM weiter ausgeschlossen bei EUR <1.450
+
+6. **Earnings-Strategie (bewaehrt):**
+   - Alle 5 Picks haben Q1-Earnings hinter sich -- IDEAL
+   - Naechster Earnings-Termin: MOD 27.05. (3 Wochen) -- nicht im Pool
+   - WARNUNG bei Earnings innerhalb 2 Wochen
+
+7. **Sektor-Konzentration (verbessert):**
+   - AMD bringt Halbleiter-Diversifikation (zuvor 100% Datacenter-Infrastruktur)
+   - Pharma/Healthcare-Wachstumswerte fuer naechsten Lauf erneut pruefen
+   - Cybersecurity (PANW, CRWD), Semiconductors (NVDA, AVGO, MRVL) als alternative Sektoren erwaegen
+
+8. **JSON-Export funktioniert reliable:**
+   - Read+Write direkt nach Projektordner erfolgreich
+   - 4 Picks (AMD, STRL, VRT, FIX) -- alle GREEN
+   - ECG ausgelassen weil Top 4 limitiert
+
+9. **AMD-Lesson (KRITISCH):**
+   - AMD verpasst zu haben in Lauf 18-20 war Verfehlung
+   - Wenn Mega-Cap-Tech mit Earnings-Beat in unsere Kriterien faellt, MUSS aufgenommen werden
+   - Halbleiter-Sektor (AMD, NVDA, AVGO, MRVL) bei Earnings-Beats systematisch pruefen
+
+10. **GitHub-Push (Lauf 21):**
+   - Workspace-Bash war NICHT verfuegbar -- Push uebersprungen
+   - Slack-Bericht und JSON-Export erfolgreich -- Hauptprioritaet erfuellt
+   - Bei naechstem Lauf erneut versuchen
+
+
 ## Lauf 20 -- 06. Mai 2026 (Mittwoch)
 
 ### Was gut lief
