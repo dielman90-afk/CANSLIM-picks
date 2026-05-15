@@ -1,13 +1,13 @@
 {
-  "updated": "2026-05-07",
+  "updated": "2026-05-15",
   "market_signal": "GREEN",
-  "market_note": "S&P 500 7.365,12 ATH (+1,46%) und Nasdaq 25.838,94 ATH (+2,02%) am 06.05. -- beide auf neuen Rekordhochs. Iran-Peace-Deal-Hoffnung beflügelt Markt, Oel rueckläufig. Industrials +2,7%, Tech +2,2% fuehren. AMD-Mega-Beat triggert Halbleiter-Rally. Klar bullish.",
+  "market_note": "Markt klar bullish: S&P 500 +0,8% auf 7.500+ ATH, Nasdaq +0,9% auf 26.635 ATH am 14.05. Dow zurück über 50.000. Cisco +14% nach Mega-Beat treibt AI-Infrastruktur. Tech und Industrials fuehren. Kein Distribution-Day-Cluster, FTD-Pattern intakt.",
   "picks": [
     {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices",
-      "price": 421.39,
-      "chart_pattern": "Cup with Handle Breakout",
+      "ticker": "CRWD",
+      "name": "CrowdStrike Holdings",
+      "price": 579.28,
+      "chart_pattern": "Long Base Breakout (neues ATH)",
       "signal": "GREEN",
       "canslim": {
         "C": true,
@@ -18,30 +18,22 @@
         "I": true,
         "M": true
       },
-      "note": "Mega Q1-Beat: EPS $1,37, Umsatz $10,25B (+38% YoY), Datacenter +57% auf $5,8B. Q2-Guide $11,2B. +18,61% am 06.05. mit Mega-Volumen, bestes Earnings seit 7 Jahren. Cup-Handle aus Jan-Feb-Korrektur ($266 ATH-Region) gebrochen."
-    },
-    {
-      "ticker": "STRL",
-      "name": "Sterling Infrastructure",
-      "price": 881.98,
-      "chart_pattern": "Cup with Handle Fortsetzung",
-      "signal": "GREEN",
-      "canslim": {
-        "C": true,
-        "A": true,
-        "N": true,
-        "S": true,
-        "L": true,
-        "I": true,
-        "M": true
+      "canslim_detail": {
+        "C": "Q4-Beat, ARR-Wachstum stark; Sektor-Sentiment in Cybersecurity dreht klar positiv",
+        "A": "Mehrjaehriges 30%+ ARR-Wachstum, Falcon-Plattform skaliert profitabel",
+        "N": "Neuer 52W-Hoch-Breakout 14.05. ($577-582), CEO Kurtz nennt 2026 'Breakout Year for Agentic SOC', Falcon OverWatch fuer Defender",
+        "S": "Mega-Cap, Float kontrolliert; institutionelle Akkumulation sichtbar",
+        "L": "#1 Endpoint-Security-Plattform, BTIG hebt PT auf $621, Frost & Sullivan Company of the Year 2026",
+        "I": "Massive Fonds-Akkumulation, Vanguard erhoeht Position; Insider-Verkaeufe normal nach Rally",
+        "M": "Markt klar bullish (Nasdaq und S&P ATH)"
       },
-      "note": "Q1 EPS $3,59 vs $2,28 (+57% Beat), Umsatz +92%. FY-Guidance auf $18,40-19,05 angehoben (+72% YoY). 7-Tage +70,8%, Datacenter-Backlog +$1,2 Mrd. Kein Earnings-Risiko bis Aug."
+      "note": "ATH-Breakout aus 6-Monats-Konsolidierung (vorheriges Hoch $557 Nov-25). +14% in letzter Woche, 5% Buy-Zone bis ca. $585. Earnings 03.06. - knapp Zeit fuer Entry."
     },
     {
       "ticker": "VRT",
       "name": "Vertiv Holdings",
-      "price": 358.92,
-      "chart_pattern": "Cup with Handle bestaetigt",
+      "price": 368.14,
+      "chart_pattern": "Cup with Handle bestaetigt - knapp ueber Pivot",
       "signal": "GREEN",
       "canslim": {
         "C": true,
@@ -52,13 +44,22 @@
         "I": true,
         "M": true
       },
-      "note": "Neues ATH $358,92 am 06.05. Q1 EPS $1,17 (+15,8% Beat), Adj-EPS +83%, Umsatz +30%. FY-Guidance erneut angehoben. Cup-Handle aus April-Konsolidierung gebrochen. Kein Earnings-Risiko bis Juli."
+      "canslim_detail": {
+        "C": "Q1 EPS $1,17 (+15,8% Beat), Adj-EPS +83% YoY, Umsatz +30%",
+        "A": "30% organisches Wachstum 2026 erwartet, EPS +51% YoY-Guidance",
+        "N": "Neues ATH-Niveau, FY-Guidance erneut angehoben, AI-Infrastruktur-Power-Leader",
+        "S": "Adj. Op-Margen +430bp auf 20,8%, Float liquide, kontrollierte Verwaesserung",
+        "L": "#1 Power & Cooling fuer AI-Datacenter, Aktie +250% in 12 Mon",
+        "I": "Schwere institutionelle Akkumulation, Hedgefund-Liebling im AI-Power-Trade",
+        "M": "Markt bullish, Datacenter-Theme intakt"
+      },
+      "note": "Im Buy-Zone nach Cup-Handle-Breakout aus April-Konsolidierung. Earnings-Risk erst Juli. Klassischer 'Recently broken out' Kandidat."
     },
     {
       "ticker": "FIX",
       "name": "Comfort Systems USA",
-      "price": 2003.65,
-      "chart_pattern": "Flat Base Breakout / ATH",
+      "price": 2043.00,
+      "chart_pattern": "Flat-Base-Breakout zum ATH",
       "signal": "GREEN",
       "canslim": {
         "C": true,
@@ -69,7 +70,120 @@
         "I": true,
         "M": true
       },
-      "note": "5-Tage-Rally +14%, Marketcap $69B. Q1 EPS $10,51 vs $6,78 (+55% Beat), Umsatz $2,9B (+56% YoY), Backlog rekordhoch. Flat-Base-Breakout aus 5W-Konsolidierung. Earnings ~Juli."
+      "canslim_detail": {
+        "C": "Q1 EPS $10,51 vs $6,78 (+55% Beat), Umsatz +56% YoY",
+        "A": "Mid-bis-High-20% Umsatzwachstum 2026 in Guidance, EPS verdoppelt YoY",
+        "N": "Neues ATH $2.032,98 am 11.05.; KeyBanc-Upgrade auf Overweight; Backlog Rekord $12,5B",
+        "S": "Float gesund, keine Verwaesserung, organisches Wachstum",
+        "L": "#1 mechanischer/elektrischer Service fuer Hyperscale-Datacenter",
+        "I": "Institutionelle Akkumulation steigend, Top-Holdings in Growth-Funds",
+        "M": "Markt klar bullish"
+      },
+      "note": "Frischer Flat-Base-Breakout aus 5W-Konsolidierung. Aktuell ca. 0,5% ueber Pivot - perfekte Buy-Zone. Earnings ca. Juli."
+    },
+    {
+      "ticker": "PWR",
+      "name": "Quanta Services",
+      "price": 773.72,
+      "chart_pattern": "Tight Rectangle / Flat Base am ATH",
+      "signal": "GREEN",
+      "canslim": {
+        "C": true,
+        "A": true,
+        "N": true,
+        "S": true,
+        "L": true,
+        "I": true,
+        "M": true
+      },
+      "canslim_detail": {
+        "C": "Q1 EPS $2,68 (+30,1% Beat), Umsatz $7,9B (+12,6% Beat), +18% Stock-Surge",
+        "A": "Mehrjaehriges 20%+ EPS-Wachstum, Backlog Rekord $48,5B",
+        "N": "ATH $788,75 am 06.05.; Truist hebt PT auf $851; Datacenter-Power-Buildout-Champion",
+        "S": "Solide Bilanz, Buyback aktiv",
+        "L": "#1 Spezial-Bauunternehmen fuer Strom-Infrastruktur und Datacenter",
+        "I": "JPMorgan, Citi, Evercore, Mizuho heben PTs Anfang Mai",
+        "M": "Markt bullish, Power-Infra-Theme heiss"
+      },
+      "note": "Konsolidiert seit ATH 06.05. in tightem Rectangle - Pivot-Bruch oberhalb $789 wuerde Breakout bestaetigen. Aktuell unmittelbar vor Pivot. Earnings ca. Anfang August."
+    },
+    {
+      "ticker": "HWM",
+      "name": "Howmet Aerospace",
+      "price": 272.04,
+      "chart_pattern": "Cup with Handle - direkt am Pivot",
+      "signal": "GREEN",
+      "canslim": {
+        "C": true,
+        "A": true,
+        "N": true,
+        "S": true,
+        "L": true,
+        "I": true,
+        "M": true
+      },
+      "canslim_detail": {
+        "C": "Q1 EPS $1,45 vs $0,85 (+71% YoY), Umsatz +19% YoY, EBITDA-Marge +320bp auf 32%",
+        "A": "FY26 Guidance angehoben, Commercial-Aero +20%, Defense +10%, Gas-Turbinen +39%",
+        "N": "ATH $280,74; Q1 schlaegt high-end Guidance, neue Akquisitionen, Gas-Turbinen Nachfrage explodiert",
+        "S": "$300M Buybacks in Q1, weitere $150M im April - aktive Float-Reduktion",
+        "L": "#1 in 3D-gefertigten Engine-Komponenten - Supply-Chain-Bottleneck-Profiteur",
+        "I": "Starke Fonds-Akkumulation, A+ Momentum-Rating",
+        "M": "Markt bullish"
+      },
+      "note": "Knapp unter ATH, Handle-Phase. Pivot-Bruch oberhalb $281 = Buy-Trigger. Aktuell knapp unter Pivot - klassischer 'kurz davor' Setup."
+    },
+    {
+      "ticker": "APP",
+      "name": "AppLovin",
+      "price": 480.78,
+      "chart_pattern": "Cup with Handle / Pocket Pivot",
+      "signal": "GREEN",
+      "canslim": {
+        "C": true,
+        "A": true,
+        "N": true,
+        "S": true,
+        "L": true,
+        "I": true,
+        "M": true
+      },
+      "canslim_detail": {
+        "C": "Q1 EPS $3,56 (Beat), Umsatz $1,84B (+59% YoY), Net-Income +109%",
+        "A": "65%+ EPS-Wachstum mehrjaehrig, Skalierung der AXON-AI-Plattform",
+        "N": "Neue AXON-AI-Plattform Launch, Q2-Guidance ueber Konsens",
+        "S": "Float gesund, aktive Buybacks",
+        "L": "#1 mobile Ad-Tech-Plattform, AI-Driven-Advertising-Fuehrer",
+        "I": "Pocket-Pivot-Signal = institutionelle Akkumulation, Piper Sandler PT $665",
+        "M": "Markt bullish"
+      },
+      "note": "Konsolidiert in Handle nach -9% Korrektur seit 07.05. +4,5% am 14.05. mit Pocket-Pivot. Pivot bei ca. $499. Klassischer 'kurz vor Breakout' Setup. Earnings hinter sich (06.05.), kein Earnings-Risiko bis August."
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices",
+      "price": 445.50,
+      "chart_pattern": "Cup with Handle Breakout (in Buy-Zone)",
+      "signal": "GREEN",
+      "canslim": {
+        "C": true,
+        "A": true,
+        "N": true,
+        "S": true,
+        "L": true,
+        "I": true,
+        "M": true
+      },
+      "canslim_detail": {
+        "C": "Q1 EPS $1,37 vs $1,29 erwartet, Umsatz $10,25B (+38% YoY), Datacenter +57% auf $5,8B",
+        "A": "Multi-Year-Earnings-Acceleration; FY26 Guidance angehoben, EPS-Wachstum > 40%",
+        "N": "ATH $456,29 am 08.05., bestes Earnings-Beat seit 7 Jahren, MI400-Roadmap solide",
+        "S": "Mega-Cap aber Float fest in starken Haenden, Buybacks aktiv",
+        "L": "#2 GPU/AI-Accelerator hinter NVDA, gewinnt Hyperscale-Mindshare",
+        "I": "Massive Akkumulation seit Earnings, +112% YTD",
+        "M": "Markt bullish"
+      },
+      "note": "Cup-Handle-Pivot $421 am 06.05. gebrochen, jetzt $445 = +5,7% extended (oberer Rand der 5% Buy-Zone). Recently-broken-out, leicht extended aber noch akzeptabel. Earnings hinter sich."
     }
   ]
 }
