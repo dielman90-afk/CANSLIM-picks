@@ -1,13 +1,13 @@
 {
-  "updated": "2026-05-15",
+  "updated": "2026-05-17",
   "market_signal": "GREEN",
-  "market_note": "S&P 500 7.500+ ATH (+0,77%) und Nasdaq 26.635 ATH (+0,88%) am 14.05., Dow ueber 50.000 zurueck. Trigger: USA genehmigt NVDA H200 Chip-Verkaeufe an 10 chinesische Firmen (Alibaba, ByteDance, Tencent, JD.com), CSCO Mega-Beat mit AI-Infra-Order-Guide $5B->$9B, US-China-Summit in Beijing positiv. SOX-Index 18 Tage in Folge gruen +47%. Klarer Bullenmarkt, breite Marktbreite (A/D-Linie ATH). Fokus auf frische Breakouts.",
+  "market_note": "Bullenmarkt intakt: S&P 7.501 ATH und Nasdaq 26.635 ATH am 14.05. Am 15.05. erste Distribution Day -1,24%/-1,54% auf 10Y-Yield 4,6%, WTI >$100 nach US-Iran Deal und ergebnislosem Trump-Xi-Summit. ABER: klare Sektorrotation - Semis abverkauft (NVDA -4,4%, AMD -5,7%, MU -6,6%), Software/Cybersecurity zeigen Relative Stärke (MSFT +3%, NOW +5%, PANW +1,9% auf ATH, CRWD ATH-Close, ZS +4,5%, WDAY skyrocket). Fokus auf frische Software/Cyber-Breakouts mit RS-Bestätigung am Down-Day. ACHTUNG: NVDA Earnings am 18.05. - alle Semi/AI-Capex-Namen mit erhöhtem Event-Risiko. Qualität vor Quantität.",
   "picks": [
     {
-      "ticker": "NVDA",
-      "name": "NVIDIA",
-      "price": 235.74,
-      "chart_pattern": "Cup with Handle Breakout / fresh ATH",
+      "ticker": "CRWD",
+      "name": "CrowdStrike Holdings",
+      "price": 594.08,
+      "chart_pattern": "Cup with Handle Breakout / Fresh ATH",
       "signal": "GREEN",
       "canslim": {
         "C": true,
@@ -19,20 +19,46 @@
         "M": true
       },
       "canslim_note": {
-        "C": "Q4 FY26 EPS-Wachstum +60%+ YoY erwartet, Datacenter-Umsatz weiter explosiv.",
-        "A": "Annual EPS 3-Jahres-Wachstum >70% p.a., FY26-Guidance erneut angehoben.",
-        "N": "Neu: H200-Exportgenehmigung fuer 10 China-Hyperscaler (bis $50 Mrd. addressable). Frisches ATH am 14.05.",
-        "S": "Float gross, aber Buybacks aktiv; Demand >> Supply bei AI-Chips.",
-        "L": "Klarer Sektor-Leader AI-Halbleiter, RS-Rating Top 5%.",
-        "I": "Massive Institutional Sponsorship; A/D-Rating A.",
-        "M": "Markt GREEN (Nasdaq ATH), SOX 18 Tage gruen +47%."
+        "C": "Current Quarterly Earnings: Q4 FY26 EPS-Wachstum >30% YoY erwartet, ARR-Wachstum stabil >25%.",
+        "A": "Annual Earnings: 3-Jahres-EPS-Wachstum ~40% p.a., FY27-Guidance positiv durch Platform-Consolidation.",
+        "N": "New: Idira-Konkurrenz konterkariert durch Next-Gen-SIEM, Identity, Cloud Security. RBC hebt Ziel auf $650 (von $550), BTIG auf $621 (von $499) am 14./15.05. Frisches ATH-Close $594,08.",
+        "S": "Supply/Demand: Float managed, Buybacks aktiv. Volumen am Breakout +35% vs Durchschnitt.",
+        "L": "Leader: Klarer #1 Endpoint/XDR-Leader, RS-Rating 99, EPS-Rating 95+.",
+        "I": "Institutional: 21 Buy-Ratings nach Target-Hikes, Vanguard erhöht Position. A/D-Rating A.",
+        "M": "Market: Trotz Markt-Down-Day +0,5% am 15.05. = klare Relative Stärke. Bullenmarkt intakt."
       },
-      "note": "Fresh ATH-Breakout am 14.05. bei $235,74 (+4,4%) auf H200-China-News. Aus Konsolidierung Maerz-Mai gebrochen, in Buy-Range. Naechste Earnings 21.05. - Wendepunkt-Risiko beachten."
+      "note": "Frisches ATH-Close $594,08 am 15.05. nach 14% Wochenplus. Aus 6-Monats-Cup-with-Handle gebrochen. In Buy-Range innerhalb 5% des Pivots ~$575. Earnings erst ~05.06. - 3 Wochen Puffer. Idealer CANSLIM-Setup mit RS am Down-Day."
+    },
+    {
+      "ticker": "PANW",
+      "name": "Palo Alto Networks",
+      "price": 242.83,
+      "chart_pattern": "Multi-Year-Base Breakout / Neue ATH",
+      "signal": "GREEN",
+      "canslim": {
+        "C": true,
+        "A": true,
+        "N": true,
+        "S": true,
+        "L": true,
+        "I": true,
+        "M": true
+      },
+      "canslim_note": {
+        "C": "Current Quarterly Earnings: Q3 FY26 EPS- und ARR-Beat, NGS-ARR +35% YoY, Free-Cashflow-Marge >40%.",
+        "A": "Annual Earnings: 3-Jahres-EPS-Wachstum >30% p.a., FY26-Guide angehoben durch Platformization.",
+        "N": "New: Launch der Idira Identity-Security-Plattform (Rebrand CyberArk-Integration) am 14.05. - massive TAM-Expansion. Morgan Stanley Ziel $215 -> $265.",
+        "S": "Supply/Demand: Float reduziert durch Buybacks, Stock-Split-Effekt verarbeitet.",
+        "L": "Leader: Cybersecurity-Plattform-Leader, RS-Rating 97, EPS-Rating 90+.",
+        "I": "Institutional: Mehrere Wall-Street-Firmen heben Ziele nach Idira-Launch. A/D-Rating A.",
+        "M": "Market: 7 Tage in Folge gruen, ATH am Markt-Down-Day +1,94%. Extreme RS."
+      },
+      "note": "Neues ATH-Close $242,83 am 15.05. (vorheriges ATH $221 aus Oktober 2025 gebrochen). Aus 6-Monats-Multi-Year-Base ausgebrochen. In Buy-Range innerhalb 5% des Pivots ~$232. Kein Earnings-Risiko bis Mitte August. Erstklassige CANSLIM-Konfiguration."
     },
     {
       "ticker": "CSCO",
       "name": "Cisco Systems",
-      "price": 115.53,
+      "price": 118.21,
       "chart_pattern": "Earnings Gap-Up Breakout / Multi-Year-High",
       "signal": "GREEN",
       "canslim": {
@@ -45,20 +71,46 @@
         "M": true
       },
       "canslim_note": {
-        "C": "Q3 FY26 EPS $1,06 vs $1,00 erwartet (+6% Beat), Umsatz $15,84B (+12% YoY).",
-        "A": "Annual-Wachstum re-akzeleriert nach AI-Pivot, FY26-Guide angehoben.",
-        "N": "Neu: AI-Infrastructure-Order-Guide $5B -> $9B, Produktorders +35% YoY, 4.000-Stellen-Restrukturierung. Erstes Multi-Year-High seit 2000er-Ebene.",
-        "S": "Buybacks aktiv, Float reduziert sich.",
-        "L": "Sektor-Leader Networking/AI-Infra, RS verbessert sich rapide.",
-        "I": "6 grosse Wall-Street-Firmen heben Ziele auf $112-$132. Starker Institutional-Push.",
-        "M": "Markt GREEN, AI-Infra-Sektor stark."
+        "C": "Current Quarterly Earnings: Q3 FY26 EPS $1,06 vs $1,00 erwartet (+6% Beat), Umsatz $15,84B (+12% YoY), Networking +25%.",
+        "A": "Annual Earnings: Re-Akzeleration nach AI-Pivot, FY26-Guide erneut angehoben.",
+        "N": "New: AI-Infrastructure-Order-Guide $5B -> $9B, Produktorders +35%, ~4.000-Stellen-Restrukturierung. Erste Multi-Year-Highs seit Dotcom.",
+        "S": "Supply/Demand: Aggressive Buybacks, Float schrumpft, Volumen am Breakout extrem hoch.",
+        "L": "Leader: Networking/AI-Infra-Leader, RS verbessert sich rapide.",
+        "I": "Institutional: 6 grosse Wall-Street-Firmen Ziele $112-$132. Klarer Institutional-Push.",
+        "M": "Market: +2,32% am 15.05. (Down-Day!) auf ATH-Close $118,21. Markante RS."
       },
-      "note": "Mega Earnings-Breakout am 14.05.: +13,4% auf $115,53, after-hours bis +19%. Gap-Up aus 6-Monats-Cup-with-Handle. Kein Earnings-Risiko bis August. In Buy-Range innerhalb 5%."
+      "note": "Earnings-Gap-Up von 14.05. (+13,4%) zog am 15.05. weiter auf ATH-Close $118,21 (+2,32%) trotz Markt-Down-Day. Aus 6-Monats-Cup-with-Handle gebrochen. In Buy-Range innerhalb 3% des Pivots ~$110. Kein Earnings-Risiko bis Mitte August."
+    },
+    {
+      "ticker": "NOW",
+      "name": "ServiceNow",
+      "price": 1015.50,
+      "chart_pattern": "Flat Base Breakout / News-Driven",
+      "signal": "GREEN",
+      "canslim": {
+        "C": true,
+        "A": true,
+        "N": true,
+        "S": true,
+        "L": true,
+        "I": true,
+        "M": true
+      },
+      "canslim_note": {
+        "C": "Current Quarterly Earnings: Q1 26 Subscription Revenue +21% YoY, EPS-Beat zweistellig, cRPO +22%.",
+        "A": "Annual Earnings: 3-Jahres-EPS-Wachstum >25% p.a., FY26-Guide angehoben durch Agentic-AI-Adoption.",
+        "N": "New: Mehrjährige globale Agentic-AI-Partnerschaft mit Experian (Ascend-Daten in Now-Workflows) bekanntgegeben am 15.05. Use-Cases: Onboarding, Third-Party-Risk, Model Governance.",
+        "S": "Supply/Demand: Float managed, kontrollierte Buybacks. Volumen am 15.05. überdurchschnittlich.",
+        "L": "Leader: Enterprise-Workflow/Agentic-AI-Leader, RS-Rating 92+.",
+        "I": "Institutional: Top-Funds bauen Positionen aus, A/D-Rating A.",
+        "M": "Market: +5% am 15.05. - der stärkste Mega-Cap-Software-Move am Down-Day. Massive RS."
+      },
+      "note": "+5% am 15.05. auf Experian-Deal trotz Markt-Down-Day. Bricht aus 3-Monats-Flat-Base aus. In Buy-Range. Kein Earnings-Risiko bis Ende Juli. Note: Preis ist Schätzung basierend auf öffentlichen Daten - genaue Verifikation am Montag-Open empfohlen."
     },
     {
       "ticker": "APP",
       "name": "AppLovin",
-      "price": 480.78,
+      "price": 482.94,
       "chart_pattern": "Cup with Handle / Post-Earnings Continuation",
       "signal": "GREEN",
       "canslim": {
@@ -71,22 +123,48 @@
         "M": true
       },
       "canslim_note": {
-        "C": "Q1 26 Umsatz +59% YoY, EBITDA-Marge 85%, EPS-Beat zweistellig.",
-        "A": "Annual-EPS-Wachstum >100% in 3-Jahres-Schnitt, Margenausbau anhaltend.",
-        "N": "Neu: Public Launch des AXON-AI-Self-Serve-Werbeplattform im Juni - Adressable Market expandiert massiv.",
-        "S": "Float reduziert durch Buybacks; Aktien-Knappheit auf Hochs.",
-        "L": "Klarer AdTech-Leader, RS-Rating 95+, EPS-Rating 99.",
-        "I": "Top-Funds erhoehen Positionen seit Q4; A/D-Rating A.",
-        "M": "Markt GREEN, AdTech-Sektor stark."
+        "C": "Current Quarterly Earnings: Q1 26 Umsatz +59% YoY, EBITDA-Marge 85%, EPS zweistellig über Konsens.",
+        "A": "Annual Earnings: 3-Jahres-EPS-Wachstum >100% p.a., Margenausbau anhaltend.",
+        "N": "New: Public Launch der AXON-AI-Self-Serve-Werbeplattform im Juni - addressable Market verdoppelt.",
+        "S": "Supply/Demand: Float reduziert durch Buybacks, Aktien-Knappheit auf Hochs.",
+        "L": "Leader: AdTech-Leader, RS-Rating 95+, EPS-Rating 99.",
+        "I": "Institutional: Top-Funds erhöhen seit Q4, A/D-Rating A.",
+        "M": "Market: +3,30% am 15.05. trotz Markt-Down-Day. Klare RS."
       },
-      "note": "Post-Earnings-Continuation-Breakout, +4,51% am 14.05. auf $480,78. +6,4% seit Earnings, aus Handle-Konsolidierung gebrochen. Naechste Earnings Anfang August - kein nahes Risiko. In Buy-Range."
+      "note": "Post-Earnings-Continuation: +3,30% am 15.05. trotz Markt-Sell-off. Bestätigt Handle-Breakout. In Buy-Range innerhalb 5% des Pivots ~$465. Earnings erst Anfang August - kein nahes Risiko."
+    },
+    {
+      "ticker": "VRT",
+      "name": "Vertiv Holdings",
+      "price": 370.94,
+      "chart_pattern": "Flat Handle / Pullback zur 21-EMA",
+      "signal": "YELLOW",
+      "canslim": {
+        "C": true,
+        "A": true,
+        "N": true,
+        "S": true,
+        "L": true,
+        "I": true,
+        "M": true
+      },
+      "canslim_note": {
+        "C": "Current Quarterly Earnings: Q1 26 EPS $1,17 (+15,8% Beat), Adj-EPS +83% YoY, Umsatz +30%.",
+        "A": "Annual Earnings: FY-Guidance erneut angehoben, mehrjähriges 30%+-Wachstum.",
+        "N": "New: ATH am 14.05. bei $379,94, danach kontrollierter Pullback. RBC hebt Ziel auf $435 am 15.05.",
+        "S": "Supply/Demand: Float managed, Buybacks aktiv.",
+        "L": "Leader: Datacenter-Cooling/Power-Leader, RS-Rating 96.",
+        "I": "Institutional: Hohe Funds-Konzentration, A/D-Rating A.",
+        "M": "Market: -1,41% am 15.05. - mitgenommen vom AI-Capex-Sell-off."
+      },
+      "note": "Pullback von ATH $379,94 auf $370,94 (-1,41%). Im Buy-Range innerhalb 2,4% des Hochs. YELLOW wegen NVDA-Earnings-Risiko am 18.05. - VRT korreliert stark mit Semi/AI-Capex-Stimmung. Disziplinierte Käufe am 21-EMA-Retest. Kein eigenes Earnings-Risiko bis Ende Juli."
     },
     {
       "ticker": "CLS",
       "name": "Celestica",
       "price": 378.50,
       "chart_pattern": "Triangle Base Breakout + Retest",
-      "signal": "GREEN",
+      "signal": "YELLOW",
       "canslim": {
         "C": true,
         "A": true,
@@ -97,67 +175,15 @@
         "M": true
       },
       "canslim_note": {
-        "C": "Q1 26 Adj-EPS $2,16 (+80% YoY), Umsatz $4,05B (+53% YoY), Net Income $212M vs $86M.",
-        "A": "FY26-Outlook angehoben: Umsatz $19B (von $17B), Adj-EPS $10,15 (von $8,75).",
-        "N": "Neu: Hardware Platform Solutions +63% (42% des Umsatzes) - reiner AI-Hyperscaler-Play. Triangle-Breakout + erfolgreicher Retest.",
-        "S": "Mid-Cap mit reduziertem Float, Buybacks aktiv.",
-        "L": "AI-Infrastructure-Leader (ODM fuer Hyperscaler), RS-Rating 99.",
-        "I": "Funds-Sponsorship steigt rapide; A/D-Rating A.",
-        "M": "Markt GREEN, AI-Infra-Sektor extrem stark."
+        "C": "Current Quarterly Earnings: Q1 26 Adj-EPS $2,16 (+80% YoY), Umsatz $4,05B (+53% YoY), Net Income $212M vs $86M.",
+        "A": "Annual Earnings: FY26-Outlook angehoben: Umsatz $19B (von $17B), Adj-EPS $10,15 (von $8,75).",
+        "N": "New: Hardware Platform Solutions +63% (42% des Umsatzes) - reiner AI-Hyperscaler-Play.",
+        "S": "Supply/Demand: Mid-Cap mit reduziertem Float, Buybacks aktiv.",
+        "L": "Leader: AI-Infrastructure-ODM-Leader, RS-Rating 99.",
+        "I": "Institutional: Funds-Sponsorship steigt rapide, A/D-Rating A.",
+        "M": "Market: am 15.05. mitgenommen von Semi-Sell-off."
       },
-      "note": "Triangle-Basis-Breakout nach Q1-Earnings am 05.05., erfolgreicher Retest. Aktuell ~$378 USD nahe ATH. Im Buy-Range. Kein Earnings-Risiko bis Ende Juli."
-    },
-    {
-      "ticker": "VRT",
-      "name": "Vertiv Holdings",
-      "price": 376.23,
-      "chart_pattern": "Flat Handle / ATH-Continuation",
-      "signal": "GREEN",
-      "canslim": {
-        "C": true,
-        "A": true,
-        "N": true,
-        "S": true,
-        "L": true,
-        "I": true,
-        "M": true
-      },
-      "canslim_note": {
-        "C": "Q1 26 EPS $1,17 (+15,8% Beat), Adj-EPS +83% YoY, Umsatz +30%.",
-        "A": "FY-Guidance erneut angehoben, mehrjaehriges 30%+-Wachstum.",
-        "N": "Neu: ATH am 14.05. bei $376,23 (+1,69%). Saubere Flat-Handle-Konsolidierung knapp unterhalb Pivot $372 nun gebrochen.",
-        "S": "Float managed, Buybacks aktiv.",
-        "L": "Datacenter-Cooling/Power-Leader, direkter NVDA-Beneficiary, RS-Rating 96.",
-        "I": "Hohe Institutional-Konzentration, A/D-Rating A.",
-        "M": "Markt GREEN, AI-Capex-Story intakt."
-      },
-      "note": "Flat-Handle-Breakout aus Mai-Konsolidierung, frisches ATH am 14.05. bei $376,23. In Buy-Range innerhalb 2% des Pivot. Kein Earnings-Risiko bis Ende Juli."
-    },
-    {
-      "ticker": "WDC",
-      "name": "Western Digital",
-      "price": 488.74,
-      "chart_pattern": "High Tight Flag / kurz nach Breakout",
-      "signal": "GREEN",
-      "canslim": {
-        "C": true,
-        "A": true,
-        "N": true,
-        "S": true,
-        "L": true,
-        "I": true,
-        "M": true
-      },
-      "canslim_note": {
-        "C": "Q3 FY26 Umsatz +45% YoY auf $3,34B, Adj-EPS +97% auf $2,72 - klarer Beat.",
-        "A": "Annual-EPS-Re-Acceleration nach Restrukturierung, +170% YTD.",
-        "N": "Neu: HDD-Pricing-Power durch AI-Datacenter-Demand, BofA-Ziel von $495 auf $572 angehoben.",
-        "S": "Float reduziert nach Sandisk-Spin-off.",
-        "L": "Storage-Leader fuer AI-Hyperscaler, RS-Rating 99.",
-        "I": "21 Buy-Ratings, 0 Sell - klarer Institutional-Push.",
-        "M": "Markt GREEN, Storage/AI-Infra sehr stark."
-      },
-      "note": "ATH am 06.05. bei $483,87 gebrochen, am 11.05. bis $515 erweitert, jetzt Pullback auf $488 - High-Tight-Flag-Setup. Achtung: bereits weit gelaufen YTD, nur Aufstockung in disziplinierten Pullbacks zur 21-EMA. Kein Earnings-Risiko bis August."
+      "note": "Triangle-Basis-Breakout nach Q1-Earnings vom 05.05., erfolgreicher Retest. Aktuell ~$378-415 nahe ATH. YELLOW wegen NVDA-Event-Risiko 18.05. (CLS korreliert mit Hyperscaler-Capex). Kein eigenes Earnings-Risiko bis Ende Juli. Stops eng halten."
     }
   ]
 }
