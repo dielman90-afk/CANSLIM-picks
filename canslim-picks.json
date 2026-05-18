@@ -1,39 +1,13 @@
 {
-  "updated": "2026-05-15",
-  "market_signal": "GREEN",
-  "market_note": "S&P 500 7.500+ ATH (+0,77%) und Nasdaq 26.635 ATH (+0,88%) am 14.05., Dow ueber 50.000 zurueck. Trigger: USA genehmigt NVDA H200 Chip-Verkaeufe an 10 chinesische Firmen (Alibaba, ByteDance, Tencent, JD.com), CSCO Mega-Beat mit AI-Infra-Order-Guide $5B->$9B, US-China-Summit in Beijing positiv. SOX-Index 18 Tage in Folge gruen +47%. Klarer Bullenmarkt, breite Marktbreite (A/D-Linie ATH). Fokus auf frische Breakouts.",
+  "updated": "2026-05-18",
+  "market_signal": "YELLOW",
+  "market_note": "Distribution Day am Fr 15.05.: S&P 500 -1,24% auf 7.408,50 / Nasdaq -1,54% auf 26.225,14 / Dow -1,07% auf 49.526. Trigger: Trump-Xi-Gipfel ohne Durchbruch, US-Treasury-Yields auf Mehrmonatshoch (Kevin Warsh neuer Fed-Chair -> Hike-Fears), Oel +auf ~$109 auf US-Iran-Deal. Pre-Market Mo 18.05.: Futures leicht negativ. Binaeres Event: NVDA-Earnings Mi 20.05. AMC. Bullen-Setup intakt, aber kurzfristig 'Uptrend Under Pressure'. Striktes Quality-Filtering: nur frische bzw. handlungsbare Breakouts, alle bereits weit gelaufenen oder Pre-Earnings-Setups entfernt.",
   "picks": [
-    {
-      "ticker": "NVDA",
-      "name": "NVIDIA",
-      "price": 235.74,
-      "chart_pattern": "Cup with Handle Breakout / fresh ATH",
-      "signal": "GREEN",
-      "canslim": {
-        "C": true,
-        "A": true,
-        "N": true,
-        "S": true,
-        "L": true,
-        "I": true,
-        "M": true
-      },
-      "canslim_note": {
-        "C": "Q4 FY26 EPS-Wachstum +60%+ YoY erwartet, Datacenter-Umsatz weiter explosiv.",
-        "A": "Annual EPS 3-Jahres-Wachstum >70% p.a., FY26-Guidance erneut angehoben.",
-        "N": "Neu: H200-Exportgenehmigung fuer 10 China-Hyperscaler (bis $50 Mrd. addressable). Frisches ATH am 14.05.",
-        "S": "Float gross, aber Buybacks aktiv; Demand >> Supply bei AI-Chips.",
-        "L": "Klarer Sektor-Leader AI-Halbleiter, RS-Rating Top 5%.",
-        "I": "Massive Institutional Sponsorship; A/D-Rating A.",
-        "M": "Markt GREEN (Nasdaq ATH), SOX 18 Tage gruen +47%."
-      },
-      "note": "Fresh ATH-Breakout am 14.05. bei $235,74 (+4,4%) auf H200-China-News. Aus Konsolidierung Maerz-Mai gebrochen, in Buy-Range. Naechste Earnings 21.05. - Wendepunkt-Risiko beachten."
-    },
     {
       "ticker": "CSCO",
       "name": "Cisco Systems",
-      "price": 115.53,
-      "chart_pattern": "Earnings Gap-Up Breakout / Multi-Year-High",
+      "price": 118.21,
+      "chart_pattern": "Earnings Gap-Up Breakout aus Cup-with-Handle / Multi-Year-High",
       "signal": "GREEN",
       "canslim": {
         "C": true,
@@ -42,24 +16,24 @@
         "S": true,
         "L": true,
         "I": true,
-        "M": true
+        "M": false
       },
       "canslim_note": {
-        "C": "Q3 FY26 EPS $1,06 vs $1,00 erwartet (+6% Beat), Umsatz $15,84B (+12% YoY).",
-        "A": "Annual-Wachstum re-akzeleriert nach AI-Pivot, FY26-Guide angehoben.",
-        "N": "Neu: AI-Infrastructure-Order-Guide $5B -> $9B, Produktorders +35% YoY, 4.000-Stellen-Restrukturierung. Erstes Multi-Year-High seit 2000er-Ebene.",
-        "S": "Buybacks aktiv, Float reduziert sich.",
-        "L": "Sektor-Leader Networking/AI-Infra, RS verbessert sich rapide.",
-        "I": "6 grosse Wall-Street-Firmen heben Ziele auf $112-$132. Starker Institutional-Push.",
-        "M": "Markt GREEN, AI-Infra-Sektor stark."
+        "C": "C (Current Earnings): Q3 FY26 EPS $1,06 (vs $1,04 Consensus), Umsatz $15,84B (+12% YoY) - klarer Beat.",
+        "A": "A (Annual Earnings): Re-Akzeleration nach AI-Pivot, FY26-Guidance erneut angehoben, mehrjaehriges Wachstum >10%.",
+        "N": "N (New): AI-Infrastructure-Order-Guide $5B -> $9B, Produktorders +35% YoY, Restrukturierung. Erstes Multi-Year-High seit Dot-Com-Aera.",
+        "S": "S (Supply & Demand): Aggressive Buybacks reduzieren Float, +13% Gap-Up Volumen massiv ueber 50-Tage-Durchschnitt.",
+        "L": "L (Leader): Sektor-Leader Networking/AI-Infra, RS-Rating verbessert sich rapide auf 90+.",
+        "I": "I (Institutional Sponsorship): 6+ Banken heben Ziele auf $112-$132 (Morgan Stanley $120), starker Institutional-Push.",
+        "M": "M (Market Direction): YELLOW - Markt nach Distribution Day 15.05. unter Druck."
       },
-      "note": "Mega Earnings-Breakout am 14.05.: +13,4% auf $115,53, after-hours bis +19%. Gap-Up aus 6-Monats-Cup-with-Handle. Kein Earnings-Risiko bis August. In Buy-Range innerhalb 5%."
+      "note": "Mega Earnings-Breakout 14.05. (+13,4%), Folgetag 15.05. +2,32% auf $118,21 ATH trotz Marktschwaeche - relative Staerke. Pivot ~$108, aktuell ~9% darueber - oberer Rand der idealen Buy-Range. Nur fuer disziplinierte Trader mit engem Stop. Kein Earnings-Risiko bis August."
     },
     {
       "ticker": "APP",
       "name": "AppLovin",
-      "price": 480.78,
-      "chart_pattern": "Cup with Handle / Post-Earnings Continuation",
+      "price": 496.65,
+      "chart_pattern": "Flag Breakout / Post-Earnings Continuation",
       "signal": "GREEN",
       "canslim": {
         "C": true,
@@ -68,50 +42,24 @@
         "S": true,
         "L": true,
         "I": true,
-        "M": true
+        "M": false
       },
       "canslim_note": {
-        "C": "Q1 26 Umsatz +59% YoY, EBITDA-Marge 85%, EPS-Beat zweistellig.",
-        "A": "Annual-EPS-Wachstum >100% in 3-Jahres-Schnitt, Margenausbau anhaltend.",
-        "N": "Neu: Public Launch des AXON-AI-Self-Serve-Werbeplattform im Juni - Adressable Market expandiert massiv.",
-        "S": "Float reduziert durch Buybacks; Aktien-Knappheit auf Hochs.",
-        "L": "Klarer AdTech-Leader, RS-Rating 95+, EPS-Rating 99.",
-        "I": "Top-Funds erhoehen Positionen seit Q4; A/D-Rating A.",
-        "M": "Markt GREEN, AdTech-Sektor stark."
+        "C": "C (Current Earnings): Q1 26 Umsatz +59% YoY, EBITDA-Marge ~85%, EPS-Beat zweistellig.",
+        "A": "A (Annual Earnings): Annual-EPS-Wachstum >100% im 3-Jahres-Schnitt, anhaltender Margenausbau.",
+        "N": "N (New): Public Launch AXON-AI Self-Serve-Werbeplattform im Juni - massive Adressable-Market-Expansion in E-Commerce.",
+        "S": "S (Supply & Demand): Aktive Buybacks reduzieren Float, Aktien-Knappheit auf Hochs.",
+        "L": "L (Leader): Klarer AdTech-Leader, RS-Rating 95+, EPS-Rating 99.",
+        "I": "I (Institutional Sponsorship): Top-Funds erhoehen Positionen seit Q4, A/D-Rating A.",
+        "M": "M (Market Direction): YELLOW - Markt unter Druck, aber APP zeigt relative Staerke."
       },
-      "note": "Post-Earnings-Continuation-Breakout, +4,51% am 14.05. auf $480,78. +6,4% seit Earnings, aus Handle-Konsolidierung gebrochen. Naechste Earnings Anfang August - kein nahes Risiko. In Buy-Range."
-    },
-    {
-      "ticker": "CLS",
-      "name": "Celestica",
-      "price": 378.50,
-      "chart_pattern": "Triangle Base Breakout + Retest",
-      "signal": "GREEN",
-      "canslim": {
-        "C": true,
-        "A": true,
-        "N": true,
-        "S": true,
-        "L": true,
-        "I": true,
-        "M": true
-      },
-      "canslim_note": {
-        "C": "Q1 26 Adj-EPS $2,16 (+80% YoY), Umsatz $4,05B (+53% YoY), Net Income $212M vs $86M.",
-        "A": "FY26-Outlook angehoben: Umsatz $19B (von $17B), Adj-EPS $10,15 (von $8,75).",
-        "N": "Neu: Hardware Platform Solutions +63% (42% des Umsatzes) - reiner AI-Hyperscaler-Play. Triangle-Breakout + erfolgreicher Retest.",
-        "S": "Mid-Cap mit reduziertem Float, Buybacks aktiv.",
-        "L": "AI-Infrastructure-Leader (ODM fuer Hyperscaler), RS-Rating 99.",
-        "I": "Funds-Sponsorship steigt rapide; A/D-Rating A.",
-        "M": "Markt GREEN, AI-Infra-Sektor extrem stark."
-      },
-      "note": "Triangle-Basis-Breakout nach Q1-Earnings am 05.05., erfolgreicher Retest. Aktuell ~$378 USD nahe ATH. Im Buy-Range. Kein Earnings-Risiko bis Ende Juli."
+      "note": "Pivot $483,55 (Flag-Hoch) am 14.05. gebrochen, 15.05. weitere +3,30% auf ~$496,65 - klare relative Staerke an Distribution-Day. Aktuell ~3% ueber Pivot, gut in Buy-Range. Naechste Earnings Anfang August - kein nahes Risiko."
     },
     {
       "ticker": "VRT",
       "name": "Vertiv Holdings",
-      "price": 376.23,
-      "chart_pattern": "Flat Handle / ATH-Continuation",
+      "price": 370.94,
+      "chart_pattern": "Flat Handle Breakout / Pivot-Retest",
       "signal": "GREEN",
       "canslim": {
         "C": true,
@@ -120,24 +68,24 @@
         "S": true,
         "L": true,
         "I": true,
-        "M": true
+        "M": false
       },
       "canslim_note": {
-        "C": "Q1 26 EPS $1,17 (+15,8% Beat), Adj-EPS +83% YoY, Umsatz +30%.",
-        "A": "FY-Guidance erneut angehoben, mehrjaehriges 30%+-Wachstum.",
-        "N": "Neu: ATH am 14.05. bei $376,23 (+1,69%). Saubere Flat-Handle-Konsolidierung knapp unterhalb Pivot $372 nun gebrochen.",
-        "S": "Float managed, Buybacks aktiv.",
-        "L": "Datacenter-Cooling/Power-Leader, direkter NVDA-Beneficiary, RS-Rating 96.",
-        "I": "Hohe Institutional-Konzentration, A/D-Rating A.",
-        "M": "Markt GREEN, AI-Capex-Story intakt."
+        "C": "C (Current Earnings): Q1 26 EPS $1,17 (+15,8% Beat), Adj-EPS +83% YoY, Umsatz +30%.",
+        "A": "A (Annual Earnings): FY-Guidance erneut angehoben, mehrjaehriges 30%+-Wachstum stabil.",
+        "N": "N (New): Flat-Handle-Pivot $368-372 am 14.05. mit frischem ATH $376,23 gebrochen, 15.05. Pullback an Pivot - Retest aktiv.",
+        "S": "S (Supply & Demand): Float gemanagt, Buybacks aktiv, Up/Down-Volume-Ratio positiv.",
+        "L": "L (Leader): Datacenter-Cooling/Power-Leader, direkter NVDA-/AI-Capex-Beneficiary, RS-Rating 96.",
+        "I": "I (Institutional Sponsorship): Hohe Institutional-Konzentration, A/D-Rating A.",
+        "M": "M (Market Direction): YELLOW - Markt unter Druck, Aktie haelt sich konstruktiv am Pivot."
       },
-      "note": "Flat-Handle-Breakout aus Mai-Konsolidierung, frisches ATH am 14.05. bei $376,23. In Buy-Range innerhalb 2% des Pivot. Kein Earnings-Risiko bis Ende Juli."
+      "note": "Frischer Breakout am 14.05., Pullback am 15.05. auf ~$370,94 = exakt am Pivot. Lehrbuch-Retest, solange $365 (5%-Stop) haelt = guenstige Add-/Erst-Position. Bei Bruch <$365 = Failed Breakout, abbrechen. Kein Earnings-Risiko bis Ende Juli."
     },
     {
-      "ticker": "WDC",
-      "name": "Western Digital",
-      "price": 488.74,
-      "chart_pattern": "High Tight Flag / kurz nach Breakout",
+      "ticker": "ALAB",
+      "name": "Astera Labs",
+      "price": 232.68,
+      "chart_pattern": "Stage-2 Base Breakout / Recovery aus tiefer Korrektur",
       "signal": "GREEN",
       "canslim": {
         "C": true,
@@ -146,18 +94,44 @@
         "S": true,
         "L": true,
         "I": true,
-        "M": true
+        "M": false
       },
       "canslim_note": {
-        "C": "Q3 FY26 Umsatz +45% YoY auf $3,34B, Adj-EPS +97% auf $2,72 - klarer Beat.",
-        "A": "Annual-EPS-Re-Acceleration nach Restrukturierung, +170% YTD.",
-        "N": "Neu: HDD-Pricing-Power durch AI-Datacenter-Demand, BofA-Ziel von $495 auf $572 angehoben.",
-        "S": "Float reduziert nach Sandisk-Spin-off.",
-        "L": "Storage-Leader fuer AI-Hyperscaler, RS-Rating 99.",
-        "I": "21 Buy-Ratings, 0 Sell - klarer Institutional-Push.",
-        "M": "Markt GREEN, Storage/AI-Infra sehr stark."
+        "C": "C (Current Earnings): Q1 26 Umsatz $308,4M (+93% YoY, +14% QoQ) - Rekord, Q2-Guide $355-365M.",
+        "A": "A (Annual Earnings): Hypergrowth-Profil >90% YoY, Margenausbau dank Scorpio-X-Switch.",
+        "N": "N (New): Scorpio X-Series 320-Lane Smart Fabric Switch im Mai gelauncht - groesster offener Memory-Semantic-Switch, $20B-TAM bis 2030. Kuerzlich Reclaim wichtiger Moving Averages auf erhoehtem Volumen.",
+        "S": "S (Supply & Demand): Mid-Float, Volume-Pickup auf Up-Days deutlich, Whale-Accumulation-Signale.",
+        "L": "L (Leader): AI-Connectivity-Pure-Play (UALink/PCIe-Switching) fuer Hyperscaler, RS-Rating verbessert sich stark.",
+        "I": "I (Institutional Sponsorship): Stifel-Target $236, 12 Analysten Median $217 - Upgrade-Cycle laeuft.",
+        "M": "M (Market Direction): YELLOW - Markt unter Druck, aber AI-Infra-Subsektor relativ stark."
       },
-      "note": "ATH am 06.05. bei $483,87 gebrochen, am 11.05. bis $515 erweitert, jetzt Pullback auf $488 - High-Tight-Flag-Setup. Achtung: bereits weit gelaufen YTD, nur Aufstockung in disziplinierten Pullbacks zur 21-EMA. Kein Earnings-Risiko bis August."
+      "note": "Recovery aus tiefer Korrektur ($107 Lows Anfang 2026 -> $232 aktuell). Stage-2-Basis-Breakout, am 17.05. Daytime-High $239,75. In Buy-Range solange <$245. Kein nahes Earnings-Risiko bis Anfang August."
+    },
+    {
+      "ticker": "CLS",
+      "name": "Celestica",
+      "price": 365.00,
+      "chart_pattern": "Triangle Breakout / Retest 21-EMA",
+      "signal": "YELLOW",
+      "canslim": {
+        "C": true,
+        "A": true,
+        "N": true,
+        "S": true,
+        "L": true,
+        "I": true,
+        "M": false
+      },
+      "canslim_note": {
+        "C": "C (Current Earnings): Q1 26 Adj-EPS $2,16 (+80% YoY), Umsatz $4,05B (+53% YoY), Net Income $212M vs $86M.",
+        "A": "A (Annual Earnings): FY26-Outlook angehoben: Umsatz $19B (von $17B), Adj-EPS $10,15 (von $8,75).",
+        "N": "N (New): Hardware Platform Solutions +63% (42% Umsatzanteil) - reiner AI-Hyperscaler-Play. Triangle-Breakout aktuell im Retest.",
+        "S": "S (Supply & Demand): Mid-Cap mit reduziertem Float, Buybacks aktiv.",
+        "L": "L (Leader): AI-Infrastructure-Leader (ODM fuer Hyperscaler), RS-Rating 95+.",
+        "I": "I (Institutional Sponsorship): Funds-Sponsorship steigt rapide, A/D-Rating A.",
+        "M": "M (Market Direction): YELLOW - Markt unter Druck, CLS in disziplinierter Konsolidierung."
+      },
+      "note": "Nach ATH-Phase Anfang Mai (~$425) Pullback auf $356-372 = Retest 21-EMA / Breakout-Zone des Triangle. Konstruktiv, solange $345 haelt. Erst Add bei Tight-Area-Reversal mit Volumen. Kein Earnings-Risiko bis Ende Juli. Niedrigere Konviktion -> nur als kleinere Position."
     }
   ]
 }
