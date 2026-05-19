@@ -1,13 +1,13 @@
 {
-  "updated": "2026-05-07",
-  "market_signal": "GREEN",
-  "market_note": "S&P 500 7.365,12 ATH (+1,46%) und Nasdaq 25.838,94 ATH (+2,02%) am 06.05. -- beide auf neuen Rekordhochs. Iran-Peace-Deal-Hoffnung beflügelt Markt, Oel rueckläufig. Industrials +2,7%, Tech +2,2% fuehren. AMD-Mega-Beat triggert Halbleiter-Rally. Klar bullish.",
+  "updated": "2026-05-19",
+  "market_signal": "YELLOW",
+  "market_note": "S&P 500 7.403,05 (-0,07%) und Nasdaq 26.090,73 (-0,51%) am 18.05. -- noch nahe ATH, aber 10Y-Treasury auf 52W-Hoch (>4,13%) drueckt. Tech-Sektor -2,3% intraday, viele frühere Leader korrigieren scharf (VRT -8,4%, PWR -4,9%, GEV -4,3%, ETN -4%, CRDO -12% intraday). NVDA-Earnings am 20.05. = Schlüssel-Katalysator. Defensive Rotation, Setups streng selektiv.",
   "picks": [
     {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices",
-      "price": 421.39,
-      "chart_pattern": "Cup with Handle Breakout",
+      "ticker": "DDOG",
+      "name": "Datadog",
+      "price": 207.21,
+      "chart_pattern": "Cup-with-Handle Breakout (in Buy-Zone)",
       "signal": "GREEN",
       "canslim": {
         "C": true,
@@ -18,47 +18,22 @@
         "I": true,
         "M": true
       },
-      "note": "Mega Q1-Beat: EPS $1,37, Umsatz $10,25B (+38% YoY), Datacenter +57% auf $5,8B. Q2-Guide $11,2B. +18,61% am 06.05. mit Mega-Volumen, bestes Earnings seit 7 Jahren. Cup-Handle aus Jan-Feb-Korrektur ($266 ATH-Region) gebrochen."
-    },
-    {
-      "ticker": "STRL",
-      "name": "Sterling Infrastructure",
-      "price": 881.98,
-      "chart_pattern": "Cup with Handle Fortsetzung",
-      "signal": "GREEN",
-      "canslim": {
-        "C": true,
-        "A": true,
-        "N": true,
-        "S": true,
-        "L": true,
-        "I": true,
-        "M": true
+      "canslim_detail": {
+        "C": "Current Earnings: Q1 EPS $0,60 +17,65% Beat, Umsatz $1,006B = erstes $1B-Quartal (+32% YoY, beschleunigt von 29% Q4 auf 32% Q1)",
+        "A": "Annual Earnings: FY2026-Guidance $4,30-4,34B (+25-27%), Profitabilitaet expandiert deutlich",
+        "N": "New: Erstes Milliarden-Quartal, AI-Observability-Boom, neue LLM-/GenAI-Produktlinien als Wachstumstreiber",
+        "S": "Supply/Demand: +30% Volumen-Spike beim Breakout am 07.05., starke Akkumulation, kontrollierte Konsolidierung",
+        "L": "Leader: Cloud-Monitoring-Marktfuehrer, RS-Linie auf neuem Hoch",
+        "I": "Institutional: Hohe Fund-Sponsorship, mehrere Analysten-Upgrades nach Q1",
+        "M": "Market: Indizes nahe ATH, AI-Software-Sektor zeigt relative Staerke trotz Halbleiter-Schwaeche"
       },
-      "note": "Q1 EPS $3,59 vs $2,28 (+57% Beat), Umsatz +92%. FY-Guidance auf $18,40-19,05 angehoben (+72% YoY). 7-Tage +70,8%, Datacenter-Backlog +$1,2 Mrd. Kein Earnings-Risiko bis Aug."
-    },
-    {
-      "ticker": "VRT",
-      "name": "Vertiv Holdings",
-      "price": 358.92,
-      "chart_pattern": "Cup with Handle bestaetigt",
-      "signal": "GREEN",
-      "canslim": {
-        "C": true,
-        "A": true,
-        "N": true,
-        "S": true,
-        "L": true,
-        "I": true,
-        "M": true
-      },
-      "note": "Neues ATH $358,92 am 06.05. Q1 EPS $1,17 (+15,8% Beat), Adj-EPS +83%, Umsatz +30%. FY-Guidance erneut angehoben. Cup-Handle aus April-Konsolidierung gebrochen. Kein Earnings-Risiko bis Juli."
+      "note": "Multi-Jahres-Cup-with-Handle am 07.05. mit +30% Earnings-Gap ueber $200-Pivot gebrochen. Aktuell $207 = nur ~3,5% ueber Pivot, weiterhin in Buy-Zone (max 5%). Measured-Move-Ziel $334. Kein Earnings-Risiko bis August."
     },
     {
       "ticker": "FIX",
       "name": "Comfort Systems USA",
-      "price": 2003.65,
-      "chart_pattern": "Flat Base Breakout / ATH",
+      "price": 1980.00,
+      "chart_pattern": "Flat Base / Tight Konsolidierung nahe ATH",
       "signal": "GREEN",
       "canslim": {
         "C": true,
@@ -69,7 +44,94 @@
         "I": true,
         "M": true
       },
-      "note": "5-Tage-Rally +14%, Marketcap $69B. Q1 EPS $10,51 vs $6,78 (+55% Beat), Umsatz $2,9B (+56% YoY), Backlog rekordhoch. Flat-Base-Breakout aus 5W-Konsolidierung. Earnings ~Juli."
+      "canslim_detail": {
+        "C": "Current Earnings: Q1 EPS $10,51 vs $6,78 (+55% Beat), Umsatz $2,9B (+56% YoY)",
+        "A": "Annual Earnings: EPS-Trend stark beschleunigend, Profitabilitaet expandiert",
+        "N": "New: Rekord-Backlog, Data-Center-HVAC-Auftragsboom, AI-Infrastruktur als struktureller Treiber",
+        "S": "Supply/Demand: Niedrige Float-Rotation, ruhiges Volumen in der Base = konstruktiv",
+        "L": "Leader: Sektor-Leader Industrial/Mechanical-Services, RS auf Hoch",
+        "I": "Institutional: Starke Fund-Akkumulation",
+        "M": "Market: Industrials zeigen Resilienz, Indizes nahe ATH"
+      },
+      "note": "Recently broken-out Flat-Base, haelt tight bei $1.980 nahe ATH $2.003. Auf schwachem Markttag (18.05.) ohne Verteilung -- konstruktiv. Pivot $2.004. Earnings Juli = ausreichend Puffer."
+    },
+    {
+      "ticker": "HWM",
+      "name": "Howmet Aerospace",
+      "price": 264.50,
+      "chart_pattern": "Handle-Bildung nach ATH",
+      "signal": "GREEN",
+      "canslim": {
+        "C": true,
+        "A": true,
+        "N": true,
+        "S": true,
+        "L": true,
+        "I": true,
+        "M": true
+      },
+      "canslim_detail": {
+        "C": "Current Earnings: Q1 EPS $1,22 vs Konsens $1,11 (+9,91% Beat), Umsatz +19% YoY",
+        "A": "Annual Earnings: EPS-Wachstum +38,9% YoY, EBITDA-Marge +320bps auf 32,0%",
+        "N": "New: Aerospace-Production-Ramp-up (Boeing/Airbus), Margen-Breakout, Engine-Components-Cycle",
+        "S": "Supply/Demand: Geringe Verteilung in Handle-Phase, konstruktives Volumen",
+        "L": "Leader: Aerospace-Components-Marktfuehrer, RS hoch",
+        "I": "Institutional: Multiple Target-Anhebungen, Zacks Rank #2 (Buy)",
+        "M": "Market: Defensive Aerospace-Rotation, HWM relativ stark vs Sektor"
+      },
+      "note": "ATH $280,74 am 07.05. erreicht, aktuell $264,50 = ~5,8% Pullback = klassische Handle-Formation ueber 21-EMA. Pivot $281. Pre-Breakout-Setup, noch nicht ausgebrochen. Earnings ~August."
+    },
+    {
+      "ticker": "ROK",
+      "name": "Rockwell Automation",
+      "price": 436.36,
+      "chart_pattern": "Handle nach Earnings-Surge",
+      "signal": "GREEN",
+      "canslim": {
+        "C": true,
+        "A": true,
+        "N": true,
+        "S": true,
+        "L": true,
+        "I": true,
+        "M": true
+      },
+      "canslim_detail": {
+        "C": "Current Earnings: Q2 FY26 starker EPS-Beat, +5,4% am 06.05. nach Earnings",
+        "A": "Annual Earnings: Wachstum stabilisiert sich, Margen erholen sich",
+        "N": "New: AI-Factory-Automation, Industrial-AI-Software, Smart-Manufacturing-Adoption beschleunigt",
+        "S": "Supply/Demand: Volumen-Trockenheit in Handle = konstruktiv, kein heavy Selling",
+        "L": "Leader: Industrial-Automation-Marktfuehrer (US), profitiert von Reshoring",
+        "I": "Institutional: Multiple Analysten-Upgrades nach Earnings",
+        "M": "Market: Industrials gemischt, ROK haelt ueber 50-Tage-Linie"
+      },
+      "note": "Earnings-Surge +10% am 05.05. mit Mega-Volumen auf ATH $463,49 (06.05.). Jetzt $436 = ~5,8% Pullback = saubere Handle-Formation. Pivot $464. Nahe Buy-Point, nicht ueberdehnt. Earnings ~August."
+    },
+    {
+      "ticker": "PANW",
+      "name": "Palo Alto Networks",
+      "price": 246.99,
+      "chart_pattern": "Tight Konsolidierung nahe Pivot",
+      "signal": "YELLOW",
+      "canslim": {
+        "C": true,
+        "A": true,
+        "N": true,
+        "S": true,
+        "L": true,
+        "I": true,
+        "M": true
+      },
+      "canslim_detail": {
+        "C": "Current Earnings: Q3 FY26 am 02.06. -- Guidance Rev $2,941-2,945B (+28-29% YoY) und EPS $0,78-0,80",
+        "A": "Annual Earnings: Wachstum stabil >25%, Profitabilitaet skaliert kontinuierlich",
+        "N": "New: CyberArk-Akquisition (rebranded Idira) = Identity-Security-Expansion, neue Plattform-Erweiterung",
+        "S": "Supply/Demand: Volumen stabilisiert, +8% Intraday-Pop nach FTNT-Earnings",
+        "L": "Leader: Cybersecurity-Plattform-Marktfuehrer, RS-Linie steigt",
+        "I": "Institutional: 35 Buy + 11 Strong Buy vs 10 Hold, Targets auf $265-275 angehoben",
+        "M": "Market: Software/Cybersecurity zeigt relative Staerke gegenueber Halbleitern"
+      },
+      "note": "Tight nahe Pivot ~$250, Setup vor Q3-Earnings 02.06. YELLOW wegen Earnings-Timing-Risiko -- volle Position erst nach Bericht. Bei Pre-Breakout-Anstieg mit hohem Volumen Teilposition als Anticipation-Trade moeglich."
     }
   ]
 }
