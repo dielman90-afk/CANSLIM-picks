@@ -1,13 +1,13 @@
 {
-  "updated": "2026-05-07",
-  "market_signal": "GREEN",
-  "market_note": "S&P 500 7.365,12 ATH (+1,46%) und Nasdaq 25.838,94 ATH (+2,02%) am 06.05. -- beide auf neuen Rekordhochs. Iran-Peace-Deal-Hoffnung beflügelt Markt, Oel rueckläufig. Industrials +2,7%, Tech +2,2% fuehren. AMD-Mega-Beat triggert Halbleiter-Rally. Klar bullish.",
+  "updated": "2026-05-20",
+  "market_signal": "YELLOW",
+  "market_note": "S&P 500 7.353,61 (-0,67%) und Nasdaq 25.870,71 (-0,84%) am 19.05. -- dritter Verlusttag in Folge. 30-jaehrige US-Anleiherendite auf 5,19% (19-Jahres-Hoch), 10-jaehrige 4,69% -- steigende Renditen belasten Wachstumsaktien. S&P nur rund 1% unter ATH und klar ueber 50/200-Tage-Linie (Struktur intakt), aber Momentum schwach. NVDA-Earnings am 20.05. nach Boersenschluss = binaeres Marktereignis. Ampel GELB: Aufwaertstrend unter Druck, halbe Positionen, nur erstklassige Setups. Weit gelaufene Fruehjahres-Gewinner (AMD, STRL, VRT, FIX, DDOG) sind extended und wurden konsequent herausgefiltert.",
   "picks": [
     {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices",
-      "price": 421.39,
-      "chart_pattern": "Cup with Handle Breakout",
+      "ticker": "MS",
+      "name": "Morgan Stanley",
+      "price": 192.03,
+      "chart_pattern": "Cup-without-Handle, Pivot 192,68 -- Stage b: exakt am Breakout-Punkt",
       "signal": "GREEN",
       "canslim": {
         "C": true,
@@ -16,16 +16,16 @@
         "S": true,
         "L": true,
         "I": true,
-        "M": true
+        "M": false
       },
-      "note": "Mega Q1-Beat: EPS $1,37, Umsatz $10,25B (+38% YoY), Datacenter +57% auf $5,8B. Q2-Guide $11,2B. +18,61% am 06.05. mit Mega-Volumen, bestes Earnings seit 7 Jahren. Cup-Handle aus Jan-Feb-Korrektur ($266 ATH-Region) gebrochen."
+      "note": "Direkt am Breakout-Punkt: Cup-without-Handle, Pivot 192,68, Kurs 192,03 -- Volumenschub durch 192,68 noetig. C: Q1-EPS 3,43 USD, +32% YoY, alle Schaetzungen geschlagen. A: Rekordjahr 2025, ROTCE rund 20%, solides aber moderates Jahreswachstum. N: neues 52-Wochen-Hoch, Rekord-Vermoegensverwaltung. S: Mega-Cap, laufende Aktienrueckkaeufe verknappen Angebot. L: hohe relative Staerke, IBD Stock of the Day, Wall-Street-Marktfuehrer. I: breite, hochwertige institutionelle Eigentuemerbasis. M: Markt GELB -- gemeinsames Hauptrisiko. Naechste Earnings Mitte Juli -- kein kurzfristiges Risiko."
     },
     {
-      "ticker": "STRL",
-      "name": "Sterling Infrastructure",
-      "price": 881.98,
-      "chart_pattern": "Cup with Handle Fortsetzung",
-      "signal": "GREEN",
+      "ticker": "AVGO",
+      "name": "Broadcom",
+      "price": 410.98,
+      "chart_pattern": "Cup-Basis, Pivot 414,61 -- Stage a: Re-Test des Pivots nach ATH",
+      "signal": "YELLOW",
       "canslim": {
         "C": true,
         "A": true,
@@ -33,16 +33,16 @@
         "S": true,
         "L": true,
         "I": true,
-        "M": true
+        "M": false
       },
-      "note": "Q1 EPS $3,59 vs $2,28 (+57% Beat), Umsatz +92%. FY-Guidance auf $18,40-19,05 angehoben (+72% YoY). 7-Tage +70,8%, Datacenter-Backlog +$1,2 Mrd. Kein Earnings-Risiko bis Aug."
+      "note": "Konstruktiver Re-Test: Cup-Basis, Pivot 414,61 (Kaufzone bis 435,34), nach ATH 442,36 zurueck an den Pivot -- Volumen-Reclaim von 414,61 noetig. C: Q1-EPS 2,05 USD, +28% YoY; Umsatz 19,3 Mrd USD, +29%; KI-Umsatz +106%. A: beschleunigtes Jahreswachstum, Q2-Guidance +47% YoY. N: Rekordumsatz, 73-Mrd-USD-KI-Auftragsbestand, neuer Rueckkauf. S: 10-Mrd-USD-Rueckkaufprogramm verknappt Angebot. L: +105% in 12 Monaten, IBD Leaderboard, Tech-Sektorfuehrer. I: schwere institutionelle Beteiligung, Fonds stocken auf. M: Markt GELB -- gemeinsames Hauptrisiko. WARNUNG: Earnings rund 3. Juni (innerhalb 2 Wochen) -- binaeres Risiko, Positionsgroesse anpassen."
     },
     {
-      "ticker": "VRT",
-      "name": "Vertiv Holdings",
-      "price": 358.92,
-      "chart_pattern": "Cup with Handle bestaetigt",
-      "signal": "GREEN",
+      "ticker": "INDV",
+      "name": "Indivior",
+      "price": 37.25,
+      "chart_pattern": "Konsolidierungsbasis, Pivot rund 38 -- Stage a: kurz vor dem Breakout",
+      "signal": "YELLOW",
       "canslim": {
         "C": true,
         "A": true,
@@ -50,26 +50,9 @@
         "S": true,
         "L": true,
         "I": true,
-        "M": true
+        "M": false
       },
-      "note": "Neues ATH $358,92 am 06.05. Q1 EPS $1,17 (+15,8% Beat), Adj-EPS +83%, Umsatz +30%. FY-Guidance erneut angehoben. Cup-Handle aus April-Konsolidierung gebrochen. Kein Earnings-Risiko bis Juli."
-    },
-    {
-      "ticker": "FIX",
-      "name": "Comfort Systems USA",
-      "price": 2003.65,
-      "chart_pattern": "Flat Base Breakout / ATH",
-      "signal": "GREEN",
-      "canslim": {
-        "C": true,
-        "A": true,
-        "N": true,
-        "S": true,
-        "L": true,
-        "I": true,
-        "M": true
-      },
-      "note": "5-Tage-Rally +14%, Marketcap $69B. Q1 EPS $10,51 vs $6,78 (+55% Beat), Umsatz $2,9B (+56% YoY), Backlog rekordhoch. Flat-Base-Breakout aus 5W-Konsolidierung. Earnings ~Juli."
+      "note": "Vor dem Breakout: Konsolidierungsbasis, Pivot rund 38, lief auf 41 und fiel unter den Pivot zurueck -- Trigger = Rueckeroberung von 38 auf Volumen. C: Q1-EPS 0,96 USD mehr als verdoppelt (rund +115% YoY), Umsatz +19%, Rekord-EBITDA +112%. A: FY26-EPS-Prognose rund 3,49 USD (rund +40% YoY), starke Erholung. N: Sublocade 76% LAI-Marktanteil, Prognose angehoben, US-Redomizilierung. S: 400-Mio-USD-Rueckkaufprogramm verknappt Angebot. L: +209% in 12 Monaten, IBD-50 Stocks to Watch. I: Vanguard 6,55%, Index-Aufnahme treibt institutionelle Kaeufe. M: Markt GELB -- gemeinsames Hauptrisiko. Naechste Earnings Ende Juli -- kein kurzfristiges Risiko."
     }
   ]
 }
