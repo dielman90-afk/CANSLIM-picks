@@ -1,16 +1,13 @@
 {
-  "updated": "2026-05-21",
+  "updated": "2026-05-07",
   "market_signal": "GREEN",
-  "market_note": "S&P 500 7.432,97 am 20.05. (+1,08%), nahe Allzeithoch -- Markt im klaren Aufwaertstrend, deutlich ueber 50- und 200-Tage-Linie (50 ueber 200). Nasdaq nach Mid-May-Ruecksetzer erholt. Nvidia-Q1-Blowout (Umsatz 81,6 Mrd USD, Q2-Guidance 91 Mrd USD) bestaetigt den AI-Capex-Zyklus. Vorsicht: 10-Jahres-Rendite nahe 4,6% (Jahreshoch) und enge Marktbreite -- viele Momentum-Leader stehen 15-30% unter ihrem Hoch. Daher strenger Filter: nur saubere Breakout-Setups.",
-  "filter_criteria": "Nur Aktien kurz vor Ausbruch, direkt am Breakout-Punkt oder kuerzlich ausgebrochen. Schwache und bereits weit gelaufene Setups konsequent herausgefiltert. Maximal 10 Werte, Qualitaet vor Quantitaet.",
+  "market_note": "S&P 500 7.365,12 ATH (+1,46%) und Nasdaq 25.838,94 ATH (+2,02%) am 06.05. -- beide auf neuen Rekordhochs. Iran-Peace-Deal-Hoffnung beflügelt Markt, Oel rueckläufig. Industrials +2,7%, Tech +2,2% fuehren. AMD-Mega-Beat triggert Halbleiter-Rally. Klar bullish.",
   "picks": [
     {
-      "ticker": "GEV",
-      "name": "GE Vernova",
-      "price": 1024.87,
-      "chart_pattern": "Enge Konsolidierung nach Earnings-Gap",
-      "stage": "kurz vor Ausbruch",
-      "buy_point": 1090.70,
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices",
+      "price": 421.39,
+      "chart_pattern": "Cup with Handle Breakout",
       "signal": "GREEN",
       "canslim": {
         "C": true,
@@ -21,24 +18,13 @@
         "I": true,
         "M": true
       },
-      "canslim_detail": {
-        "C": "Current Earnings: Q1 adj. EPS 1,98 USD, klarer Beat; adj. EBITDA fast verdoppelt YoY",
-        "A": "Annual Earnings: seit Spin-off 2024 stark steigende Gewinne, Free Cashflow vervierfacht",
-        "N": "New: Rekord-Auftragsbestand 163 Mrd USD, Q1-Orders 18,3 Mrd USD; Strombedarf durch AI-Rechenzentren",
-        "S": "Supply/Demand: tighte Range seit Gap-up 22.04. auf fallendem Volumen, haelt 21-Tage-Linie",
-        "L": "Leader: klarer Anfuehrer der Stromtechnik/Elektrifizierung, IBD-50-Wert",
-        "I": "Institutional: hohe institutionelle Beteiligung, Kursziel-Anhebungen (Jefferies 1.350 USD)",
-        "M": "Market: GRUEN -- S&P 500 nahe Allzeithoch"
-      },
-      "note": "Gap-up am 22.04. auf Q1-Blowout, seither enge Konsolidierung knapp unter Pivot ~1.090 USD. Sauberstes Pre-Breakout-Setup der Liste. Kein Earnings-Risiko bis ca. Ende Juli."
+      "note": "Mega Q1-Beat: EPS $1,37, Umsatz $10,25B (+38% YoY), Datacenter +57% auf $5,8B. Q2-Guide $11,2B. +18,61% am 06.05. mit Mega-Volumen, bestes Earnings seit 7 Jahren. Cup-Handle aus Jan-Feb-Korrektur ($266 ATH-Region) gebrochen."
     },
     {
-      "ticker": "HWM",
-      "name": "Howmet Aerospace",
-      "price": 261.21,
-      "chart_pattern": "Flat Base ~7% unter 52-Wochen-Hoch",
-      "stage": "kurz vor Ausbruch",
-      "buy_point": 280.74,
+      "ticker": "STRL",
+      "name": "Sterling Infrastructure",
+      "price": 881.98,
+      "chart_pattern": "Cup with Handle Fortsetzung",
       "signal": "GREEN",
       "canslim": {
         "C": true,
@@ -49,87 +35,41 @@
         "I": true,
         "M": true
       },
-      "canslim_detail": {
-        "C": "Current Earnings: Q1 2026 mit Rekord bei Umsatz, EBITDA und EPS",
-        "A": "Annual Earnings: mehrjaehriges, konstantes Gewinnwachstum; 2026er-Guidance angehoben",
-        "N": "New: Luftfahrt-Superzyklus, starke Triebwerks-Ersatzteilnachfrage, Gas-Turbinen-Boom",
-        "S": "Supply/Demand: ruhige Konsolidierung ~7% unter Hoch -- institutionelle Akkumulation",
-        "L": "Leader: Anfuehrer bei Luftfahrt-Strukturkomponenten und Turbinen",
-        "I": "Institutional: starke institutionelle Beteiligung, mehrere Buy-Ratings (Kursziel-Schnitt ~298 USD)",
-        "M": "Market: GRUEN"
-      },
-      "note": "Defensiv-/Luftfahrtwert -- Sektor-Diversifikation weg vom reinen AI-Thema. Konsolidiert ~7% unter Hoch 280,74 USD, Ausbruch ueber dieses Niveau ist der Trigger. Kein Earnings-Risiko bis ca. Ende Juli."
+      "note": "Q1 EPS $3,59 vs $2,28 (+57% Beat), Umsatz +92%. FY-Guidance auf $18,40-19,05 angehoben (+72% YoY). 7-Tage +70,8%, Datacenter-Backlog +$1,2 Mrd. Kein Earnings-Risiko bis Aug."
     },
-    {
-      "ticker": "DDOG",
-      "name": "Datadog",
-      "price": 212.24,
-      "chart_pattern": "Cup-with-Handle Breakout (07.05.)",
-      "stage": "kuerzlich ausgebrochen",
-      "buy_point": 188.00,
-      "signal": "GREEN",
-      "canslim": {
-        "C": true,
-        "A": true,
-        "N": true,
-        "S": true,
-        "L": true,
-        "I": true,
-        "M": true
-      },
-      "canslim_detail": {
-        "C": "Current Earnings: Q1 EPS 0,60 USD, Beat ~+18%; Umsatz 1,0 Mrd USD (+32% YoY)",
-        "A": "Annual Earnings: mehrjaehrig 25%+ Umsatzwachstum, steigende Profitabilitaet",
-        "N": "New: Umsatz erstmals ueber 1 Mrd USD pro Quartal; AI-Observability treibt Nachfrage",
-        "S": "Supply/Demand: Ausbruch am 07.05. mit Mega-Volumen (+30% Earnings-Gap)",
-        "L": "Leader: Anfuehrer im Observability-/Monitoring-Software-Segment",
-        "I": "Institutional: hohe institutionelle Beteiligung, Buy-Konsens (33 Analysten)",
-        "M": "Market: GRUEN"
-      },
-      "note": "Cup-with-Handle am 07.05. gebrochen (~188 USD Pivot). Aktuell ~13% ueber Pivot -- leicht gelaufen, NICHT nachkaufen. Bildet seither enge 2-Wochen-Konsolidierung ~208-218 USD; Folgeeinstieg erst bei sauberem Ausbruch daraus. Kein Earnings-Risiko bis August."
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom",
-      "price": 416.35,
-      "chart_pattern": "Handle ~5% unter Allzeithoch",
-      "stage": "kurz vor Ausbruch",
-      "buy_point": 439.79,
-      "signal": "YELLOW",
-      "canslim": {
-        "C": true,
-        "A": true,
-        "N": true,
-        "S": true,
-        "L": true,
-        "I": true,
-        "M": true
-      },
-      "canslim_detail": {
-        "C": "Current Earnings: starkes Quartalsgewinnwachstum, AI-Umsatz beschleunigt (Q2-Bericht 03.06.)",
-        "A": "Annual Earnings: konstant hohes annualisiertes Gewinnwachstum",
-        "N": "New: Custom-AI-Chips (XPU) und Netzwerk-Ramp bei Hyperscalern",
-        "S": "Supply/Demand: Mega-Cap ~2 Bio USD, enge 5%-Handle-Bildung auf niedrigem Volumen",
-        "L": "Leader: Anfuehrer der IBD-50-Werte nahe Kaufpunkt, AI-Infrastruktur-Leader",
-        "I": "Institutional: massive institutionelle Beteiligung, Kursziel-Anhebungen (Evercore 582 USD)",
-        "M": "Market: GRUEN"
-      },
-      "note": "WARNUNG: Q2-Earnings am 03.06. (in 13 Tagen) -- ein Ausbruch ueber 439,79 USD wuerde direkt in den Bericht laufen. Setup technisch sauber, aber Position erst nach Earnings-Bestaetigung aufbauen bzw. reduziert gewichten. Daher Signal GELB."
-    }
-  ],
-  "watchlist": [
     {
       "ticker": "VRT",
       "name": "Vertiv Holdings",
-      "price": 322.63,
-      "note": "Baut nach -10% Ruecksetzer vom ATH 358,92 USD eine neue Basis auf; rechte Basisseite noch nicht fertig -- noch kein Kaufpunkt."
+      "price": 358.92,
+      "chart_pattern": "Cup with Handle bestaetigt",
+      "signal": "GREEN",
+      "canslim": {
+        "C": true,
+        "A": true,
+        "N": true,
+        "S": true,
+        "L": true,
+        "I": true,
+        "M": true
+      },
+      "note": "Neues ATH $358,92 am 06.05. Q1 EPS $1,17 (+15,8% Beat), Adj-EPS +83%, Umsatz +30%. FY-Guidance erneut angehoben. Cup-Handle aus April-Konsolidierung gebrochen. Kein Earnings-Risiko bis Juli."
     },
     {
-      "ticker": "JBL",
-      "name": "Jabil",
-      "price": 332.88,
-      "note": "Nach -11% Ruecksetzer vom ATH 372,37 USD in Basisbildung; Kaufpunkt noch nicht erreicht."
+      "ticker": "FIX",
+      "name": "Comfort Systems USA",
+      "price": 2003.65,
+      "chart_pattern": "Flat Base Breakout / ATH",
+      "signal": "GREEN",
+      "canslim": {
+        "C": true,
+        "A": true,
+        "N": true,
+        "S": true,
+        "L": true,
+        "I": true,
+        "M": true
+      },
+      "note": "5-Tage-Rally +14%, Marketcap $69B. Q1 EPS $10,51 vs $6,78 (+55% Beat), Umsatz $2,9B (+56% YoY), Backlog rekordhoch. Flat-Base-Breakout aus 5W-Konsolidierung. Earnings ~Juli."
     }
-  ],
-  "filtered_out": "AMD (von 266 auf 448 USD gelaufen -- extended), STRL -15% / POWL -16% / FIX -11% unter Hoch (Korrektur, relative Schwaeche), ANET & CLS rund -21% unter Hoch (Earnings-Schwaeche bzw. Korrektur), CEG nahe 52-Wochen-Tief."
+  ]
 }
