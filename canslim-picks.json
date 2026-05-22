@@ -1,13 +1,13 @@
 {
-  "updated": "2026-05-07",
+  "updated": "2026-05-22",
   "market_signal": "GREEN",
-  "market_note": "S&P 500 7.365,12 ATH (+1,46%) und Nasdaq 25.838,94 ATH (+2,02%) am 06.05. -- beide auf neuen Rekordhochs. Iran-Peace-Deal-Hoffnung beflügelt Markt, Oel rueckläufig. Industrials +2,7%, Tech +2,2% fuehren. AMD-Mega-Beat triggert Halbleiter-Rally. Klar bullish.",
+  "market_note": "S&P 500 7.445,72 (+0,17%) nahe ATH, Dow 50.285,66 neues Rekordhoch (+0,55%), Nasdaq 26.293,10 (+0,09%) -- Stand 21.05. IBD-Status: Bestaetigter Aufwaertstrend. Nvidia-Zahlen (Beat, aber Guidance nur am unteren Ende der Erwartungen) gaben den KI-Werten keinen Schub -- Rotation in Aerospace-, Industrie- und Value-Titel. Anleiherenditen und Oel zuletzt leicht hoeher. Insgesamt bullish, aber selektiv: nur saubere Setups direkt am Pivot.",
   "picks": [
     {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices",
-      "price": 421.39,
-      "chart_pattern": "Cup with Handle Breakout",
+      "ticker": "HWM",
+      "name": "Howmet Aerospace",
+      "price": 261.21,
+      "chart_pattern": "Cup-with-Handle Breakout (Pivot 259,82 $)",
       "signal": "GREEN",
       "canslim": {
         "C": true,
@@ -18,13 +18,13 @@
         "I": true,
         "M": true
       },
-      "note": "Mega Q1-Beat: EPS $1,37, Umsatz $10,25B (+38% YoY), Datacenter +57% auf $5,8B. Q2-Guide $11,2B. +18,61% am 06.05. mit Mega-Volumen, bestes Earnings seit 7 Jahren. Cup-Handle aus Jan-Feb-Korrektur ($266 ATH-Region) gebrochen."
+      "note": "Frischer Ausbruch direkt am Pivot 259,82 $, Kurs 261,21 $ voll in der 5%-Kaufzone (bis 272,81 $). Q1-2026-Beat mit Margenausweitung, FY-Guidance fuer Umsatz und EPS angehoben. Aerospace-Superzyklus; abgeschlossener Mehrjahres-Aktienrueckkauf verknappt das Angebot. Earnings am 07.05. erledigt -- kein Earnings-Risiko bis ~Ende Juli."
     },
     {
-      "ticker": "STRL",
-      "name": "Sterling Infrastructure",
-      "price": 881.98,
-      "chart_pattern": "Cup with Handle Fortsetzung",
+      "ticker": "DDOG",
+      "name": "Datadog",
+      "price": 210.34,
+      "chart_pattern": "Mehrjahres-Cup-with-Handle Breakout",
       "signal": "GREEN",
       "canslim": {
         "C": true,
@@ -35,30 +35,13 @@
         "I": true,
         "M": true
       },
-      "note": "Q1 EPS $3,59 vs $2,28 (+57% Beat), Umsatz +92%. FY-Guidance auf $18,40-19,05 angehoben (+72% YoY). 7-Tage +70,8%, Datacenter-Backlog +$1,2 Mrd. Kein Earnings-Risiko bis Aug."
-    },
-    {
-      "ticker": "VRT",
-      "name": "Vertiv Holdings",
-      "price": 358.92,
-      "chart_pattern": "Cup with Handle bestaetigt",
-      "signal": "GREEN",
-      "canslim": {
-        "C": true,
-        "A": true,
-        "N": true,
-        "S": true,
-        "L": true,
-        "I": true,
-        "M": true
-      },
-      "note": "Neues ATH $358,92 am 06.05. Q1 EPS $1,17 (+15,8% Beat), Adj-EPS +83%, Umsatz +30%. FY-Guidance erneut angehoben. Cup-Handle aus April-Konsolidierung gebrochen. Kein Earnings-Risiko bis Juli."
+      "note": "Kuerzlich ausgebrochen: +30% am 07.05. nach Q1-2026-Blowout, Wochenschluss ueber 200 $ bestaetigt die Mehrjahresbasis. Kurs 210 $ nur ~5% ueber Pivot -- noch konstruktiv, nicht ueberdehnt (ATH 220 $). Marktfuehrer Cloud-Observability/KI-Monitoring, hohes Akkumulationsvolumen. Earnings erledigt -- naechster Termin ~Anfang August."
     },
     {
       "ticker": "FIX",
       "name": "Comfort Systems USA",
-      "price": 2003.65,
-      "chart_pattern": "Flat Base Breakout / ATH",
+      "price": 1967.24,
+      "chart_pattern": "Enge Flat Base nahe ATH",
       "signal": "GREEN",
       "canslim": {
         "C": true,
@@ -69,7 +52,24 @@
         "I": true,
         "M": true
       },
-      "note": "5-Tage-Rally +14%, Marketcap $69B. Q1 EPS $10,51 vs $6,78 (+55% Beat), Umsatz $2,9B (+56% YoY), Backlog rekordhoch. Flat-Base-Breakout aus 5W-Konsolidierung. Earnings ~Juli."
+      "note": "Enge Konsolidierung knapp unter ATH (~2.003 $) -- hielt sich waehrend der Mai-Korrektur stark = hohe relative Staerke, kurz vor naechstem Ausbruch. Q1-2026 EPS 10,51 $ vs 6,78 $ (+55% Beat), Rekord-Backlog aus Datacenter-/Industriebau. Earnings erledigt -- kein Risiko bis ~Ende Juli."
+    },
+    {
+      "ticker": "VRT",
+      "name": "Vertiv Holdings",
+      "price": 331.30,
+      "chart_pattern": "Cup-with-Handle -- im Handle, kurz vor Ausbruch",
+      "signal": "YELLOW",
+      "canslim": {
+        "C": true,
+        "A": true,
+        "N": true,
+        "S": true,
+        "L": true,
+        "I": true,
+        "M": true
+      },
+      "note": "Noch nicht ausgebrochen: ~8% unter ATH 358 $, sauberer Handle bei ~331 $. Ausbruchstrigger: Rueckeroberung von ~359 $. Q1-2026 EPS 1,17 $ Beat, Adj-EPS +83%, Umsatz +30%, FY-Guidance angehoben. Marktfuehrer Datacenter-Strom/-Kuehlung. Earnings erledigt -- kein Risiko bis ~Ende Juli."
     }
   ]
 }
