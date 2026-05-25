@@ -1,13 +1,13 @@
 {
-  "updated": "2026-05-25",
+  "updated": "2026-05-07",
   "market_signal": "GREEN",
-  "market_note": "S&P 500 7.473,47 (+0,55%) und Dow 50.723,95 (+0,74%) auf neue Rekordschlusskurse am Fr 22.05.; Nasdaq 26.343,97 (+0,53%), Russell 2000 2.869,23 (+0,93%). 8. positive Woche in Folge fuer den S&P 500 -- laengste Serie seit Dezember 2023. IBD-Status: Bestaetigter Aufwaertstrend. Mo 25.05. ist Memorial Day -- US-Boersen geschlossen, naechster Handelstag Di 26.05. Treiber: weiter sinkende Anleiherenditen (10Y 4,51%), Fortschritte Iran-Friedensgespraeche, starke Earnings-Saison. Sektor-Fuehrung am 22.05.: Healthcare (+1,19%, MRK +5,6% auf NSCLC-Studiendaten, LLY-Breakout) und Tech (+1,02%, DELL +16,7% auf AI-Server-Story). Wichtig: viele AI-/Datacenter-Leaders sind nach dem 14.05.-Hoch 9-15% korrigiert oder am Freitag in 1-Tages-Spruengen weit gelaufen (DELL, VRT). Daher Fokus auf wenige saubere Setups direkt am Pivot, keine extended Trades. Rotation in Aerospace, Healthcare, Industrie-Infrastruktur und Power-Capex intakt. Liste konsequent auf 6 qualitativ hochwertige Setups eingegrenzt.",
+  "market_note": "S&P 500 7.365,12 ATH (+1,46%) und Nasdaq 25.838,94 ATH (+2,02%) am 06.05. -- beide auf neuen Rekordhochs. Iran-Peace-Deal-Hoffnung beflügelt Markt, Oel rueckläufig. Industrials +2,7%, Tech +2,2% fuehren. AMD-Mega-Beat triggert Halbleiter-Rally. Klar bullish.",
   "picks": [
     {
-      "ticker": "LLY",
-      "name": "Eli Lilly",
-      "price": 1065.00,
-      "chart_pattern": "Double-Bottom Base Breakout am 22.05. -- Ausbruch ueber 50-Tage-MA 947 $ und Parallel-Channel mit deutlich erhoehtem Volumen, ~3,7% unter ATH 1.106 $",
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices",
+      "price": 421.39,
+      "chart_pattern": "Cup with Handle Breakout",
       "signal": "GREEN",
       "canslim": {
         "C": true,
@@ -18,14 +18,14 @@
         "I": true,
         "M": true
       },
-      "note": "C (Current Earnings): Q1-2026 Umsatz +56%, Non-GAAP-EPS +156%, FY-Guidance um 2 Mrd. $ auf 82-85 Mrd. $ angehoben (+28% YoY Mittelpunkt). A (Annual Earnings): Beschleunigtes Umsatz-/Gewinnwachstum mehrere Quartale in Folge, kein Wachstumsknick sichtbar. N (New): Frischer Breakout am 22.05. (+2,22% auf 1.065 $) aus Double-Bottom -- Schlusskurs ueber 50-MA mit Volumen-Spike, ~3,7% unter ATH 1.106 $ = noch reichlich Luft und im Buy-Zone-Bereich. Naechster Katalysator Retatrutide-Phase-3-Daten bei ADA Anfang Juni. S (Supply & Demand): 1,01 Mrd. Aktien -- gross, aber starker Free Cashflow finanziert laufende Buybacks. L (Leader): #1 GLP-1-/Adipositas-Pipeline mit klarem RS-Vorsprung im Healthcare-Sektor, 15,4% Anteil im XLV. I (Institutional): Strong-Buy-Konsens (31+ Analysten, PT-Schnitt 1.211 $), bullishes Volumen-Engulfing am Breakout-Tag. M (Market): Healthcare-Sektor +1,19% Tagesfuehrer am 22.05. (beste Sektor-Woche seit 6 Monaten), Markt GRUEN. Earnings 30.04. erledigt, naechster Termin 05.08. -- 10 Wochen Puffer."
+      "note": "Mega Q1-Beat: EPS $1,37, Umsatz $10,25B (+38% YoY), Datacenter +57% auf $5,8B. Q2-Guide $11,2B. +18,61% am 06.05. mit Mega-Volumen, bestes Earnings seit 7 Jahren. Cup-Handle aus Jan-Feb-Korrektur ($266 ATH-Region) gebrochen."
     },
     {
-      "ticker": "GEV",
-      "name": "GE Vernova",
-      "price": 1038.74,
-      "chart_pattern": "4-Monats-Konsolidierung ueber 50-Tage-MA mit Shakeout und Gap-Up-Reset -- noch nicht ausgebrochen, ~9,6% unter ATH 1.149,53 $ (23.04.), Trigger Rueckeroberung 1.089 $ Volumen-Resistance Richtung ATH",
-      "signal": "YELLOW",
+      "ticker": "STRL",
+      "name": "Sterling Infrastructure",
+      "price": 881.98,
+      "chart_pattern": "Cup with Handle Fortsetzung",
+      "signal": "GREEN",
       "canslim": {
         "C": true,
         "A": true,
@@ -35,14 +35,14 @@
         "I": true,
         "M": true
       },
-      "note": "C (Current Earnings): Blowout Q1-2026 (22.04.) mit +13% Tagesreaktion, FY-Guidance angehoben, Backlog +13 Mrd. $ QoQ. A (Annual Earnings): Mehrjaehriger Wachstumstrend durch globale Stromnetz-Investitionen, +71% YTD im April. N (New): Saubere 4-Monats-Konsolidierung im aufsteigenden Trendkanal mit klassischem Shakeout der weichen Haende, Gap-Up und Reset in die Base -- Buy-Trigger Rueckeroberung 1.089 $ Volumen-Resistance, dann Push Richtung ATH 1.149 $. S (Supply & Demand): 110 GW kombiniertes Gasturbinen-Backlog bis Jahresende erwartet -- verknappte Lieferkette, Pricing-Power. L (Leader): Marktfuehrer Gasturbinen / Grid / Power-Equipment fuer Datacenter-Buildout. I (Institutional): Mehrere PT-Anhebungen post-Earnings, anhaltende Akkumulation in der Konsolidierung. M (Market): Markt GRUEN, Power-/Energie-Infrastruktur-Capex-Thema intakt. Earnings 22.04. erledigt, naechster Termin 22.07. -- 8 Wochen Puffer. Warnhinweis: bei Schluss unter 1.000 $ Setup-Bruch."
+      "note": "Q1 EPS $3,59 vs $2,28 (+57% Beat), Umsatz +92%. FY-Guidance auf $18,40-19,05 angehoben (+72% YoY). 7-Tage +70,8%, Datacenter-Backlog +$1,2 Mrd. Kein Earnings-Risiko bis Aug."
     },
     {
-      "ticker": "ETN",
-      "name": "Eaton Corporation",
-      "price": 391.35,
-      "chart_pattern": "Tight High-Base / Cup-with-Handle -- noch nicht ausgebrochen, +3,09% am 22.05. Richtung Pivot, ~9% unter ATH 431,82 $ (30.04.)",
-      "signal": "YELLOW",
+      "ticker": "VRT",
+      "name": "Vertiv Holdings",
+      "price": 358.92,
+      "chart_pattern": "Cup with Handle bestaetigt",
+      "signal": "GREEN",
       "canslim": {
         "C": true,
         "A": true,
@@ -52,14 +52,14 @@
         "I": true,
         "M": true
       },
-      "note": "C (Current Earnings): Q1-2026 Rekord-Adj-EPS und Rekord-Umsatz 7,5 Mrd. $, FY-Guidance angehoben durch Electrical-Infrastructure- und Datacenter-Nachfrage. A (Annual Earnings): Stetiges Wachstum durch Datacenter-/Elektrifizierungs-Capex, mehrjaehrige EPS-Beschleunigung. N (New): Konstruktive enge Konsolidierung 391 $ -- Trigger Rueckeroberung von ~400 $ bzw. ATH-Bereich 431 $, Volumen-Tag am Freitag (+3,09%) zeigt Akkumulation. S (Supply & Demand): Aktive Kapazitaetsausweitung in den USA und Europa, Buybacks laufend, kontrollierte Aktienzahl. L (Leader): Marktfuehrer Strommanagement / Power-Distribution fuer Datacenter und Industrie. I (Institutional): Solider Volumen-Tag (+3,09%) am 22.05., Buy-Trigger-Bereich naehert sich, Strong-Buy-Konsens. M (Market): Markt GRUEN, Industrie-Rotation aktiv. Earnings 05.05. erledigt, naechster Termin 04.08. -- 11 Wochen Puffer."
+      "note": "Neues ATH $358,92 am 06.05. Q1 EPS $1,17 (+15,8% Beat), Adj-EPS +83%, Umsatz +30%. FY-Guidance erneut angehoben. Cup-Handle aus April-Konsolidierung gebrochen. Kein Earnings-Risiko bis Juli."
     },
     {
-      "ticker": "PWR",
-      "name": "Quanta Services",
-      "price": 723.44,
-      "chart_pattern": "Flat-Base unter ATH -- Pivot ~785 $, Base baut ueber 50-Tage-MA, +0,91% am 22.05., noch nicht ausgebrochen",
-      "signal": "YELLOW",
+      "ticker": "FIX",
+      "name": "Comfort Systems USA",
+      "price": 2003.65,
+      "chart_pattern": "Flat Base Breakout / ATH",
+      "signal": "GREEN",
       "canslim": {
         "C": true,
         "A": true,
@@ -69,41 +69,7 @@
         "I": true,
         "M": true
       },
-      "note": "C (Current Earnings): Q1-2026 EPS 2,68 $ schlug Konsens um +30,1%, Umsatz 7,9 Mrd. $ +12,6% ueber Erwartung, Adj-EBITDA 686 Mio. $. A (Annual Earnings): Wiederholte EPS-Beats und steigende Margen ueber mehrere Quartale. N (New): Konsolidierung bei 723,44 $ -- ~7,9% unter ATH 785,24 $ (06.05.), enge Range zwischen 710-731 $, Trigger Rueckeroberung von 785 $. S (Supply & Demand): Rekord-Backlog 48,5 Mrd. $, kontinuierliche Akquisitionen, kontrollierte Aktienzahl. L (Leader): Marktfuehrer Energie-/Stromnetz-Infrastruktur fuer Datacenter-Buildout und Grid-Modernisierung. I (Institutional): Mehrere PT-Anhebungen post-Q1, Buy-Rating-Konsens 22 Analysten, +118,8% Performance auf 12-Monats-Sicht. M (Market): Markt GRUEN, Infrastruktur-Capex-Thema intakt. Earnings 30.04. erledigt, naechster Termin 30.07. -- 9 Wochen Puffer."
-    },
-    {
-      "ticker": "HWM",
-      "name": "Howmet Aerospace",
-      "price": 256.55,
-      "chart_pattern": "Pullback in den Pivot-Bereich -- Cup-with-Handle Pivot 259,82 $, Rebound vom Retracement-Low 250,85 $ mit hoeherem Swing-Low, haelt 100-Tage-MA, Re-Breakout-Setup",
-      "signal": "YELLOW",
-      "canslim": {
-        "C": true,
-        "A": true,
-        "N": true,
-        "S": true,
-        "L": true,
-        "I": true,
-        "M": true
-      },
-      "note": "C (Current Earnings): Q1-2026 EPS-Beat (+42% YoY auf 1,22 $) mit Margenausweitung, Umsatz 2,31 Mrd. $ (+19%), FY-Guidance angehoben. A (Annual Earnings): Mehrjaehriges Erloes-/EPS-Wachstum durch Aerospace-Superzyklus. N (New): Kurs 256,55 $ knapp unter Pivot 259,82 $ -- Pullback haelt 100-Tage-MA, hoeheres Swing-Low am Mittwoch, ~8,6% unter ATH 280,74 $. Trigger: Re-Breakout ueber 259,82 $ auf Volumen. S (Supply & Demand): Abgeschlossener Mehrjahres-Rueckkauf verknappt das Angebot strukturell. L (Leader): Marktfuehrer Strukturteile Triebwerk/Airframe, RS bleibt hoch im Aerospace-Sektor. I (Institutional): JPMorgan PT 310 $, Jefferies 320 $, Citi/UBS/BNP Paribas PT-Anhebungen im Mai. M (Market): Markt GRUEN, Aerospace-Rotation. Earnings 07.05. erledigt, naechster Termin 30.07. -- 9 Wochen Puffer. Warnhinweis: bei Schluss unter 250 $ Setup-Bruch."
-    },
-    {
-      "ticker": "HOOD",
-      "name": "Robinhood Markets",
-      "price": 73.64,
-      "chart_pattern": "Mehrjaehrige Cup-with-Handle (4-Jahres-Cup) -- Trigger Reclaim Rim 78-80 $, MACD Wochen-Bullish-Crossover bestaetigt, noch nicht ausgebrochen",
-      "signal": "YELLOW",
-      "canslim": {
-        "C": true,
-        "A": true,
-        "N": true,
-        "S": true,
-        "L": true,
-        "I": true,
-        "M": true
-      },
-      "note": "C (Current Earnings): Q1-2026 mit starkem Umsatz- und EPS-Wachstum durch hoehere Trading-Volumina und Krypto-Hebel. A (Annual Earnings): Wende zu nachhaltiger Profitabilitaet, mehrjaehriger Turnaround mit beschleunigtem EPS-Trend. N (New): Annaeherung an die 4-Jahres-Cup-Rim bei 78-80 $ -- nach Reclaim erstes klassisches Buy-Signal seit dem Crash 2021. Letzter Rally-Versuch (~$79) wurde am 76,87 $ Equilibrium kurz abgelehnt, daher strikt erst nach Tagesschluss > 80 $ kaufen. S (Supply & Demand): Aggressive Buybacks plus Wachstum der Gold-Subscriber begrenzen Float-Expansion. L (Leader): Klarer Marktfuehrer bei Retail-Brokerage / Krypto-Onramp / Tokenized-Equity-Roadmap. I (Institutional): 22 Analysten mit Buy-Konsens, Ziel ~108 $, Volumen am 22.05. ueber 50-Tage-Schnitt. M (Market): Markt GRUEN, Risk-On unterstuetzt Finanzdienstleister. Earnings 30.04. erledigt, naechster Termin 06.08. -- 11 Wochen Puffer. Warnhinweis: nur kaufen bei Tagesschluss > 80 $ mit Volumen, vorher Watchlist."
+      "note": "5-Tage-Rally +14%, Marketcap $69B. Q1 EPS $10,51 vs $6,78 (+55% Beat), Umsatz $2,9B (+56% YoY), Backlog rekordhoch. Flat-Base-Breakout aus 5W-Konsolidierung. Earnings ~Juli."
     }
   ]
 }
