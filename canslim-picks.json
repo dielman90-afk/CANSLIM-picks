@@ -1,13 +1,13 @@
 {
-  "updated": "2026-05-26",
+  "updated": "2026-05-07",
   "market_signal": "GREEN",
-  "market_note": "S&P 500 7.473,47 (+0,37%) und Nasdaq 26.343,97 (+0,19%) am 22.05. -- S&P im 8. Wochengewinn in Folge (längste Serie seit Dez 2023). Dow neues ATH am 22.05. Iran-Peace-Deal-Hoffnung und starke Q1-Earnings-Season treiben. Kevin Warsh als neuer Fed-Chef vereidigt. AI-Infrastruktur, Cybersecurity, Aerospace fuehren. Klar bullish, aber NVDA-Reaktion (-1,8% nach Beat) deutet auf selektive Rotation hin.",
+  "market_note": "S&P 500 7.365,12 ATH (+1,46%) und Nasdaq 25.838,94 ATH (+2,02%) am 06.05. -- beide auf neuen Rekordhochs. Iran-Peace-Deal-Hoffnung beflügelt Markt, Oel rueckläufig. Industrials +2,7%, Tech +2,2% fuehren. AMD-Mega-Beat triggert Halbleiter-Rally. Klar bullish.",
   "picks": [
     {
-      "ticker": "CRDO",
-      "name": "Credo Technology Group",
-      "price": 216.29,
-      "chart_pattern": "Frischer ATH-Breakout / Buy Zone",
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices",
+      "price": 421.39,
+      "chart_pattern": "Cup with Handle Breakout",
       "signal": "GREEN",
       "canslim": {
         "C": true,
@@ -18,22 +18,13 @@
         "I": true,
         "M": true
       },
-      "canslim_detail": {
-        "C": "Current: Q3 FY26 Umsatz $407M (+201,5% YoY, +51,9% QoQ), GAAP Marge 68,5%. Mega-Beat.",
-        "A": "Annual: FY26-Guidance hoch auf >40% Wachstum, Q4-Guidance $425-435M -- exponentielles Wachstum.",
-        "N": "New: AI-Konnektivitaet (HiWire Active Electrical Cables, PAM4 DSPs) -- Profiteur von Hyperscaler-AI-Capex. ATH am 22.05.",
-        "S": "Supply: Schmaler Float, hohes Volumen am Breakout-Tag (~3x Avg).",
-        "L": "Leader: RS-Rang Top 2% des Marktes. Klarer Industrieleiter in High-Speed-Konnektivitaet.",
-        "I": "Institutional: Anhaltende Aufstockung durch Tech-Fonds; Analysten heben Ziele.",
-        "M": "Market: Bullish, AI-Halbleiter-Sektor fuehrt."
-      },
-      "note": "Frischer ATH-Breakout am 22.05. bei $218,95 -- aktuell $216,29 noch in der 5%-Buy-Zone. Triple-Digit-Umsatzwachstum durch AI-Datacenter-Konnektivitaet. Earnings Q4 erst 01.06. -- Vorsicht: Earnings-Risiko diese Woche, ggf. erst nach Bericht aufstocken."
+      "note": "Mega Q1-Beat: EPS $1,37, Umsatz $10,25B (+38% YoY), Datacenter +57% auf $5,8B. Q2-Guide $11,2B. +18,61% am 06.05. mit Mega-Volumen, bestes Earnings seit 7 Jahren. Cup-Handle aus Jan-Feb-Korrektur ($266 ATH-Region) gebrochen."
     },
     {
-      "ticker": "CLS",
-      "name": "Celestica Inc.",
-      "price": 362.50,
-      "chart_pattern": "Flat Base / Triangle-Konsolidierung, kurz vor Breakout",
+      "ticker": "STRL",
+      "name": "Sterling Infrastructure",
+      "price": 881.98,
+      "chart_pattern": "Cup with Handle Fortsetzung",
       "signal": "GREEN",
       "canslim": {
         "C": true,
@@ -44,48 +35,13 @@
         "I": true,
         "M": true
       },
-      "canslim_detail": {
-        "C": "Current: Q1 26 Umsatz $4,05B (+53% YoY), Net Earnings +146%, EPS $1,83 vs $0,74. Adj-EPS $2,16.",
-        "A": "Annual: 2025 Umsatz $12,39B (+28%), FY26-Guidance angehoben auf $19B Umsatz / $10,15 Adj-EPS.",
-        "N": "New: DS6000-1.6TbE Datacenter-Switches fuer AI-Backend, Hyperscaler-Programme. Aggressiver AI-Build-out.",
-        "S": "Supply: Volumen-Trockenheit waehrend Konsolidierung (bullisch), $362-Support gehalten.",
-        "L": "Leader: AI-Networking-Profiteur, Industrieleader Connectivity/Cloud Solutions Segment.",
-        "I": "Institutional: 15 Analysten = Buy Consensus, Ziel $408,73. Erhoehte Hedgefonds-Beteiligung.",
-        "M": "Market: Bullish; AI-Infrastruktur-Theme stark."
-      },
-      "note": "Konsolidierung nach ATH $422,21 (27.04.). Aktuell $362, Triangle-Basisbildung. Pivot bei ~$385-390 -- kurz vor Breakout. Setup gefaellt: keine Naehe zum Earnings-Risiko (Q2 erst Ende Juli). Kein Stopp ueber $360 brechen lassen."
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc.",
-      "price": 413.04,
-      "chart_pattern": "Handle / High Flag unter ATH",
-      "signal": "GREEN",
-      "canslim": {
-        "C": true,
-        "A": true,
-        "N": true,
-        "S": true,
-        "L": true,
-        "I": true,
-        "M": true
-      },
-      "canslim_detail": {
-        "C": "Current: Q1 26 Umsatz $19,3B (+29% YoY), Adj-EBITDA $13,1B (68% Marge), AI-Halbleiter $8,4B (+106% YoY).",
-        "A": "Annual: Q2-Guide ~$22B (+47% YoY) -- Beschleunigung. FY25 +24%, FY26-Beschleunigung intakt.",
-        "N": "New: ASIC-Geschaeft (Custom-AI-Chips fuer Hyperscaler) explodiert. VMware-Integration finalisiert.",
-        "S": "Supply: Riesiger Free Float, aber starke Akkumulation -- Volumen-Trockenheit waehrend Konsolidierung.",
-        "L": "Leader: #2 Halbleiter-Schwergewicht nach NVDA, Mega-Cap-AI-Leader.",
-        "I": "Institutional: Top-Position fast aller Wachstumsfonds, sehr hohe IBD Comp. Rating.",
-        "M": "Market: Bullish; selektive Halbleiter-Rotation lauft AVGO zugute."
-      },
-      "note": "ATH $442,36 am 14.05., aktuell $413 (-6,6%) -- tight handle unter dem Pivot. Breakout-Trigger bei $430 (Wochen-Hoch-Pivot), Ziel $470/490. Q2-Earnings erst Anfang Juni -- moegliches Risiko. Setup praezise definiert."
+      "note": "Q1 EPS $3,59 vs $2,28 (+57% Beat), Umsatz +92%. FY-Guidance auf $18,40-19,05 angehoben (+72% YoY). 7-Tage +70,8%, Datacenter-Backlog +$1,2 Mrd. Kein Earnings-Risiko bis Aug."
     },
     {
       "ticker": "VRT",
       "name": "Vertiv Holdings",
-      "price": 328.50,
-      "chart_pattern": "Base 2 Cup-Konsolidierung / Re-Test 50-MA",
+      "price": 358.92,
+      "chart_pattern": "Cup with Handle bestaetigt",
       "signal": "GREEN",
       "canslim": {
         "C": true,
@@ -96,22 +52,13 @@
         "I": true,
         "M": true
       },
-      "canslim_detail": {
-        "C": "Current: Q1 EPS $1,17 (+15,8% Beat), Adj-EPS +83% YoY, Umsatz +30%.",
-        "A": "Annual: FY-Guidance erneut angehoben. Letzte 3 Jahre EPS-Wachstum >35% p.a.",
-        "N": "New: AI-Datacenter-Power/Cooling-Loesungen sind Bottleneck-Loeser. Auftragsbuch rekordhoch.",
-        "S": "Supply: Volumen rueckgehend in der Konsolidierung -- klassisches CANSLIM-Setup.",
-        "L": "Leader: Power/Cooling-Marktfuehrer im AI-Build-out.",
-        "I": "Institutional: Schwere Aufstockung durch Top-Tier-Fonds in den letzten 2 Quartalen.",
-        "M": "Market: Bullish; AI-Infra-Theme intakt."
-      },
-      "note": "Nach $358,92 ATH (Anfang Mai) Konsolidierung um $325-335. Neue Basis 2 Cup-Bildung, Re-Test 50-Tage-MA bei $320. Pivot $345-350 -- kurz vor zweitem Breakout-Versuch. Earnings erst Juli, kein Risiko. Hohe Wahrscheinlichkeit fuer naechsten Leg up."
+      "note": "Neues ATH $358,92 am 06.05. Q1 EPS $1,17 (+15,8% Beat), Adj-EPS +83%, Umsatz +30%. FY-Guidance erneut angehoben. Cup-Handle aus April-Konsolidierung gebrochen. Kein Earnings-Risiko bis Juli."
     },
     {
-      "ticker": "HWM",
-      "name": "Howmet Aerospace",
-      "price": 256.55,
-      "chart_pattern": "Tight Flag / Hoehere Tiefs nahe ATH",
+      "ticker": "FIX",
+      "name": "Comfort Systems USA",
+      "price": 2003.65,
+      "chart_pattern": "Flat Base Breakout / ATH",
       "signal": "GREEN",
       "canslim": {
         "C": true,
@@ -122,68 +69,7 @@
         "I": true,
         "M": true
       },
-      "canslim_detail": {
-        "C": "Current: Q1 EPS $1,22 (+41,9% YoY, Beat $1,11), Umsatz $2,31B (+19,1% YoY). EBITDA-Marge 32% (+650 bps).",
-        "A": "Annual: 3-Jahres-EPS-CAGR >30%. FY-Guidance angehoben nach Q1.",
-        "N": "New: Defense Aerospace +10%, Commercial Aerospace +20%, Gas Turbines +39% -- breite Beschleunigung. Boeing-737-Hochlauf wieder Tailwind.",
-        "S": "Supply: Wochen-Konsolidierung mit Volumen-Trockenheit -- bullisch.",
-        "L": "Leader: Klarer Aerospace-Supply-Chain-Leader, +100% in 12 Monaten.",
-        "I": "Institutional: Strong Buy-Konsensus, mehrfache Ziel-Anhebungen post-Q1.",
-        "M": "Market: Bullish; Aerospace/Defense-Sektor stark im 2026er Run."
-      },
-      "note": "ATH $280,74, aktuell $256,55 (-8,6%). Tight Flag/3W-Konsolidierung mit hoeheren Tiefs. Pivot bei ~$262 (Re-Take 21-MA), Hauptbreakout ueber $281. Setup: kurz vor Breakout, klare Earnings-Beschleunigung. Kein Earnings-Risiko bis Anfang August."
-    },
-    {
-      "ticker": "AXON",
-      "name": "Axon Enterprise",
-      "price": 386.00,
-      "chart_pattern": "Post-Earnings-Base / 3-Week Tight",
-      "signal": "GREEN",
-      "canslim": {
-        "C": true,
-        "A": true,
-        "N": true,
-        "S": true,
-        "L": true,
-        "I": true,
-        "M": true
-      },
-      "canslim_detail": {
-        "C": "Current: Q1 26 EPS $1,61 vs $1,28 (+26% Beat), Umsatz $807M (+34% YoY). Software/Services +35%, AI-Produkte +700% YoY (!).",
-        "A": "Annual: 9 aufeinanderfolgende Quartale mit >30% Umsatzwachstum. FY26-Guidance angehoben auf 30-32% Wachstum.",
-        "N": "New: AI-Produktexplosion (Draft One, AI Body Camera), Bookings $14,3B (+44%) -- staatliche Behoerden-Vertraege.",
-        "S": "Supply: Mid-Float (76M Shares), starke Akkumulation post-Earnings-Move.",
-        "L": "Leader: Monopol-aehnliche Position bei Bodycams/CEW, AI fuegt zweite Wachstumsstufe hinzu.",
-        "I": "Institutional: Top-Holding bei Top-Mutual-Funds, ARK-Buchungen.",
-        "M": "Market: Bullish, AI-Software-Sektor in Favor."
-      },
-      "note": "Earnings-Gap am 06.05. +12% auf $426,89, danach normale Verdauungsphase auf $386. 3-Wochen-Tight-Pattern entsteht ueber $384-Pivot (post-Earnings-Tief-Halt). Bei Re-Take ueber $400 zweite Breakout-Chance. Q2-Earnings erst Anfang August -- viel Zeit."
-    },
-    {
-      "ticker": "PLTR",
-      "name": "Palantir Technologies",
-      "price": 137.50,
-      "chart_pattern": "Symmetrical Triangle, kurz vor Breakout",
-      "signal": "GREEN",
-      "canslim": {
-        "C": true,
-        "A": true,
-        "N": true,
-        "S": true,
-        "L": true,
-        "I": true,
-        "M": true
-      },
-      "canslim_detail": {
-        "C": "Current: Q1 26 Umsatz +85% YoY -- Hyperwachstum. Q2-Guide weit ueber Konsens.",
-        "A": "Annual: Beschleunigung von 27% -> 85% YoY ueber die letzten 8 Quartale. FY-Guidance mehrfach angehoben.",
-        "N": "New: AIP (AI Platform) ist OS fuer Enterprise-Agentic-AI, US-Defense Foundry-Deals, neue Commercial-Logos.",
-        "S": "Supply: Hoher Float, aber Volumen-Trockenheit waehrend der Konsolidierung -- konstruktiv.",
-        "L": "Leader: Klarer Enterprise-AI-Software-Leader, RS-Rang Top 1%.",
-        "I": "Institutional: Trotz Skepsis kontinuierliche Aufstockung von Wachstumsfonds.",
-        "M": "Market: Bullish, AI-Software in Favor."
-      },
-      "note": "Symmetrisches Dreieck mit Resistance bei $146,50 (Pivot). Aktuell $137,50, ueber 21-MA. Bei Breakout: Mess-Move auf $153, dann $165. Kein Earnings-Risiko bis Anfang August. Klassisches Pre-Breakout-Setup mit hoeheren Tiefs."
+      "note": "5-Tage-Rally +14%, Marketcap $69B. Q1 EPS $10,51 vs $6,78 (+55% Beat), Umsatz $2,9B (+56% YoY), Backlog rekordhoch. Flat-Base-Breakout aus 5W-Konsolidierung. Earnings ~Juli."
     }
   ]
 }
