@@ -1,13 +1,13 @@
 {
-  "updated": "2026-05-07",
+  "updated": "2026-05-27",
   "market_signal": "GREEN",
-  "market_note": "S&P 500 7.365,12 ATH (+1,46%) und Nasdaq 25.838,94 ATH (+2,02%) am 06.05. -- beide auf neuen Rekordhochs. Iran-Peace-Deal-Hoffnung beflügelt Markt, Oel rueckläufig. Industrials +2,7%, Tech +2,2% fuehren. AMD-Mega-Beat triggert Halbleiter-Rally. Klar bullish.",
+  "market_note": "S&P 500 7.519,12 (+0,61%) und Nasdaq 26.656,18 (+1,19%) am 26.05. - beide auf neuen ATH. AI-Memory-Rally: Micron knackt $1T-Marke (+21%, +60% MTD). Tech/Semis fuehren erneut. Russell 2000 +1% trotz Iran/Ukraine-Spannungen. Klar bullish, breite Teilnahme.",
   "picks": [
     {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices",
-      "price": 421.39,
-      "chart_pattern": "Cup with Handle Breakout",
+      "ticker": "WDC",
+      "name": "Western Digital",
+      "price": 499.25,
+      "chart_pattern": "Cup with Handle Breakout / ATH",
       "signal": "GREEN",
       "canslim": {
         "C": true,
@@ -18,13 +18,22 @@
         "I": true,
         "M": true
       },
-      "note": "Mega Q1-Beat: EPS $1,37, Umsatz $10,25B (+38% YoY), Datacenter +57% auf $5,8B. Q2-Guide $11,2B. +18,61% am 06.05. mit Mega-Volumen, bestes Earnings seit 7 Jahren. Cup-Handle aus Jan-Feb-Korrektur ($266 ATH-Region) gebrochen."
+      "canslim_detail": {
+        "C": "Q3 FY26 EPS $2,72 vs $2,36 erwartet (+15% Beat), YoY-EPS verdoppelt von $1,36",
+        "A": "Umsatz $3,34 Mrd (+45% YoY), getrieben durch AI-Datacenter HDD-Nachfrage",
+        "N": "Neuer ATH $499, AI-Storage-Supercycle, HDD-Engpaesse, +20% Dividendenhoehung",
+        "S": "Float kontrolliert, starkes Volumen am Breakout, +170% YTD",
+        "L": "Klarer Leader im AI-Storage-Segment, 1-Jahres-Return +993%",
+        "I": "14 von 16 Analysten Buy, 17 Analysten EPS nach oben revidiert",
+        "M": "Marktumfeld GREEN - S&P/Nasdaq ATH, AI-Infrastruktur fuehrt"
+      },
+      "note": "Recently broken out: ATH $499 nach Q3-FY26 Beat. AI-Datacenter-Storage-Shortage als Megatrend. Kein Earnings-Risiko bis ~Juli. Saubere Post-Breakout-Konsolidierung."
     },
     {
-      "ticker": "STRL",
-      "name": "Sterling Infrastructure",
-      "price": 881.98,
-      "chart_pattern": "Cup with Handle Fortsetzung",
+      "ticker": "NBIS",
+      "name": "Nebius Group",
+      "price": 209.80,
+      "chart_pattern": "Breakout zu neuen ATH",
       "signal": "GREEN",
       "canslim": {
         "C": true,
@@ -35,13 +44,22 @@
         "I": true,
         "M": true
       },
-      "note": "Q1 EPS $3,59 vs $2,28 (+57% Beat), Umsatz +92%. FY-Guidance auf $18,40-19,05 angehoben (+72% YoY). 7-Tage +70,8%, Datacenter-Backlog +$1,2 Mrd. Kein Earnings-Risiko bis Aug."
+      "canslim_detail": {
+        "C": "Q1 2026 Umsatz $399M (+684% YoY), Adj-EBITDA $129,5M, AI-Cloud-Margen 45%",
+        "A": "Guidance FY26 $3,0-3,4 Mrd, Backlog ~$50 Mrd inkl. Meta $27B & MSFT $19,4B",
+        "N": "Pennsylvania-AI-Factory (1,2 GW), Eigen-AI-Akquisition $643M, NVIDIA-Investment $2B",
+        "S": "+32% in 5 Tagen mit hohem Volumen, kontrolliertes Sponsorship",
+        "L": "Klarer Neocloud-Leader, +100% YTD",
+        "I": "Institutionelle Sponsoren: NVIDIA, Meta, Microsoft als Ankerkunden",
+        "M": "Marktumfeld GREEN, AI-Infrastruktur-Thema absolut fuehrend"
+      },
+      "note": "Recently broken out: ATH-Ausbruch nach Q1-Mega-Beat. Pennsylvania-AI-Factory am 13.05. Frischer Post-Breakout-Konsolidierungsbereich um $210. Hochwertiges Setup."
     },
     {
-      "ticker": "VRT",
-      "name": "Vertiv Holdings",
-      "price": 358.92,
-      "chart_pattern": "Cup with Handle bestaetigt",
+      "ticker": "JBL",
+      "name": "Jabil Inc.",
+      "price": 364.35,
+      "chart_pattern": "Flat Base nach ATH-Breakout",
       "signal": "GREEN",
       "canslim": {
         "C": true,
@@ -52,13 +70,74 @@
         "I": true,
         "M": true
       },
-      "note": "Neues ATH $358,92 am 06.05. Q1 EPS $1,17 (+15,8% Beat), Adj-EPS +83%, Umsatz +30%. FY-Guidance erneut angehoben. Cup-Handle aus April-Konsolidierung gebrochen. Kein Earnings-Risiko bis Juli."
+      "canslim_detail": {
+        "C": "Q2 FY26 Umsatz $8,3 Mrd (+23,9% YoY), EPS-Estimates 12 Monate +20,9%",
+        "A": "FY26 Guidance auf $32,4 Mrd angehoben, AI-Revenue +46% auf $13,1 Mrd erwartet",
+        "N": "ATH $372,37 am 06.05., neue AI-Datacenter-Partnerschaft, $500M US-Manufacturing-Ausbau",
+        "S": "Konstruktive Konsolidierung 2% unter ATH bei hoher Liquiditaet",
+        "L": "Leader in EMS/AI-Infrastruktur (Server, Liquid Cooling, Silicon Photonics)",
+        "I": "Strong Buy Konsens, EPS-Schaetzungen 12 Monate konsistent angehoben",
+        "M": "Marktumfeld GREEN, AI-Infrastruktur-Sektor fuehrt"
+      },
+      "note": "At breakout point: Konsolidiert direkt unter ATH $372 nach Mai-Hoch. Saubere Flat Base, Pivot bei $372. Kein Earnings-Risiko bis Mitte Juni."
     },
     {
-      "ticker": "FIX",
-      "name": "Comfort Systems USA",
-      "price": 2003.65,
-      "chart_pattern": "Flat Base Breakout / ATH",
+      "ticker": "APP",
+      "name": "AppLovin",
+      "price": 512.01,
+      "chart_pattern": "Stage-2 Cup mit Handle in Bildung",
+      "signal": "YELLOW-GREEN",
+      "canslim": {
+        "C": true,
+        "A": true,
+        "N": true,
+        "S": true,
+        "L": true,
+        "I": true,
+        "M": true
+      },
+      "canslim_detail": {
+        "C": "Q1 2026 Umsatz $1,84 Mrd (+59% YoY), Nettoeinkommen +67%",
+        "A": "Drei-Jahres-EPS-Wachstum dreistellig, FY26 Estimates konsistent erhoeht",
+        "N": "Axon-Self-Serve-Launch im Juni 2026 als Mega-Katalysator, +10,6% am 26.05.",
+        "S": "+5,9% mit hohem Volumen am 26.05., gezielte Akkumulation sichtbar",
+        "L": "AdTech-Leader, RS-Linie steigt nach Konsolidierung",
+        "I": "Wachsende institutionelle Positionen, starke Hedgefonds-Beteiligung",
+        "M": "Marktumfeld GREEN"
+      },
+      "note": "Approaching breakout: Cup-Handle aus Korrektur 2026 (ATH $733 von Dez-25). Pivot bei ca. $530-545. +10,6% am 26.05. mit Volumen naehert sich Buy Point. Axon-Launch Juni als Trigger."
+    },
+    {
+      "ticker": "MU",
+      "name": "Micron Technology",
+      "price": 884.91,
+      "chart_pattern": "Breakaway Gap zu neuem ATH",
+      "signal": "GREEN-EXTENDED",
+      "canslim": {
+        "C": true,
+        "A": true,
+        "N": true,
+        "S": true,
+        "L": true,
+        "I": true,
+        "M": true
+      },
+      "canslim_detail": {
+        "C": "Letzte Quartale: massive HBM-/DRAM-Pricing-Power, EPS-Estimates FY26/27 mehrfach angehoben",
+        "A": "Citi, Mizuho, BofA, HSBC, CFRA heben Schaetzungen auf mehrjaehriger Sicht an",
+        "N": "+21% am 26.05., $1T-Marketcap geknackt, $542 -> $884 in unter 1 Monat",
+        "S": "Mega-Volumen am Breakout, kontrollierte Akkumulation",
+        "L": "AI-Memory-Leader (HBM), Onshoring-Story",
+        "I": "HSBC $1.100, Melius $1.100, CFRA $900 - aggressive Anhebungen",
+        "M": "Marktumfeld GREEN, AI-Memory-Subsektor #1"
+      },
+      "note": "Recently broken out - aber EXTENDED (+60% MTD). Nur fuer aggressive Investoren auf Pullback zur 21-DMA. Qualitativ einer der staerksten CANSLIM-Setups, aber Risk/Reward jetzt schwierig."
+    },
+    {
+      "ticker": "CLS",
+      "name": "Celestica",
+      "price": 245.00,
+      "chart_pattern": "Triangle Base Breakout + Retest",
       "signal": "GREEN",
       "canslim": {
         "C": true,
@@ -69,7 +148,68 @@
         "I": true,
         "M": true
       },
-      "note": "5-Tage-Rally +14%, Marketcap $69B. Q1 EPS $10,51 vs $6,78 (+55% Beat), Umsatz $2,9B (+56% YoY), Backlog rekordhoch. Flat-Base-Breakout aus 5W-Konsolidierung. Earnings ~Juli."
+      "canslim_detail": {
+        "C": "Q1 2026 Umsatz $4,05 Mrd (+53% YoY), Nettogewinn $212M (+146%)",
+        "A": "CCS-Segment treibt Wachstum, Capex $1 Mrd in 2026 -> Wachstum auch 2027",
+        "N": "Zwei neue Programme Q1, AMD Helios Rack-Scale-AI-Architektur als Kunde",
+        "S": "Triangle-Breakout mit erfolgreichem Retest, gesundes Volumen",
+        "L": "EMS-Leader im Hyperscaler-Networking, +345% letztes Jahr",
+        "I": "Wachsende Hyperscaler-Pipeline, starke institutionelle Sponsoring",
+        "M": "Marktumfeld GREEN"
+      },
+      "note": "Recently broken out: Triangle-Base-Breakout mit erfolgreichem Retest. AMD-Helios-Programm als Katalysator. Kein Earnings-Risiko bis ~Juli."
+    },
+    {
+      "ticker": "GEV",
+      "name": "GE Vernova",
+      "price": 1050.00,
+      "chart_pattern": "Flat Base nach Cup-Breakout",
+      "signal": "GREEN",
+      "canslim": {
+        "C": true,
+        "A": true,
+        "N": true,
+        "S": true,
+        "L": true,
+        "I": true,
+        "M": true
+      },
+      "canslim_detail": {
+        "C": "Q1 2026 EPS $17,44 vs Konsens, Umsatz $9,34 Mrd",
+        "A": "Orders organisch +71%, Backlog +$13 Mrd, Guidance erneut angehoben",
+        "N": "AI-Power-Demand fuer Datacenter, Heavy-Duty Gas-Turbinen ausverkauft",
+        "S": "+71% YTD mit kontrollierter Konsolidierung um ATH",
+        "L": "Klarer Power-for-AI-Leader, 1-Jahres-Return +235%",
+        "I": "RBC PT $1.195, Konsens-Target $1.196 - massiv Buy-Side",
+        "M": "Marktumfeld GREEN"
+      },
+      "note": "Recently broken out und konsolidiert auf hohem Niveau. AI-Power-Theme intakt. Beobachten auf Ausbruch aus Flat Base."
+    },
+    {
+      "ticker": "LRCX",
+      "name": "Lam Research",
+      "price": 105.00,
+      "chart_pattern": "Bull Flag Breakout",
+      "signal": "GREEN",
+      "canslim": {
+        "C": true,
+        "A": true,
+        "N": true,
+        "S": true,
+        "L": true,
+        "I": true,
+        "M": true
+      },
+      "canslim_detail": {
+        "C": "Letzte Quartalsergebnisse mit Beat, HBM-/Advanced-Memory-Tools im Fokus",
+        "A": "Mehrjaehrige Visibilitaet durch SK Hynix EUV-Buildouts und HBM-Capex",
+        "N": "Flag-Breakout Ende letzter Woche, Apr29-May6-Rally +23% bereits gezeigt",
+        "S": "Klarer Volume-Pickup am Breakout aus Digestion-Phase",
+        "L": "+24% YTD, klarer Semi-Equipment-Leader",
+        "I": "Institutionelle Akkumulation, AI-Capex-Profiteur",
+        "M": "Marktumfeld GREEN, Semis fuehren"
+      },
+      "note": "Recently broken out aus Bull-Flag - Semi-Equipment-Leader. AI-Capex-Cycle profitiert direkt. Letzter Flag fuehrte zu +23% in 1 Woche."
     }
   ]
 }
