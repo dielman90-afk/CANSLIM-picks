@@ -1,12 +1,63 @@
 {
-  "updated": "2026-05-28",
+  "updated": "2026-05-07",
   "market_signal": "GREEN",
-  "market_note": "Confirmed Uptrend. S&P 500 7.520,36 ATH, Dow 50.644,28 ATH, Nasdaq 26.674,73 (kurz unter ATH) am 27.05. SOXX +6,1% auf ATH am 26.05. -- Halbleiter-Equipment-Rally (AMAT, KLAC, LRCX, AMAT alle ATH). SNOW +36% AH nach Mega-Q1 + $6B AWS-Deal. Markt deutlich bullish, Breadth gut.",
+  "market_note": "S&P 500 7.365,12 ATH (+1,46%) und Nasdaq 25.838,94 ATH (+2,02%) am 06.05. -- beide auf neuen Rekordhochs. Iran-Peace-Deal-Hoffnung beflügelt Markt, Oel rueckläufig. Industrials +2,7%, Tech +2,2% fuehren. AMD-Mega-Beat triggert Halbleiter-Rally. Klar bullish.",
   "picks": [
     {
-      "ticker": "AMAT",
-      "name": "Applied Materials",
-      "price": 454.89,
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices",
+      "price": 421.39,
+      "chart_pattern": "Cup with Handle Breakout",
+      "signal": "GREEN",
+      "canslim": {
+        "C": true,
+        "A": true,
+        "N": true,
+        "S": true,
+        "L": true,
+        "I": true,
+        "M": true
+      },
+      "note": "Mega Q1-Beat: EPS $1,37, Umsatz $10,25B (+38% YoY), Datacenter +57% auf $5,8B. Q2-Guide $11,2B. +18,61% am 06.05. mit Mega-Volumen, bestes Earnings seit 7 Jahren. Cup-Handle aus Jan-Feb-Korrektur ($266 ATH-Region) gebrochen."
+    },
+    {
+      "ticker": "STRL",
+      "name": "Sterling Infrastructure",
+      "price": 881.98,
+      "chart_pattern": "Cup with Handle Fortsetzung",
+      "signal": "GREEN",
+      "canslim": {
+        "C": true,
+        "A": true,
+        "N": true,
+        "S": true,
+        "L": true,
+        "I": true,
+        "M": true
+      },
+      "note": "Q1 EPS $3,59 vs $2,28 (+57% Beat), Umsatz +92%. FY-Guidance auf $18,40-19,05 angehoben (+72% YoY). 7-Tage +70,8%, Datacenter-Backlog +$1,2 Mrd. Kein Earnings-Risiko bis Aug."
+    },
+    {
+      "ticker": "VRT",
+      "name": "Vertiv Holdings",
+      "price": 358.92,
+      "chart_pattern": "Cup with Handle bestaetigt",
+      "signal": "GREEN",
+      "canslim": {
+        "C": true,
+        "A": true,
+        "N": true,
+        "S": true,
+        "L": true,
+        "I": true,
+        "M": true
+      },
+      "note": "Neues ATH $358,92 am 06.05. Q1 EPS $1,17 (+15,8% Beat), Adj-EPS +83%, Umsatz +30%. FY-Guidance erneut angehoben. Cup-Handle aus April-Konsolidierung gebrochen. Kein Earnings-Risiko bis Juli."
+    },
+    {
+      "ticker": "FIX",
+      "name": "Comfort Systems USA",
+      "price": 2003.65,
       "chart_pattern": "Flat Base Breakout / ATH",
       "signal": "GREEN",
       "canslim": {
@@ -18,146 +69,7 @@
         "I": true,
         "M": true
       },
-      "canslim_brief": {
-        "C": "Q2 FY26: Umsatz $7,9B (+11% YoY), EPS-Beat, Rekord-Marge seit 25 Jahren.",
-        "A": "FY26 Semi-Equipment-Wachstum auf >30% angehoben (vorher 20%).",
-        "N": "Neuer ATH-Close $454,89 am 26.05. Frischer Flat-Base-Breakout aus Mai-Konsolidierung.",
-        "S": "+3,18% am 26.05. mit kraeftigem Volumen, SOXX-Rally +6,1%.",
-        "L": "Industriefuehrer Semiconductor Equipment, RS sehr hoch.",
-        "I": "Mehrere Upgrades nach Q2, starke Funds-Akkumulation.",
-        "M": "S&P + Dow auf ATH, Confirmed Uptrend."
-      },
-      "note": "Frischer ATH-Breakout 26.05. nach Mega-Earnings vom 14.05. Hyperscaler-Capex treibt Equipment-Cycle. Naechste Earnings erst Aug. - kein kurzfristiges Risiko. Sauberster Setup im AI-Picks-and-Shovels-Trade."
-    },
-    {
-      "ticker": "KLAC",
-      "name": "KLA Corporation",
-      "price": 1925.00,
-      "chart_pattern": "Cup with Handle / ATH-Approach",
-      "signal": "GREEN",
-      "canslim": {
-        "C": true,
-        "A": true,
-        "N": true,
-        "S": true,
-        "L": true,
-        "I": true,
-        "M": true
-      },
-      "canslim_brief": {
-        "C": "Fiscal Q1 26: Umsatz $3,21B, Non-GAAP EPS $8,81, beide Beat.",
-        "A": "Umsatz +11% YoY, Citi PT $2.064. 2027-Visibilitaet 'beste seit 13 Jahren' (CFO).",
-        "N": "10-fuer-1 Split am 12.06.26 als Katalysator. KLAC +5,1% am 20.05.",
-        "S": "Heavy Institutional Flow, Volumen am Breakout-Tag ueberdurchschnittlich.",
-        "L": "Monopolistischer Marktfuehrer Process Control / Wafer-Inspection.",
-        "I": "Multiple Upgrades, $140B+ Wafer-Equipment-Markt 2026.",
-        "M": "GREEN, SOXX auf ATH 26.05."
-      },
-      "note": "Naehe ATH $1.939 (24.04.). Cup-Handle aus Mai-Konsolidierung, Pivot ~$1.939. Direkt am Breakout-Punkt. Split-Katalysator 12.06. Kein Earnings-Risiko bis Ende Juli."
-    },
-    {
-      "ticker": "HOOD",
-      "name": "Robinhood Markets",
-      "price": 74.47,
-      "chart_pattern": "Cup with Handle / Pre-Breakout",
-      "signal": "GREEN",
-      "canslim": {
-        "C": false,
-        "A": true,
-        "N": true,
-        "S": true,
-        "L": true,
-        "I": true,
-        "M": true
-      },
-      "canslim_brief": {
-        "C": "Q1 2026 EPS $0,38 vs $0,39 (-$0,01 Miss), aber Umsatz +15% YoY auf $1,07B. Leichter Schwachpunkt.",
-        "A": "Net Income $350M, Gold-Subs +36% YoY auf 4,3 Mio., starke Annualisierung.",
-        "N": "Trump-Accounts-App-Launch HEUTE (28.05.). Federal $1.000 Kontribution ab 04.07. - massiver TAM-Boost.",
-        "S": "Akkumulation $68-80, Pivot $79,49. Dunne Volumen oben - schnelle Bewegung moeglich.",
-        "L": "Marktfuehrer Retail-Brokerage-Wachstum (Next-Gen Investors).",
-        "I": "Treasury-mandatierter Broker fuer Trump Accounts, 4M Kinder bereits registriert.",
-        "M": "GREEN."
-      },
-      "note": "Pre-Breakout mit Buy-Stop $79,49. App-Launch 28.05. ist Katalysator. Cup-Handle aus Maerz-April. Bei Pivot-Durchbruch saubere Eintrittssituation. C-Kriterium schwach durch 1-Cent-EPS-Miss, dafuer riesiger Wachstumstreiber."
-    },
-    {
-      "ticker": "SNOW",
-      "name": "Snowflake",
-      "price": 240.00,
-      "chart_pattern": "Earnings-Gap Breakout / Frisch",
-      "signal": "GREEN",
-      "canslim": {
-        "C": true,
-        "A": true,
-        "N": true,
-        "S": true,
-        "L": true,
-        "I": true,
-        "M": true
-      },
-      "canslim_brief": {
-        "C": "Q1 FY27: Umsatz $1,39B (+33% YoY, Acceleration von 30% auf 33%), EPS $0,39 vs $0,32 Beat.",
-        "A": "FY27-Produkt-Umsatz-Guide auf $5,8B (+31% YoY) angehoben.",
-        "N": "$6 Mrd. AWS-AI-Infrastruktur-Deal angekuendigt, Natoma-Akquisition. NRR 126%.",
-        "S": "+36% AH-Gap am 27.05. auf gigantischem Volumen, fristed Lieferaengebot.",
-        "L": "Marktfuehrer Data-Cloud / Enterprise-AI-Workloads.",
-        "I": "779 Customers >$1M ARR (+29% YoY), massive Funds-Reaktivierung.",
-        "M": "GREEN."
-      },
-      "note": "Kuerzlich ausgebrochen 27.05. AH +36% Earnings-Gap aus mehrmonatiger Basis. Gap ist gross (~30% vom Pre-Earnings $177,60) - nur mit reduzierter Position bei Rueckkehr in Konsolidierung kaufen. Naechste Earnings erst Ende Aug."
-    },
-    {
-      "ticker": "DDOG",
-      "name": "Datadog",
-      "price": 224.84,
-      "chart_pattern": "Post-Breakout Konsolidierung am ATH",
-      "signal": "GREEN",
-      "canslim": {
-        "C": true,
-        "A": true,
-        "N": true,
-        "S": true,
-        "L": true,
-        "I": true,
-        "M": true
-      },
-      "canslim_brief": {
-        "C": "Q1 2026: Umsatz $1,006B (+32% YoY, Acceleration von 29% auf 32%), erstes Quartal >$1B.",
-        "A": "ARR >$4B Meilenstein, FY26-Guide $4,3-4,34B (+25-27%).",
-        "N": "AI-Observability-Beschleunigung, 4.550 $100k+ Customers (+21% YoY).",
-        "S": "+29,9% Gap am 07.05. (groesste 1-Tages-Bewegung seit IPO 2019).",
-        "L": "Industriefuehrer Cloud-Observability.",
-        "I": "44 Strong-Buy-Ratings, fast einstimmig.",
-        "M": "GREEN."
-      },
-      "note": "Vor 3 Wochen +30% ausgebrochen, seither Tight-Range $219-226. Trading direkt am 52W-High $226,43. Klassischer 3-Wochen-Tight-Konsolidations-Setup - sauberer Add-on-Punkt. Naechste Earnings Anfang Aug."
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom",
-      "price": 422.01,
-      "chart_pattern": "Flag / Pre-Breakout (Earnings 03.06.)",
-      "signal": "YELLOW",
-      "canslim": {
-        "C": true,
-        "A": true,
-        "N": true,
-        "S": true,
-        "L": true,
-        "I": true,
-        "M": true
-      },
-      "canslim_brief": {
-        "C": "FY25 Umsatz +24%, aktuelles Quartal +29%, AI-Umsatz +106% YoY.",
-        "A": "Q2-Erwartung: Umsatz $22,08B (+47% YoY), Adj-EBITDA-Marge 68%.",
-        "N": "Neue ASIC-Kunden (Anthropic, OpenAI zusaetzlich zu Google).",
-        "S": "Enge Konsolidierung $410-420, Volumen ~18M/Tag.",
-        "L": "Marktfuehrer Custom-AI-ASIC / Hyperscaler-Networking.",
-        "I": "35/42 Analysten Strong Buy, Konsens-PT $469,94.",
-        "M": "GREEN."
-      },
-      "note": "Sauberes Flag-Pattern 4-5% unter Pivot ATH $442,36 (14.05.). ABER: Earnings 03.06. - nur 6 Tage entfernt. Pre-Earnings-Position nur fuer Risikofreudige; alternativ auf Post-Earnings-Breakout warten. Pivot $442, Stop bei Bruch $410."
+      "note": "5-Tage-Rally +14%, Marketcap $69B. Q1 EPS $10,51 vs $6,78 (+55% Beat), Umsatz $2,9B (+56% YoY), Backlog rekordhoch. Flat-Base-Breakout aus 5W-Konsolidierung. Earnings ~Juli."
     }
   ]
 }
