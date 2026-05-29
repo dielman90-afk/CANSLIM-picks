@@ -1,5 +1,44 @@
 # CANSLIM-Bericht Verbesserungslog
 
+## Lauf 22 -- 29. Mai 2026 (Freitag)
+
+### Was gut lief
+- Slack-DM beim ersten Versuch erfolgreich gesendet -- ASCII-only, DACH-Formatierung, ~2.100 Zeichen
+- canslim-picks.json direkt auf main ersetzt (GitHub Contents API, SHA-Update) -- erfolgreich
+- Marktampel klar GRUEN: S&P 500 7.563,63 ATH (+0,58%) und Nasdaq 26.917,47 ATH (+0,91%) am 28.05. -- beide neue Rekordhochs
+- Snowflake +36,5% (bestes Tagesergebnis je) belebte AI-/Software-Trade; 84% der S&P-500-Firmen schlugen Q1-EPS
+- Disziplinierte Filterung nach User-Vorgabe: nur Setups am / kurz vor / frisch nach Breakout
+- HWM als #1 NEU -- direkt am Buy-Point 259,82 (Cup-with-Handle), IBD Composite 99, EPS-Rating 95, Q1 Adj-EPS +42%. Bringt Aerospace-Diversifikation
+- NVDA als #2 NEU -- enge Post-Earnings-Basis (~10% unter ATH 235,74) nach Rekord-FQ1 (+85% Umsatz), Earnings durch
+- FIX als #3 -- enger Handle ~7% unter ATH, baut neue Basis, Earnings ~Juli
+- VRT als #4 -- Handle ~10% unter ATH, gesunde Konsolidierung, Earnings ~Juli
+- Sektor-Mix verbessert: Aerospace, Semis, HVAC, Power (weg von reiner Datacenter-Konzentration)
+
+### Gefilterte Titel (bewusst NICHT aufgenommen)
+- AMD ($518, +23% seit 06.05.) -- zu weit gelaufen, ueberdehnt
+- STRL (~$842) -- nach +70%-Rally extended, kein frischer Pivot
+- SNOW (+36,5% Tagesgap) -- extrem ueberdehnt nach Earnings
+- DDOG ($228, +71% YTD) -- ~14% ueber Breakout vom 07.05., extended
+- ANET ($154, -12,9% MoM), PLTR ($137, -34% vom Hoch), GEV (-3,48% am 28.05.) -- technisch schwach/korrigierend
+- AVGO ($431) -- Earnings 03.06. (in 5 Tagen), Earnings-Risiko-Filter
+
+### Verbesserungen fuer naechsten Lauf
+1. MONITORING:
+   - HWM: GREEN solange in Buy-Zone (bis 272,82); bei Bruch unter 250 YELLOW
+   - NVDA: bei Ausbruch ueber 235,74 frischer Pivot bestaetigt; unter 199 YELLOW
+   - FIX: bei Bruch unter 1.800 YELLOW; Ausbruch ueber 2.004 = Breakout bestaetigt
+   - VRT: bei Bruch unter 320 (50-Tage-Naehe) YELLOW
+2. MARKTAMPEL: S&P 7.563 ATH -- GRUEN solange ueber 7.300; bei Bruch unter 7.150 GELB
+3. EARNINGS-KALENDER: AVGO 03.06. beobachten (nach Earnings ggf. Re-Entry pruefen); HWM 30.07., NVDA ~Aug, FIX/VRT ~Juli
+4. WATCHLIST: GEV (Re-Test des Breakouts vom 07.05.), AVGO (post-Earnings)
+5. Slack-Formatierung bewaehrt: ASCII, Umlaute ae/oe/ue, Punkt-Tausender/Komma-Dezimal, unter 3.500 Zeichen
+6. Datenquellen funktionierend: cnbc.com, thestreet.com, fool.com, finance.yahoo.com, marketbeat.com, tradingkey.com, stocktitan.net, prnewswire.com, howmet.com (IR), inkl.com (IBD-Stock-of-the-Day)
+
+### Hinweis
+- Kursdaten via Web-Recherche (Stand 27./28.05.), keine Live-OHLC/RS-Ratings (IBD-Paywall)
+- HWM-Buy-Point 259,82 und IBD Composite 99 aus IBD-Stock-of-the-Day-Berichten
+
+
 ## Lauf 21 -- 07. Mai 2026 (Donnerstag)
 
 ### Was gut lief

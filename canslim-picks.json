@@ -1,13 +1,13 @@
 {
-  "updated": "2026-05-07",
+  "updated": "2026-05-29",
   "market_signal": "GREEN",
-  "market_note": "S&P 500 7.365,12 ATH (+1,46%) und Nasdaq 25.838,94 ATH (+2,02%) am 06.05. -- beide auf neuen Rekordhochs. Iran-Peace-Deal-Hoffnung beflügelt Markt, Oel rueckläufig. Industrials +2,7%, Tech +2,2% fuehren. AMD-Mega-Beat triggert Halbleiter-Rally. Klar bullish.",
+  "market_note": "S&P 500 7.563,63 ATH (+0,58%) und Nasdaq 26.917,47 ATH (+0,91%) am 28.05. -- beide auf neuen Rekordhochs. Snowflake +36,5% (bestes Tagesergebnis je) belebt AI-/Software-Trade. Iran-Waffenstillstand-Verlaengerung stuetzt, 84% der S&P-500-Firmen schlagen Q1-EPS. Klar bullish.",
   "picks": [
     {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices",
-      "price": 421.39,
-      "chart_pattern": "Cup with Handle Breakout",
+      "ticker": "HWM",
+      "name": "Howmet Aerospace",
+      "price": 261.89,
+      "chart_pattern": "Cup with Handle -- direkt am Buy-Point",
       "signal": "GREEN",
       "canslim": {
         "C": true,
@@ -18,13 +18,13 @@
         "I": true,
         "M": true
       },
-      "note": "Mega Q1-Beat: EPS $1,37, Umsatz $10,25B (+38% YoY), Datacenter +57% auf $5,8B. Q2-Guide $11,2B. +18,61% am 06.05. mit Mega-Volumen, bestes Earnings seit 7 Jahren. Cup-Handle aus Jan-Feb-Korrektur ($266 ATH-Region) gebrochen."
+      "note": "Direkt am Buy-Point 259,82 USD (Buy-Zone bis 272,82), Cup-with-Handle. Q1 Adj-EPS 1,22 (+42% YoY), Umsatz 2,31 Mrd (+19%), EBITDA-Marge 32% (+320bp). Engine-Spares +36% (Commercial +48%). FY26-Guidance auf 4,88-5,00 angehoben. IBD Composite 99, EPS-Rating 95. Naechste Earnings erst 30.07."
     },
     {
-      "ticker": "STRL",
-      "name": "Sterling Infrastructure",
-      "price": 881.98,
-      "chart_pattern": "Cup with Handle Fortsetzung",
+      "ticker": "NVDA",
+      "name": "Nvidia",
+      "price": 212.58,
+      "chart_pattern": "Enge Post-Earnings-Basis / Handle nahe Pivot",
       "signal": "GREEN",
       "canslim": {
         "C": true,
@@ -35,30 +35,13 @@
         "I": true,
         "M": true
       },
-      "note": "Q1 EPS $3,59 vs $2,28 (+57% Beat), Umsatz +92%. FY-Guidance auf $18,40-19,05 angehoben (+72% YoY). 7-Tage +70,8%, Datacenter-Backlog +$1,2 Mrd. Kein Earnings-Risiko bis Aug."
-    },
-    {
-      "ticker": "VRT",
-      "name": "Vertiv Holdings",
-      "price": 358.92,
-      "chart_pattern": "Cup with Handle bestaetigt",
-      "signal": "GREEN",
-      "canslim": {
-        "C": true,
-        "A": true,
-        "N": true,
-        "S": true,
-        "L": true,
-        "I": true,
-        "M": true
-      },
-      "note": "Neues ATH $358,92 am 06.05. Q1 EPS $1,17 (+15,8% Beat), Adj-EPS +83%, Umsatz +30%. FY-Guidance erneut angehoben. Cup-Handle aus April-Konsolidierung gebrochen. Kein Earnings-Risiko bis Juli."
+      "note": "Enge Konsolidierung ~10% unter ATH 235,74 nach Rekord-FQ1 (20.05.): Umsatz 81,6 Mrd (+85% YoY), EPS 1,87 Beat. Sell-the-News-Pullback, baut rechte Basisseite kurz vor neuem Pivot. AI-Halbleiter-Leader Nr.1. Earnings-Risiko bis ~August raus."
     },
     {
       "ticker": "FIX",
       "name": "Comfort Systems USA",
-      "price": 2003.65,
-      "chart_pattern": "Flat Base Breakout / ATH",
+      "price": 1857.00,
+      "chart_pattern": "Enger Handle unter ATH / Flat Base",
       "signal": "GREEN",
       "canslim": {
         "C": true,
@@ -69,7 +52,24 @@
         "I": true,
         "M": true
       },
-      "note": "5-Tage-Rally +14%, Marketcap $69B. Q1 EPS $10,51 vs $6,78 (+55% Beat), Umsatz $2,9B (+56% YoY), Backlog rekordhoch. Flat-Base-Breakout aus 5W-Konsolidierung. Earnings ~Juli."
+      "note": "Enger Handle ~7% unter ATH 2.003,65, baut neue Basis. Q1 EPS 10,51 (+55% Beat), Umsatz +56% YoY, Rekord-Backlog, Dividende erhoeht. HVAC-/Datacenter-Infrastruktur-Leader, knappe Aktienzahl (~35M). Kein Earnings-Risiko bis ~Juli."
+    },
+    {
+      "ticker": "VRT",
+      "name": "Vertiv Holdings",
+      "price": 323.91,
+      "chart_pattern": "Handle unter ATH -- gesunde Konsolidierung",
+      "signal": "GREEN",
+      "canslim": {
+        "C": true,
+        "A": true,
+        "N": true,
+        "S": true,
+        "L": true,
+        "I": true,
+        "M": true
+      },
+      "note": "Bildet Handle ~10% unter ATH 358,92. Q1 EPS 1,17 (+15,8% Beat), Adj-EPS +83%, Umsatz +30%, FY-Guidance mehrfach angehoben. Datacenter-Power/Cooling-Leader, AI-Capex-Profiteur. Kein Earnings-Risiko bis ~Juli."
     }
   ]
 }
