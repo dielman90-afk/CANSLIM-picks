@@ -1,134 +1,75 @@
 {
-  "updated": "2026-05-29",
+  "updated": "2026-05-07",
   "market_signal": "GREEN",
-  "market_note": "S&P 500 und Nasdaq nahe ATHs nach starker Earnings Season. Q1 staerkstes Wachstum seit 2021, Magnificent 7 +63% YoY. SOX +65% YTD, AI-Infrastruktur und Halbleiter fuehren. Markt klar bullisch - Breakouts werden belohnt. Fokus auf Setups die nicht ueberdehnt sind.",
-  "filter_criteria": "Nur Aktien vor, am oder direkt nach dem Breakout. Ueberdehnte Setups (NBIS +60%/Monat, RKLB +50%/Monat, RXT +165%/Monat, MU +80%/Monat) wurden konsequent ausgefiltert.",
+  "market_note": "S&P 500 7.365,12 ATH (+1,46%) und Nasdaq 25.838,94 ATH (+2,02%) am 06.05. -- beide auf neuen Rekordhochs. Iran-Peace-Deal-Hoffnung beflügelt Markt, Oel rueckläufig. Industrials +2,7%, Tech +2,2% fuehren. AMD-Mega-Beat triggert Halbleiter-Rally. Klar bullish.",
   "picks": [
     {
-      "ticker": "NBIX",
-      "name": "Neurocrine Biosciences",
-      "price": 142.5,
-      "chart_pattern": "Bull Flag nahe Breakout-Punkt",
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices",
+      "price": 421.39,
+      "chart_pattern": "Cup with Handle Breakout",
       "signal": "GREEN",
-      "setup_status": "Nahe Breakout - Pivot noch nicht durchbrochen",
       "canslim": {
-        "C": "EPS +2.287,5% letztes Quartal - extreme Beschleunigung",
-        "A": "EPS-Wachstum +120% TTM, drei von vier Beats Ø +18%",
-        "N": "Bull-Flag-Formation an neuen Hochs, CRENESSITY-Launch + Obesity-Pipeline",
-        "S": "Volumen-Verdichtung in Flagge, Float-Kontraktion",
-        "L": "Sektor-Leader Pharma/Biotech, Technical Rating 10/10",
-        "I": "Institutionelle Akkumulation, Estimates +7,7% in 3 Monaten angehoben",
-        "M": "Markt bullisch - GREEN"
+        "C": true,
+        "A": true,
+        "N": true,
+        "S": true,
+        "L": true,
+        "I": true,
+        "M": true
       },
-      "note": "Bestes Setup im Report. Q1 Sales +42,2% YoY, EPS-Beat in 3 von 4 Quartalen. Perfekte Alignment aus Fundamental-Momentum und technischer Konsolidierung. Risiko: INGREZZA-Pricing."
+      "note": "Mega Q1-Beat: EPS $1,37, Umsatz $10,25B (+38% YoY), Datacenter +57% auf $5,8B. Q2-Guide $11,2B. +18,61% am 06.05. mit Mega-Volumen, bestes Earnings seit 7 Jahren. Cup-Handle aus Jan-Feb-Korrektur ($266 ATH-Region) gebrochen."
     },
     {
-      "ticker": "CLS",
-      "name": "Celestica",
-      "price": 361.53,
-      "chart_pattern": "Triangle-Basis Breakout + erfolgreicher Retest",
+      "ticker": "STRL",
+      "name": "Sterling Infrastructure",
+      "price": 881.98,
+      "chart_pattern": "Cup with Handle Fortsetzung",
       "signal": "GREEN",
-      "setup_status": "Direkt am Buy-Point nach Retest",
       "canslim": {
-        "C": "Quartalsumsatz stark, AI-Infrastruktur-Boom",
-        "A": "Mehrjaehriges Gewinn-Wachstum durch Hyperscaler-Kunden",
-        "N": "Neue Hochs nach Triangle-Breakout, AI-Hardware-Story neu",
-        "S": "Sauberer Retest mit kontrolliertem Volumen",
-        "L": "Sektor-Leader AI-Infrastruktur EMS",
-        "I": "Analystenkonsens Buy, Ø-Kursziel 408,73$",
-        "M": "Markt bullisch - GREEN"
+        "C": true,
+        "A": true,
+        "N": true,
+        "S": true,
+        "L": true,
+        "I": true,
+        "M": true
       },
-      "note": "Klassischer CAN-SLIM-Triangle-Breakout mit erfolgreichem Retest der Ausbruchszone bei ~361$. Sauberes Risk/Reward-Setup. AI-EMS-Play als Profiteur der Hyperscaler-Capex."
+      "note": "Q1 EPS $3,59 vs $2,28 (+57% Beat), Umsatz +92%. FY-Guidance auf $18,40-19,05 angehoben (+72% YoY). 7-Tage +70,8%, Datacenter-Backlog +$1,2 Mrd. Kein Earnings-Risiko bis Aug."
     },
     {
-      "ticker": "PGNY",
-      "name": "Progyny",
-      "price": 32.4,
-      "chart_pattern": "Bull Flag mit Pocket Pivot",
+      "ticker": "VRT",
+      "name": "Vertiv Holdings",
+      "price": 358.92,
+      "chart_pattern": "Cup with Handle bestaetigt",
       "signal": "GREEN",
-      "setup_status": "Nahe Breakout - kurz vor Pivot",
       "canslim": {
-        "C": "Sechs aufeinanderfolgende Quartale ueber Erwartungen",
-        "A": "Erwartetes EPS-Wachstum 40,13% p.a., FY27 Sales +9%",
-        "N": "Analyst-Upgrade, Plan fuer zweistelliges Wachstum H2-2026",
-        "S": "Pocket-Pivot-Signal = institutionelle Akkumulation auf Volumen",
-        "L": "Marktfuehrer Fertility-Benefits",
-        "I": "ChartMill Health 10/10, Setup Rating 8/10, schuldenfrei",
-        "M": "Markt bullisch - GREEN"
+        "C": true,
+        "A": true,
+        "N": true,
+        "S": true,
+        "L": true,
+        "I": true,
+        "M": true
       },
-      "note": "Setup-Rating 8/10. Bull-Flag-Konsolidierung nach scharfer Rally + Pocket-Pivot bestaetigt Institutionen-Buying. Altman-Z 7,87 = top finanzielle Gesundheit. Niedriges Risiko."
+      "note": "Neues ATH $358,92 am 06.05. Q1 EPS $1,17 (+15,8% Beat), Adj-EPS +83%, Umsatz +30%. FY-Guidance erneut angehoben. Cup-Handle aus April-Konsolidierung gebrochen. Kein Earnings-Risiko bis Juli."
     },
     {
-      "ticker": "INCY",
-      "name": "Incyte Corp",
-      "price": 78.0,
-      "chart_pattern": "Enge Konsolidierung / tight Base",
+      "ticker": "FIX",
+      "name": "Comfort Systems USA",
+      "price": 2003.65,
+      "chart_pattern": "Flat Base Breakout / ATH",
       "signal": "GREEN",
-      "setup_status": "Nahe Breakout - in CAN SLIM Screen",
       "canslim": {
-        "C": "Q1-2026-Ergebnisse solide, Opicapone und Jakafi-Franchise",
-        "A": "Konsistentes Gewinnwachstum, Pipeline-Diversifikation",
-        "N": "Konsolidierung auf hohem Niveau, neue Produktindikationen",
-        "S": "Reduzierte Volatilitaet = Setup-Rating 8",
-        "L": "Mitglied der ChartMill CAN-SLIM-Liste, Tech-Leader",
-        "I": "Institutionelles Halten stabil",
-        "M": "Markt bullisch - GREEN"
+        "C": true,
+        "A": true,
+        "N": true,
+        "S": true,
+        "L": true,
+        "I": true,
+        "M": true
       },
-      "note": "Setup Quality Score 8 - enge Range bietet definiertes Risk/Reward. Member der CAN SLIM Liste. Klassisches Setup vor moeglichem Ausbruch."
-    },
-    {
-      "ticker": "PATH",
-      "name": "UiPath",
-      "price": 17.2,
-      "chart_pattern": "Bullische Basis, Higher Lows + Higher Highs",
-      "signal": "GREEN",
-      "setup_status": "Nahe Breakout - vor Pivot bei 18$",
-      "canslim": {
-        "C": "Beschleunigung der Earnings nach Restrukturierung",
-        "A": "Rueckkehr zu profitablem Wachstum",
-        "N": "Bullische Basis-Formation, Agentic-AI-Produkte neu",
-        "S": "Volumen-Trockenheit in Konsolidierung typisch fuer Akkumulation",
-        "L": "Marktfuehrer RPA / agentic-AI-Automation",
-        "I": "Wachsendes Institutional-Interesse zurueckgekehrt",
-        "M": "Markt bullisch - GREEN"
-      },
-      "note": "Kurz vor Pivot bei 18$. Folgekursziel bei 52-Wochen-Hoch ~20$. Klares Trigger-Level fuer Breakout-Trade. Hoeheres Risiko als die Top-Picks, aber sehr attraktives R/R."
-    },
-    {
-      "ticker": "PLTR",
-      "name": "Palantir Technologies",
-      "price": 144.0,
-      "chart_pattern": "Momentum-Breakout ueber Vorwoche-Hoch",
-      "signal": "GREEN",
-      "setup_status": "Frisch ausgebrochen - Trigger 137,43$",
-      "canslim": {
-        "C": "Starkes Q1 Commercial-US +71% YoY",
-        "A": "Konsistente EPS-Beschleunigung mehrere Quartale",
-        "N": "AI-Plattform AIP fuehrend, neue Government- und Commercial-Deals",
-        "S": "Hohes Volumen am Breakout, sauberer Run nach Earnings",
-        "L": "Klarer AI-Software-Leader, einer der staerksten RS-Werte",
-        "I": "Massive institutionelle Sponsorship",
-        "M": "Markt bullisch - GREEN"
-      },
-      "note": "Recent Breakout ueber 137,43$ mit Stop bei 128,75$ (-6,3%). Noch im akzeptablen Bereich (<5% extended). Bei Schwaeche zurueck zur Buy-Zone interessant. Stop-Loss-Disziplin Pflicht."
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom",
-      "price": 232.0,
-      "chart_pattern": "Tight Range / Flat Base",
-      "signal": "GREEN",
-      "setup_status": "Nahe Breakout - Setup-Rating 8",
-      "canslim": {
-        "C": "Q1-Umsatz +29% YoY, Q2-Guide auf +47% YoY beschleunigt",
-        "A": "FY2026 Revenue-Forecast +64%",
-        "N": "AI-Networking-/Custom-Silicon-Dominanz, VMware-Synergie",
-        "S": "Volatilitaet kontraktiert in flacher Basis = Setup 8/10",
-        "L": "Top-Sektor-Leader, Magnificent 7 Earnings +63% Treiber",
-        "I": "Massivste institutionelle Beteiligung im Markt",
-        "M": "Markt bullisch - GREEN"
-      },
-      "note": "Konservativer Mega-Cap-Pick. Tight-Range-Konsolidierung nach starkem Lauf. Hoehere Marketcap = weniger explosiv, aber niedriges Risiko und solider Risk/Reward. Earnings Anfang Juni Risiko beachten."
+      "note": "5-Tage-Rally +14%, Marketcap $69B. Q1 EPS $10,51 vs $6,78 (+55% Beat), Umsatz $2,9B (+56% YoY), Backlog rekordhoch. Flat-Base-Breakout aus 5W-Konsolidierung. Earnings ~Juli."
     }
   ]
 }
