@@ -1,13 +1,13 @@
 {
-  "updated": "2026-05-29",
+  "updated": "2026-05-30",
   "market_signal": "GREEN",
-  "market_note": "S&P 500 7.563,63 ATH (+0,58%) und Nasdaq 26.917,47 ATH (+0,91%) am 28.05. -- beide auf neuen Rekordhochs. Snowflake +36,5% (bestes Tagesergebnis je) belebt AI-/Software-Trade. Iran-Waffenstillstand-Verlaengerung stuetzt, 84% der S&P-500-Firmen schlagen Q1-EPS. Klar bullish.",
+  "market_note": "S&P 500 7.580,08 ATH (+0,22%), Nasdaq 26.972,62 ATH (+0,2%) und Dow 51.032,46 (+0,72%, erstmals ueber 51.000) am 29.05. -- alle drei auf neuen Rekordhochs. 9. Wochengewinn in Folge, Nasdaq +8% im Mai. Dell +33% (Earnings-Blowout, gefiltert da zu weit gelaufen), Apple Serie neuer ATHs. Breite Staerke, klar bullish.",
   "picks": [
     {
       "ticker": "HWM",
       "name": "Howmet Aerospace",
-      "price": 261.89,
-      "chart_pattern": "Cup with Handle -- direkt am Buy-Point",
+      "price": 271.22,
+      "chart_pattern": "Cup with Handle -- in der Buy-Zone",
       "signal": "GREEN",
       "canslim": {
         "C": true,
@@ -18,12 +18,29 @@
         "I": true,
         "M": true
       },
-      "note": "Direkt am Buy-Point 259,82 USD (Buy-Zone bis 272,82), Cup-with-Handle. Q1 Adj-EPS 1,22 (+42% YoY), Umsatz 2,31 Mrd (+19%), EBITDA-Marge 32% (+320bp). Engine-Spares +36% (Commercial +48%). FY26-Guidance auf 4,88-5,00 angehoben. IBD Composite 99, EPS-Rating 95. Naechste Earnings erst 30.07."
+      "note": "In der Buy-Zone ueber Pivot 259,82 (Zone bis 272,82), Cup-with-Handle, frischer Ausbruch nach Q1. C: Q1 Adj-EPS 1,22 (+42% YoY), Umsatz 2,31 Mrd (+19%). A: FY26-Guidance auf 4,88-5,00 angehoben. N: ATH 280,74, Engine-Spares +36%, Commercial-Aero +48%. S: Aktienrueckkaeufe, knappes Casting-Angebot. L: IBD Composite 99, Aero-Castings-Leader. I: Hohe institutionelle Beteiligung. M: Markt GRUEN. Earnings erst ~30.07."
+    },
+    {
+      "ticker": "CLS",
+      "name": "Celestica",
+      "price": 533.01,
+      "chart_pattern": "Frischer Ausbruch auf neue Hochs",
+      "signal": "GREEN",
+      "canslim": {
+        "C": true,
+        "A": true,
+        "N": true,
+        "S": true,
+        "L": true,
+        "I": true,
+        "M": true
+      },
+      "note": "Kuerzlich ausgebrochen: +10,2% am 29.05. auf neue Hochs (oberer Rand Buy-Zone, Pullback fuer Einstieg abwarten). C: Q1 Umsatz 4,05 Mrd (+53%), Adj-EPS 2,16 (+80%). A: FY26 angehoben auf Umsatz 19 Mrd / EPS 10,15 (+68%). N: AI-Networking-Momentum, Outlook-Erhoehung als Katalysator. S: Margenexpansion, starker Cashflow. L: RS 97, AI-Infrastruktur-Leader. I: Steigende institutionelle Akkumulation. M: GRUEN. Earnings ~27.07."
     },
     {
       "ticker": "NVDA",
       "name": "Nvidia",
-      "price": 212.58,
+      "price": 211.14,
       "chart_pattern": "Enge Post-Earnings-Basis / Handle nahe Pivot",
       "signal": "GREEN",
       "canslim": {
@@ -35,13 +52,13 @@
         "I": true,
         "M": true
       },
-      "note": "Enge Konsolidierung ~10% unter ATH 235,74 nach Rekord-FQ1 (20.05.): Umsatz 81,6 Mrd (+85% YoY), EPS 1,87 Beat. Sell-the-News-Pullback, baut rechte Basisseite kurz vor neuem Pivot. AI-Halbleiter-Leader Nr.1. Earnings-Risiko bis ~August raus."
+      "note": "Noch nicht ausgebrochen, baut Basis ~10% unter ATH 235,74 nahe Pivot. C: FQ1 Umsatz 81,6 Mrd (+85% YoY), EPS 1,87 Beat. A: FY26 Umsatz 215,9 Mrd (+65%), explosives Mehrjahreswachstum. N: Blackwell/Rubin-Rampe. S: Mega-Cap mit grossen Rueckkaeufen. L: AI-Halbleiter-Leader Nr.1. I: Staerkste institutionelle Beteiligung. M: GRUEN. Earnings-Risiko bis ~August raus."
     },
     {
       "ticker": "FIX",
       "name": "Comfort Systems USA",
-      "price": 1857.00,
-      "chart_pattern": "Enger Handle unter ATH / Flat Base",
+      "price": 1888.44,
+      "chart_pattern": "Flat Base knapp unter ATH",
       "signal": "GREEN",
       "canslim": {
         "C": true,
@@ -52,13 +69,13 @@
         "I": true,
         "M": true
       },
-      "note": "Enger Handle ~7% unter ATH 2.003,65, baut neue Basis. Q1 EPS 10,51 (+55% Beat), Umsatz +56% YoY, Rekord-Backlog, Dividende erhoeht. HVAC-/Datacenter-Infrastruktur-Leader, knappe Aktienzahl (~35M). Kein Earnings-Risiko bis ~Juli."
+      "note": "Noch nicht ausgebrochen, enge Flat-Base ~9% unter ATH 2.073,99. C: Q1 EPS 10,51 (+55% Beat), Umsatz +56% YoY. A: Rekord-Backlog, Dividende erhoeht. N: Datacenter-/HVAC-Nachfrage treibt neue Hochs. S: Knappe Aktienzahl (~35M), Rueckkaeufe. L: +345% 12M, HVAC/Datacenter-Mechanik-Leader. I: Starke institutionelle Akkumulation. M: GRUEN. Kein Earnings-Risiko bis ~Juli."
     },
     {
-      "ticker": "VRT",
-      "name": "Vertiv Holdings",
-      "price": 323.91,
-      "chart_pattern": "Handle unter ATH -- gesunde Konsolidierung",
+      "ticker": "GEV",
+      "name": "GE Vernova",
+      "price": 996.00,
+      "chart_pattern": "Basis unter ATH -- kurz vor Pivot",
       "signal": "GREEN",
       "canslim": {
         "C": true,
@@ -69,7 +86,7 @@
         "I": true,
         "M": true
       },
-      "note": "Bildet Handle ~10% unter ATH 358,92. Q1 EPS 1,17 (+15,8% Beat), Adj-EPS +83%, Umsatz +30%, FY-Guidance mehrfach angehoben. Datacenter-Power/Cooling-Leader, AI-Capex-Profiteur. Kein Earnings-Risiko bis ~Juli."
+      "note": "Noch nicht ausgebrochen, baut Basis unter ATH 1.149,53; Pivot/Widerstand ~1.031. C: Q1 Umsatz 9,3 Mrd (+16%), Adj-EBITDA fast verdoppelt (Marge +390bp). A: FY26-Guidance angehoben auf 44,5-45,5 Mrd. N: Orders +71% org., Backlog 163 Mrd, Power-fuer-AI-Boom. S: Rueckkauf + Dividende, ~270M Aktien. L: Grid-/Power-Equipment-Leader. I: S&P-500-Komponente, hohe institutionelle Beteiligung. M: GRUEN. Earnings ~Ende Juli."
     }
   ]
 }
