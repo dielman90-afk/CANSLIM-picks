@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-31",
+  "updated": "2026-06-01",
   "market_signal": "GREEN",
-  "market_note": "S&P 500 7.580,06 ATH (+0,22%), Nasdaq 26.972,62 ATH (+0,2%) und Dow ueber 51.000 am 29.05. -- alle drei auf neuen Rekordhochs. 9. Wochengewinn in Folge, Nasdaq +8% im Mai. Breite Staerke, klar bullish. Wochenende: Daten = Freitags-Close 29.05.",
+  "market_note": "Juni startet auf Rekordhochs. Montag-Futures hoeher (S&P-Open 7.579), US-Iran-Waffenstillstand um 60 Tage verlaengert. Basis = Freitags-Close 29.05.: S&P 500 7.580,06 ATH (+0,22%), Nasdaq 26.972,62 ATH (+0,2%), Dow ueber 51.000 -- alle drei Rekorde, 9. Wochengewinn in Folge, Nasdaq +8% im Mai. Breite Staerke, klar bullish.",
   "picks": [
     {
       "ticker": "HWM",
@@ -52,7 +52,7 @@
         "I": true,
         "M": true
       },
-      "note": "Noch nicht ausgebrochen, baut enge Basis ~10% unter ATH 235,74 nahe Pivot. C: FQ1 Umsatz 81,6 Mrd (+85% YoY), EPS 1,87 Beat. A: FY26 Umsatz ~216 Mrd (+65%), explosives Mehrjahreswachstum. N: Blackwell/Rubin-Rampe. S: Mega-Cap mit grossen Rueckkaeufen. L: AI-Halbleiter-Leader Nr.1. I: Staerkste institutionelle Beteiligung. M: GRUEN. Earnings-Risiko bis ~August raus."
+      "note": "Noch nicht ausgebrochen, baut enge Basis ~10% unter ATH 235,74 nahe Pivot (Post-Earnings-Pullback). C: FQ1 Umsatz 81,6 Mrd (+85% YoY), EPS 1,87 Beat (20.05.). A: FY Umsatz ~216 Mrd (+65%), explosives Mehrjahreswachstum. N: Blackwell/Rubin-Rampe. S: Mega-Cap mit grossen Rueckkaeufen. L: AI-Halbleiter-Leader Nr.1. I: Staerkste institutionelle Beteiligung. M: GRUEN. Earnings-Risiko bis ~August raus."
     },
     {
       "ticker": "GEV",
@@ -92,7 +92,7 @@
   "gefiltert": [
     {
       "ticker": "AVGO",
-      "grund": "Starke CANSLIM-Story (Q2-Guidance ~22 Mrd Umsatz, AI +140% YoY), aber Earnings am 03.06. -- Earnings-Risiko innerhalb 3 Tagen. Erst nach Zahlen bewerten."
+      "grund": "Starke CANSLIM-Story (Q2-Guidance ~22 Mrd Umsatz, AI +140% YoY), aber Earnings am 03.06. -- Earnings-Risiko in 2 Tagen. Erst nach Zahlen bewerten."
     },
     {
       "ticker": "DY",
