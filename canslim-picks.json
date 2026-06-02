@@ -1,13 +1,13 @@
 {
-  "updated": "2026-06-02",
+  "updated": "2026-05-07",
   "market_signal": "GREEN",
-  "market_note": "S&P 500 7.599,96 (+0,26%) und Nasdaq 27.086,81 (+0,42%) am 01.06. -- beide auf neuen Rekord-Schlusskursen, Dow erstmals ueber 51.000. 9. Gewinnwoche in Folge (laengste seit Dez 2023), Mai: S&P +5,2%, Nasdaq +8,4%. Nvidia +6% am 01.06. auf neuem PC-Prozessor treibt AI-Rally, Oel-Spike durch Tech ueberlagert. Klar bullish. HINWEIS: Daten-Provider am 02.06. teils ausgefallen (WebSearch 529 / Finanzportale 403) -- Live-Kurse DELL und XPO in diesem Lauf nicht final bestaetigt.",
+  "market_note": "S&P 500 7.365,12 ATH (+1,46%) und Nasdaq 25.838,94 ATH (+2,02%) am 06.05. -- beide auf neuen Rekordhochs. Iran-Peace-Deal-Hoffnung beflügelt Markt, Oel rueckläufig. Industrials +2,7%, Tech +2,2% fuehren. AMD-Mega-Beat triggert Halbleiter-Rally. Klar bullish.",
   "picks": [
     {
-      "ticker": "DELL",
-      "name": "Dell Technologies",
-      "price": null,
-      "chart_pattern": "Earnings-Gap-Breakout / bestes Tagesergebnis aller Zeiten",
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices",
+      "price": 421.39,
+      "chart_pattern": "Cup with Handle Breakout",
       "signal": "GREEN",
       "canslim": {
         "C": true,
@@ -18,13 +18,13 @@
         "I": true,
         "M": true
       },
-      "note": "KUERZLICH AUSGEBROCHEN. +33% (bestes Tagesergebnis der Firmengeschichte) nach Q1-Beat bei Umsatz UND Gewinn plus angehobener Jahresprognose, getrieben von AI-Server-Nachfrage (Ende Mai). C: Q1 Top- und Bottom-Line-Beat. A: Prognose erhoeht. N: AI-Server-Story + Ausbruch auf Rekordniveau. S: hohe Demand bei AI-Infrastruktur. L: fuehrend bei AI-Servern. I: institutionelle Akkumulation (Rekord-Volumen). M: Markt gruen. Live-Kurs wegen Daten-Ausfall am 02.06. nicht bestaetigt -- vor Einstieg Pullback-Risiko nach +33% beachten."
+      "note": "Mega Q1-Beat: EPS $1,37, Umsatz $10,25B (+38% YoY), Datacenter +57% auf $5,8B. Q2-Guide $11,2B. +18,61% am 06.05. mit Mega-Volumen, bestes Earnings seit 7 Jahren. Cup-Handle aus Jan-Feb-Korrektur ($266 ATH-Region) gebrochen."
     },
     {
-      "ticker": "MNST",
-      "name": "Monster Beverage",
-      "price": 87.38,
-      "chart_pattern": "Cup-Base Breakout (Buy-Point 87,38)",
+      "ticker": "STRL",
+      "name": "Sterling Infrastructure",
+      "price": 881.98,
+      "chart_pattern": "Cup with Handle Fortsetzung",
       "signal": "GREEN",
       "canslim": {
         "C": true,
@@ -35,30 +35,13 @@
         "I": true,
         "M": true
       },
-      "note": "AM BREAKOUT-PUNKT. Zurueck ueber Cup-Base-Buy-Point 87,38, pendelt seit dem Earnings-Breakout am 08.05. um die Einstiegszone -- noch nicht ueberdehnt. C: Q1-Beat trieb Ausbruch. A: langjaehrig konstantes Umsatz-/Gewinnwachstum. N: neuer Buy-Point/52W-Hoch-Zone. S: solides Volumen am Ausbruch. L: Marktfuehrer Energy-Drinks. I: institutionelle Basis. M: Markt gruen. Sektor-Diversifikation (Consumer Staples)."
+      "note": "Q1 EPS $3,59 vs $2,28 (+57% Beat), Umsatz +92%. FY-Guidance auf $18,40-19,05 angehoben (+72% YoY). 7-Tage +70,8%, Datacenter-Backlog +$1,2 Mrd. Kein Earnings-Risiko bis Aug."
     },
     {
-      "ticker": "CCL",
-      "name": "Carnival Corp",
-      "price": 33.00,
-      "chart_pattern": "Cup-with-Handle (Pivot 33, Ziel ~41)",
-      "signal": "GREEN",
-      "canslim": {
-        "C": true,
-        "A": true,
-        "N": true,
-        "S": false,
-        "L": true,
-        "I": true,
-        "M": true
-      },
-      "note": "KURZ VOR BREAKOUT. Grosse Cup-with-Handle ueber steigender 40-Wochen-Linie; Durchbruch der 33er-Zone eroeffnet Mess-Ziel ~41 (+24%). C: starke Earnings-Erholung/Rekordbuchungen. A: deutlich steigende Jahresgewinne aus dem Tief. N: vor Ausbruch auf Mehrjahres-Hoch. S: hohe Aktienzahl aus Pandemie-Dilution (Schwaeche). L: groesster Kreuzfahrt-Anbieter. I: institutionelles Interesse steigt. M: Markt gruen. Sektor-Diversifikation (Travel/Leisure). Einstieg erst bei Durchbruch >33 mit Volumen."
-    },
-    {
-      "ticker": "XPO",
-      "name": "XPO Inc",
-      "price": null,
-      "chart_pattern": "Cup-Base Breakout",
+      "ticker": "VRT",
+      "name": "Vertiv Holdings",
+      "price": 358.92,
+      "chart_pattern": "Cup with Handle bestaetigt",
       "signal": "GREEN",
       "canslim": {
         "C": true,
@@ -69,7 +52,24 @@
         "I": true,
         "M": true
       },
-      "note": "KUERZLICH AUSGEBROCHEN. Cup-Base an einem starken Tag fuer Transportwerte ueberwunden. C: Gewinnwachstum LTL. A: solides Jahreswachstum. N: frischer Cup-Base-Ausbruch. S: handhabbare Aktienzahl. L: fuehrender LTL-Frachtanbieter. I: institutionelle Nachfrage bei Transport-Rotation. M: Markt gruen. Sektor-Diversifikation (Transport/Logistik). Live-Kurs wegen Daten-Ausfall am 02.06. nicht bestaetigt."
+      "note": "Neues ATH $358,92 am 06.05. Q1 EPS $1,17 (+15,8% Beat), Adj-EPS +83%, Umsatz +30%. FY-Guidance erneut angehoben. Cup-Handle aus April-Konsolidierung gebrochen. Kein Earnings-Risiko bis Juli."
+    },
+    {
+      "ticker": "FIX",
+      "name": "Comfort Systems USA",
+      "price": 2003.65,
+      "chart_pattern": "Flat Base Breakout / ATH",
+      "signal": "GREEN",
+      "canslim": {
+        "C": true,
+        "A": true,
+        "N": true,
+        "S": true,
+        "L": true,
+        "I": true,
+        "M": true
+      },
+      "note": "5-Tage-Rally +14%, Marketcap $69B. Q1 EPS $10,51 vs $6,78 (+55% Beat), Umsatz $2,9B (+56% YoY), Backlog rekordhoch. Flat-Base-Breakout aus 5W-Konsolidierung. Earnings ~Juli."
     }
   ]
 }
