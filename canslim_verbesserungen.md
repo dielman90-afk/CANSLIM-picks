@@ -1,5 +1,44 @@
 # CANSLIM-Bericht Verbesserungslog
 
+## Lauf 24 -- 03. Juni 2026 (Mittwoch)
+
+### Was gut lief
+- Marktampel klar GRUEN: S&P 500 7.609,78 ATH (+0,13%, erster Schluss ueber 7.600 -- 6. ATH in Folge, 24. ATH 2026), Nasdaq 27.093,90 (+0,03%), Dow 51.307,79 ATH (+0,45%) am 02.06.
+- Strikte Breakout-Stage-Disziplin: nur 5 saubere Setups aufgenommen -- Qualitaet vor Quantitaet
+- MNST als bestes 'am Pivot'-Setup bestaetigt (~87,50, nur ~2% unter ATH 89,86) -- Consumer-Staples-Diversifikation
+- NVDA als sauberster frischer Tech-Ausbruch gehalten (+6% am 01.06., knapp unter ATH 235,74 -- kaum ueberdehnt)
+- MS (Financials) weiter sauber am ATH-Ausbruch (~208), Technik-Rating 10/10, Earnings erst Juli
+- AAPL NEU: frisches ATH 314,70 am 02.06. vor WWDC -- mit klarer WWDC-Event-Warnung (08.06.) aufgenommen
+- FDX gehalten, aber Kurs auf ~338 korrigiert (post Freight-Spinoff -- altes ~411 nicht vergleichbar) + Earnings-Warnung 23.06.
+- Konsequente Filterung ueberdehnter Setups: MRVL (+33%), HPE (+19% Folgetag), IBM (+50% seit 13.05.) alle als 'weit gelaufen' gefiltert
+- Pullback-Kandidaten korrekt aussortiert: CAT (~7% unter ATH), GEV (weit unter ATH 1.149), WMT (~15% unter ATH), XOM (~13% unter ATH) -- KEIN Breakout
+
+### Probleme
+- Breakout-Universe eng: viele Leader (HPE, IBM, MRVL) bereits ueberdehnt, klassische Diversifizierer (CAT, GEV, WMT, XOM) in Pullbacks statt am Pivot -- daher nur 5 statt 6+ Picks
+- Event-Risiken bei 2 von 5 Picks: AAPL WWDC 08.06. (5 Tage), FDX Earnings 23.06. (3 Wochen) -- beide mit Warnung markiert
+- Geopolitik/Oel zurueck im Fokus: WTI ~95,6 / Brent ~96,9 (6. US-Lagerabbau in Folge, Iran/Hormuz) -- Stagflations-Risiko fuer Marktampel
+- ARDX (Healthcare-Breakout) geprueft, aber Ausbruch ~4 Wochen alt + Small-Cap -- zur Qualitaetswahrung NICHT aufgenommen
+
+### Verbesserungen fuer naechsten Lauf (04.06.)
+1. POST-EVENT MONITORING (KRITISCH):
+   - AAPL: WWDC 08.06. -- bei Enttaeuschung sofort YELLOW; GREEN solange ueber ~300 (Ausbruchszone halten)
+   - FDX: Earnings 23.06. -- Position vor Bericht ueberdenken; GREEN solange ueber post-Spinoff-Ausbruchszone ~325
+   - MNST: GREEN solange ueber Pivot ~87; bei Volumen-Schub ueber 90 bestaetigt
+   - NVDA: GREEN solange ueber ~218; bei Bruch unter 215 YELLOW
+   - MS: GREEN solange ueber ~200
+2. MARKTAMPEL-MONITORING:
+   - S&P 7.609 ATH -- GRUEN solange ueber ~7.450; bei Bruch unter 7.300 GELB
+   - Oel-Watch: bei Brent ueber $100 + Hormuz-Eskalation Risiko fuer Marktampel
+   - Rotation in Industrials/Defensive/Energy weiter beobachten -- echte 'Real-Economy'-Breakouts am Pivot bevorzugen
+3. Slack-Formatierung (bewaehrt): nur ASCII, keine Emojis/EUR-Zeichen, Umlaute ae/oe/ue, DACH-Zahlen, < 3.500 Zeichen
+4. Datenquellen (funktionierend): fool.com, thestreet.com, finance.yahoo.com, cnbc.com, 247wallst.com, tradingkey.com, marketbeat.com, macrotrends.net, investing.com; BLOCKIERT: stageanalysis.substack.com (403), stockanalysis.com (intermittent)
+5. Kandidatenpool fuer naechsten Lauf:
+   - MNST #1 (am Pivot), NVDA #2 (frisch), MS #3 (ATH), AAPL #4 (post-WWDC neu bewerten), FDX #5 (Earnings-Watch)
+   - Watchlist fuer frische Pivots: saubere Industrials/Financials/Energy in Rotation; ARDX (Healthcare) bei neuem Handle erneut pruefen
+   - Ueberdehnte Leader (MRVL, HPE, IBM) erst bei Pullback in Ausbruchszone / Handle-Bildung wieder aufnehmen
+6. JSON-Export: Read+Write nach Projektordner + Push via git auf main erfolgreich (run 24)
+
+
 ## Lauf 21 -- 07. Mai 2026 (Donnerstag)
 
 ### Was gut lief

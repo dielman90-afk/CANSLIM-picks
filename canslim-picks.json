@@ -1,57 +1,37 @@
 {
-  "updated": "2026-06-02",
-  "run": 23,
+  "updated": "2026-06-03",
+  "run": 24,
   "market_signal": "GREEN",
-  "market_note": "S&P 500 7.613,58 ATH (+0,44%) und Nasdaq 27.153,52 (+0,67%) am 01.06. -- alle drei US-Indizes auf Rekordhochs, Dow ueber 51.000. 9. Gewinnwoche in Folge, Mai: S&P +5,2% / Nasdaq +8,4%. ~85% der S&P-500-Firmen schlagen Q1-Schaetzungen (im Schnitt +16,7%). Nvidia (+6%, neuer PC-/Vera-Prozessor), HPE (+30-40% nach Earnings) und IBM (+15% Quantum) treiben. Am 02.06. Futures leicht ruecklaeufig nach Rekordschluss, Oel gibt nach. Rotation 2026 zunehmend in Industrials/Consumer-Defensive/Energy. Markt klar bullish/GRUEN. Fokus dieses Laufs: ausschliesslich Breakout-Stage (kurz davor / am Pivot / frisch ausgebrochen); ueberdehnte und schwache Setups konsequent gefiltert.",
+  "market_note": "S&P 500 7.609,78 ATH (+0,13%, erster Schluss ueber 7.600 -- 6. ATH in Folge, 24. ATH 2026), Nasdaq 27.093,90 (+0,03%) und Dow 51.307,79 ATH (+0,45%) am 02.06. Chip-Boom treibt weiter: Marvell +33% (Jensen-Huang-'Trillion-Dollar'-Endorsement auf der Computex), HPE +19%. Rotation 2026 zunehmend in Industrials/Consumer-Defensive/Energy ('Real-Economy'-Trade neben AI). RISIKO: Oel zieht an -- WTI ~95,6 / Brent ~96,9 USD (6. US-Lagerabbau in Folge, Iran/Hormuz-Spannungen) -- Stagflations-/Geopolitik-Risiko im Auge behalten. Markt klar bullish/GRUEN solange S&P ueber ~7.450. Fokus dieses Laufs: ausschliesslich Breakout-Stage (kurz davor / am Pivot / frisch ausgebrochen); ueberdehnte und schwache Setups konsequent gefiltert. Qualitaet vor Quantitaet -- 5 saubere Setups.",
   "filtered_out": [
-    "CCL: ~27,50 USD -- ca. 17% unter Pivot 33, KEIN Near-Breakout (raus)",
-    "CRWD: Earnings 03.06. -- Binaerrisiko vor Bericht (raus)",
-    "AVGO: Earnings 03.06. -- Binaerrisiko vor Bericht (raus)",
-    "GEV: +71% YTD, ueber April-ATH hinaus -- weit gelaufen (raus)",
-    "VRT: nur +3% am 01.06., steigendes Short-Interest -- kein Breakout (raus)",
-    "XPO: ~221 USD unter April-ATH 231 -- Konsolidierung statt Ausbruch, FDX besseres Transport-Setup (raus)",
-    "DELL: +33% Earnings-Gap -- redundant zu HPE (AI-Server), zur Diversifikation HPE bevorzugt"
+    "MRVL: +33% am 02.06. auf ~291 USD nach Huang-Endorsement -- massiv ueberdehnt, kein sauberer Einstieg (raus)",
+    "HPE: weiterer +19% am 02.06. nach +30-40%-Earnings-Gap am 01.06. -- extrem ueberdehnt (raus)",
+    "IBM: +50% seit 13.05. (~329 USD), ueberkauft, P/E 28, Pullback-Risiko -- weit gelaufen (raus)",
+    "CAT: ~865 USD, ~7% unter ATH 926 -- Konsolidierung/Pullback, kein Breakout (raus)",
+    "GEV: ~950 USD vs ATH 1.149 -- deutlich unter ATH, kein Breakout (raus)",
+    "WMT: ~114,60 USD, ~15% unter ATH 135 -- tiefer Pullback, kein Breakout (raus)",
+    "XOM: ~150 USD vs ATH 176 -- Erholung aber ~13% unter ATH, kein Breakout (raus)"
   ],
   "picks": [
     {
-      "ticker": "HPE",
-      "name": "Hewlett Packard Enterprise",
-      "price": 58.90,
-      "chart_pattern": "Earnings-Gap-Breakout auf ATH-Zone",
-      "stage": "KUERZLICH AUSGEBROCHEN (01.06.)",
+      "ticker": "MNST",
+      "name": "Monster Beverage",
+      "price": 87.50,
+      "chart_pattern": "Cup-Base Breakout (Buy-Point ~89,86 / ATH 01.06.)",
+      "stage": "AM BREAKOUT-PUNKT",
       "signal": "GREEN",
       "canslim": { "C": true, "A": true, "N": true, "S": true, "L": true, "I": true, "M": true },
-      "note": "+30-40% Earnings-Gap am 01.06. nach groesstem EPS-Beat seit 2018 (Q2 EPS 0,79 vs 0,54), Umsatz +40% auf 10,68 Mrd, Server-Unit 5,45 Mrd; FY-EPS-Guidance um vollen Dollar auf 3,35-3,45 angehoben; neuer Nvidia-Vera-Server-Rack (Computex). MS-Kursziel auf 71 (von 33). C: Mega-EPS-/Umsatz-Beat. A: FY-Prognose deutlich erhoeht. N: Vera-CPU-Server + ATH-Ausbruch. S: Rekord-Backlog, AI-Server-Nachfrage. L: Co-Leader AI-Server-Infrastruktur. I: Rekord-Volumen = institutionelle Akkumulation. M: Markt gruen. WARNUNG: nach +30-40% an einem Tag stark ueberdehnt -- Einstieg nur auf Pullback in die Ausbruchszone / bei Handle-Bildung."
-    },
-    {
-      "ticker": "IBM",
-      "name": "International Business Machines",
-      "price": 327.00,
-      "chart_pattern": "Multi-Year-Base-Breakout auf ATH",
-      "stage": "KUERZLICH AUSGEBROCHEN (01.06.)",
-      "signal": "GREEN",
-      "canslim": { "C": true, "A": true, "N": true, "S": true, "L": true, "I": true, "M": true },
-      "note": "+15% am 01.06. auf ATH ~328 nach Quantum-Push; Barclays sieht 'Nvidia-Playbook', Kursziel 350. Naechste Earnings erst 22.07. (kein kurzfristiges Risiko). C: solides Gewinnwachstum (Software/Quantum). A: stabile Jahresgewinne. N: Quantum-Computing-Katalysator + ATH-Ausbruch aus mehrjaehriger Basis. S: handhabbare Aktienzahl. L: Enterprise-IT-/Quantum-Leader. I: starkes Volumen am Ausbruch. M: Markt gruen. Sektor-Diversifikation (Enterprise-IT statt reine AI-Hardware). Nach +15% leicht erweitert -- Pullback bevorzugt."
+      "note": "~87,50 USD, nur ~2% unter ATH 89,86 (01.06.) -- pendelt direkt an der Cup-Base-Einstiegszone, NICHT ueberdehnt. MS-Kursziel auf 103 (Overweight). C: Q1-Gewinn-Beat trieb den Ausbruch. A: langjaehrig konstantes Umsatz-/Gewinnwachstum. N: neuer Buy-Point an der 52W-Hoch-Zone. S: solides Ausbruchsvolumen, laufende Rueckkaeufe. L: Marktfuehrer Energy-Drinks. I: institutionelle Akkumulation. M: Markt gruen. Bestes 'am Pivot'-Setup der Liste, sauberer Einstieg ohne Ueberdehnung -- Consumer-Staples-Diversifikation."
     },
     {
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "price": 230.00,
-      "chart_pattern": "Ausbruch auf neue ATH-Zone",
+      "price": 228.00,
+      "chart_pattern": "Ausbruch in ATH-Zone (knapp unter ATH 235,74)",
       "stage": "KUERZLICH AUSGEBROCHEN (01.06.)",
       "signal": "GREEN",
       "canslim": { "C": true, "A": true, "N": true, "S": true, "L": true, "I": true, "M": true },
-      "note": "+6% am 01.06. auf neue ATH-Zone nach Launch des neuen PC-Prozessors und Vera-CPU (in voller Produktion). C: anhaltend explosives Gewinnwachstum. A: aussergewoehnliches Jahreswachstum. N: neuer PC-/Vera-CPU-Produktzyklus. S: enorme Nachfrage, beherrschbare Float. L: unangefochtener AI-Chip-Leader. I: breite institutionelle Basis. M: Markt gruen. Sauberster der frischen Tech-Ausbrueche (nur +6%, kaum ueberdehnt) -- gutes Risiko/Chance-Verhaeltnis am Ausbruch."
-    },
-    {
-      "ticker": "MNST",
-      "name": "Monster Beverage",
-      "price": 89.00,
-      "chart_pattern": "Cup-Base Breakout (Buy-Point 87,38)",
-      "stage": "AM BREAKOUT-PUNKT",
-      "signal": "GREEN",
-      "canslim": { "C": true, "A": true, "N": true, "S": true, "L": true, "I": true, "M": true },
-      "note": "Knapp ueber Cup-Base-Buy-Point 87,38, pendelt seit dem Earnings-Breakout am 08.05. um die Einstiegszone -- noch NICHT ueberdehnt. MS-Kursziel auf 103 (von 100), Overweight. C: Q1-Beat trieb Ausbruch. A: langjaehrig konstantes Umsatz-/Gewinnwachstum. N: neuer Buy-Point / 52W-Hoch-Zone. S: solides Volumen am Ausbruch. L: Marktfuehrer Energy-Drinks. I: institutionelle Basis. M: Markt gruen. Sektor-Diversifikation (Consumer Staples) -- bestes 'am Pivot'-Setup der Liste, sauberer Einstieg ohne Ueberdehnung."
+      "note": "+6,3% am 01.06. auf ~224 USD, Handelsspanne 02.06. 224-232, knapp unter ATH 235,74 (14.05.) -- frischer Ausbruch, kaum ueberdehnt. Katalysator: PC-Prozessor-Launch + Vera-CPU in Produktion (Computex). C: anhaltend explosives Gewinnwachstum. A: aussergewoehnliches Jahreswachstum. N: neuer PC-/Vera-CPU-Produktzyklus, ATH-Zone. S: enorme Nachfrage, beherrschbare Float. L: unangefochtener AI-Chip-Leader. I: breite institutionelle Basis. M: Markt gruen. Sauberster der frischen Tech-Ausbrueche (nur +6%) -- gutes Risiko/Chance-Verhaeltnis."
     },
     {
       "ticker": "MS",
@@ -61,17 +41,27 @@
       "stage": "AM / KNAPP NACH BREAKOUT",
       "signal": "GREEN",
       "canslim": { "C": true, "A": true, "N": true, "S": true, "L": true, "I": true, "M": true },
-      "note": "Neues ATH ~208 (29.05.), stetiger Aufwaertstrend, kein paraboler Run -- nicht ueberdehnt. Naechste Earnings erst Mitte Juli. C: solides Gewinnwachstum (Wealth Mgmt/Trading). A: stabile Jahresgewinne. N: ATH-Ausbruch. S: handhabbare Aktienzahl. L: fuehrende Investmentbank / Wealth-Manager. I: institutionelle Akkumulation. M: Markt gruen. Sektor-Diversifikation (Financials)."
+      "note": "Neues ATH ~208 (29.05.), stetiger Aufwaertstrend ohne parabolen Run -- nicht ueberdehnt, ChartMill-Technik-Rating 10/10. Naechste Earnings erst Mitte Juli (kein kurzfristiges Risiko). C: solides Gewinnwachstum (Wealth Mgmt/Trading). A: stabile Jahresgewinne. N: ATH-Ausbruch aus enger Konsolidierung. S: handhabbare Aktienzahl, Rueckkaeufe. L: fuehrende Investmentbank / Wealth-Manager. I: institutionelle Akkumulation. M: Markt gruen. Financials-Diversifikation -- bestaetigt aus Vorlauf, weiter sauber am Pivot."
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "price": 314.70,
+      "chart_pattern": "Frischer ATH-Ausbruch (Flat-Base)",
+      "stage": "FRISCH AUSGEBROCHEN (02.06.)",
+      "signal": "GREEN",
+      "canslim": { "C": true, "A": true, "N": true, "S": true, "L": true, "I": true, "M": true },
+      "note": "Frisches ATH 314,70 am 02.06. (Hoch 315,45) nach Analysten-Upgrades (PT 380-385) vor der WWDC. C: solides Gewinnwachstum (Services-Marge). A: stabile, hohe Jahresgewinne. N: frischer ATH-Ausbruch, KI-/Siri-Katalysator. S: massive Rueckkaeufe verknappen die Float. L: Mega-Cap-Tech-/Consumer-Leader. I: breite institutionelle Basis, steigende Kursziele. M: Markt gruen. WARNUNG: WWDC am 08.06. (5 Tage) = binaeres Event-Risiko; +22% seit Q2-Start leicht erweitert -- Einstieg bevorzugt in Tranchen / auf Pullback in die Ausbruchszone."
     },
     {
       "ticker": "FDX",
       "name": "FedEx",
-      "price": 408.85,
-      "chart_pattern": "Ausbruch auf ATH",
-      "stage": "KUERZLICH AUSGEBROCHEN",
+      "price": 338.00,
+      "chart_pattern": "Ausbruch auf ATH (post Freight-Spinoff)",
+      "stage": "FRISCH AUSGEBROCHEN (01.06.)",
       "signal": "GREEN",
       "canslim": { "C": true, "A": true, "N": true, "S": true, "L": true, "I": true, "M": true },
-      "note": "Neues ATH ~408,85, frischer Ausbruch bei Transport-Staerke. WARNUNG: Q4-FY26-Earnings am 23.06. (~3 Wochen) -- Position vor Bericht ueberdenken. C: Gewinnwachstum durch Kostendisziplin / Network 2.0. A: solides Jahreswachstum. N: ATH-Ausbruch. S: handhabbare Aktienzahl, laufende Rueckkaeufe. L: Logistik-Leader. I: institutionelle Nachfrage in Transport-Rotation. M: Markt gruen. Sektor-Diversifikation (Transport/Logistik)."
+      "note": "~338 USD, knapp unter frischem post-Spinoff-ATH 341,14 (01.06.), +45% YTD -- frischer Ausbruch in der Transport-Rotation. HINWEIS: Kurs ~338 ist NACH dem Freight-Spinoff (nicht mit altem ~411 vergleichbar). C: Gewinnwachstum durch Kostendisziplin / Network 2.0. A: solides Jahreswachstum. N: ATH-Ausbruch / Neubewertung nach Spinoff. S: handhabbare Aktienzahl, laufende Rueckkaeufe. L: Logistik-/Transport-Leader. I: institutionelle Nachfrage in Real-Economy-Rotation. M: Markt gruen. Transport/Logistik-Diversifikation. WARNUNG: Q4-FY26-Earnings am 23.06. (~3 Wochen) = Binaerrisiko -- Position vor Bericht ueberdenken."
     }
   ]
 }
