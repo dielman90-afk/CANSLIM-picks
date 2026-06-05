@@ -1,46 +1,58 @@
 {
-  "updated": "2026-06-04",
-  "run": 25,
+  "updated": "2026-06-05",
+  "run": 26,
   "market_signal": "YELLOW",
-  "market_note": "S&P 500 7.553,68 (-0,74%, 9-Tage-Gewinnserie gerissen, vom ATH zurueck), Dow 50.687,07 (-620,72 / -1,21%), Nasdaq 26.853,98 (-0,89%) am 03.06. Ausloeser: neue US-Iran-Schlaege -> Oel-Spike (WTI 96,02 +2,4% / Brent 97,81 +1,9%, Richtung 100 USD) + steigende Treasury-Renditen -> Inflations-/Stagflations-Sorge. AI-Leader AVGO trotz Q2-Beat (EPS 2,44, AI-Umsatz 10,8 Mrd verdoppelt) -5 bis -8% nachboerslich ('sell the news'). MARKTAMPEL VON GRUEN AUF GELB HERABGESTUFT: S&P zwar noch ueber der ~7.450-Linie, aber Regime-Wechsel (Eskalation real statt nur Spannung, Serie gebrochen, Leadership/Semis wackeln) -> erhoehte Selektivitaet, engere Stops. Fokus dieses Laufs: ausschliesslich saubere Breakout-Stage-Setups (kurz davor / am Pivot / frisch ausgebrochen), defensiv getiltet; ueberdehnte (MRVL/HPE/IBM/CRDO) und reine Erholungs-Namen (XOM/CVX) konsequent gefiltert; AAPL wegen binaerem WWDC-Risiko (08.06.) im risk-off-Tape diesen Lauf gefiltert. Qualitaet vor Quantitaet -- nur 3 Picks.",
+  "market_note": "Stand 04.06. (Do) Schluss: Dow 51.561,93 (+874,86 / +1,73%) REKORDSCHLUSS, S&P 500 7.584,31 (+0,41%, zurueck Richtung ATH ~7.609), Nasdaq 26.830,98 (-0,09%) -- klare Sektor-ROTATION RAUS aus Tech/Semis REIN in Non-Tech (UNH +5%, JPM +3%, WMT +1%). Breite verbessert sich deutlich (S&P Equal-Weight auf Rekord = gesunde Marktbreite). ABER: Halbleiter-Leadership bricht -- AVGO -13,4% nach schwacher AI-Chip-Guidance, NVDA ~216 unter Pivot 218, Nasdaq divergiert rot. MARKTAMPEL BLEIBT GELB (konstruktiv/verbessernd): Dow-ATH + Verbreiterung sind bullish, aber wackelnde Tech-Fuehrung haelt uns selektiv. Strategie dieses Laufs: ausschliesslich saubere Breakout-Setups in den ROTATIONS-GEWINNERN (Financials/Healthcare/Industrials/Staples), die am/knapp ueber Pivot stehen und NICHT ueberdehnt sind; cracking-Semis (NVDA/AVGO/CLS), Erholungs-Namen ohne frischen Ausbruch (JPM/UNH), Pullbacks (COST) und Event-Risiken (AAPL/WWDC 08.06.) konsequent gefiltert. Qualitaet vor Quantitaet -- 4 hochwertige, breit diversifizierte Picks. S&P GREEN-Linie ~7.450.",
   "filtered_out": [
-    "AVGO: Q2-Beat (EPS 2,44; AI-Umsatz 10,8 Mrd verdoppelt; Guide naechstes Q 29,4 Mrd > 28,53 Konsens) ABER Aktie -5 bis -8% nachboerslich auf ~454 -- 'buy the rumor, sell the news', Software knapp unter Whisper -- KEIN Ausbruch (raus)",
-    "AAPL: 310,26 (-1,57%) -- WWDC 08.06. in 4 Tagen = binaeres Event-Risiko im risk-off-Tape; diesen Lauf gefiltert, nach WWDC neu bewerten (GREEN solange ueber 300) (raus)",
-    "FDX: 327,24 -- faellt von 338 auf den post-Spinoff-Pivot ~325 zurueck, Breakout schwaechelt + Q4-Earnings 23.06. -- nicht mehr sauber am Pivot (raus)",
-    "CRDO: ~12% unter ATH ~240 nach parabolem Run (Q4-Earnings 01.06.) -- ueberdehnt/Pullback, kein sauberer Einstieg (raus)",
-    "MRVL/HPE/IBM: weiter ueberdehnt (MRVL +33% auf ~291; HPE +26% Earnings-Gap; IBM +50% seit 13.05.) -- weit gelaufen (raus)",
-    "XOM 153,65 (~13% unter ATH 176,41) / CVX 188,88 (~12% unter ATH 214,71): Oel-Rally hebt die Majors, aber nur Erholung -- KEIN Breakout am Pivot (raus)"
+    "NVDA: ~216,34 -- unter Pivot 218 (Lauf-25-Regel: Bruch unter 215 = raus), ~8% unter ATH 235,74; Semi-Leadership cracking nach AVGO -13,4%, Nasdaq rot -- schwaechelndes Setup, diesen Lauf raus",
+    "AVGO: ~407 (-13,4%) nach schwacher AI-Chip-Guidance trotz Beat -- 'sell the news', KEIN Ausbruch, belastet ganzen Semi-Komplex (raus)",
+    "CLS (Celestica): ~426,55 am ATH, aber 41,5x Forward nach parabolem Run -- ueberdehnter AI-Infra-Name im Semi-risk-off-Tape, kein sauberer Einstieg (raus)",
+    "JPM: ~309 -- ~6-7% unter ATH-Schluss 332,91 (06.01.), Erholung im Bankenrally aber KEIN frischer Neuhoch-Ausbruch am Pivot (raus)",
+    "UNH: ~377 (+5% auf BofA-Upgrade + PT-Anhebungen) -- Turnaround-/Erholungs-Bounce mit Lawsuit-Risiko, kein sauberer CANSLIM-Neuhoch-Leader (A beschaedigt) (raus)",
+    "COST: ~961,83 -- ~12% unter ATH 1.094,32 (19.05.), klarer PULLBACK statt Ausbruch (raus)",
+    "AAPL: WWDC 08.06. in 3 Tagen = binaeres Event-Risiko -- diesen Lauf gefiltert, nach WWDC neu bewerten (raus)",
+    "MRVL/HPE/IBM: weiter ueberdehnt (MRVL +33%) -- weit gelaufen (raus)"
   ],
   "picks": [
     {
       "ticker": "MNST",
       "name": "Monster Beverage",
-      "price": 88.00,
-      "chart_pattern": "Cup-/Flat-Base am Pivot (Buy-Point ~89,2 / ATH 27.05.)",
-      "stage": "AM BREAKOUT-PUNKT",
+      "price": 90.12,
+      "chart_pattern": "Cup-/Flat-Base, Ausbruch ueber Pivot ~89,2 / altes ATH ~89,86",
+      "stage": "FRISCH AUSGEBROCHEN (knapp ueber Pivot)",
       "signal": "GREEN",
       "canslim": { "C": true, "A": true, "N": true, "S": true, "L": true, "I": true, "M": true },
-      "note": "~88 USD, nur ~1-2% unter ATH ~89,2 -- pendelt direkt an der Pivot-Zone, NICHT ueberdehnt. Defensives Consumer-Staples-Profil = relative Staerke im risk-off-Tape vom 03.06. MS-Kursziel auf 103 angehoben (Overweight). C: Q1-Umsatz-Beat 2,35 Mrd USD, Intl-Umsatz +44,9%. A: langjaehrig konstantes Umsatz-/Gewinnwachstum. N: neuer Buy-Point an der 52W-Hoch-Zone. S: laufende Rueckkaeufe, kontrollierte Float. L: Marktfuehrer Energy-Drinks. I: institutionelle Akkumulation. M: Markt GELB -- defensiver Charakter ist hier Vorteil. Bestes 'am Pivot'-Setup der Liste, sauberer Einstieg ohne Ueberdehnung. GREEN solange ueber Pivot ~87."
+      "note": "~90,12 USD am 04.06. -- schiebt frisch UEBER das alte ATH/Pivot ~89,2-89,86, nur ~1% darueber = NICHT ueberdehnt, sauberster frischer Ausbruch der Liste. Defensives Consumer-Staples-Profil = relative Staerke in der Rotation aus Tech. MS-Kursziel 103 (Overweight). C (Current Earnings): Q1-Umsatz-Beat ~2,35 Mrd USD, Intl-Umsatz +44,9%. A (Annual Earnings): langjaehrig konstantes Umsatz-/Gewinnwachstum. N (New): neuer Buy-Point, Ausbruch ueber 52W-Hoch. S (Supply/Demand): laufende Rueckkaeufe, kontrollierte Float. L (Leader): Marktfuehrer Energy-Drinks, hohe Relative Staerke. I (Institutions): institutionelle Akkumulation. M (Market): GELB -- defensiver Charakter ist hier Vorteil. GREEN solange ueber Pivot ~88."
     },
     {
       "ticker": "MS",
       "name": "Morgan Stanley",
-      "price": 205.00,
-      "chart_pattern": "ATH-Ausbruch aus enger Basis (52W-Hoch 208,06)",
-      "stage": "AM PIVOT (leichter Pullback in die Ausbruchszone)",
+      "price": 218.27,
+      "chart_pattern": "ATH-Ausbruch aus enger Basis (ueber alte 208-212-Zone)",
+      "stage": "FRISCH AUSGEBROCHEN (neues ATH)",
       "signal": "GREEN",
       "canslim": { "C": true, "A": true, "N": true, "S": true, "L": true, "I": true, "M": true },
-      "note": "ATH 208,06 (29.05.); mit dem Gesamtmarkt am 03.06. leicht zurueck (~205) -- testet die Ausbruchszone, nicht ueberdehnt. Profitiert vom Zins-/Rendite-Spike am 03.06. (Financials-Beneficiary). Naechste Earnings erst Mitte Juli (kein kurzfristiges Risiko). C: solides Gewinnwachstum (2025 EPS +27%). A: stabile Jahresgewinne, 9,3 Bio USD Client Assets. N: ATH-Ausbruch aus enger Konsolidierung. S: handhabbare Aktienzahl, Rueckkaeufe. L: fuehrende Investmentbank / Wealth-Manager. I: institutionelle Akkumulation. M: Markt GELB -- Financials/Zins-Anker defensiv. GREEN solange ueber ~200; Financials-Diversifikation."
+      "note": "~218,27 USD am 04.06. -- bricht mit dem Banken-Rally (Rotation in Financials, JPM +3%) frisch auf neues ATH aus der 208-212-Konsolidierung aus. Direkter Rotations-Gewinner. Naechste Earnings erst 15.07. (kein kurzfristiges Event-Risiko). C (Current Earnings): letztes Q EPS 3,43 USD vs 3,02 erwartet (+13,5% Surprise). A (Annual Earnings): stabile Jahresgewinne, ~9,3 Bio USD Client Assets. N (New): ATH-Ausbruch aus enger Basis + Anthropic-IPO-Mandat. S (Supply/Demand): handhabbare Aktienzahl, Rueckkaeufe. L (Leader): fuehrende Investmentbank / Wealth-Manager. I (Institutions): institutionelle Akkumulation. M (Market): GELB -- Financials profitieren von Rotation/Zinsen. GREEN solange ueber ~212."
     },
     {
-      "ticker": "NVDA",
-      "name": "NVIDIA",
-      "price": 221.79,
-      "chart_pattern": "Pullback an Pivot in der ATH-Zone (ATH 235,74)",
-      "stage": "AM PIVOT / KUERZLICH AUSGEBROCHEN -- abkuehlend",
+      "ticker": "CAT",
+      "name": "Caterpillar",
+      "price": 940.48,
+      "chart_pattern": "Ausbruch ueber alten ATH-Schluss 926,93 (06.05.), knapp unter 52W-Hoch 946,83",
+      "stage": "FRISCH AUSGEBROCHEN / AM PIVOT",
       "signal": "GREEN",
       "canslim": { "C": true, "A": true, "N": true, "S": true, "L": true, "I": true, "M": true },
-      "note": "~221,79 USD nach Pullback von ~228, ~6% unter ATH 235,74 (14.05.), haelt Pivot ~218 -- NICHT ueberdehnt, aber Momentum am 03.06. abgekuehlt (Markt risk-off, AVGO-Earnings-Selloff belastet Semis). C: anhaltend explosives Gewinnwachstum. A: aussergewoehnliches Jahreswachstum. N: PC-Prozessor-/Vera-CPU-Produktzyklus (Computex). S: enorme Nachfrage, beherrschbare Float. L: unangefochtener AI-Chip-Leader. I: breite institutionelle Basis. M: Markt GELB. Sauberster grosser Semi (vs. ueberdehnte MRVL/HPE), aber im risk-off eng stoppen. WARNUNG: GREEN solange ueber 218; Bruch unter 215 = YELLOW/raus."
+      "note": "940,48 USD am 04.06. (+1,54%) -- schliesst ueber dem alten ATH-Schluss 926,93, direkt unter dem 52W-Hoch 946,83 = frischer Neuhoch-Ausbruch, nicht ueberdehnt. Industrials sind ein fuehrender Rotations-Sektor (Capex fuer AI-Datacenter-Strom, Bau, Defense, Energie); bullisher MACD-Crossover triggert. Diversifikation weg von Tech. C (Current Earnings): solides Q-Momentum, Gewinnerholung. A (Annual Earnings): zyklisch starke Jahresgewinne, hohe FCF. N (New): Neuhoch-Ausbruch + AI-Power-Story (Datacenter-Generatoren/Turbinen). S (Supply/Demand): konsequente Rueckkaeufe verknappen Float. L (Leader): globaler Marktfuehrer Bau-/Bergbaumaschinen. I (Institutions): breite institutionelle Basis. M (Market): GELB -- Real-Economy-Breakout profitiert von Verbreiterung. GREEN solange ueber ~920."
+    },
+    {
+      "ticker": "LLY",
+      "name": "Eli Lilly",
+      "price": 1125.27,
+      "chart_pattern": "Rueckkehr an das ATH 1.126,80 (28.05.) -- Ausbruchsversuch",
+      "stage": "AM BREAKOUT-PUNKT (direkt am ATH)",
+      "signal": "GREEN",
+      "canslim": { "C": true, "A": true, "N": true, "S": true, "L": true, "I": true, "M": true },
+      "note": "1.125,27 USD am 04.06. (+4,3%) -- praktisch AM ATH 1.126,80 (nur 0,1% darunter), drueckt nach starkem Tag direkt gegen den Pivot. Healthcare ist ein fuehrender Rotations-Sektor; LLY mit bestem Monat 2026. Katalysator: CVS-Formulary von Novo zurueckgewonnen + starke orale GLP-1-Daten (Foundayo). GF-Score 98. C (Current Earnings): Blockbuster-Q1 (+9,8% am Earnings-Tag). A (Annual Earnings): aussergewoehnliches mehrjaehriges Gewinnwachstum (GLP-1). N (New): neuer Produkt-/Indikations-Zyklus (Cholesterin/Adipositas), Ausbruchsversuch am ATH. S (Supply/Demand): grosse, aber von Nachfrage getragene Float. L (Leader): unangefochtener GLP-1-/Pharma-Leader, erste 1-Bio-Healthcare. I (Institutions): breite institutionelle Akkumulation. M (Market): GELB -- defensives Healthcare ist Rotations-Gewinner. GREEN bei Schub ueber 1.127; unter ~1.080 neu bewerten."
     }
   ]
 }
