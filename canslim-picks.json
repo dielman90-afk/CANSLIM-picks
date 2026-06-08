@@ -1,18 +1,19 @@
 {
-  "updated": "2026-06-07",
-  "run": 28,
+  "updated": "2026-06-08",
+  "run": 29,
   "market_signal": "YELLOW",
-  "market_note": "Stand 07.06. (So) -- Boerse geschlossen, massgeblich bleibt der Schluss vom Fr 05.06.: scharfer DISTRIBUTIONSTAG. S&P 500 7.383,74 (-2,64%), Nasdaq 25.709,43 (-4,18%, schwaechster Tag seit Apr 2025), Dow 50.866,78 (-1,35%). Ausloeser: starker US-Arbeitsmarkt (Mai +172k vs ~85k erwartet) treibt 10J-Rendite ueber 4,5% / 30J ueber 5% und verschiebt Zinssenkungs-Erwartungen -- AI/Semi-Trade kippt (MRVL -16%, MU -13%, AMD/INTC -11%, NVDA -5,9%, AVGO ~-15% nach weicher AI-Guidance, ~1 Bio USD Marktwert ausradiert). ROTATION raus aus Tech in Small Caps (Russell 2000 +1,45%) und Defensive/Staples -- diese sind aber ueberwiegend oversold-Bounces im PULLBACK-Modus, KEINE sauberen Ausbrueche. MARKTAMPEL GELB (Uptrend unter Druck): erster grosser Distributionstag nach Rekorden, Tech-Leadership gebrochen, ABER S&P weiter ueber 50/200-Tage-Linie (Nasdaq unter 50-Tage, ueber 200-Tage). KRITISCHER KATALYSATOR diese Woche: US-VPI (CPI) am Mi 10.06. -- heisser Print + weiterer Renditeanstieg koennte auf ROT kippen; FOMC am 16./17.06. Strategie: ausschliesslich bestaetigte relative-Staerke-Leader, die AM bzw. UEBER ihrem Pivot AM Abverkaufstag standgehalten haben; reduzierte Positionsgroesse, enge Stops, KEIN Chasing von Semis/AI. Qualitaet vor Quantitaet -- nur 3 saubere Setups: LLY (frisches ATH am Distributionstag), MNST (haelt Pivot/ATH), MS (frischer Ausbruch in Ruecksetzer / YELLOW). Cracking-Semis, Pullback-Staples (KO/MCD/SHW/PGR/WMT/COST/ABBV), Korrektur GEV, Event-Risk AAPL (WWDC 08.06.) und Digesting CAT konsequent gefiltert. S&P-Risikolinie: unter ~7.250 Richtung ROT pruefen.",
+  "market_note": "Stand Mo 08.06. (Handelswoche-Start) -- Bezug bleibt der Schluss vom Fr 05.06.: scharfer DISTRIBUTIONSTAG. S&P 500 7.383,74 (-2,64%), Nasdaq 25.709,43 (-4,18%, schwaechster Tag seit Apr 2025), Dow 50.866,78 (-1,35%). Ausloeser: heisser US-Arbeitsmarkt (Mai +172k) treibt 10J-Rendite auf ~4,54% und verschiebt Zinssenkungs-Erwartungen -- AI/Semi-Trade kippt (AVGO ~-13% nach weicher AI-Guidance, MRVL/MU/AMD/INTC/NVDA scharf rot, ~1 Bio USD Marktwert ausradiert). KLARE ROTATION am Abverkaufstag in Defensive: Staples (XLP gruen), Healthcare (XLV) und Financials (XLF) schliessen GRUEN, waehrend Tech (XLK) faellt. MARKTAMPEL GELB (Uptrend unter Druck): erster grosser Distributionstag nach Rekorden, Tech-Leadership gebrochen, ABER S&P weiter ueber 50/200-Tage-Linie. KRITISCHER KATALYSATOR diese Woche: US-VPI (CPI) am Mi 10.06., 14:30 MESZ -- Wells-Fargo-Erwartung Headline +0,5% m/m / +4,2% y/y, Kern +0,2% m/m / +2,8% y/y; heisser Print + weiterer Renditeanstieg koennte auf ROT kippen; neuer Fed-Chef Warsh, FOMC 16./17.06. Strategie: ausschliesslich bestaetigte relative-Staerke-Leader aus den GRUENEN Defensiv-/Financial-Sektoren, die AM bzw. UEBER ihrem Pivot AM Abverkaufstag standgehalten haben; reduzierte Positionsgroesse, enge Stops, KEIN Chasing von Semis/AI, KEINE neuen Kaeufe unmittelbar vor dem CPI ueberdehnen. Qualitaet vor Quantitaet -- nur 3 saubere Setups: LLY (haelt nahe ATH am Distributionstag), MNST (haelt Pivot/ATH), MS (frischer Ausbruch in Ruecksetzer / YELLOW). Cracking-Semis, Pullback-Staples (KO/MCD/SHW/PGR/WMT/COST/ABBV), Korrektur GEV/CAT und Event-Risk AAPL (WWDC ab 08.06.) konsequent gefiltert. S&P-Risikolinie: unter ~7.250 Richtung ROT pruefen, GELB-Bestaetigung erst mit ruhigem CPI + Reclaim ueber ~7.500.",
   "filtered_out": [
-    "NVDA/MRVL/MU/AMD/INTC/AVGO: Halbleiter-Crash 05.06. (MRVL -16%, MU -13%, AMD/INTC -11%, NVDA -5,9%, AVGO ~-15% nach weicher AI-Guidance) -- Tech-Leadership in DISTRIBUTION, klar raus",
-    "AAPL: ~307 USD (~3% unter 52W-Hoch ~316,94) -- kein frischer Ausbruch UND binaeres Event-Risiko WWDC 08.06.-12.06., ueber Wochenende disqualifiziert (raus, nach WWDC neu pruefen)",
-    "CAT: ~904 USD am 05.06. (-3,85%), ~3% unter ATH 926,93 nach ~60% YTD -- digestiert/laeuft zurueck, kein frischer Pivot (raus, beobachten)",
+    "NVDA/MRVL/MU/AMD/INTC/AVGO: Halbleiter-Abverkauf 05.06. (AVGO ~-13% nach weicher AI-Guidance, ~1 Bio USD Marktwert weg) -- Tech-Leadership in DISTRIBUTION, klar raus",
+    "AAPL: ~307 USD (~3% unter 52W-Hoch ~316,94) -- kein frischer Ausbruch UND binaeres Event-Risiko WWDC ab 08.06. (raus, nach WWDC neu pruefen)",
+    "CAT: ~904 USD (~3% unter ATH 926,93 nach ~60% YTD) -- digestiert/laeuft zurueck, kein frischer Pivot (raus, beobachten)",
     "KO: ~76,82 USD = ~7% unter ATH 82,66 -- defensiver Bounce im PULLBACK, NICHT am Pivot (raus, Pivot 82,66 beobachten)",
-    "GEV: ~963 USD vs ATH-Schluss 1.149,53 (~18-23% darunter) -- klare Korrektur, kein Breakout-Setup (raus)",
-    "MCD: ~279,84 USD nahe 52W-Tief (271,85), ~18% unter Hoch 341,75 -- Abwaertstrend (raus)",
-    "SHW: ~327 USD vs 52W-Hoch 379,65 (~14% darunter), -16% auf 30 Tage -- Downtrend (raus)",
+    "GEV: ~963 USD vs ATH-Schluss 1.149,53 (~18% darunter) -- klare Korrektur, kein Breakout-Setup (raus)",
+    "MCD: ~280 USD nahe 52W-Tief, ~18% unter Hoch 341,75 -- Abwaertstrend (raus)",
+    "SHW: ~327 USD vs 52W-Hoch 379,65 (~14% darunter) -- Downtrend (raus)",
     "PGR: ~204 USD vs 52W-Hoch 283,95 (~28% darunter) -- tiefer Pullback (raus)",
-    "WMT/COST: ~13% bzw. ~13% unter 52W-Hoch -- Rotationsnamen, aber weit unter Hoch, kein Pivot (raus)",
+    "WMT: ~119 USD = ~13% unter 52W-Hoch 135,16 -- Rotationsname, aber weit unter Hoch, kein Pivot (raus)",
+    "COST: deutlich unter 52W-Hoch 1.096,50 -- kein Pivot (raus)",
     "ABBV: ~227 USD (~8% unter 52W-Hoch ~244,81) -- naehert sich an, aber noch kein gueltiger Buy-Point (Watchlist)"
   ],
   "picks": [
@@ -20,22 +21,22 @@
       "ticker": "LLY",
       "name": "Eli Lilly",
       "price": 1131.42,
-      "chart_pattern": "ATH-Ausbruch aus Konsolidierung -- frischer Neuhoch-Schluss, haelt knapp unter Intraday-ATH ~1.149 (28.05.)",
-      "stage": "FRISCH AUSGEBROCHEN (Neuhoch-Schluss AM Distributionstag)",
+      "chart_pattern": "Haelt knapp unter Allzeithoch 1.166,29 -- enge Konsolidierung direkt unter dem Pivot, frischer Neuhoch-Bereich",
+      "stage": "AM/KNAPP UNTER BREAKOUT-PUNKT (haelt nahe ATH AM Distributionstag)",
       "signal": "GREEN",
       "canslim": { "C": true, "A": true, "N": true, "S": true, "L": true, "I": true, "M": true },
-      "note": "1.131,42 USD am 05.06. -- schliesst nahe Allzeithoch an einem Tag, an dem der S&P 2,64% verlor = aussergewoehnliche relative Staerke und das sauberste Breakout-Setup der Liste, NICHT ueberdehnt. Defensives Healthcare ist klarer Rotations-Gewinner. C (Current Earnings): Q1 non-GAAP EPS 8,55 USD, ~+156% YoY -- Blockbuster-Quartal. A (Annual Earnings): aussergewoehnliches mehrjaehriges Gewinnwachstum durch GLP-1, FY26-Guidance 35,50-37,00 USD EPS. N (New): neuer Buy-Point auf ATH + oraler GLP-1-/Indikations-Zyklus. S (Supply/Demand): grosse, aber nachfragegetragene Float. L (Leader): unangefochtener GLP-1-/Pharma-Marktfuehrer. I (Institutions): breite institutionelle Akkumulation. M (Market): GELB -- defensives Healthcare profitiert von Rotation. Naechste Earnings 04.08. = sauber. GREEN solange ueber ~1.100; unter ~1.080 neu bewerten.",
+      "note": "~1.131 USD, nur ~3% unter dem frischen Allzeithoch 1.166,29 -- haelt nahe ATH an einem Tag, an dem der S&P 2,64% verlor = aussergewoehnliche relative Staerke und das sauberste Setup der Liste, NICHT ueberdehnt. Defensives Healthcare ist klarer Rotations-Gewinner (XLV gruen am Abverkaufstag). C (Current Earnings = aktuelle Quartalsgewinne): Q1 non-GAAP EPS 8,55 USD, ~+156% YoY -- Blockbuster-Quartal. A (Annual Earnings = Jahresgewinnwachstum): aussergewoehnliches mehrjaehriges Wachstum durch GLP-1, FY26-Guidance 82-85 Mrd USD Umsatz / 35,50-37,00 USD EPS. N (New = Neues): neuer Buy-Point an ATH + oraler GLP-1-/Indikations-Zyklus. S (Supply/Demand = Angebot/Nachfrage): grosse, aber nachfragegetragene Float. L (Leader = Marktfuehrer): unangefochtener GLP-1-/Pharma-Leader, ~60% GLP-1-Markt. I (Institutions = institutionelle Nachfrage): breite institutionelle Akkumulation. M (Market = Gesamtmarkt): GELB -- defensives Healthcare profitiert von Rotation. Naechste Earnings 04.08. = sauber. GREEN solange ueber ~1.100; unter ~1.080 neu bewerten.",
       "earnings_warning": null
     },
     {
       "ticker": "MNST",
       "name": "Monster Beverage",
-      "price": 89.55,
-      "chart_pattern": "Cup-/Flat-Base -- haelt Ausbruch am Pivot ~89,2 / 52W-Hoch ~90,44",
+      "price": 89.32,
+      "chart_pattern": "Cup-/Flat-Base -- haelt Ausbruch am Pivot ~89,2 / direkt unter 52W-Hoch 90,44",
       "stage": "AM BREAKOUT-PUNKT (haelt Pivot/ATH AM Distributionstag)",
       "signal": "GREEN",
       "canslim": { "C": true, "A": true, "N": true, "S": true, "L": true, "I": true, "M": true },
-      "note": "~89,55 USD am 05.06. (Tagestief ~88,37) -- HAELT den Pivot ~89,2 / das 52W-Hoch 90,44, waehrend der S&P 2,64% faellt = relative Staerke, nur knapp unter/am Pivot = NICHT ueberdehnt. Defensives Consumer-Staples-Profil als Rotations-Vorteil. C (Current Earnings): Q1-Nettoumsatz +26,9% YoY auf 2,35 Mrd USD, adj EPS 0,58 USD (Beat 0,53). A (Annual Earnings): langjaehrig konstantes Umsatz-/Gewinnwachstum. N (New): Ausbruch an 52W-Hoch, neuer Buy-Point. S (Supply/Demand): laufende Rueckkaeufe, kontrollierte Float. L (Leader): Marktfuehrer Energy-Drinks, hohe relative Staerke. I (Institutions): institutionelle Akkumulation. M (Market): GELB -- defensiver Charakter ist hier Vorteil. Naechste Earnings 12.08. = sauber. GREEN solange ueber ~88; darunter raus.",
+      "note": "~89,32 USD (ATH-Schluss 89,55 am 05.06., 52W-Hoch 90,44) -- HAELT den Pivot ~89,2 direkt am 52W-Hoch, waehrend der S&P 2,64% faellt = relative Staerke, nur knapp unter dem Hoch = NICHT ueberdehnt. Defensives Consumer-Staples-Profil (XLP fuehrte am Abverkaufstag). C (Current Earnings = aktuelle Quartalsgewinne): Q1-Nettoumsatz +26,9% YoY auf 2,35 Mrd USD, adj EPS 0,58 USD (Beat 0,53). A (Annual Earnings = Jahresgewinnwachstum): langjaehrig konstantes Umsatz-/Gewinnwachstum. N (New = Neues): Ausbruch an 52W-Hoch, neuer Buy-Point; MS-Kursziel auf 103 angehoben. S (Supply/Demand = Angebot/Nachfrage): laufende Rueckkaeufe (500 Mio USD), kontrollierte Float. L (Leader = Marktfuehrer): Marktfuehrer Energy-Drinks, hohe relative Staerke. I (Institutions = institutionelle Nachfrage): institutionelle Akkumulation. M (Market = Gesamtmarkt): GELB -- defensiver Charakter ist hier Vorteil. Naechste Earnings 12.08. = sauber. GREEN solange ueber ~88; bei Volumen-Schub ueber 90,44 bestaetigt; darunter raus.",
       "earnings_warning": null
     },
     {
@@ -46,7 +47,7 @@
       "stage": "KUERZLICH AUSGEBROCHEN (Pullback in Pivot-Zone, Reclaim ueber 212 noetig)",
       "signal": "YELLOW",
       "canslim": { "C": true, "A": true, "N": true, "S": true, "L": true, "I": true, "M": true },
-      "note": "~203-204 USD -- brach am 01.06. auf ATH 212,11 aus und setzte am Distributionstag ~4% in die Ausbruchszone zurueck (normale Verdauung, kein Bruch); Fundamentaldaten und relative Staerke bleiben top. Hoehere Zinsen sind fuer Investmentbanken/Financials tendenziell Rueckenwind. C (Current Earnings): Q1 EPS 3,43 USD vs 2,60 (~+32% YoY), Umsatz +16%. A (Annual Earnings): stabile Jahresgewinne, ~9 Bio USD Client Assets. N (New): frischer ATH-Ausbruch aus enger Basis + erwartete M&A-/IPO-Welle 2026. S (Supply/Demand): handhabbare Aktienzahl, Rueckkaeufe. L (Leader): fuehrende Investmentbank / Wealth-Manager. I (Institutions): institutionelle Akkumulation. M (Market): GELB. Naechste Earnings 15.07. = sauber. YELLOW bis Reclaim ueber 212 (dann GREEN); unter ~200 raus.",
+      "note": "~203-204 USD -- brach am 01.06. auf ATH 212,11 aus und setzte am Distributionstag ~4% in die Ausbruchszone zurueck (normale Verdauung, kein Bruch); Financials (XLF) schlossen am Abverkaufstag GRUEN, Fundamentaldaten und relative Staerke top (+~15% in 30 Tagen). Hoehere Zinsen sind fuer Investmentbanken tendenziell Rueckenwind. C (Current Earnings = aktuelle Quartalsgewinne): Q1 EPS 3,43 USD vs 2,60 (~+32% YoY), Umsatz +16%. A (Annual Earnings = Jahresgewinnwachstum): stabile Jahresgewinne, ~9 Bio USD Client Assets. N (New = Neues): frischer ATH-Ausbruch aus enger Basis + erwartete M&A-/IPO-Welle 2026. S (Supply/Demand = Angebot/Nachfrage): handhabbare Aktienzahl, Rueckkaeufe. L (Leader = Marktfuehrer): fuehrende Investmentbank / Wealth-Manager. I (Institutions = institutionelle Nachfrage): institutionelle Akkumulation. M (Market = Gesamtmarkt): GELB. Naechste Earnings 15.07. = sauber. YELLOW bis Reclaim ueber 212 (dann GREEN); unter ~200 raus.",
       "earnings_warning": null
     }
   ]
