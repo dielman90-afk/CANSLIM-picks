@@ -1,17 +1,17 @@
 {
-  "updated": "2026-06-25",
-  "run": 51,
+  "updated": "2026-06-26",
+  "run": 52,
   "market_signal": "RED",
-  "market_note": "Stand Do 25.06.2026 (At-/Post-Close-Lauf; letzter bestaetigter Schluss Mi 24.06.): S&P 500 7.358,22 (-0,10%); Nasdaq Composite 25.476,64 (-0,43%); Dow 51.848,90 (+0,35%). REPARATUR-VERSUCH LAEUFT, ABER NOCH NICHT BESTAETIGT: Der S&P 500 notiert weiterhin UNTER seiner 50-Tage- (~7.448) UND 200-Tage-Linie (~7.467). WENDE-KATALYSATOR: Micron (MU) lieferte am 24.06. nachboerslich BLOWOUT-Zahlen (Umsatz 41,46 Mrd vs 35,84 Mrd erwartet; Adj. EPS 25,11 vs 20,20; Brutto-Marge 84,9%; Q4-Guidance ~50 Mrd vs 43,58 Mrd erwartet; 16 Langfristvertraege) -> +15% nachboerslich. Qualcomm +14% auf angehobene Non-Handset-Guidance (40 Mrd bis FY2029). Sympathie-Rally bei SNDK, WDC, LRCX, KLAC, AMAT -> die am 23.06. GEBROCHENE Halbleiter-/KI-Leadership wird repariert. Futures 25.06. fest (S&P +0,5%, Nasdaq-100 +1,8%). EINORDNUNG NACH O'NEIL: Ein einzelner, halbleiter-getriebener Erholungstag UNTERHALB beider MAs ist KEIN bestaetigter Follow-Through-Day. Noetig bleibt: Rueckeroberung der 7.448-7.467-Zone PLUS volumenstarker FTD. Bis dahin GENERAL MARKET DIRECTION (das 'M') = ROT (in Reparatur). RISIKO-EVENT: Kern-PCE am Fr 26.06. (groesster Makro-Katalysator der Woche) -- direkt nach diesem Lauf. REGELWERK: Picks nur bei GRUEN/GELB; ROT = ausschliesslich Watchlist. STRATEGIE: Qualitaet vor Quantitaet -- bei roter Ampel KEINE Neukaeufe/Ausbruchskaeufe; gegappte Earnings-Gewinner (MU/QCOM, +14-15%) NICHT nachjagen; auf saubere Reparatur + sauberen Pivot warten. PRIME-WATCHLIST (beste Qualitaet, kurz vor/am Pivot, aber Markt rot -> abwarten): HWM (~4,7% unter Hoch, sauberster Near-Pivot, Industrials-Rotation), IBKR (~4% unter ATH, Financials-Rotation), ANET (muss Pivot 164,94 auf Volumen zurueckerobern, profitiert von Tech-Reparatur).",
+  "market_note": "Stand Fr 26.06.2026 (At-/Post-Close-Lauf; letzter bestaetigter Schluss Do 25.06.): S&P 500 7.357,49 (-0,01%); Nasdaq Composite 25.358,60 (-0,46%, vierter Verlusttag in Folge); Dow 51.920,62 (+0,14%). MARKT BLEIBT ROT (in Reparatur): Der S&P 500 notiert weiterhin UNTER seiner 50-Tage- (~7.448) UND 200-Tage-Linie (~7.467); ein bestaetigter, volumenstarker Follow-Through-Day fehlt nach wie vor. HEUTIGER KATALYSATOR (negativ): Kern-PCE Mai mit +3,4% YoY (heisseste Rate seit Oktober 2023, klar ueber dem 2%-Fed-Ziel), MoM +0,3% (in line) -> haelt die Zinsdebatte offen und daempft die Reparatur. Zusaetzlicher Belastungsfaktor: Apple -6,1% nach angekuendigten Preiserhoehungen (iPhone/Xbox-Komponentenkosten) -> Mag7/Big-Tech unter Druck, waehrend Dow/Russell relativ stabil. Die Micron/Qualcomm-getriebene Halbleiter-Erholung vom 24./25.06. wurde noch NICHT in eine breite Marktwende uebersetzt. EINORDNUNG NACH O'NEIL: Ohne Rueckeroberung der 7.448-7.467-Zone PLUS volumenstarkem FTD bleibt GENERAL MARKET DIRECTION (das 'M') = ROT. REGELWERK: Picks nur bei GRUEN/GELB; ROT = ausschliesslich Watchlist. STRATEGIE: Qualitaet vor Quantitaet -- bei roter Ampel KEINE Neukaeufe/Ausbruchskaeufe; gegappte Earnings-Gewinner (MU/QCOM) NICHT nachjagen; auf saubere Reparatur + sauberen Pivot warten. PRIME-WATCHLIST (beste Qualitaet, kurz vor/am Pivot, aber Markt rot -> abwarten): HWM (~5,8% unter Hoch, sauberster Near-Pivot, Industrials-Rotation), IBKR (~4% unter ATH-Schluss, Financials-Rotation), ANET (muss Pivot 164,94 auf Volumen zurueckerobern).",
   "watchlist": [
     {
       "ticker": "HWM",
       "company": "Howmet Aerospace",
       "sector": "Industrials / Luftfahrt-Komponenten",
-      "price": 278.55,
+      "price": 273.84,
       "pattern": "kurz_vor_pivot",
-      "pattern_description": "Konsolidierung ~4,7% unter 52W-Hoch 290,63; Post-Earnings-Support haelt, baut Richtung 296-300. Sauberster Near-Pivot im starken Rotations-Sektor Industrials.",
-      "pct_from_ath": -4.7,
+      "pattern_description": "Konsolidierung ~5,8% unter 52W-Hoch 290,63; Post-Earnings-Support haelt, baut Richtung 296-300. Sauberster Near-Pivot im starken Rotations-Sektor Industrials; leichte Erweiterung der Basis nach dem juengsten Pullback.",
+      "pct_from_ath": -5.8,
       "canslim": {
         "C": "C (Current Earnings, aktuelle Quartalsgewinne): Q1 2026 Adj. EPS 1,22 USD +42% YoY (von 0,86), Umsatz 2,31 Mrd +19%, EBITDA-Marge +320bp auf 32,0% -- klar ueber der 25%-Schwelle.",
         "A": "A (Annual Earnings, Jahres-/Mehrjahreswachstum): Mehrquartals-Beschleunigung; FY-Guidance auf 9,575-9,725 Mrd Umsatz angehoben.",
@@ -30,7 +30,7 @@
       "sector": "Financials / Capital Markets",
       "price": 92.79,
       "pattern": "kurz_vor_pivot",
-      "pattern_description": "Nach Pullback ~4% unter ATH 96,82 (vom 22.06.); haelt Pivot-Zone. Profitiert von der Rotation in Financials.",
+      "pattern_description": "Nach Pullback ~4% unter ATH-Schluss 96,82 (vom 22.06.; Intraday-Hoch 97,84); haelt die Pivot-Zone. Profitiert von der Rotation in Financials.",
       "pct_from_ath": -4.2,
       "canslim": {
         "C": "C (Current Earnings, aktuelle Quartalsgewinne): Q1 2026 Adj. EPS 0,60 USD +28% YoY; Rekord-Nettoumsatz 1,67 Mrd +17%; Provisionen +19%; NII +17% auf 904 Mio -- ueber 25%.",
@@ -41,7 +41,7 @@
         "I": "I (Institutional, institutionelle Eigentuemer): breite institutionelle Basis.",
         "M": "M (Market, Marktrichtung): ROT (in Reparatur) -- defensiv, daher nur Watchlist."
       },
-      "earnings_next": "21.07.2026 (bestaetigt, ~26 Tage -> kein Risiko)",
+      "earnings_next": "21.07.2026 (bestaetigt, ~25 Tage -> kein Risiko)",
       "reason": "Fundamental stark und in sauberer Near-Pivot-Zone im starken Rotations-Sektor Financials. Kauf-Trigger: Markt-Reparatur UND sauberer Ausbruch ueber 96,82 auf Volumen. Bei roter Ampel kein Neukauf."
     },
     {
@@ -50,7 +50,7 @@
       "sector": "Technology / AI-Data-Center-Networking",
       "price": 164.61,
       "pattern": "am_pivot",
-      "pattern_description": "Pivot 164,94; am 23.06. im Tech-Selloff unter den Buy-Point gefallen. Die Micron/Qualcomm-getriebene Tech-Reparatur koennte einen neuen Erorberungsversuch ausloesen.",
+      "pattern_description": "Pivot 164,94; im Tech-Selloff unter den Buy-Point gefallen. Die Micron/Qualcomm-getriebene Tech-Erholung koennte einen neuen Eroberungsversuch ausloesen -- noch nicht bestaetigt.",
       "pct_from_ath": -8.4,
       "canslim": {
         "C": "C (Current Earnings, aktuelle Quartalsgewinne): Q1 2026 Umsatz 2,71 Mrd +35% YoY; Non-GAAP EPS 0,87 +~34% -- ueber 25%.",
@@ -66,20 +66,21 @@
     }
   ],
   "filtered_out": [
-    "MU (Micron): ELITE-Fundamentals nach Blowout (Umsatz 41,46 Mrd, Adj. EPS 25,11 > 20,20; Q4-Guide 50 Mrd), ABER +15% Earnings-Gap nachboerslich = UEBERDEHNT, kein Low-Risk-Pivot. Gap NICHT nachjagen -- erst neue Basis abwarten (raus).",
+    "MU (Micron): ELITE-Fundamentals nach Blowout (Umsatz 41,46 Mrd, Adj. EPS 25,11 > 20,20; Q4-Guide 50 Mrd), ABER +15% Earnings-Gap = UEBERDEHNT, kein Low-Risk-Pivot. Gap NICHT nachjagen -- neue Basis abwarten (raus).",
     "QCOM (Qualcomm): +14% auf angehobene Guidance -- starkes Momentum, aber Gap-extended, kein sauberer Pivot (raus, beobachten).",
+    "AAPL (Apple): -6,1% nach Preiserhoehungen, unter Druck, kein Buy-Setup (raus).",
     "HIMS (Hims & Hers): C FAELLT DURCH -- Q1 Umsatz nur +4% YoY, Nettoverlust. Reiner Momentum-Trade, kein CANSLIM-Leader (raus).",
-    "SEZL (Sezzle): Top-Fundamentals (Umsatz +29%, Gewinn +42%), ABER ~22% unter Hoch und +91% seit Pivot = UEBERDEHNT (raus).",
-    "ALAB (Astera Labs): elite Zahlen, aber klimaktischer Spike (+96%/Monat), RSI ~70, weit ueber Ziel = ueberdehnt (raus).",
-    "LQDA (Liquidia): ~1,5% unter ATH, aber +476% YoY und +37% seit Juni-Pivot = ueberdehnt, braucht neue Basis (raus).",
+    "SEZL (Sezzle): Top-Fundamentals, ABER ~22% unter Hoch und weit ueber Pivot = UEBERDEHNT (raus).",
+    "ALAB (Astera Labs): elite Zahlen, aber klimaktischer Spike, RSI ~70, weit ueber Ziel = ueberdehnt (raus).",
+    "LQDA (Liquidia): nahe ATH, aber +476% YoY und weit ueber Juni-Pivot = ueberdehnt, braucht neue Basis (raus).",
     "CRDO (Credo): brillante Zahlen, ABER ~13% unter ATH, sehr volatil -- kein Low-Risk-Pivot (raus).",
     "VRT (Vertiv): elite C/A, ABER ~11-12% unter ATH -- Pullback, nicht am Pivot (Watchlist bis neue Basis).",
-    "SITM (SiTime): EPS +454%, ABER ~23% unter Hoch, tiefe Korrektur seit Mai -- nicht kaufbar (raus).",
-    "ONTO (Onto Innovation): an ATH, aber stark ueberdehnt (+24%/3 Wochen) und trailing-C schwach (raus).",
+    "SITM (SiTime): EPS +454%, ABER ~23% unter Hoch, tiefe Korrektur -- nicht kaufbar (raus).",
+    "ONTO (Onto Innovation): an ATH, aber stark ueberdehnt und trailing-C schwach (raus).",
     "SOFI (SoFi): ~47% unter ATH, unter 50/200-Tage, Death Cross, RS ~48 -- Technik + RS durchgefallen (raus).",
     "HOOD (Robinhood): Q1 EPS nur +3% YoY (C faellt durch), ~33% unter ATH (raus).",
     "RKLB (Rocket Lab): Nettoverlust (C faellt durch), tiefer Pullback (raus).",
-    "CAVA (CAVA Group): EPS YoY ruecklaeufig und >15% ueberdehnt -- faellt doppelt durch (raus).",
+    "CAVA (CAVA Group): EPS YoY ruecklaeufig und ueberdehnt -- faellt doppelt durch (raus).",
     "AXON (Axon): unter 50-Tage, negativer Trend, kein Buy-Point (raus)."
   ],
   "picks": []
