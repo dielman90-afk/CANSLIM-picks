@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-28",
-  "run": 54,
+  "updated": "2026-06-29",
+  "run": 55,
   "market_signal": "RED",
-  "market_note": "Stand So 28.06.2026 (Wochenend-/Post-Close-Lauf; letzter bestaetigter Schluss Fr 26.06.2026 -- seit dem Lauf vom Sa 27.06. KEIN neuer Handel, Lage unveraendert): S&P 500 7.354,02 (-0,05%); Nasdaq Composite 25.297,62 (-0,24%, FUENFTER Verlusttag in Folge); Dow 51.876,11 (-0,09%). MARKT BLEIBT ROT: Der S&P 500 notiert weiterhin UNTER seiner 50-Tage- (~7.448) UND 200-Tage-Linie (~7.467); ein bestaetigter, volumenstarker Follow-Through-Day (FTD) fehlt nach wie vor. KATALYSATOR (negativ): anhaltender Tech-/KI-Selloff -- Sorgen ueber steigende KI-Rechenzentrumskosten plus verzoegerter OpenAI-IPO belasten Big-Tech; Rotation RAUS aus Tech, REIN in Defensives, Industrials und Financials. EINORDNUNG NACH O'NEIL: Ohne Rueckeroberung der 7.448-7.467-Zone PLUS volumenstarkem FTD bleibt GENERAL MARKET DIRECTION (das 'M') = ROT. REGELWERK: Picks nur bei GRUEN/GELB; ROT = ausschliesslich Watchlist, KEINE Neukaeufe/Ausbruchskaeufe. WICHTIG: Selbst die besten Near-Pivot-Namen (HWM, IBKR) sind im Selloff von ihren Pivots WEGGELAUFEN (nach unten) statt auszubrechen; ANET schwankt unzuverlaessig um den Pivot (Whipsaw, RS<80). Es gibt derzeit KEINEN sauberen, kaufbaren Low-Risk-Ausbruch -> picks=[]. STRATEGIE: Qualitaet vor Quantitaet -- bei roter Ampel abwarten, gegappte Earnings-Gewinner NICHT nachjagen, auf saubere Marktreparatur + sauberen Pivot warten. PRIME-WATCHLIST (beste Qualitaet, Basen reifen, aber Markt rot -> abwarten): HWM (Industrials-Rotation, ~7,9% unter Hoch), IBKR (Financials-Rotation, ~7,3% unter ATH-Schluss), ANET (muss Pivot 164,94 sauber auf Volumen halten/zurueckerobern, RS<80).",
+  "market_note": "Stand Mo 29.06.2026 (Post-Close-Lauf; harte Index-Zahlen = letzter bestaetigter Schluss Fr 26.06.2026, da der finale Mo-Schluss noch nicht zuverlaessig vorliegt): S&P 500 7.354,02; Nasdaq Composite 25.297,62 (5. Verlusttag in Folge am Fr); Dow 51.876,11. NEU AM MO 29.06.: Entspannungs-Rally -- nach US-Iran-Deeskalation (Stopp gegenseitiger Angriffe, Friedensgespraeche in Doha) zogen die Futures an (Nasdaq-100 +1,2%, S&P +0,8%, Dow +0,4% vorboerslich). EINORDNUNG NACH O'NEIL: Eine geopolitische Erleichterungs-Rally ist hoechstens TAG 1 eines neuen Rally-Versuchs -- KEIN bestaetigter, volumenstarker Follow-Through-Day (FTD, fruehestens Tag 4+ mit >=1,5% auf hoeherem Volumen). Der S&P 500 notiert weiterhin UNTER 50-Tage (~7.448) UND 200-Tage (~7.467). Damit bleibt GENERAL MARKET DIRECTION ('M') = ROT. EVENT-RISIKO diese verkuerzte Woche: US-Arbeitsmarktbericht (NFP) am Do 02.07., Boerse Fr 03.07. geschlossen (Independence Day). REGELWERK: Picks nur bei GRUEN/GELB; ROT = ausschliesslich Watchlist, KEINE Neukaeufe/Ausbruchskaeufe -- erst recht nicht vor dem NFP in einem noch nicht reparierten Markt. Es gibt aktuell KEINEN sauberen, kaufbaren Low-Risk-Ausbruch -> picks=[]. STRATEGIE: Qualitaet vor Quantitaet -- Erleichterungs-Bounce NICHT als Ausbruch nachjagen, gegappte Earnings-Gewinner meiden, auf Rueckeroberung der 7.448-7.467-Zone + sauberen FTD + sauberen Pivot warten. PRIME-WATCHLIST (Rotations-Leader, Basen reifen, aber Markt rot -> abwarten): HWM (Industrials-Rotation), IBKR (Financials-Rotation), ANET (Tech, muss Pivot 164,94 sauber auf Volumen zurueckerobern, RS<80).",
   "watchlist": [
     {
       "ticker": "HWM",
@@ -10,19 +10,19 @@
       "sector": "Industrials / Luftfahrt-Komponenten",
       "price": 267.73,
       "pattern": "basis_reift",
-      "pattern_description": "Konsolidierung ~7,9% unter 52W-Hoch 290,63 (Schluss Fr 267,73, -2,0%). Sauberster Qualitaetsname im starken Rotations-Sektor Industrials, aber im Marktselloff vom Pivot weggelaufen -- Basis reift, noch kein Ausbruch. Analysten heben PTs an (Citi 303, JPMorgan 310); Breakout-Ziel-Zone ~296-300.",
+      "pattern_description": "Konsolidierung ~7,9% unter 52W-Hoch 290,63 (letzter best. Schluss Fr 267,73). Sauberster Qualitaetsname im starken Rotations-Sektor Industrials; profitiert von der Mo-Entspannungs-Rally, aber noch kein Ausbruch -- Basis reift. Analysten heben PTs an (Citi 303, JPMorgan 310); Breakout-Ziel-Zone ~290-300.",
       "pct_from_ath": -7.9,
       "canslim": {
-        "C": "C (Current Earnings / aktuelle Quartalsgewinne): Q1 2026 Adj. EPS 1,22 USD +42% YoY (von 0,86), Umsatz 2,31 Mrd +19%, EBITDA-Marge +320bp auf 32,0% -- klar ueber der 25%-Schwelle.",
-        "A": "A (Annual Earnings / Jahres-/Mehrjahreswachstum): Mehrquartals-Beschleunigung; FY-Guidance auf 9,575-9,725 Mrd Umsatz angehoben.",
-        "N": "N (New / Neues, Katalysator, neues Hoch): Commercial-Aero-Umsatz +20%, Rekord-Auftragslage, nahe 52W-Hoch -- aktuell im Pullback.",
+        "C": "C (Current / aktuelle Quartalsgewinne): Q1 2026 Adj. EPS 1,22 USD +42% YoY (von 0,86), Umsatz 2,31 Mrd +19%, EBITDA-Marge +320bp auf 32,0% -- klar ueber der 25%-Schwelle.",
+        "A": "A (Annual / Jahres-/Mehrjahreswachstum): Mehrquartals-Beschleunigung; FY-Guidance auf 9,575-9,725 Mrd Umsatz angehoben.",
+        "N": "N (New / Neues, Katalysator, neues Hoch): Commercial-Aero-Umsatz +20%, Rekord-Auftragslage, nahe 52W-Hoch -- aktuell im Pullback knapp unter Pivot.",
         "S": "S (Supply/Demand / Angebot & Nachfrage der Aktie): solide Aktienstruktur, Rueckkaeufe, sichtbare Akkumulation.",
         "L": "L (Leader / Marktfuehrer): Weltmarktfuehrer Aerospace-Strukturteile, Strong-Buy-Konsens, PTs ~303-310.",
         "I": "I (Institutional / institutionelle Eigentuemer): breit institutionell gehalten.",
-        "M": "M (Market / Marktrichtung): ROT -- defensiv, daher nur Watchlist."
+        "M": "M (Market / Marktrichtung): ROT -- nur Watchlist."
       },
       "earnings_next": "~Ende Juli 2026 (kein 2-Wochen-Risiko)",
-      "reason": "Bester 'echtes 25%+ Gewinnwachstum + Qualitaets-Basis'-Kandidat im starken Rotations-Sektor Industrials. Kauf-Trigger: Markt-Reparatur (S&P zurueck ueber 7.448-7.467 + FTD) UND sauberer Ausbruch ueber 290,63 auf hohem Volumen. Bei roter Ampel kein Neukauf."
+      "reason": "Bester 'echtes 25%+ Gewinnwachstum + Qualitaets-Basis'-Kandidat im starken Rotations-Sektor Industrials. Kauf-Trigger: Markt-Reparatur (S&P zurueck ueber 7.448-7.467 + bestaetigter FTD) UND sauberer Ausbruch ueber 290,63 auf hohem Volumen. Bei roter Ampel kein Neukauf."
     },
     {
       "ticker": "IBKR",
@@ -30,19 +30,19 @@
       "sector": "Financials / Capital Markets",
       "price": 89.73,
       "pattern": "basis_reift",
-      "pattern_description": "Nach ATH-Schluss 96,82 (22.06.) im Selloff auf 89,73 zurueckgefallen (Fr -2,4%), jetzt ~7,3% unter ATH-Schluss -- aus der engen Pivot-Zone herausgefallen. Profitiert mittelfristig von der Rotation in Financials, aktuell aber kein Pivot.",
+      "pattern_description": "Nach ATH-Schluss 96,82 (22.06.) im Selloff auf 89,73 zurueckgefallen (~7,3% unter ATH-Schluss). Mo-Entspannungs-Rally hilft, aber noch aus der engen Pivot-Zone heraus -- profitiert mittelfristig von der Rotation in Financials, aktuell aber kein sauberer Pivot.",
       "pct_from_ath": -7.3,
       "canslim": {
-        "C": "C (Current Earnings / aktuelle Quartalsgewinne): Q1 2026 Adj. EPS 0,60 USD +28% YoY; Rekord-Nettoumsatz 1,67 Mrd +17%; Provisionen +19%; NII +17% auf 904 Mio -- ueber 25%.",
-        "A": "A (Annual Earnings / Jahres-/Mehrjahreswachstum): stetig 15-28%, zuletzt beschleunigend; Client Equity >450 Mrd.",
+        "C": "C (Current / aktuelle Quartalsgewinne): Q1 2026 Adj. EPS 0,60 USD +28% YoY; Rekord-Nettoumsatz 1,67 Mrd +17%; Provisionen +19%; NII +17% auf 904 Mio -- ueber 25%.",
+        "A": "A (Annual / Jahres-/Mehrjahreswachstum): stetig 15-28%, zuletzt beschleunigend; Client Equity >450 Mrd.",
         "N": "N (New / Neues, Katalysator, neues Hoch): Rekord-Kundenkonten, Dividende auf 0,0875 angehoben; Financials-Rotation als Rueckenwind -- aktuell im Pullback.",
         "S": "S (Supply/Demand / Angebot & Nachfrage der Aktie): kontrollierter Float, sichtbare Akkumulation.",
         "L": "L (Leader / Marktfuehrer): fuehrender Online-/Profi-Broker, profitiert vom Volumen-Boom.",
         "I": "I (Institutional / institutionelle Eigentuemer): breite institutionelle Basis.",
-        "M": "M (Market / Marktrichtung): ROT -- defensiv, daher nur Watchlist."
+        "M": "M (Market / Marktrichtung): ROT -- nur Watchlist."
       },
-      "earnings_next": "21.07.2026 (bestaetigt, ~23 Tage -> kein 2-Wochen-Risiko)",
-      "reason": "Fundamental stark im starken Rotations-Sektor Financials, aber im Marktselloff aus der Pivot-Zone gefallen. Kauf-Trigger: Markt-Reparatur UND sauberer Ausbruch/Rueckeroberung ueber 96,82 auf Volumen. Bei roter Ampel kein Neukauf."
+      "earnings_next": "21.07.2026 (bestaetigt, ~22 Tage -> kein 2-Wochen-Risiko)",
+      "reason": "Fundamental stark im starken Rotations-Sektor Financials, aber im Selloff aus der Pivot-Zone gefallen. Kauf-Trigger: Markt-Reparatur UND sauberer Ausbruch/Rueckeroberung ueber 96,82 auf Volumen. Bei roter Ampel kein Neukauf."
     },
     {
       "ticker": "ANET",
@@ -50,26 +50,27 @@
       "sector": "Technology / AI-Data-Center-Networking",
       "price": 165.45,
       "pattern": "am_pivot",
-      "pattern_description": "Pivot 164,94; schwankt im Tech-Selloff unzuverlaessig um den Buy-Point (Fr -6,4%, Schluss 165,45). Whipsaw ohne Volumenbestaetigung -- in einem fallenden Markt NICHT kaufbar; Basis muss sich neu setzen.",
+      "pattern_description": "Pivot 164,94; schwankte im Tech-Selloff unzuverlaessig um den Buy-Point (Whipsaw, letzter Schluss 165,45). Die Mo-Tech-Erholung muss erst auf Volumen bestaetigt werden -- in einem noch roten Markt NICHT kaufbar; Basis muss sich setzen.",
       "pct_from_ath": -8.0,
       "canslim": {
-        "C": "C (Current Earnings / aktuelle Quartalsgewinne): Q1 2026 Umsatz 2,71 Mrd +35% YoY; Non-GAAP EPS 0,87 +~34% -- ueber 25%.",
-        "A": "A (Annual Earnings / Jahres-/Mehrjahreswachstum): FY2025 +28,6%; FY2026-Guidance ~+28% (~11,5 Mrd, AI-Ziel 3,5 Mrd).",
+        "C": "C (Current / aktuelle Quartalsgewinne): Q1 2026 Umsatz 2,71 Mrd +35% YoY; Non-GAAP EPS 0,87 +~34% -- ueber 25%.",
+        "A": "A (Annual / Jahres-/Mehrjahreswachstum): FY2025 +28,6%; FY2026-Guidance ~+28% (~11,5 Mrd, AI-Ziel 3,5 Mrd).",
         "N": "N (New / Neues, Katalysator, neues Hoch): baut Basis ~8% unter ATH 179,80; Pivot 164,94 noch nicht sauber erobert.",
         "S": "S (Supply/Demand / Angebot & Nachfrage der Aktie): solide; Insider-Verkauf (Bechtolsheim) als kleiner Daempfer.",
         "L": "L (Leader / Marktfuehrer): AI-Networking-Fuehrer, ABER IBD-RS nur ~75 (unter der 80er-Leadership-Schwelle).",
         "I": "I (Institutional / institutionelle Eigentuemer): gut institutionell gehalten.",
-        "M": "M (Market / Marktrichtung): ROT -- defensiv, daher nur Watchlist."
+        "M": "M (Market / Marktrichtung): ROT -- nur Watchlist."
       },
       "earnings_next": "03.08.2026 (kein 2-Wochen-Risiko)",
-      "reason": "Starke C/A, aber RS nur ~75 und Pivot im Selloff nur unzuverlaessig gehalten (Whipsaw). Kauf-Trigger: 164,94 auf hohem Volumen sauber zurueckerobern UND Markt nicht mehr rot. Bis dahin nur beobachten."
+      "reason": "Starke C/A, aber RS nur ~75 und Pivot zuletzt nur unzuverlaessig gehalten (Whipsaw). Kauf-Trigger: 164,94 auf hohem Volumen sauber zurueckerobern UND Markt nicht mehr rot. Bis dahin nur beobachten."
     }
   ],
   "filtered_out": [
-    "ALLGEMEIN: Bei roter Ampel (Markt unter 50/200-Tage, kein FTD) sind Ausbruchskaeufe regelwidrig -- aktuell existiert KEIN sauberer, kaufbarer Low-Risk-Pivot, daher picks=[].",
+    "ALLGEMEIN: Bei roter Ampel (Markt unter 50/200-Tage, kein bestaetigter FTD) sind Ausbruchskaeufe regelwidrig -- die Mo-Entspannungs-Rally (US-Iran) ist hoechstens Tag 1 eines Rally-Versuchs und KEIN FTD; zudem NFP-Risiko am Do 02.07. Aktuell KEIN sauberer, kaufbarer Low-Risk-Pivot -> picks=[].",
     "MU (Micron): ELITE-Fundamentals nach Blowout, ABER zuvor +15% Earnings-Gap = UEBERDEHNT, kein Low-Risk-Pivot. Gap NICHT nachjagen -- neue Basis abwarten (raus).",
     "QCOM (Qualcomm): starkes Momentum auf angehobene Guidance, aber Gap-extended, kein sauberer Pivot (raus, beobachten).",
-    "AAPL (Apple): unter Druck im Tech-Selloff (Preiserhoehungen, Kostensorgen), kein Buy-Setup (raus).",
+    "AAPL (Apple): im Tech-Selloff unter Druck (Preiserhoehungen, Kostensorgen), kein Buy-Setup -- Mo-Bounce ist noch kein Ausbruch (raus).",
+    "NVDA / GOOGL: in der Vorwoche je >8% gefallen, tiefer Pullback weit unter Pivot -- Erholungs-Bounce ist kein Low-Risk-Ausbruch (raus).",
     "HIMS (Hims & Hers): C FAELLT DURCH -- Q1 Umsatz nur +4% YoY, Nettoverlust. Reiner Momentum-Trade, kein CANSLIM-Leader (raus).",
     "SEZL (Sezzle): Top-Fundamentals, ABER weit unter Hoch und weit ueber Pivot = UEBERDEHNT (raus).",
     "ALAB (Astera Labs): elite Zahlen, aber klimaktischer Spike, RSI ~70, weit ueber Ziel = ueberdehnt (raus).",
