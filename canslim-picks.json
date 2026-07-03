@@ -1,28 +1,28 @@
 {
-  "updated": "2026-07-02",
-  "run": 58,
+  "updated": "2026-07-03",
+  "run": 59,
   "market_signal": "YELLOW",
-  "market_note": "Stand Do 02.07.2026 (Lauf am Vormittag; letzter bestaetigter Schluss = Mi 01.07.2026). Naeherungswerte Schluss 01.07.: S&P 500 ~7.433 (-0,22%), Nasdaq Composite ~26.041 (-0,66%, ~-173 Punkte), Dow ~52.304 (-0,03%). AENDERUNG ggue. Lauf 57: Schwacher Q3-Start -- am 01.07. deutlicher Tech-/Chip-Selloff (MU -10,6%, SNDK -10,6%, INTC -9%, AMD -6,9%, AMAT -10%); Rotation RAUS aus Tech/AI-Chips REIN in Financials/Industrials/Healthcare/Materials. Marktstruktur: S&P notiert weiter UEBER 50-Tage (~7.380) UND 200-Tage (~6.934), 50>200 (kein Death Cross) -> Index-Aufwaertstrend technisch INTAKT, ABER Fuehrungs-Breite verschiebt sich und Tech-Leadership broeckelt. EVENT-RISIKO HOCH: ADP-Bericht schwach (98k, unter Konsens); US-Arbeitsmarktbericht (NFP) HEUTE Do 02.07.; Boerse Fr 03.07. GESCHLOSSEN (Independence Day) -> Gap-Risiko in eine duenne Feiertagswoche; zusaetzlich Unsicherheit um die Fed-Spitze (Warsh). GELB-Regel = nur HOECHSTE Qualitaet, reduzierte Groesse, saubere Pivots, KEINE Jagd auf Spikes. SCREEN-ERGEBNIS: Anders als in Lauf 55-57 gibt es jetzt EINEN sauberen Near-Pivot-Leader mit elite relativer Staerke: IBKR ist am 01.07. TROTZ fallendem Gesamtmarkt ~+8% gestiegen (klare rel. Staerke, Financials-Rotation) und steht ~2,6% unter dem Pivot 96,82 -> aufgenommen als einziger Pick (kurz vor Ausbruch, reduzierte GELB-Groesse, Kauf erst bei sauberem Ausbruch >96,82 auf Volumen, den 8%-Tagesspike NICHT nachjagen). Watchlist: HWM (~9% unter Pivot, Industrials-Rotation, Basis reift), ANET (am Pivot, aber RS<80 + Tech unter Rotationsdruck), CRWD (~5% unter ATH, Post-Split-Basis abwarten). STRATEGIE: Qualitaet vor Quantitaet -- 1 hochwertiger Near-Breakout-Pick statt Relief-/Spike-Jagd; auf NFP-Reaktion und volumenbestaetigten Ausbruch >96,82 warten; Tech-/Chip-Schwaeche und ueberdehnte Namen (GE) meiden.",
+  "market_note": "Stand Fr 03.07.2026 (US-Boerse HEUTE wegen Independence Day GESCHLOSSEN; Lauf basiert auf dem letzten bestaetigten Schluss Do 02.07.2026). Schluss 02.07.: S&P 500 7.483,24 (~unveraendert, +0,00%), Nasdaq Composite 25.832,67 (-0,8%), Dow 52.900,07 (+594,83 / +1,14% -> REKORDSCHLUSS). AENDERUNG ggue. Lauf 58: Der NFP-Arbeitsmarktbericht ist RAUS und kam SCHWACH (+57k Jobs, unter Konsens ~110k; Arbeitslosenquote 4,2%) -> Zins-ERHOEHUNGsrisiko zurueckgedraengt, Treasury-Renditen gefallen = mild stuetzend, das akute Event-Risiko aus Lauf 58 ist damit weitgehend abgebaut. ABER die 'Great Rotation' setzt sich fort: Geld fliesst RAUS aus Tech/AI/Semis (Nasdaq -0,8%, Chips weiter schwach) REIN in Dow/Value/Defensives (Utilities, Healthcare, Staples je >+2%) sowie Industrials & Financials (neue Hochs). Marktstruktur: S&P weiter UEBER 50-Tage (~7.400) UND 200-Tage (~6.934), 50>200 (kein Death Cross) -> Index-Aufwaertstrend INTAKT, ABER die Wachstums-/Tech-Leadership ist gebrochen und die Growth-Breite eng. Fuer eine WACHSTUMS-Strategie (CANSLIM) bleibt das Umfeld schwierig: die Rotations-Gewinner (Dow/Value/Defensives, Defense-Primes) erfuellen mehrheitlich NICHT die 25%-Gewinnschwelle (C faellt durch), waehrend die klassischen Growth-Leader unter Abgabedruck stehen und keine sauberen, nicht-ueberdehnten Pivots bieten. Daher GELB = nur HOECHSTE Qualitaet, reduzierte Groesse, saubere Pivots, KEINE Jagd auf Spikes. SCREEN-ERGEBNIS: wie in Lauf 57-58 gibt es genau EINEN sauberen Near-Pivot-Leader mit elite relativer Staerke -- IBKR profitiert direkt von der Financials-Rotation, zeigt relative Staerke gegen einen fallenden Nasdaq und steht ~3,5% unter dem Pivot 96,82 (Schluss 02.07. = 93,39) -> aufgenommen als einziger Pick (kurz vor Ausbruch, reduzierte GELB-Groesse, Kauf erst bei sauberem Ausbruch >96,82 auf Volumen). Watchlist: HWM (~7,5% unter Pivot 290,63, Schluss am Tagestief -> Basis reift, noch kein Near-Breakout), ANET (unter den Pivot 164,94 zurueckgefallen, RS<80, Tech unter Rotationsdruck -> abgestuft), CRWD (4:1-Split ab 02.07.; Post-Split-Basis abwarten). STRATEGIE: Qualitaet vor Quantitaet -- 1 hochwertiger Near-Breakout-Pick statt Rotations-/Spike-Jagd; auf einen volumenbestaetigten Ausbruch >96,82 warten; Tech-/Chip-Schwaeche und ueberdehnte Namen (GEV, GE, BB, OUST) meiden.",
   "picks": [
     {
       "ticker": "IBKR",
       "company": "Interactive Brokers Group",
       "sector": "Financials / Capital Markets",
-      "price": 94.33,
+      "price": 93.39,
       "pattern": "kurz_vor_pivot",
-      "pattern_description": "Schluss Mi 01.07. ~94,33 (Intraday-Hoch ~95,57), am 01.07. ~+8,3% TROTZ fallendem Gesamtmarkt -- klare relative Staerke und Financials-Rotation. Steht ~2,6% UNTER dem Pivot/ATH-Schluss 96,82 (22.06.) -> noch NICHT ausgebrochen, aber kurz davor. WICHTIG: Der 8%-Tagesschub selbst NICHT nachjagen -- sauberer Kauf-Trigger ist der Ausbruch UEBER 96,82 auf hohem Volumen.",
-      "pct_from_ath": -2.6,
+      "pattern_description": "Schluss Do 02.07. = 93,39 (Tagesspanne 86,72-95,57), erneut mit relativer Staerke gegen einen fallenden Nasdaq und getragen von der anhaltenden Financials-Rotation. Steht ~3,5% UNTER dem Pivot/ATH-Schluss 96,82 und ~4,5% unter dem 52W-Hoch 97,84 -> noch NICHT ausgebrochen, aber kurz davor. WICHTIG: Kein Nachjagen der Intraday-Schwankung -- sauberer Kauf-Trigger ist der Ausbruch UEBER 96,82 auf ueberdurchschnittlichem Volumen.",
+      "pct_from_ath": -4.5,
       "canslim": {
         "C": "C (Current / aktuelle Quartalsgewinne): Q1 2026 Adj. EPS 0,60 USD +28% YoY; Rekord-Nettoumsatz 1,67 Mrd +17%; NII +17% -- klar ueber der 25%-Schwelle.",
         "A": "A (Annual / Jahres-/Mehrjahreswachstum): stetig 15-28%, zuletzt beschleunigend; Client Equity ~930 Mrd (+40% YoY).",
-        "N": "N (New / Neues, Katalysator, neues Hoch): Rekord-Kennzahlen Juni -- DARTs 5,269 Mio (+53% YoY), 5,185 Mio Konten (+34%), neue KI-'agentic' Trading-Tools; ~2,6% unter Pivot, noch kein neues Hoch.",
-        "S": "S (Supply/Demand / Angebot & Nachfrage der Aktie): kontrollierter Float, sichtbare Akkumulation; am 01.07. Kaufdruck (rel. Staerke gegen den Markt).",
-        "L": "L (Leader / Marktfuehrer): fuehrender Online-/Profi-Broker -- Kursverhalten jetzt STAERKER als Markt/Sektor (rel. Staerke); Analysten hoben Ziele an (Goldman 109, BMO 105).",
-        "I": "I (Institutional / institutionelle Eigentuemer): breite institutionelle Basis, wachsende Deckung.",
-        "M": "M (Market / Marktrichtung): GELB -- Index-Aufwaertstrend intakt, aber Tech-Selloff/Rotation + NFP-/Feiertags-Risiko; daher reduzierte Groesse und Kauf erst bei sauberem Ausbruch."
+        "N": "N (New / Neues, Katalysator, neues Hoch): Rekord-Kennzahlen (DARTs +53% YoY, Konten +34%), neue KI-'agentic' Trading-Tools; steht ~3,5% unter Pivot -> noch kein neues Hoch.",
+        "S": "S (Supply/Demand / Angebot & Nachfrage): kontrollierter Float, sichtbare Akkumulation; am 02.07. erneut Kaufdruck bei ueberdurchschnittlichem Volumen (7,44 Mio vs ~5,35 Mio Schnitt).",
+        "L": "L (Leader / Marktfuehrer): fuehrender Online-/Profi-Broker; Kursverhalten STAERKER als Markt/Nasdaq (elite rel. Staerke); Analystenziele angehoben (Goldman 109, BMO 105).",
+        "I": "I (Institutional / institutionelle Eigentuemer): breite institutionelle Basis, wachsende Analystendeckung.",
+        "M": "M (Market / Marktrichtung): GELB -- Index-Aufwaertstrend intakt, aber Growth-/Tech-Leadership gebrochen und Rotation raus aus Growth; daher reduzierte Groesse und Kauf erst bei sauberem Ausbruch."
       },
-      "earnings_next": "21.07.2026 (bestaetigt, ~19 Tage -> kein 2-Wochen-Risiko)",
-      "reason": "Bester und einziger sauberer Near-Breakout-Leader: elite rel. Staerke (~+8% am 01.07. gegen einen fallenden Markt), profitiert direkt von der Rotation in Financials, ~2,6% unter Pivot 96,82. Kauf-Trigger: sauberer Ausbruch UEBER 96,82 auf hohem Volumen -- den 8%-Tagesspike NICHT nachjagen. GELB = reduzierte Groesse; NFP-Reaktion (heute) und duenne Feiertagswoche beachten. Earnings 21.07. (kein 2-Wochen-Risiko)."
+      "earnings_next": "21.07.2026 (bestaetigt: Bericht nach US-Schluss; ~18 Tage entfernt -> kein 2-Wochen-Risiko)",
+      "reason": "Bester und einziger sauberer Near-Breakout-Leader: elite relative Staerke gegen einen fallenden Nasdaq, direkter Nutznieser der Financials-Rotation, ~3,5% unter Pivot 96,82. Kauf-Trigger: sauberer Ausbruch UEBER 96,82 auf hohem Volumen. GELB = reduzierte Groesse. Earnings erst 21.07. (kein 2-Wochen-Risiko)."
     }
   ],
   "watchlist": [
@@ -30,71 +30,70 @@
       "ticker": "HWM",
       "company": "Howmet Aerospace",
       "sector": "Industrials / Luftfahrt-Komponenten",
-      "price": 265.47,
+      "price": 268.68,
       "pattern": "basis_bildet",
-      "pattern_description": "Letzter bekannter Schluss ~265,47, ~8,7% unter dem 52W-Hoch/Pivot 290,63 (18.06.). Starker bullischer Trend, Post-Earnings-Support haelt; Fokus auf Ausbruch Richtung 296-300. Industrials-Rotation als Rueckenwind, aber ~9% unter Pivot -> Basis reift, noch NICHT kurz vor Ausbruch.",
-      "pct_from_ath": -8.7,
+      "pattern_description": "Schluss 02.07. = 268,68, exakt am Tagestief (Spanne 268,68-277,65) -> schwacher Tagesabschluss. ~7,5% unter dem 52W-Hoch/Pivot 290,63. Starker Basistrend und Industrials-Rotation als Rueckenwind, aber >5% unter Pivot und schwacher Schluss -> Basis reift, NOCH KEIN Near-Breakout.",
+      "pct_from_ath": -7.5,
       "canslim": {
-        "C": "C: Q1 2026 Adj. EPS 1,22 USD +42% YoY, Umsatz 2,31 Mrd +19% -- klar ueber 25%.",
+        "C": "C: Q1 2026 Adj. EPS 1,22 USD +42% YoY, Umsatz 2,31 Mrd +19% -- EPS klar ueber 25%.",
         "A": "A: Mehrquartals-Beschleunigung; FY-Guidance angehoben.",
-        "N": "N: 52W-Hoch am 18.06., aktuell im Pullback ~9% darunter -- kein neues Hoch.",
-        "S": "S: solide Struktur, Rueckkaeufe, sichtbare Akkumulation.",
+        "N": "N: 52W-Hoch 290,63, aktuell ~7,5% darunter im Pullback -- kein neues Hoch.",
+        "S": "S: solide Struktur, Rueckkaeufe; heute jedoch Schluss am Tagestief (kurzfristig Angebot).",
         "L": "L: Weltmarktfuehrer Aerospace-Strukturteile, Strong-Buy-Konsens, PT ~305.",
         "I": "I: breit institutionell gehalten.",
         "M": "M: GELB -- nur Watchlist."
       },
       "earnings_next": "~Ende Juli 2026 (kein 2-Wochen-Risiko)",
-      "reason": "Fundamental exzellent + Industrials-Rotation, aber ~9% unter Pivot 290,63 -- Basis reift, kein Near-Breakout. Trigger: sauberer Ausbruch >290,63 auf Volumen bei bestaetigtem Markt."
+      "reason": "Fundamental exzellent + Industrials-Rotation, aber ~7,5% unter Pivot 290,63 und schwacher Schluss am Tagestief -- Basis reift, kein Near-Breakout. Trigger: sauberer Ausbruch >290,63 auf Volumen bei bestaetigtem Markt."
     },
     {
       "ticker": "ANET",
       "company": "Arista Networks",
       "sector": "Technology / AI-Data-Center-Networking",
-      "price": 169.88,
-      "pattern": "am_pivot",
-      "pattern_description": "~169,88, ~4% unter ATH 177,73, haelt knapp ueber Pivot 164,94 -- also am Pivot und nicht ueberdehnt. ABER: IBD-RS weiterhin nur ~75 (<80-Leadership-Schwelle) = K.o.-Kriterium, und Tech steht seit dem 01.07.-Selloff unter Rotationsdruck.",
-      "pct_from_ath": -4.4,
+      "price": 158.11,
+      "pattern": "unter_pivot_zurueckgefallen",
+      "pattern_description": "Schluss 02.07. = 158,11 (Spanne 157,89-168,87, Schluss nahe Tagestief) -> unter den Pivot 164,94 aus Lauf 58 ZURUECKGEFALLEN, jetzt ~11% unter ATH 177,73. RS weiterhin ~75 (<80-Leadership-Schwelle) und Tech unter fortgesetztem Rotations-/Selloff-Druck -> abgestuft.",
+      "pct_from_ath": -11.0,
       "canslim": {
-        "C": "C: Q1 2026 Umsatz 2,71 Mrd +35% YoY; Non-GAAP EPS 0,87 ~+34% -- klar ueber 25%.",
+        "C": "C: Q1 2026 Umsatz 2,71 Mrd +35% YoY; Non-GAAP EPS ~+34% -- klar ueber 25%.",
         "A": "A: FY2025 +28,6%; FY2026-Guidance ~+28%.",
-        "N": "N: Pivot 164,94 gehalten, Basis ~4% unter ATH -- kein neues Hoch.",
-        "S": "S: solide; frueheres Insider-Verkaufssignal als kleiner Daempfer.",
+        "N": "N: Pivot 164,94 VERLOREN, ~11% unter ATH -- kein Ausbruch, kein neues Hoch.",
+        "S": "S: schwacher Schluss nahe Tagestief -> aktuell Angebotsdruck.",
         "L": "L: AI-Networking-Fuehrer, ABER RS ~75 (<80) -> Leadership NICHT erfuellt.",
         "I": "I: gut institutionell gehalten.",
         "M": "M: GELB + Tech unter Rotationsdruck -- nur Watchlist."
       },
       "earnings_next": "03.08.2026 (kein 2-Wochen-Risiko)",
-      "reason": "Am Pivot mit elite C/A, aber RS<80 (L faellt durch) und Tech seit 01.07. unter Selloff-/Rotationsdruck. Trigger: 164,94 mit RS>=80 auf Volumen halten/ueberbieten UND Markt-/Tech-Stabilisierung."
+      "reason": "Elite C/A, aber der Pivot 164,94 wurde verloren (jetzt ~11% unter ATH), RS<80 (L faellt durch) und Tech seit dem 01.07.-Selloff unter Rotationsdruck. Trigger: Rueckeroberung 164,94 mit RS>=80 auf Volumen UND Markt-/Tech-Stabilisierung."
     },
     {
       "ticker": "CRWD",
       "company": "CrowdStrike Holdings",
       "sector": "Technology / Cybersecurity",
-      "price": 742.91,
+      "price": null,
       "pattern": "basis_bildet",
-      "pattern_description": "~5% unter ATH 785,66 in Konsolidierung, KEIN Ausbruch. 4:1-Split ab 02.07. split-bereinigt -> Kursbasis/Buy-Point stellen sich um; saubere Pivot-Beurteilung erst nach Split-Umstellung und Basis-Neubildung. Zudem Tech unter Rotationsdruck.",
-      "pct_from_ath": -5.4,
+      "pattern_description": "4:1-Split effektiv ab 02.07. -> Kursbasis/Buy-Point stellen sich split-bereinigt um; eine saubere Pivot-Beurteilung ist erst nach Post-Split-Basis-Neubildung moeglich. Zudem Tech unter Rotationsdruck. KEIN Ausbruch.",
+      "pct_from_ath": null,
       "canslim": {
         "C": "C: Q1 FY2027 Umsatz 1,39 Mrd +26% YoY; Net-New-ARR +256 Mio -- ueber 25%.",
         "A": "A: stetiges 25-30%-Umsatzwachstum, ARR-Modell mit hoher Visibilitaet.",
-        "N": "N: 4:1-Split ab 02.07. als Katalysator; ~5% unter ATH, noch kein neues Hoch.",
+        "N": "N: 4:1-Split ab 02.07. als Katalysator; noch kein neues Hoch nach Split-Umstellung.",
         "S": "S: Split erhoeht Handelbarkeit; institutionelle Akkumulation.",
         "L": "L: Marktfuehrer Endpoint-/Cloud-Security (Falcon), unter Vorbehalt aktueller RS.",
         "I": "I: breit und stark institutionell gehalten.",
         "M": "M: GELB + Tech unter Rotationsdruck -- nur Watchlist."
       },
       "earnings_next": "~Anfang September 2026 (kein 2-Wochen-Risiko)",
-      "reason": "Qualitaets-Leader, aber ~5% unter ATH in Konsolidierung (kein Ausbruch), Split verzerrt kurzfristig die Kursbasis und Tech ist unter Rotationsdruck. Post-Split-Basis abwarten."
+      "reason": "Qualitaets-Leader, aber 4:1-Split ab 02.07. verzerrt kurzfristig die Kursbasis und Tech ist unter Rotationsdruck -> Post-Split-Basis abwarten, kein Ausbruch."
     }
   ],
   "filtered_out": [
-    "ALLGEMEIN: Markt GELB -- S&P/Nasdaq ueber 50/200-Tage (Index-Aufwaertstrend intakt, 50>200), ABER schwacher Q3-Start, deutlicher Tech-/Chip-Selloff am 01.07., Leadership rotiert raus aus Tech rein in Financials/Industrials/Healthcare, ADP schwach (98k), NFP HEUTE 02.07., Boerse Fr 03.07. geschlossen -> Gap-Risiko in duenner Feiertagswoche + Fed-Spitze-Unsicherheit (Warsh). Nur hoechste Qualitaet, reduzierte Groesse, keine Spike-Jagd.",
-    "Semis/Chips (MU -10,6%, SNDK -10,6%, INTC -9%, AMD -6,9%, AMAT -10%): scharfer Selloff am 01.07., Abwaertsdruck, kein Ausbruch -- meiden.",
-    "GE Aerospace (GE): ~356 USD, +70% auf 52W / +27% auf 6M -- stark ueberdehnt nach langem Lauf, kein Low-Risk-Pivot (raus).",
-    "PLTR (Palantir): volatil, tech-/AI-nah unter Rotationsdruck, kein sauberer Pivot (raus).",
-    "RTX / LMT (Defense-Primes): Rotationsnutznieser, aber Gewinnwachstum <25% -> C faellt durch (raus).",
-    "BB (BlackBerry): +192% auf 52W, ~29% ueber 20-Tage-SMA -- extrem ueberdehnt, kein Low-Risk-Einstieg (raus).",
-    "FIG (Figma): junge IPO ohne belastbare CANSLIM-Gewinnhistorie (C nicht sauber bewertbar) -- raus.",
-    "NVDA und weitere Tech-Leader: unter frischem Rotations-/Selloff-Druck, kein sauberer, nicht ueberdehnter Pivot (raus)."
+    "ALLGEMEIN: Markt GELB -- S&P/Nasdaq/Dow ueber 50/200-Tage (Index-Aufwaertstrend intakt, 50>200, Dow-Rekord), ABER die 'Great Rotation' laeuft: Geld raus aus Tech/AI/Semis rein in Dow/Value/Defensives/Industrials/Financials. NFP schwach (+57k, Arbeitslosenquote 4,2%) -> Zinserhoehungsrisiko zurueckgedraengt (mild stuetzend), akutes Event-Risiko abgebaut. Fuer eine Wachstums-Strategie bleibt die Leadership schmal -> nur hoechste Qualitaet, reduzierte Groesse, keine Spike-Jagd.",
+    "Semis/Chips + AI-Infrastruktur (Chips weiter schwach; VRT am 02.07. ~-3,5%): fortgesetzter Rotations-/Abgabedruck, kein sauberer Ausbruch -- meiden.",
+    "HOOD (Robinhood): Q1 2026 EPS nur +3% YoY (Umsatz +15%) -> C faellt DURCH (<25%); zudem ~27% unter ATH 153,86 nach Pullback -- raus.",
+    "PLTR (Palantir): erholt sich zwar, aber tech-/AI-nah unter Rotationsdruck, valuation-getrieben, kein sauberer nicht-ueberdehnter Pivot -- raus.",
+    "GEV (GE Vernova) und GE Aerospace: nach langem Lauf stark ueberdehnt (GEV 52W ~506 -> ~1.182), kein Low-Risk-Pivot -- raus.",
+    "Rotations-Gewinner ohne Wachstum (Defense-Primes RTX/LMT, klassische Dow-Value-/Defensives-Namen): Nutznieser der Rotation, aber Gewinnwachstum <25% -> C faellt durch -- raus.",
+    "Spekulative 52W-Hoch-Spikes (BB BlackBerry ~+9% Turnaround, OUST Ouster ~+28% Retail/Physical-AI, SLS Sellas Biotech-Binaerereignis vor Phase-3): keine belastbare CANSLIM-Gewinnqualitaet (C nicht erfuellt) / reine Spike-Jagd -- raus."
   ]
 }
