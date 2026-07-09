@@ -1,90 +1,90 @@
 {
-  "updated": "2026-07-08",
-  "run": 64,
+  "updated": "2026-07-09",
+  "run": 65,
   "market_signal": "YELLOW",
-  "market_note": "Stand Mi 08.07.2026 VOR US-Handelsstart (pre-market). Massgeblich ist der letzte bestaetigte Schluss Di 07.07.2026: S&P 500 7.503,85 (-0,45%), Nasdaq Composite 25.818,69 (-1,16%), Dow 52.925,15 (-0,25%). Marktstruktur: S&P/Nasdaq/Dow weiterhin UEBER 50- und 200-Tage-Linie, 50>200 (kein Death Cross) -> Index-Aufwaertstrend strukturell intakt. RUECKSTUFUNG GRUEN -> GELB: Die in Lauf 63 frisch (nur eine Session) vergebene GRUEN-Ampel hat KEIN Follow-through bekommen. Stattdessen am 07.07. (1) Halbleiter-Ausverkauf (Samsung-Zahlen + Bericht ueber DeepSeek-eigenen KI-Chip -> Nasdaq -1,16%, Semis fuehren die Verluste an) und (2) geopolitischer Schock: US-Streitkraefte fuehrten in der Nacht zu Di Schlaege gegen den Iran nach Angriffen auf Handelsschiffe in der Strasse von Hormus -> Brent/WTI +5% (Brent >76 USD). Die Growth-Leadership hat sich damit NICHT verbreitert, sondern auf praktisch EINE Gruppe verengt: Cybersecurity (PANW, CRWD, OKTA) haelt sich stark gegen den fallenden Markt = elite relative Staerke -- ABER die Leader sind kurzfristig ueberdehnt (PANW RSI ~79, ueber oberem Bollinger-Band) und PANW wurde am 07.07. am ATH-Pivot 358,31 abgewiesen (Schluss ~350, -2,2%). Konsequenz: Risiko herunterfahren, KEINE Spike-/News-Jagd (v.a. keine oelgetriebenen Energie-Spikes nachjagen), Kauf ausschliesslich bei sauberem, VOLUMENBESTAETIGTEM Ausbruch UEBER den jeweiligen Pivot und erst nach Beruhigung von Chip-Rout + Geopolitik. SCREEN-ERGEBNIS Lauf 64: nur 3 Elite-Setups am/kurz vor Pivot mit C>=25% -- PANW, CRWD, HEI. IBKR ist ~5-7% unter den Pivot zurueckgefallen UND hat Earnings 21.07. (~13 Tage, 2-Wochen-Warnung) -> von Pick auf Watchlist. Semis konsequent gefiltert (Chip-Rout, unter ATH). Qualitaet vor Anzahl. Neubewertung mit frischen Kursen nach US-Open 08.07.",
+  "market_note": "Stand Do 09.07.2026 (pre-market / vor US-Open). Massgeblich ist der letzte bestaetigte Schluss Mi 08.07.2026: Dow 52.348,39 (-1,09%, -576,76 Pkt), S&P 500 ~7.482,8 (-0,28%), Nasdaq Composite ~25.870 (+0,20%). Struktur: Indizes weiterhin UEBER 50- und 200-Tage-Linie, 50>200 (kein Death Cross) -> Index-Aufwaertstrend strukturell intakt. Ampel bleibt GELB. Gruende: (1) Geopolitik eskaliert weiter -- Trump erklaerte das US-Iran-MOU fuer 'beendet', US-Streitkraefte setzten Schlaege gegen Iran fort nach Angriffen auf drei Handelsschiffe in der Strasse von Hormus; Oel steigt weiter (Brent/WTI). (2) Marktbreite gespalten: Dow -1,1% (Value/Industrie schwach), Nasdaq knapp gruen (Tech stuetzt) -> keine breite, gesunde Beteiligung. WICHTIGE VERAENDERUNG ggue Lauf 64: PANW wurde am 08.07. -5,1% auf ~320 abverkauft -> jetzt ~13% UNTER Pivot 358,31/ATH 368,17 = ueberdehnter Ex-Leader in Korrektur -> von PICK auf WATCHLIST zurueckgestuft (muss zuerst eine neue Basis bauen; NICHT nachjagen). SCREEN-ERGEBNIS Lauf 65: nur 2 Elite-Setups am/kurz vor Pivot mit C>=25% UND sauberer, nicht ueberdehnter Basis -- HEI (Aerospace-Aftermarket/Defense, defensiver Geopolitik-Rueckenwind) und CRWD (Cyber-Qualitaetsleader am Pivot). AXON konsequent gefiltert (~25% unter ATH, N faellt durch). Energie-/Oel-Spikes (Iran/Hormus) NICHT nachgejagt -- ereignisgetrieben, kein sauberer CANSLIM-Ausbruch. Qualitaet vor Anzahl. Kauf ausschliesslich bei sauberem, VOLUMENBESTAETIGTEM Ausbruch UEBER den jeweiligen Pivot -- keine Spike-/News-Jagd. Neubewertung mit frischen Kursen nach US-Open 09.07.",
   "picks": [
     {
-      "ticker": "PANW",
-      "company": "Palo Alto Networks",
-      "sector": "Technology / Cybersecurity",
-      "price": 350.0,
+      "ticker": "HEI",
+      "company": "HEICO Corporation",
+      "sector": "Industrials / Aerospace Aftermarket & Defense",
+      "price": 362.0,
       "pattern": "kurz_vor_pivot",
-      "pattern_description": "Schluss Mo 06.07. 357,35 exakt am ATH-Pivot 358,31; am Di 07.07. im Chip-Rout/Risk-off am Pivot ABGEWIESEN und ~2,2% tiefer bei ~350 geschlossen -> jetzt ~2-2,5% UNTER Pivot, noch NICHT ausgebrochen. Bleibt DER relative-Staerke-Leader: haelt sich gegen einen fallenden Markt, gestuetzt von Analysten-Upgrades (Scotiabank/BTIG/Wells Fargo). WARNUNG ueberdehnt: RSI ~79, ueber oberem Bollinger-Band, +20% seit 25.06. -> kurzfristig heiss. Kauf-Trigger: NUR sauberer, volumenbestaetigter Ausbruch UEBER 358,31 -- NICHT ueber +5% nachjagen, Ruecksetzer in die 350er-Zone abwarten.",
-      "pct_from_ath": -2.3,
+      "pattern_description": "Rekord-Schluss 06.07. 365,31 (praktisch am ATH-Pivot 366,59); am 08.07. in der breiten Marktschwaeche (Dow -1,1%) nur leicht konsolidiert und dank Aerospace/Defense-Outperformance (A&D-ETF intraday auf ATH) nahe ATH gehalten -> jetzt ~1-2,5% UNTER Pivot 366,59, konstruktiv kurz davor, noch NICHT ausgebrochen. Geopolitik zweischneidig: Defense-Seite mit Rueckenwind (NDAA FY27 >1,15 Bio USD), Commercial-Aftermarket mit leichtem Gegenwind aus hoeheren Treibstoffkosten -- per Saldo defensiver Qualitaetswert. Analysten-Ziele UBS 390 / Citi 410. Kauf-Trigger: sauberer, volumenbestaetigter Ausbruch UEBER 366,59 (kein Nachjagen ueber +5%).",
+      "pct_from_ath": -1.9,
       "canslim": {
-        "C": "C (Current / aktuelle Quartalsgewinne): Fiskal-Q3 2026 Umsatz 3,0 Mrd +31% YoY, Rekordquartal, alle Guidance-Metriken uebertroffen -- klar ueber der 25%-Schwelle.",
-        "A": "A (Annual / Jahreswachstum): FY2026-Guidance angehoben, Umsatz ~24% Wachstum, NGS ARR 8,9-8,95 Mrd (+59-60%), RPO +32-33% -- stetige Beschleunigung.",
-        "N": "N (New / Neues): am 06.07. am ATH 358,31, am 07.07. dort abgewiesen -> noch kein bestaetigter Ausbruch; Treiber KI-Security-Nachfrage, Integrationen (CyberArk, Chronosphere).",
-        "S": "S (Supply/Demand): institutionelle Akkumulation, Basis nahe ATH; wegen Ueberdehnung Ausbruch zwingend volumenbestaetigt.",
-        "L": "L (Leader): Cybersecurity-Plattformfuehrer; elite RS -- haelt sich gegen fallenden Markt, +97% YTD.",
-        "I": "I (Institutional): breit und stark institutionell gehalten, steigende Kursziele (BTIG 380, Wells Fargo 420).",
-        "M": "M (Market): GELB -- Chip-Rout + Geopolitik, Leadership auf Cyber verengt; Kauf nur bei sauberem, volumenbestaetigtem Ausbruch, keine Spike-Jagd."
+        "C": "C (Current / aktuelle Quartalsgewinne): Fiskal-Q2 2026 EPS 1,66 USD vs. 1,12 -> +48% YoY, Umsatz +25,3% auf 1,38 Mrd -- weit ueber der 25%-Schwelle, Konsens um 0,33 USD geschlagen.",
+        "A": "A (Annual / Jahreswachstum): stetiges zweistelliges Wachstum (~18% organisch) aus Aftermarket-Nachfrage plus Akquisitionen; Rekord-Backlog, Margenausweitung.",
+        "N": "N (New / Neues): frischer Rekord-Schluss 06.07. (365,31), am 08.07. nahe ATH gehalten; ~1-2,5% unter Pivot 366,59 -> noch kein bestaetigter Ausbruch. Treiber: Defense-Zyklus (NDAA), M&A, Dividendenerhoehung (+8%).",
+        "S": "S (Supply/Demand): kontrollierte Dual-Class-Struktur, hohe Insiderbeteiligung (Familie Mendelson), stetige institutionelle Akkumulation.",
+        "L": "L (Leader): Weltmarktfuehrer Ersatzteile/PMA fuer die Luftfahrt; klarer RS-Leader nahe ATH, defensiv im Risk-off.",
+        "I": "I (Institutional): breit und stark institutionell gehalten; steigende Kursziele (UBS 390, Citi 410).",
+        "M": "M (Market): GELB -- Geopolitik/Oel + gespaltene Breite; Aerospace/Defense relativ robust. Kauf nur bei sauberem, volumenbestaetigtem Ausbruch."
       },
-      "earnings_next": "~24.08.2026 (kein 2-Wochen-Risiko)",
-      "reason": "Staerkster RS-Leader der einzig fuehrenden Gruppe (Cybersecurity), aber am 07.07. am Pivot 358,31 abgewiesen und kurzfristig ueberdehnt (RSI ~79). Kauf-Trigger NUR bei volumenbestaetigtem Ausbruch >358,31, kein Nachjagen -- sonst Ruecksetzer abwarten."
+      "earnings_next": "~24.08.2026 (Fiskal-Q3; kein 2-Wochen-Risiko)",
+      "reason": "Elite-Qualitaet kurz vor Pivot: EPS +48%, Aftermarket-Weltmarktfuehrer, RS-Leader nahe ATH, defensiver Aerospace/Defense-Charakter mit Geopolitik-Rueckenwind im Risk-off. Kauf bei volumenbestaetigtem Ausbruch >366,59."
     },
     {
       "ticker": "CRWD",
       "company": "CrowdStrike Holdings",
       "sector": "Technology / Cybersecurity",
-      "price": 194.67,
-      "pattern": "kurz_vor_pivot",
-      "pattern_description": "Schluss Di 07.07. 194,67 (-2,36%), ~2,4% UNTER dem (split-bereinigten) ATH-Pivot 199,53 -> konstruktive Basis KURZ VOR Pivot, intraday am 06.07. bis 204 getestet. Cybersecurity ist die einzige Gruppe mit klarer relativer Staerke im Risk-off. Kauf-Trigger: sauberer, volumenbestaetigter Ausbruch UEBER 199,53 (Intraday-Spikes bis 204 nicht nachjagen; disziplinierter Pivot-Kauf).",
-      "pct_from_ath": -2.4,
+      "price": 198.5,
+      "pattern": "am_pivot",
+      "pattern_description": "Notiert dicht am (split-bereinigten) ATH-Pivot 199,53 (ATH 02.07.), am 08.07. rund 198-199 -> ~0,5-1,5% UNTER Pivot, direkt am Breakout-Punkt. Cybersecurity blieb die relativ staerkste Growth-Gruppe. WARNUNG: Gruppe kurzfristig heiss (+~19% in einem Monat) und volatil -- PANW brach am 08.07. -5,1% ein; daher KEIN Nachjagen von Intraday-Spikes (06.07. bis 204 getestet). Kauf-Trigger: sauberer, volumenbestaetigter Ausbruch UEBER 199,53; sonst Ruecksetzer/enge Basis abwarten.",
+      "pct_from_ath": -0.5,
       "canslim": {
-        "C": "C: Q1 FY2027 Rekord-Net-New-ARR 256 Mio (+32% YoY), ARR 5,51 Mrd (+24% YoY), Guidance angehoben -- Wachstum klar ueber 25%.",
-        "A": "A: stetiges 24-30%-ARR-/Umsatzwachstum mit hoher Visibilitaet (Abo-Modell).",
-        "N": "N: Post-Split-Basis dicht unter ATH; Falcon-/Agentic-AI-Security-Module als Katalysator, ~2,4% unter Pivot -> noch kein neues Hoch.",
-        "S": "S: institutionelle Akkumulation, Basis nahe ATH; Split verbessert Liquiditaet.",
-        "L": "L: Marktfuehrer Endpoint-/Cloud-Security (Falcon); elite RS, haelt sich im Risk-off.",
-        "I": "I: breit und stark institutionell gehalten.",
-        "M": "M: GELB -- Kauf nur bei sauberem, volumenbestaetigtem Ausbruch, keine Spike-Jagd."
+        "C": "C (Current): Q1 FY2027 Rekord-Net-New-ARR 256 Mio (+32% YoY), Umsatz 1,39 Mrd (+26% YoY), ARR 5,51 Mrd (+24%), Guidance angehoben -- klar ueber 25%.",
+        "A": "A (Annual): stetiges 24-30%-ARR-/Umsatzwachstum mit hoher Visibilitaet (Abo-Modell), starke Free-Cashflow-Marge.",
+        "N": "N (New): Post-4:1-Split-Basis (wirksam 02.07.) direkt unter/an ATH; Katalysator Falcon-/Agentic-AI-Security-Module; ~0,5-1,5% unter Pivot -> Ausbruch noch nicht bestaetigt.",
+        "S": "S (Supply/Demand): institutionelle Akkumulation, enge Basis nahe ATH; 4:1-Split verbessert Liquiditaet.",
+        "L": "L (Leader): Marktfuehrer Endpoint-/Cloud-Security (Falcon); elite relative Staerke, +76% YTD.",
+        "I": "I (Institutional): breit und stark institutionell gehalten.",
+        "M": "M (Market): GELB -- Cyber-Gruppe heiss/volatil (PANW -5,1% am 08.07.); Kauf nur bei sauberem, volumenbestaetigtem Ausbruch, keine Spike-Jagd."
       },
       "earnings_next": "~02.09.2026 (kein 2-Wochen-Risiko)",
-      "reason": "Qualitaets-Leader kurz vor Pivot: Schluss ~2,4% unter ATH 199,53, ARR +24% / Net-New-ARR +32%, elite RS in der einzig fuehrenden Gruppe. Kauf-Trigger: volumenbestaetigter Ausbruch >199,53."
-    },
-    {
-      "ticker": "HEI",
-      "company": "HEICO Corporation",
-      "sector": "Industrials / Aerospace Aftermarket & Defense",
-      "price": 357.0,
-      "pattern": "kurz_vor_pivot",
-      "pattern_description": "Rekord-Schluss 06.07. ~365,31 (praktisch am Pivot 366,59); am 07.07. in der breiten Marktschwaeche leicht zurueckgesetzt (Spanne 353,13-365,25, Schluss ~357) -> jetzt ~2,5-3% UNTER Pivot 366,59, konstruktiv kurz davor. Aerospace-Aftermarket + Defense mit potenziellem Rueckenwind aus der Geopolitik. UBS-Ziel 390 (18% organisches Wachstum). Kauf-Trigger: Ausbruch UEBER 366,59 auf ueberdurchschnittlichem Volumen (kein Nachjagen ueber +5%).",
-      "pct_from_ath": -2.6,
-      "canslim": {
-        "C": "C: Fiskal-Q2 2026 EPS 1,66 USD vs. 1,12 -> +48% YoY -- weit ueber 25%.",
-        "A": "A: 8 Quartale in Folge ueber Erwartung; stetiges zweistelliges Wachstum aus Aftermarket-Nachfrage + Akquisitionen; ~18% organisch.",
-        "N": "N: frischer Rekord am 06.07., kleiner Ruecksetzer am 07.07.; ~2,5-3% unter Pivot 366,59 -> noch kein bestaetigter Ausbruch; Aftermarket-Zyklik + M&A + Dividendenerhoehung (+8%).",
-        "S": "S: kontrollierte Aktienstruktur (Dual-Class), stetige institutionelle Akkumulation, hohe Insiderbeteiligung (Familie Mendelson).",
-        "L": "L: Weltmarktfuehrer Ersatzteile/PMA fuer die Luftfahrt; klarer RS-Leader nahe ATH.",
-        "I": "I: breit und stark institutionell gehalten; UBS-Ziel 390.",
-        "M": "M: GELB -- Kauf nur bei sauberem Ausbruch; Aerospace/Defense relativ robust im Risk-off."
-      },
-      "earnings_next": "~24.08.2026 (Fiskal-Q3; kein 2-Wochen-Risiko)",
-      "reason": "Elite-Qualitaet kurz vor Pivot: EPS +48%, Aftermarket-Weltmarktfuehrer, RS-Leader nahe ATH, defensiver Aerospace/Defense-Charakter im Risk-off. Kauf bei volumenbestaetigtem Ausbruch >366,59."
+      "reason": "Qualitaets-Leader direkt am Pivot 199,53: ARR +24% / Net-New-ARR +32%, elite RS in der fuehrenden Gruppe. Diszipliniert: Kauf nur bei volumenbestaetigtem Ausbruch >199,53, kein Nachjagen der heissen Gruppe."
     }
   ],
   "watchlist": [
+    {
+      "ticker": "PANW",
+      "company": "Palo Alto Networks",
+      "sector": "Technology / Cybersecurity",
+      "price": 320.0,
+      "pattern": "korrektur_nach_lauf",
+      "pattern_description": "RUECKSTUFUNG von PICK auf WATCHLIST: Am 08.07. -5,1% auf ~320 abverkauft (Profit-Taking nach +97% YTD), 52W-Hoch 368,17 / Pivot 358,31 -> jetzt ~11-13% UNTER Pivot. Damit KEIN Near-Breakout mehr, sondern ueberdehnter Ex-Leader in Korrektur. Fundamental weiter elite, aber technisch muss zuerst eine neue, gesunde Basis entstehen. KEIN Nachjagen; erst wieder Kandidat bei enger Basisbildung nahe ATH und sauberem, volumenbestaetigtem Pivot-Ausbruch.",
+      "pct_from_ath": -13.0,
+      "canslim": {
+        "C": "C: Fiskal-Q3 2026 Umsatz 3,0 Mrd +31% YoY, Rekordquartal -- ueber 25%.",
+        "A": "A: FY2026-Guidance angehoben, NGS ARR 8,1 Mrd (+60% YoY), RPO +32-33%.",
+        "N": "N: am 08.07. -5,1% -> ~13% unter Pivot 358,31 zurueckgefallen, KEIN neues Hoch/kein Near-Breakout mehr (N faellt aktuell durch).",
+        "S": "S: institutionelle Basis intakt, aber kurzfristig Distribution (Volumen-Abverkauf).",
+        "L": "L: Cyber-Plattformfuehrer, +97% YTD -- Leadership intakt, aber kurzfristig ueberdehnt/korrigierend.",
+        "I": "I: breit institutionell gehalten (BTIG 380, Wells Fargo 420).",
+        "M": "M: GELB."
+      },
+      "earnings_next": "~24.08.2026 (kein 2-Wochen-Risiko)",
+      "reason": "Von Pick zurueckgestuft: am 08.07. -5,1% -> ~13% unter Pivot 358,31, ueberdehnter Ex-Leader in Korrektur. Erst nach neuer Basisbildung nahe ATH und volumenbestaetigtem Ausbruch wieder Kandidat -- nicht nachjagen."
+    },
     {
       "ticker": "IBKR",
       "company": "Interactive Brokers Group",
       "sector": "Financials / Capital Markets",
       "price": 91.5,
       "pattern": "basis_bildet",
-      "pattern_description": "Am 07.07. weite Spanne 87,57-95,57, Schluss ~91-92 -> ~5-7% UNTER Pivot 96,82 zurueckgefallen (in Lauf 63 noch ~2% darunter) => AUSSERHALB der Near-Pivot-Zone. Zusaetzlich Earnings 21.07. (~13 Tage) -> 2-WOCHEN-WARNUNG. Daher von Pick auf Watchlist. Erst wieder Kandidat bei Annaeherung an den Pivot UND Kauf nur bei Ausbruch VOR Earnings, sonst Bericht abwarten.",
+      "pattern_description": "Weiter ~5-7% UNTER Pivot 96,82 (ausserhalb der Near-Pivot-Zone) UND Earnings 21.07. (~12 Tage) -> 2-WOCHEN-WARNUNG. Bleibt Watchlist. Erst wieder Kandidat bei Annaeherung an den Pivot UND Kauf nur bei Ausbruch VOR Earnings, sonst Bericht abwarten.",
       "pct_from_ath": -6.5,
       "canslim": {
         "C": "C: Q1 2026 Adj. EPS 0,60 USD +28% YoY, Rekord-Nettoumsatz 1,67 Mrd +17% -- ueber der 25%-Schwelle.",
         "A": "A: stetig 15-28%, zuletzt beschleunigend; Client Equity ~930 Mrd (+40% YoY).",
-        "N": "N: ~5-7% unter Pivot 96,82 zurueckgefallen -> kein Near-Breakout mehr.",
+        "N": "N: ~5-7% unter Pivot 96,82 -> kein Near-Breakout.",
         "S": "S: kontrollierter Float; Ausbruch muss volumenbestaetigt sein.",
         "L": "L: fuehrender Online-/Profi-Broker; RS zuletzt nachgelassen.",
         "I": "I: breite institutionelle Basis (Goldman 109, BMO 105).",
         "M": "M: GELB."
       },
-      "earnings_next": "21.07.2026 (bestaetigt; ~13 Tage -> 2-WOCHEN-WARNUNG)",
-      "reason": "Von Pick zurueckgestuft: ~5-7% unter Pivot 96,82 (ausserhalb Near-Pivot-Zone) UND Earnings 21.07. innerhalb 2 Wochen. Nur Watchlist -- Wiedervorlage bei Pivot-Naeherung und Ausbruch vor dem Bericht."
+      "earnings_next": "21.07.2026 (bestaetigt; ~12 Tage -> 2-WOCHEN-WARNUNG)",
+      "reason": "Watchlist: ~5-7% unter Pivot 96,82 UND Earnings 21.07. innerhalb 2 Wochen. Wiedervorlage bei Pivot-Naeherung und Ausbruch vor dem Bericht."
     },
     {
       "ticker": "OKTA",
@@ -92,10 +92,10 @@
       "sector": "Technology / Cybersecurity (Identity)",
       "price": 147.0,
       "pattern": "c_faellt_durch",
-      "pattern_description": "Technisch stark (Scotiabank Upgrade auf Outperform, Ziel 165; +4% im Cyber-Move), ABER Umsatzwachstum nur ~11-12%, FY2027-Guidance 9-10% -> C erfuellt die 25%-Schwelle NICHT. Trotz Cyber-Rueckenwind nur Beobachtung.",
+      "pattern_description": "Technisch im Cyber-Move stark (Scotiabank Outperform, Ziel 165), ABER Umsatzwachstum nur ~11-12%, FY2027-Guidance 9-10% -> C erfuellt die 25%-Schwelle NICHT. Trotz Cyber-Rueckenwind nur Beobachtung.",
       "pct_from_ath": -11.0,
       "canslim": {
-        "C": "C: Umsatzwachstum ~11-12%, FY27-Guidance 9-10% -> C faellt klar durch (EPS-Sprung ist margengetrieben, nicht umsatzgetrieben).",
+        "C": "C: Umsatzwachstum ~11-12%, FY27-Guidance 9-10% -> C faellt klar durch (EPS-Sprung margengetrieben, nicht umsatzgetrieben).",
         "A": "A: Umsatz verlangsamt (12% FY26).",
         "N": "N: unter ATH, kein sauberer neuer Hoehepunkt.",
         "S": "S: solide Struktur.",
@@ -108,15 +108,14 @@
     }
   ],
   "filtered_out": [
-    "ALLGEMEIN (Lauf 64): Pre-market Mi 08.07. -- keine neuen Kursdaten seit Schluss Di 07.07.; frische Session ab 09:30 ET. Markt von GRUEN auf GELB zurueckgestuft: S&P 7.503,85 / Nasdaq 25.818,69 / Dow 52.925,15 -- strukturell noch ueber 50/200-Tage (50>200), ABER Follow-through der GRUEN-Ampel ausgeblieben, stattdessen Chip-Rout (Samsung/DeepSeek) + Geopolitik (US-Schlaege Iran, Strasse von Hormus, Oel +5%). Leadership auf Cybersecurity verengt. Nur hoechste Qualitaet, Kauf ausschliesslich bei volumenbestaetigtem Ausbruch, keine Spike-/News-Jagd; Beruhigung abwarten.",
-    "SEMICONDUCTORS (NVDA, AMD, AVGO/Broadcom, MU, INTC, SMH): Chip-Rout am 07.07. nach Samsung-Zahlen + DeepSeek-KI-Chip-Bericht, Semis fuehren die Verluste, meist unter ATH -> kein sauberer Near-Breakout, konsequent gemieden bis Basisbildung nahe ATH.",
-    "OKTA: Cyber-Upgrade (Scotiabank Ziel 165), aber Umsatzwachstum ~11-12% -> C <25%, faellt durch -> nur Watchlist.",
-    "ZS (Zscaler): Umsatz +25% (C ok), ABER Kurs ~141 rund 60% unter ATH (368 aus 2021), 52W 114-337 -> weit unter ATH, KEIN neues Hoch/kein Near-Breakout (N faellt durch) -> raus.",
-    "FTNT (Fortinet): technisch nahe ATH, aber C <25% (Wachstum ~13-20%) -> raus.",
-    "GE Aerospace / GEV: nach langem Lauf ueberdehnt / spaetstufige Basis, kein Low-Risk-Pivot -> raus.",
-    "HWM (Howmet): fundamental exzellent (EPS +42%), aber ~7% unter Pivot -> ausserhalb Near-Pivot-Zone -> raus.",
-    "ENERGIE/OEL-Spikes (XOM, CVX, OXH, Oil-Services) durch Hormus-/Iran-Schock: ereignisgetriebene News-Spikes ohne sauberen CANSLIM-Basis-Ausbruch -> NICHT nachjagen.",
-    "Rotations-/Value- und Finanz-Peers mit C<25% (URI, TT, CW, DE, ETN, RTX, LMT, JPM, GS, AXP): C faellt durch -> raus.",
-    "HOOD (Robinhood): C<25% und weit unter ATH -- raus. PLTR (Palantir): valuation-getrieben, kein sauberer nicht-ueberdehnter Pivot -- raus."
+    "ALLGEMEIN (Lauf 65): Pre-market Do 09.07. -- massgeblich Schluss Mi 08.07.: Dow 52.348,39 (-1,09%), S&P ~7.482,8 (-0,28%), Nasdaq ~25.870 (+0,20%). Ampel GELB: strukturell ueber 50/200-Tage, aber Geopolitik eskaliert (Trump: US-Iran-MOU 'beendet', US-Schlaege gegen Iran, Hormus, Oel weiter hoch) und Breite gespalten (Dow schwach, Nasdaq knapp gruen). Nur hoechste Qualitaet am/kurz vor Pivot, Kauf ausschliesslich bei volumenbestaetigtem Ausbruch, keine Spike-/News-Jagd.",
+    "PANW: am 08.07. -5,1% auf ~320 -> ~13% unter Pivot 358,31, ueberdehnter Ex-Leader in Korrektur -> von Pick auf Watchlist (nicht nachjagen).",
+    "AXON: Q1 2026 Umsatz +34% (C top), ABER Kurs ~640 rund 25% unter ATH 870,97 (52W-Hoch 885,92) -> weit unter ATH, KEIN neues Hoch/kein Near-Breakout (N faellt durch) -> raus.",
+    "SEMICONDUCTORS (NVDA, AMD, AVGO, MU, INTC, SMH): nach Chip-Rout (Samsung/DeepSeek) weiter unter ATH, kein sauberer Near-Breakout -> gemieden bis Basisbildung nahe ATH.",
+    "ZS (Zscaler): C ok (~25%), aber ~60% unter ATH -> N faellt durch -> raus. FTNT (Fortinet): nahe ATH, aber C <25% -> raus.",
+    "ENERGIE/OEL-Spikes (XOM, CVX, OXY, Oil-Services) durch Hormus-/Iran-Schock: ereignisgetriebene News-Spikes ohne sauberen CANSLIM-Basis-Ausbruch -> NICHT nachjagen.",
+    "DEFENSE-PRIMES/Value mit C<25% (RTX, LMT, GD, NOC, URI, TT, CW, DE, ETN): C faellt durch -> raus (HEI ist die einzige Defense/Aerospace-Adresse mit C>=25% am Pivot).",
+    "GE Aerospace/GEV: nach langem Lauf ueberdehnt / spaetstufige Basis -> kein Low-Risk-Pivot -> raus. HWM (Howmet): exzellent (EPS +42%), aber ausserhalb Near-Pivot-Zone -> raus.",
+    "HOOD (Robinhood): C<25% und weit unter ATH -> raus. PLTR (Palantir): valuation-getrieben, kein sauberer nicht-ueberdehnter Pivot -> raus."
   ]
 }
