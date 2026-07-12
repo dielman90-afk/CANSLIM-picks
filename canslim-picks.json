@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-11",
-  "run": 67,
+  "updated": "2026-07-12",
+  "run": 68,
   "market_signal": "GREEN",
-  "market_note": "Stand Sa 11.07.2026 (Wochenende, Boersen geschlossen). Massgeblich ist der letzte bestaetigte Schluss Fr 10.07.2026: S&P 500 7.575,39 (+0,42%), Nasdaq Composite 26.281,61 (+0,29%), Dow Jones 52.637,01 (+0,29%). Struktur: Indizes klar UEBER 50- und 200-Tage-Linie, 50>200 (kein Death Cross), S&P und Dow nahe/auf Allzeithoch -> Index-Aufwaertstrend intakt und bestaetigt. UPGRADE von GELB (Lauf 66) auf GRUEN: dritter Erholungstag in Folge mit Follow-through zu neuen Rekordstaenden, Halbleiter drehten hoch (Chip-Rout ausgelaufen), Oel fiel zurueck und die Leadership verbreitert sich (Cyber, KI-Networking, Aerospace fuehren) -> bestaetigter Uptrend. DISZIPLIN trotz GRUEN: (1) Q2-Earnings-Saison startet naechste Woche (JPMorgan 14.07., Netflix 16.07.) -> erhoehtes Event-Risiko, 2-Wochen-Earnings-Regel strikt beachten; (2) Geopolitik (US-Iran/Hormus) bleibt latentes Risiko. SCREEN-ERGEBNIS Lauf 67: nur 3 Elite-Setups am/kurz vor bzw. frisch ueber dem Pivot mit C>=25% UND sauberer, nicht ueberdehnter Basis -- CRWD (Cyber-Leader direkt am Pivot), ANET (KI-Networking-Leader frisch auf neuem Hoch nach 1,6-Tbps-Switch-Launch), HEI (Aerospace-Aftermarket-Leader in Handle-Bildung kurz unter Pivot). Halbleiter (NVDA -10%, AVGO -17%, MU -19% ggue ATH) trotz Rebound weiter deutlich unter ATH -> kein sauberer Near-Breakout -> gefiltert. AppLovin (APP) fundamental top, aber ~25% in zwei Wochen gelaufen -> ueberdehnt, nicht nachjagen. Qualitaet vor Anzahl. Kauf ausschliesslich bei sauberem, VOLUMENBESTAETIGTEM Ausbruch UEBER den jeweiligen Pivot bzw. innerhalb 5% ueber Pivot -- keine Spike-/News-Jagd. Neubewertung mit frischen Kursen nach US-Open Mo 13.07.",
+  "market_note": "Stand So 12.07.2026 (Wochenende, Boersen geschlossen -- keine neuen Kurse ggue Lauf 67). Massgeblich bleibt der letzte bestaetigte Schluss Fr 10.07.2026: S&P 500 7.575,39 (+0,42%), Nasdaq Composite 26.281,61 (+0,29%), Dow Jones 52.637,01 (+0,29%). Struktur: Indizes klar UEBER 50- und 200-Tage-Linie, 50>200 (kein Death Cross), S&P und Dow nahe/auf Allzeithoch -> Index-Aufwaertstrend intakt und bestaetigt. Ampel bleibt GRUEN (bestaetigter Uptrend): Follow-through zu neuen Rekordstaenden, Halbleiter-Rout ausgelaufen, Oel zurueckgefallen, Leadership verbreitert sich (Cyber, KI-Networking, Aerospace fuehren). DISZIPLIN trotz GRUEN: (1) Q2-Earnings-Saison startet diese Woche (JPMorgan Di 14.07., Netflix Do 16.07.) -> erhoehtes Event-Risiko, 2-Wochen-Earnings-Regel strikt beachten; (2) Geopolitik (US-Iran/Hormus) bleibt latentes Risiko. SCREEN-ERGEBNIS Lauf 68 (unveraendert ggue Lauf 67, da Wochenende): weiterhin nur 3 Elite-Setups am/kurz vor bzw. frisch ueber dem Pivot mit C>=25% UND sauberer, nicht ueberdehnter Basis -- CRWD (Cyber-Leader direkt am Pivot), ANET (KI-Networking-Leader frisch auf neuem Hoch nach 1,6-Tbps-Switch-Launch), HEI (Aerospace-Aftermarket-Leader in Handle-Bildung kurz unter Pivot). Halbleiter (NVDA -10%, AVGO -17%, MU -19% ggue ATH) trotz Rebound weiter deutlich unter ATH -> kein sauberer Near-Breakout -> gefiltert. AppLovin (APP) fundamental top, aber ~25% in zwei Wochen gelaufen -> ueberdehnt, nicht nachjagen. Qualitaet vor Anzahl. Kauf ausschliesslich bei sauberem, VOLUMENBESTAETIGTEM Ausbruch UEBER den jeweiligen Pivot bzw. innerhalb 5% ueber Pivot -- keine Spike-/News-Jagd. Neubewertung mit frischen Kursen nach US-Open Mo 13.07.",
   "picks": [
     {
       "ticker": "CRWD",
@@ -92,7 +92,7 @@
       "sector": "Industrials / Power & Grid (KI-Rechenzentrums-Strom)",
       "price": 1093.0,
       "pattern": "basis_bildet",
-      "pattern_description": "ATH 1195,94 am 06.07., seither ~8-9% zurueckgesetzt auf ~1093 -> baut Basis, ausserhalb der Near-Pivot-Zone. Nach langem, kraeftigem Lauf spaetstufig. Turbinen bis 2030 ausverkauft (KI-Stromnachfrage). Wiedervorlage bei enger Basis nahe ATH und sauberem, volumenbestaetigtem Pivot-Ausbruch.",
+      "pattern_description": "ATH 1195,94 am 06.07., seither ~8-9% zurueckgesetzt auf ~1093 -> baut Basis, ausserhalb der Near-Pivot-Zone. Nach langem, kraeftigem Lauf spaetstufig. Turbinen bis 2030 ausverkauft (KI-Stromnachfrage). ACHTUNG: Earnings Q2 ~22.07. -> 2-Wochen-Earnings-Regel greift jetzt (in ~10 Tagen). Wiedervorlage bei enger Basis nahe ATH und sauberem, volumenbestaetigtem Pivot-Ausbruch nach Earnings.",
       "pct_from_ath": -8.6,
       "canslim": {
         "C": "C: starkes Gewinn-/Auftragswachstum, Rekord-Backlog.",
@@ -103,8 +103,8 @@
         "I": "I: breit institutionell gehalten.",
         "M": "M: GRUEN."
       },
-      "earnings_next": "~22.07.2026 (Q2; 2-WOCHEN-WARNUNG bei Annaeherung beachten)",
-      "reason": "Watchlist: ~8-9% unter ATH in Basisbildung, spaetstufig nach langem Lauf, Earnings 22.07. innerhalb 2 Wochen. Erst bei enger Basis + Ausbruch (nach/vor Earnings) wieder Kandidat."
+      "earnings_next": "~22.07.2026 (Q2; 2-WOCHEN-WARNUNG greift jetzt)",
+      "reason": "Watchlist: ~8-9% unter ATH in Basisbildung, spaetstufig nach langem Lauf, Earnings 22.07. innerhalb 2 Wochen -> vor Bericht keine Neukaeufe. Erst bei enger Basis + Ausbruch nach Earnings wieder Kandidat."
     },
     {
       "ticker": "VRT",
@@ -112,7 +112,7 @@
       "sector": "Technology / Data-Center-Infrastruktur (Cooling/Power)",
       "price": 322.62,
       "pattern": "basis_bildet",
-      "pattern_description": "ATH 379,94, aktuell ~322 -> ~15% unter ATH, baut nach starkem Lauf (YTD +94%) eine groessere Basis. Ausserhalb der Near-Pivot-Zone -> kein sauberer Near-Breakout. Wiedervorlage bei Annaeherung an den Pivot und volumenbestaetigtem Ausbruch.",
+      "pattern_description": "ATH 379,94, aktuell ~322 -> ~15% unter ATH, baut nach starkem Lauf (YTD +94%) eine groessere Basis. Ausserhalb der Near-Pivot-Zone -> kein sauberer Near-Breakout. Earnings ~Ende Juli (bestaetigen) -> ggf. 2-Wochen-Regel. Wiedervorlage bei Annaeherung an den Pivot und volumenbestaetigtem Ausbruch.",
       "pct_from_ath": -15.1,
       "canslim": {
         "C": "C: hohes Gewinn-/Umsatzwachstum aus KI-Rechenzentrums-Nachfrage.",
@@ -128,14 +128,14 @@
     }
   ],
   "filtered_out": [
-    "ALLGEMEIN (Lauf 67): Wochenende Sa 11.07. -- massgeblich Schluss Fr 10.07.: S&P 7.575,39 (+0,42%), Nasdaq 26.281,61 (+0,29%), Dow 52.637,01 (+0,29%). Ampel UPGRADE auf GRUEN (bestaetigter Uptrend): dritter Erholungstag mit Follow-through zu Rekordhochs, Semis drehten hoch, Oel faellt, Leadership verbreitert sich. DISZIPLIN: Q2-Earnings-Saison startet 14.07. (JPM) / 16.07. (NFLX) -> 2-Wochen-Earnings-Regel strikt; nur hoechste Qualitaet am/kurz vor/frisch ueber Pivot, Kauf ausschliesslich bei volumenbestaetigtem Ausbruch, keine Spike-/News-Jagd.",
-    "SEMICONDUCTORS (NVDA ~211 vs ATH 235 = -10%, AVGO ~400 vs 481 = -17%, MU ~979 vs 1213 = -19%): trotz Rebound am 09.-10.07. weiter deutlich UNTER ATH -> kein sauberer Near-Breakout -> gemieden bis Basisbildung nahe ATH.",
+    "ALLGEMEIN (Lauf 68, So 12.07.): Wochenende -- keine neuen Kurse ggue Lauf 67, massgeblich Schluss Fr 10.07.: S&P 7.575,39 (+0,42%), Nasdaq 26.281,61 (+0,29%), Dow 52.637,01 (+0,29%). Ampel GRUEN (bestaetigter Uptrend): Follow-through zu Rekordhochs, Semis-Rout ausgelaufen, Oel faellt, Leadership verbreitert sich. DISZIPLIN: Q2-Earnings-Saison startet 14.07. (JPM) / 16.07. (NFLX) -> 2-Wochen-Earnings-Regel strikt; nur hoechste Qualitaet am/kurz vor/frisch ueber Pivot, Kauf ausschliesslich bei volumenbestaetigtem Ausbruch, keine Spike-/News-Jagd. Neubewertung mit frischen Kursen nach US-Open Mo 13.07.",
+    "SEMICONDUCTORS (NVDA ~211 vs ATH 235 = -10%, AVGO ~400 vs 481 = -17%, MU ~979 vs 1213 = -19%): trotz Rebound weiter deutlich UNTER ATH -> kein sauberer Near-Breakout -> gemieden bis Basisbildung nahe ATH.",
     "CLS (Celestica): ~356 vs 52W-Hoch 474 = ~-25% -> N faellt klar durch, trotz starkem Wachstum -> raus.",
     "APP (AppLovin): Elite-Fundamentaldaten, aber ~25% in zwei Wochen gelaufen -> ueberdehnt -> Watchlist (Ruecksetzer 460-480 abwarten, nicht nachjagen).",
-    "AXON: ~582 vs ATH 871 = ~-33% -> N faellt durch -> raus. NFLX: ~46% unter ATH UND Earnings 16.07. (2-Wochen-Risiko) -> raus.",
+    "AXON: ~582 vs ATH 871 = ~-33% -> N faellt durch -> raus. NFLX: deutlich unter ATH UND Earnings 16.07. (2-Wochen-Risiko) -> raus.",
     "TDG (TransDigm): C nur ~8% EPS-Wachstum (<25%) und ~12% unter ATH -> C und N fallen durch -> raus.",
     "PLTR (Palantir): ~127, ~5% unter Widerstand 132,70, valuation-getrieben, kein sauberer nicht-ueberdehnter Pivot -> raus.",
     "BANKEN/FINANCIALS (JPM u.a.): Q2-Earnings-Saisonauftakt ab 14.07. -> 2-Wochen-Earnings-Regel -> vor Bericht keine Neukaeufe.",
-    "ENERGIE/OEL: Oel faellt am 09.-10.07. zurueck; frueherer Iran/Hormus-Spike war ereignisgetrieben ohne sauberen CANSLIM-Basis-Ausbruch -> nicht nachjagen."
+    "ENERGIE/OEL: Oel zuletzt zurueckgefallen; frueherer Iran/Hormus-Spike war ereignisgetrieben ohne sauberen CANSLIM-Basis-Ausbruch -> nicht nachjagen."
   ]
 }
