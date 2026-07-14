@@ -1,141 +1,140 @@
 {
-  "updated": "2026-07-13",
-  "run": 69,
+  "updated": "2026-07-14",
+  "run": 70,
   "market_signal": "GREEN",
-  "market_note": "Stand Mo 13.07.2026 (US-Handel, intraday). Letzter bestaetigter Schluss Fr 10.07.2026: S&P 500 ~7.575, Nasdaq Composite ~26.282, Dow Jones ~52.637 -- Indizes klar UEBER 50- und 200-Tage-Linie, 50>200 (kein Death Cross), nahe Allzeithoch. Struktureller Index-Aufwaertstrend intakt -> Ampel bleibt GRUEN (bestaetigter Uptrend). ABER: Mo 13.07. ist ein deutlicher RISK-OFF-/VERTEILUNGSTAG in Tech/AI: Halbleiter-/AI-Hardware-Rout (Sorgen um AI-Investitionsniveau nach Samsung-Zahlen, DeepSeek-eigener-KI-Chip-Bericht), Oel wieder fester, US-Iran/Hormus-Geopolitik latent, Nasdaq-100-Futures vorboerslich ~-1%. Zusaetzlich startet die Q2-Earnings-Saison diese Woche (JPMorgan Di 14.07., Netflix Do 16.07.) -> erhoehtes Event-Risiko, 2-Wochen-Earnings-Regel strikt. DISZIPLIN heute besonders wichtig: an einem Verteilungstag keine schwachen/ausbrechenden Tech-Namen nachjagen. SCREEN-ERGEBNIS Lauf 69: nur 2 wirklich saubere, HEUTE haltende Setups am/kurz vor bzw. frisch am Pivot -- HEI (Aerospace-Aftermarket-Leader, RELATIVE STAERKE +1% an einem roten Tag, Handle knapp unter Pivot) und ANET (KI-Networking-Leader, frischer Ausbruch, im AI-Ruecksetzer zurueck AN den Pivot in die Kaufzone). CRWD am 13.07. -5,7% -> Verteilungstag, aus der Pivot-Zone gefallen -> herabgestuft auf Watchlist, bis Basis wieder aufgebaut und Pivot 199,53 zurueckerobert. Halbleiter (NVDA, AVGO, MU) weiter deutlich unter ATH und heute schwach -> gefiltert. APP fundamental top, aber weit gelaufen -> ueberdehnt. Qualitaet vor Anzahl -- an einem Risk-off-Tag sind 2 volumen-/staerkebestaetigte Setups die richtige, disziplinierte Antwort. Kauf ausschliesslich bei sauberem, VOLUMENBESTAETIGTEM Ausbruch am/ueber Pivot bzw. innerhalb 5% ueber Pivot, keine Spike-/News-Jagd.",
+  "market_note": "Stand Di 14.07.2026 (US-Handel, intraday). Struktur bleibt GRUEN: S&P 500 (Schluss Mo 13.07. ~7.515), Nasdaq Composite (~25.873) und Dow weiter UEBER 50- und 200-Tage-Linie, 50>200 (kein Death Cross), nahe Allzeithoch -> uebergeordneter Index-Aufwaertstrend intakt. ABER: der Aufwaertstrend steht unter Druck -- Mo 13.07. war der ZWEITE deutliche Verteilungs-/RISK-OFF-Tag in Tech/AI in Folge (S&P -0,79%, Nasdaq -1,55%; Halbleiter-/AI-Hardware-Rout haelt an). Heute Di 14.07. mehrere Event-Risiken gleichzeitig: (1) US-CPI-Bericht -> Zinssorgen, Markt preist wieder Fed-Straffung ein, (2) massive geopolitische Eskalation -- USA erzwingen ab Di-Nachmittag eine BLOCKADE der Strasse von Hormus samt 20%-Frachtgebuehr, Oel fester, (3) Start der Q2-Earnings-Saison (JPMorgan heute; GE Aerospace und Netflix Do 16.07.) -> erhoehtes Event-Risiko, 2-Wochen-Earnings-Regel strikt. WICHTIGE ROTATION: Waehrend Tech/AI verteilt wird, zeigt AEROSPACE/DEFENSE klare RELATIVE STAERKE (ITA-Aerospace/Defense-ETF am Rekordhoch; GE Aerospace, Howmet, RTX, Boeing fest) -- passt zum geopolitischen Umfeld und ist heute die einzige Fuehrungsgruppe mit echtem RS. SCREEN-ERGEBNIS Lauf 70: nur 2 wirklich saubere, HEUTE haltende Setups am/kurz vor bzw. frisch am Pivot -- HEI (Aerospace-Aftermarket-Leader, Qualitaets-Handle kurz unter Pivot, richtige Gruppe fuer diese Tape) und ANET (KI-Networking-Leader, frischer Ausbruch konstruktiv zurueck AN den Pivot in der Kaufzone, aber in der HEUTE schwaechsten Gruppe -> nur mit Volumen-Bestaetigung). HWM (Howmet) fundamental top und mit RS, aber ohne bestaetigte enge Basis / ~+50% auf 12 Monate -> Watchlist. GE Aerospace stark, aber Earnings 16.07. -> 2-Wochen-Regel -> Watchlist. Halbleiter (NVDA, AVGO, MU) weiter unter ATH und im Rout -> gefiltert. CRWD ~6-7% unter Pivot 199,53 -> Watchlist. DISZIPLIN: An einem Verteilungs-/Event-Tag keine schwachen oder ausbrechenden Tech-Namen nachjagen, keine Oel-/News-Spikes handeln. Kauf ausschliesslich bei sauberem, VOLUMENBESTAETIGTEM Ausbruch am/ueber Pivot bzw. innerhalb 5% ueber Pivot. Qualitaet vor Anzahl -- an einem Risk-off-/Event-Tag sind 2 volumen-/staerkebestaetigte Setups die richtige, disziplinierte Antwort.",
   "picks": [
     {
       "ticker": "HEI",
       "company": "HEICO Corporation",
       "sector": "Industrials / Aerospace Aftermarket & Defense",
-      "price": 351.23,
+      "price": 345.22,
       "pattern": "near_pivot_handle",
-      "pattern_description": "Rekord-Schluss 365,31 am 06.07. (52W-Hoch 369,48); in der Marktschwaeche seither auf ~351 zurueckgesetzt und bildet nun eine enge Handle/Konsolidierung ~4-5% UNTER dem Pivot 366,59. Am roten Risk-off-Tag Mo 13.07. mit +0,99% GEGEN den Markt fest (Tagesrange ~345,73-352,02) -> klare RELATIVE STAERKE, defensiver Aerospace/Defense-Charakter. Noch NICHT ausgebrochen, aber als Qualitaets-Leader kurz davor, solange die Basis haelt und Volumen im Ruecksetzer abtrocknet. Kauf-Trigger: sauberer, volumenbestaetigter Ausbruch UEBER 366,59 -- vorher nur beobachten, Ruecksetzer nicht als Ausbruch missdeuten.",
-      "pct_from_ath": -4.9,
+      "pattern_description": "Rekord-Schluss 365,31 am 06.07. (52W-Hoch 369,48); in der Marktschwaeche seither auf ~345 zurueckgesetzt und bildet weiter eine Handle/Konsolidierung ~5-6% UNTER dem Pivot 366,59. Noch NICHT ausgebrochen, aber als Qualitaets-Leader kurz davor, solange die Basis haelt und das Volumen im Ruecksetzer abtrocknet. WICHTIG: Am Di 14.07. mit dem schwachen Gesamtmarkt ~-1,6% (weniger relative Staerke als in Lauf 69) -- der Handle wird also etwas tiefer; Basisintegritaet genau beobachten. Aerospace/Defense ist aber die HEUTE fuehrende Gruppe (geopolitischer Rueckenwind), daher bleibt HEI der sauberste Nicht-Tech-Setup. Kauf-Trigger: sauberer, VOLUMENBESTAETIGTER Ausbruch UEBER 366,59 -- vorher nur beobachten, Ruecksetzer nicht als Ausbruch missdeuten; bei Bruch der Basis mit Volumen raus.",
+      "pct_from_ath": -5.5,
       "canslim": {
-        "C": "C (Current / aktuelle Quartalsgewinne): Fiskal-Q2 2026 EPS 1,66 USD vs. 1,12 -> +48% YoY, Umsatz +25,3% auf 1,38 Mrd -- weit ueber der 25%-Schwelle, Konsens geschlagen.",
+        "C": "C (Current / aktuelle Quartalsgewinne): Fiskal-Q2 2026 EPS 1,66 USD vs. 1,12 -> +48% YoY (Konsens 1,33 um ~25% geschlagen), Umsatz +25,3% auf 1,38 Mrd -- weit ueber der 25%-Schwelle.",
         "A": "A (Annual / Jahreswachstum): stetiges zweistelliges Wachstum (~18% organisch) aus Aftermarket-Nachfrage plus M&A; Rekord-Backlog, Margenausweitung, mehrere Beats in Folge.",
-        "N": "N (New / Neues): frisches ATH am 06.07., danach ~4-5% in eine Handle-Bildung unter Pivot 366,59 zurueck -> kurz vor Breakout, noch nicht bestaetigt; Treiber Defense-Zyklus (NDAA), M&A, Dividendenerhoehung.",
-        "S": "S (Supply/Demand): kontrollierte Dual-Class-Struktur, hohe Insiderbeteiligung (Familie Mendelson), stetige institutionelle Akkumulation, Volumen im Ruecksetzer ruecklaeufig (gesund).",
-        "L": "L (Leader / Marktfuehrer): Weltmarktfuehrer Ersatzteile/PMA fuer die Luftfahrt; RS-Leader nahe ATH, heute defensiv fest im Risk-off (relative Staerke).",
-        "I": "I (Institutional / institutionelle Kaeufer): breit und stark institutionell gehalten; steigende Kursziele (UBS 390, Citi 410).",
-        "M": "M (Market / Marktrichtung): GRUEN (bestaetigter Uptrend), aber Verteilungstag in Tech; Aerospace/Defense relativ robust. Kauf nur bei sauberem, volumenbestaetigtem Ausbruch >366,59."
+        "N": "N (New / Neues): frisches ATH am 06.07., danach ~5-6% in eine Handle-Bildung unter Pivot 366,59 zurueck -> kurz vor Breakout, noch nicht bestaetigt; Treiber Defense-Zyklus (Rekord-Verteidigungsbudget FY2027), M&A, Dividendenerhoehung.",
+        "S": "S (Supply/Demand): kontrollierte Dual-Class-Struktur, hohe Insiderbeteiligung (Familie Mendelson), stetige institutionelle Akkumulation; Volumen im Ruecksetzer sollte abtrocknen (beobachten).",
+        "L": "L (Leader / Marktfuehrer): Weltmarktfuehrer Ersatzteile/PMA fuer die Luftfahrt; RS-Leader nahe ATH in der heute fuehrenden Aerospace/Defense-Gruppe.",
+        "I": "I (Institutional / institutionelle Kaeufer): breit und stark institutionell gehalten; Buy-Konsens (20 Analysten, Ziel-Schnitt ~386, hoch bis 471).",
+        "M": "M (Market / Marktrichtung): GRUEN, aber Uptrend unter Druck (2. Verteilungstag, CPI + Hormus + Earnings-Start). Aerospace/Defense relativ robust. Kauf nur bei sauberem, volumenbestaetigtem Ausbruch >366,59."
       },
       "earnings_next": "~24.08.2026 (Fiskal-Q3; kein 2-Wochen-Risiko)",
-      "reason": "Bester Setup heute: Elite-Qualitaet kurz vor Pivot mit RELATIVER STAERKE am Risk-off-Tag (+1% gegen den Markt). EPS +48%, Aftermarket-Weltmarktfuehrer, defensiver Aerospace/Defense-Charakter. Handle ~4-5% unter 366,59 -- Kauf erst bei volumenbestaetigtem Ausbruch >366,59, Ruecksetzer nicht nachjagen."
+      "reason": "Bester Nicht-Tech-Setup: Elite-Qualitaet kurz vor Pivot in der HEUTE fuehrenden Aerospace/Defense-Gruppe (geopolitischer Rueckenwind). EPS +48%, Aftermarket-Weltmarktfuehrer, defensiver Charakter. Handle ~5-6% unter 366,59 -- heute mit dem Markt -1,6%, daher Basis genau beobachten. Kauf erst bei volumenbestaetigtem Ausbruch >366,59, Ruecksetzer nicht nachjagen."
     },
     {
       "ticker": "ANET",
       "company": "Arista Networks",
       "sector": "Technology / KI-Networking (Data-Center-Switching)",
-      "price": 186.96,
+      "price": 182.0,
       "pattern": "am_pivot",
-      "pattern_description": "Frischer Ausbruch: am 08.07. +7% mit Volumen auf den Launch des 1,6-Tbps-Switches 7060XE7 (gestuetzt von Meta, Microsoft, Oracle); Rekord-Schluss 184,69 am 09.07., Fr 10.07. bei ~186,96 (52W-Hoch 189,82). Am AI-Ruecksetzer Mo 13.07. intraday ~-3 bis -4% (Sektor-Schwaeche/Gewinnmitnahmen, keine unternehmensspezifische Nachricht) -> zurueck AN den Ausbruchs-Pivot (~178) in die Kaufzone, NICHT ueberdehnt. Kauf-Trigger: an der Ausbruchslinie/am Pivot bei Halten der Unterstuetzung mit Volumen; kein Nachjagen >5% ueber Pivot, bei Bruch unter Pivot mit Volumen raus.",
+      "pattern_description": "Frischer Ausbruch: am 08.07. +7% mit Volumen auf den Launch des 1,6-Tbps-Switches 7060XE7 (gestuetzt von Meta, Microsoft, Oracle); Rekord-Schluss 184,69 am 09.07. Im anhaltenden AI-Ruecksetzer Mo 13.07. -3,1% auf 181,15 -> zurueck AN den Ausbruchs-Pivot (~178) in die Kaufzone, NICHT ueberdehnt (~-1,5% vom ATH). ACHTUNG: ANET liegt im Epizentrum der HEUTE schwaechsten Gruppe (Tech/AI-Hardware-Rout, 2. Verteilungstag) -> erhoehtes Gruppen-Risiko. Kauf-Trigger: NUR wenn der Pivot ~178 mit Volumen HAELT bzw. am Ausbruchslevel bestaetigt kauft; kein Nachjagen >5% ueber Pivot, bei Bruch unter Pivot mit Volumen sofort raus.",
       "pct_from_ath": -1.5,
       "canslim": {
-        "C": "C (Current / aktuelle Quartalsgewinne): Q1 FY2026 Umsatz 2,709 Mrd USD (+35,1% YoY), EPS 0,87 vs. 0,65 (+34% YoY), Konsens und eigene Guidance geschlagen -- deutlich ueber 25%.",
+        "C": "C (Current / aktuelle Quartalsgewinne): Q1 FY2026 Umsatz 2,709 Mrd USD (+35,1% YoY), EPS 0,87 vs. 0,65 (+34% YoY) -- deutlich ueber 25%, Konsens und eigene Guidance geschlagen.",
         "A": "A (Annual / Jahreswachstum): FY2026-Guidance auf ~11,5 Mrd (+27,7%) angehoben, KI-Fabrics-Ziel auf 3,5 Mrd erhoeht; mehrjaehriges 20-35%-Wachstum, hohe Margen (~62%).",
-        "N": "N (New / Neues): frisches Allzeithoch nach volumenstarkem Ausbruch am 08.07.; neuer Produkt-Katalysator (1,6-Tbps-KI-Switch) mit Hyperscaler-Rueckenwind. Heute konstruktiver Ruecksetzer an den Pivot -> N weiter erfuellt.",
-        "S": "S (Supply/Demand): volumenbestaetigter Ausbruch (Nachfrage-Signal), kontrollierte Aktienbasis, institutionelle Akkumulation; heutiger Ruecksetzer auf Sektor-Gewinnmitnahmen (Volumen beobachten).",
-        "L": "L (Leader / Marktfuehrer): klarer Marktfuehrer im High-Speed-Data-Center-/KI-Networking; Elite-RS, 29 von 29 Analysten auf Buy.",
-        "I": "I (Institutional / institutionelle Kaeufer): breit institutionell gehalten; BofA und KeyBanc heben Ziel auf 200 USD.",
-        "M": "M (Market / Marktrichtung): GRUEN (bestaetigter Uptrend), aber AI-Sektor heute im Verteilungsmodus -> nur bei Halten des Pivots mit Volumen kaufen, chip-nahe Schwaeche im Auge behalten."
+        "N": "N (New / Neues): frisches Allzeithoch nach volumenstarkem Ausbruch am 08.07.; neuer Produkt-Katalysator (1,6-Tbps-KI-Switch) mit Hyperscaler-Rueckenwind. Heute konstruktiver Ruecksetzer an den Pivot -> N weiter erfuellt, solange Pivot haelt.",
+        "S": "S (Supply/Demand): volumenbestaetigter Ausbruch (Nachfrage-Signal), kontrollierte Aktienbasis, institutionelle Akkumulation; aktueller Ruecksetzer auf Sektor-Gewinnmitnahmen -> Volumen am Pivot beobachten.",
+        "L": "L (Leader / Marktfuehrer): klarer Marktfuehrer im High-Speed-Data-Center-/KI-Networking; Elite-RS, breiter Buy-Konsens -- aber Gruppe heute schwach.",
+        "I": "I (Institutional / institutionelle Kaeufer): breit institutionell gehalten; mehrere Kursziel-Anhebungen Richtung 200 USD.",
+        "M": "M (Market / Marktrichtung): GRUEN, aber Uptrend unter Druck; AI-Sektor heute im 2. Verteilungstag -> nur bei Halten des Pivots mit Volumen kaufen, chip-nahe Schwaeche eng im Auge behalten."
       },
       "earnings_next": "~04.08.2026 (Q2 FY2026; kein 2-Wochen-Risiko)",
-      "reason": "Elite-KI-Networking-Leader, frischer volumenstarker Ausbruch (08.07.), im AI-Ruecksetzer heute konstruktiv zurueck AN den Pivot in die Kaufzone (nicht ueberdehnt). Umsatz +35%, EPS +34%, Guidance angehoben. Kauf nur bei Halten/Ausbruch am Pivot mit Volumen -- bei Bruch unter Pivot raus, kein Nachjagen."
+      "reason": "Elite-KI-Networking-Leader, frischer volumenstarker Ausbruch (08.07.), im AI-Ruecksetzer konstruktiv zurueck AN den Pivot in die Kaufzone (nicht ueberdehnt). Umsatz +35%, EPS +34%, Guidance angehoben. ABER: heute schwaechste Gruppe -> Kauf NUR bei Halten/Ausbruch am Pivot ~178 mit Volumen; bei Bruch unter Pivot raus, kein Nachjagen."
     }
   ],
   "watchlist": [
     {
+      "ticker": "HWM",
+      "company": "Howmet Aerospace",
+      "sector": "Industrials / Aerospace Components (Fasteners, Structures, Engine Parts)",
+      "price": 275.13,
+      "pattern": "leader_ohne_bestaetigten_pivot",
+      "pattern_description": "Fundamental Elite und in der HEUTE fuehrenden Aerospace-Gruppe mit relativer Staerke (52W ~+51%, klar besser als der S&P). ABER: keine bestaetigte enge Near-Pivot-Basis erkennbar und nach starkem Lauf potenziell etwas gestreckt -> noch kein sauberer, nicht-ueberdehnter Kaufpunkt. Earnings am 06.08.2026 (ausserhalb der 2-Wochen-Zone). Wiedervorlage bei enger Basisbildung nahe ATH und sauberem, volumenbestaetigtem Pivot-Ausbruch. Hinweis: Preisdaten (~275) sind zu bestaetigen.",
+      "pct_from_ath": -2.0,
+      "canslim": {
+        "C": "C (Current): Q2-2026-Konsens EPS 1,24 USD (+36% YoY); Q1 Umsatz +19% YoY auf 2,31 Mrd, Beat -> ueber 25%.",
+        "A": "A (Annual): mehrjaehriges starkes Wachstum aus Aftermarket/Engine-Nachfrage, Outlook 2026 angehoben.",
+        "N": "N (New): nahe ATH, aber ohne bestaetigte enge Basis / potenziell gestreckt -> aktuell kein sauberer Near-Breakout.",
+        "S": "S (Supply/Demand): institutionelle Akkumulation, Rueckkaeufe.",
+        "L": "L (Leader): Leader Luftfahrt-Komponenten; RS in der heute fuehrenden Gruppe.",
+        "I": "I (Institutional): breit institutionell gehalten, steigende Kursziele.",
+        "M": "M (Market): GRUEN unter Druck; Aerospace relativ robust."
+      },
+      "earnings_next": "06.08.2026 (Q2; kein 2-Wochen-Risiko)",
+      "reason": "Watchlist: Elite-Aerospace-Grower mit RS, aber ohne bestaetigte enge Near-Pivot-Basis und potenziell gestreckt. Erst bei enger Basis nahe ATH + volumenbestaetigtem Ausbruch Kandidat -- Preisdaten pruefen, nicht nachjagen."
+    },
+    {
+      "ticker": "GE",
+      "company": "GE Aerospace",
+      "sector": "Industrials / Aerospace Engines & Services",
+      "price": 342.26,
+      "pattern": "earnings_2wochen_regel",
+      "pattern_description": "Nahe Rekordhoch (~342), Aerospace-Leader mit starkem Momentum (~+17% auf Monatssicht). ABER: Q2-Earnings am 16.07.2026 -- in nur 2 Tagen -> 2-WOCHEN-EARNINGS-REGEL greift strikt, KEINE Neukaeufe vor dem Bericht. Wiedervorlage bei sauberem, volumenbestaetigtem Pivot-Ausbruch NACH Earnings.",
+      "pct_from_ath": -1.0,
+      "canslim": {
+        "C": "C (Current): Q2-Konsens EPS 1,86 (+12% YoY); Q1 Auftraege +87%, Umsatz +29% -- starkes Auftragsmomentum.",
+        "A": "A (Annual): FY2026 EPS ~+17%, Umsatz ~+14%; Rekord-Backlog >210 Mrd.",
+        "N": "N (New): nahe ATH, aber unmittelbar vor Earnings -> Einstieg wegen Event-Risiko gesperrt.",
+        "S": "S (Supply/Demand): starke institutionelle Nachfrage.",
+        "L": "L (Leader): Leader Triebwerke/Services; RS in fuehrender Gruppe.",
+        "I": "I (Institutional): breit gehalten, bullische Ziele.",
+        "M": "M (Market): GRUEN unter Druck; Aerospace robust, aber Event-Risiko Earnings."
+      },
+      "earnings_next": "16.07.2026 (Q2; 2-WOCHEN-REGEL AKTIV)",
+      "reason": "Watchlist: starker Aerospace-Leader nahe ATH, aber Earnings 16.07. (in 2 Tagen) -> 2-Wochen-Regel, vor Bericht keine Neukaeufe. Erst bei volumenbestaetigtem Ausbruch NACH Earnings Kandidat."
+    },
+    {
       "ticker": "CRWD",
       "company": "CrowdStrike Holdings",
       "sector": "Technology / Cybersecurity",
-      "price": 187.18,
+      "price": 186.75,
       "pattern": "aus_pivot_gefallen",
-      "pattern_description": "War Lauf 68 direkt am (split-bereinigten) ATH-Pivot 199,53 (Intraday-ATH 209,50). Am Risk-off-/AI-Verteilungstag Mo 13.07. jedoch ~-5,7% auf ~187 -> Verteilungstag, ~6% UNTER den Pivot gefallen, Ausbruch klar verfehlt. Damit aktuell KEIN sauberes Near-Pivot-Setup mehr -> herabgestuft auf Watchlist. Fundamental weiter Elite; Wiedervorlage erst, wenn eine neue enge Basis gebildet und der Pivot 199,53 volumenbestaetigt zurueckerobert wird. Heutigen Bruch NICHT als Einstieg missverstehen.",
-      "pct_from_ath": -6.2,
+      "pattern_description": "War Lauf 68 direkt am (split-bereinigten) ATH-Pivot 199,53. Seit dem AI-/Risk-off-Verteilungstag 13.07. ~6-7% UNTER den Pivot gefallen (~187), Ausbruch klar verfehlt -> aktuell KEIN sauberes Near-Pivot-Setup. Fundamental weiter Elite; Wiedervorlage erst, wenn eine neue enge Basis gebildet und der Pivot 199,53 volumenbestaetigt zurueckerobert wird. Bruch nicht als Einstieg missdeuten.",
+      "pct_from_ath": -7.0,
       "canslim": {
-        "C": "C (Current): Q1 FY2027 Rekord-Net-New-ARR 256 Mio USD (+32% YoY), Umsatz 1,39 Mrd (+26% YoY), Gesamt-ARR 5,51 Mrd (+24%) -- klar ueber 25%.",
-        "A": "A (Annual): stetiges 24-30%-ARR-/Umsatzwachstum, hohe Free-Cashflow-Marge, Wachstumsstory intakt.",
-        "N": "N (New): heute -5,7% aus der Pivot-Zone gefallen -> N (sauberer Near-Breakout) aktuell NICHT erfuellt; Basis muss neu reifen.",
-        "S": "S (Supply/Demand): heute Verteilungstag (grosser Abgabedruck) -> kurzfristig Angebot > Nachfrage.",
+        "C": "C (Current): Q1 FY2027 Rekord-Net-New-ARR 256 Mio (+32% YoY), Umsatz 1,39 Mrd (+26% YoY), Gesamt-ARR 5,51 Mrd (+24%) -- ueber 25%.",
+        "A": "A (Annual): stetiges 24-30%-ARR-/Umsatzwachstum, hohe FCF-Marge.",
+        "N": "N (New): ~6-7% aus der Pivot-Zone gefallen -> sauberer Near-Breakout aktuell NICHT erfuellt; Basis muss neu reifen.",
+        "S": "S (Supply/Demand): kurzfristig Abgabedruck aus dem Tech-Rout -> Angebot > Nachfrage.",
         "L": "L (Leader): Marktfuehrer Endpoint-/Cloud-Security (Falcon), langfristig Elite-RS.",
         "I": "I (Institutional): breit institutionell gehalten, hohe Kursziele.",
-        "M": "M (Market): GRUEN strukturell, aber Tech-Verteilungstag -> Cyber heute mitgezogen."
+        "M": "M (Market): GRUEN unter Druck; Cyber im Tech-Rout mitgezogen."
       },
       "earnings_next": "~02.09.2026 (Q2 FY2027; kein 2-Wochen-Risiko)",
-      "reason": "Watchlist: elite Fundamentaldaten, aber am 13.07. -5,7% aus der Pivot-Zone gefallen (Verteilungstag) -> kein sauberer Near-Breakout mehr. Erst bei neuer Basis + volumenbestaetigter Rueckeroberung von 199,53 wieder Kandidat -- Bruch nicht nachjagen."
-    },
-    {
-      "ticker": "APP",
-      "company": "AppLovin",
-      "sector": "Technology / AdTech (KI-Werbung)",
-      "price": 564.61,
-      "pattern": "ueberdehnt_nach_lauf",
-      "pattern_description": "Fundamental Elite (KI-getriebenes Werbewachstum, >1,2 Mrd Quartalsgewinn, ~1,29 Mrd FCF), presst neue Hochs. ABER: ~25% in zwei Wochen von den mittleren 440ern auf ~565 gelaufen -> deutlich UEBER jeder sauberen Basis, ueberdehnt. KEIN Nachjagen. Wiedervorlage bei geordneter Basisbildung oder Ruecksetzer in die Support-Zone 460-480.",
-      "pct_from_ath": -0.5,
-      "canslim": {
-        "C": "C (Current): zweistelliges Umsatzwachstum plus explodierende Profitabilitaet; Q2-Umsatz erwartet 1,82-1,95 Mrd.",
-        "A": "A (Annual): mehrjaehrig hohes Wachstum, extreme FCF-Marge.",
-        "N": "N (New): neue Hochs, aber Ausbruch bereits weit gelaufen -> Einstieg ueberdehnt.",
-        "S": "S (Supply/Demand): hohe Nachfrage, aber kurzfristig heissgelaufen.",
-        "L": "L (Leader): Leader in KI-Ad-Optimierung.",
-        "I": "I (Institutional): aggressive Kursziele (Raymond James 640, Citi 710).",
-        "M": "M (Market): GRUEN strukturell, heute Tech-Verteilungstag."
-      },
-      "earnings_next": "~Anfang August 2026 (bestaetigen)",
-      "reason": "Watchlist: Elite-Fundamentaldaten, aber ~25% in zwei Wochen gelaufen -> ueberdehnt. Erst bei neuer Basis / Ruecksetzer 460-480 wieder Kandidat -- nicht nachjagen."
+      "reason": "Watchlist: elite Fundamentaldaten, aber ~6-7% aus der Pivot-Zone gefallen -> kein sauberer Near-Breakout. Erst bei neuer Basis + volumenbestaetigter Rueckeroberung von 199,53 wieder Kandidat -- Bruch nicht nachjagen."
     },
     {
       "ticker": "GEV",
       "company": "GE Vernova",
       "sector": "Industrials / Power & Grid (KI-Rechenzentrums-Strom)",
       "price": 1093.0,
-      "pattern": "basis_bildet",
-      "pattern_description": "ATH 1195,94 am 06.07., seither ~8-9% zurueckgesetzt auf ~1093 -> baut Basis, ausserhalb der Near-Pivot-Zone. Nach langem, kraeftigem Lauf spaetstufig. Turbinen bis 2030 ausverkauft (KI-Stromnachfrage). ACHTUNG: Earnings Q2 ~22.07. -> 2-Wochen-Earnings-Regel greift jetzt (in ~9 Tagen). Wiedervorlage bei enger Basis nahe ATH und sauberem, volumenbestaetigtem Pivot-Ausbruch NACH Earnings.",
+      "pattern": "basis_bildet_earnings_2wochen",
+      "pattern_description": "~8-9% unter ATH (1195,94 am 06.07.) in Basisbildung, spaetstufig nach langem Lauf. Turbinen bis 2030 ausverkauft (KI-Stromnachfrage). ACHTUNG: Earnings Q2 ~22.07. -> 2-Wochen-Earnings-Regel greift jetzt (in ~8 Tagen). Wiedervorlage bei enger Basis nahe ATH und sauberem, volumenbestaetigtem Pivot-Ausbruch NACH Earnings.",
       "pct_from_ath": -8.6,
       "canslim": {
         "C": "C (Current): starkes Gewinn-/Auftragswachstum, Rekord-Backlog.",
         "A": "A (Annual): beschleunigendes Jahreswachstum, KI-Strom-Superzyklus.",
         "N": "N (New): ~8-9% unter ATH -> aktuell kein Near-Breakout.",
-        "S": "S (Supply/Demand): institutionelle Basis stark, aber kurzfristig Basisbildung noetig.",
+        "S": "S (Supply/Demand): institutionelle Basis stark, kurzfristig Basisbildung noetig.",
         "L": "L (Leader): Leader Gasturbinen/Grid.",
         "I": "I (Institutional): breit institutionell gehalten.",
-        "M": "M (Market): GRUEN strukturell, heute Tech-Verteilungstag."
+        "M": "M (Market): GRUEN unter Druck; Earnings-Event-Risiko."
       },
-      "earnings_next": "~22.07.2026 (Q2; 2-WOCHEN-WARNUNG greift jetzt)",
-      "reason": "Watchlist: ~8-9% unter ATH in Basisbildung, spaetstufig, Earnings 22.07. innerhalb 2 Wochen -> vor Bericht keine Neukaeufe. Erst bei enger Basis + Ausbruch nach Earnings wieder Kandidat."
-    },
-    {
-      "ticker": "VRT",
-      "company": "Vertiv Holdings",
-      "sector": "Technology / Data-Center-Infrastruktur (Cooling/Power)",
-      "price": 322.62,
-      "pattern": "basis_bildet",
-      "pattern_description": "ATH 379,94, aktuell ~322 -> ~15% unter ATH, baut nach starkem Lauf (YTD +94%) eine groessere Basis. Ausserhalb der Near-Pivot-Zone -> kein sauberer Near-Breakout, heute im AI-Ruecksetzer zusaetzlich unter Druck. Earnings ~Ende Juli (bestaetigen) -> ggf. 2-Wochen-Regel. Wiedervorlage bei Annaeherung an den Pivot und volumenbestaetigtem Ausbruch.",
-      "pct_from_ath": -15.1,
-      "canslim": {
-        "C": "C (Current): hohes Gewinn-/Umsatzwachstum aus KI-Rechenzentrums-Nachfrage.",
-        "A": "A (Annual): mehrjaehrig stark beschleunigend.",
-        "N": "N (New): ~15% unter ATH -> N faellt aktuell durch.",
-        "S": "S (Supply/Demand): institutionelle Basis intakt.",
-        "L": "L (Leader): Leader Liquid-Cooling/Power fuer Data Center.",
-        "I": "I (Institutional): Strong-Buy-Konsens (Ziel ~379).",
-        "M": "M (Market): GRUEN strukturell, heute Tech-Verteilungstag."
-      },
-      "earnings_next": "~Ende Juli 2026 (bestaetigen)",
-      "reason": "Watchlist: ~15% unter ATH in laengerer Basisbildung -> kein Near-Breakout. Erst bei Pivot-Naeherung und volumenbestaetigtem Ausbruch wieder Kandidat."
+      "earnings_next": "~22.07.2026 (Q2; 2-WOCHEN-WARNUNG aktiv)",
+      "reason": "Watchlist: ~8-9% unter ATH in Basisbildung, spaetstufig, Earnings ~22.07. innerhalb 2 Wochen -> vor Bericht keine Neukaeufe. Erst bei enger Basis + Ausbruch nach Earnings wieder Kandidat."
     }
   ],
   "filtered_out": [
-    "ALLGEMEIN (Lauf 69, Mo 13.07.): Struktur GRUEN (Indizes ueber 50/200-Tage, 50>200, nahe ATH per Schluss Fr 10.07.), ABER Mo 13.07. deutlicher RISK-OFF-/VERTEILUNGSTAG in Tech/AI: Halbleiter-/AI-Hardware-Rout (Samsung-AI-Capex-Sorgen, DeepSeek-eigener-KI-Chip), Oel fester, US-Iran/Hormus latent, Q2-Earnings-Saison ab 14.07. (JPM) / 16.07. (NFLX). DISZIPLIN: an einem Verteilungstag keine schwachen/ausbrechenden Tech-Namen nachjagen; nur volumen-/staerkebestaetigte Setups am Pivot. Qualitaet vor Anzahl -> nur 2 Picks.",
-    "CRWD (CrowdStrike): am 13.07. -5,7% aus der Pivot-Zone 199,53 gefallen (Verteilungstag) -> kein sauberer Near-Breakout mehr -> von Pick auf Watchlist herabgestuft.",
-    "SEMICONDUCTORS (NVDA ~197 vs ATH ~235 = -16%, AVGO, MU deutlich unter ATH): heute erneut schwach, weiter klar UNTER ATH -> kein sauberer Near-Breakout -> gemieden bis Basisbildung nahe ATH.",
-    "PANW (Palo Alto): Cyber-Gruppe stark, aber ~+20% in kurzer Zeit gelaufen -> ueberdehnt, kein sauberer nicht-ueberdehnter Pivot -> raus (beobachten fuer neue Basis).",
-    "APP (AppLovin): Elite-Fundamentaldaten, aber ~25% in zwei Wochen gelaufen -> ueberdehnt -> Watchlist (Ruecksetzer 460-480 abwarten, nicht nachjagen).",
-    "GEV (GE Vernova): ~8-9% unter ATH in Basisbildung UND Earnings ~22.07. (2-Wochen-Regel) -> Watchlist, vor Bericht keine Neukaeufe.",
-    "VRT (Vertiv): ~15% unter ATH in laengerer Basis -> kein Near-Breakout -> Watchlist.",
+    "ALLGEMEIN (Lauf 70, Di 14.07.): Struktur GRUEN (Indizes ueber 50/200-Tage, 50>200, nahe ATH), ABER Uptrend UNTER DRUCK -- 2. Tech/AI-Verteilungstag in Folge (Mo 13.07.: S&P -0,79%, Nasdaq -1,55%). Heute mehrere Event-Risiken: US-CPI (Zinssorgen), Eskalation Hormus-Blockade (ab Di-Nachmittag, 20% Frachtgebuehr, Oel fester), Start Q2-Earnings (JPM heute; GE Aerospace + NFLX 16.07.). DISZIPLIN: an einem Verteilungs-/Event-Tag keine schwachen/ausbrechenden Tech-Namen und keine Oel-/News-Spikes nachjagen; nur volumen-/staerkebestaetigte Setups am Pivot. Qualitaet vor Anzahl -> nur 2 Picks.",
+    "AEROSPACE/DEFENSE-ROTATION: die HEUTE fuehrende RS-Gruppe (ITA am Rekordhoch; GE Aerospace, HWM, RTX, BA fest) -> bevorzugt fuer Setups; aber nur mit sauberem, nicht-ueberdehntem Pivot und ausserhalb der 2-Wochen-Earnings-Zone (HEI qualifiziert, GE/GEV wegen Earnings raus, HWM ohne bestaetigte enge Basis -> Watchlist).",
+    "SEMICONDUCTORS (NVDA, AVGO, MU): Epizentrum des AI-Hardware-Rout, weiter deutlich UNTER ATH und heute schwach -> kein sauberer Near-Breakout -> gemieden bis Basisbildung nahe ATH.",
+    "APP (AppLovin): Elite-Fundamentaldaten, aber zuletzt ~25% in zwei Wochen gelaufen -> ueberdehnt -> raus (Ruecksetzer/neue Basis abwarten, nicht nachjagen).",
+    "PANW (Palo Alto): Cyber-Gruppe stark, aber zuletzt stark gelaufen -> ueberdehnt, kein sauberer nicht-ueberdehnter Pivot -> raus (beobachten fuer neue Basis).",
+    "GE Aerospace / GEV (GE Vernova): starke Leader, aber Earnings 16.07. bzw. ~22.07. -> 2-Wochen-Regel -> Watchlist, vor Bericht keine Neukaeufe.",
     "BANKEN/FINANCIALS (JPM u.a.): Q2-Earnings-Saisonauftakt ab 14.07. -> 2-Wochen-Earnings-Regel -> vor Bericht keine Neukaeufe.",
-    "ENERGIE/OEL: Oel-Anstieg ist geopolitik-/ereignisgetrieben (Hormus) ohne sauberen CANSLIM-Basis-Ausbruch -> nicht nachjagen."
+    "ENERGIE/OEL: Oel-Anstieg ist geopolitik-/ereignisgetrieben (Hormus-Blockade) ohne sauberen CANSLIM-Basis-Ausbruch -> nicht nachjagen."
   ]
 }
