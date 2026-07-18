@@ -1,110 +1,70 @@
 {
-  "updated": "2026-07-17",
-  "run": 73,
-  "market_signal": "YELLOW",
-  "market_note": "Stand Fr 17.07.2026 (Basis: US-Schluss Do 16.07.). REGIMEWECHSEL ggue. Lauf 72: Struktur uebergeordnet noch AUFWAERTS (S&P 500 7.533,77, Nasdaq 25.881,95, Dow 52.552,97 -- alle weiter UEBER 50-/200-Tage-Linie, 50>200, nahe ATH), ABER der Aufwaertstrend steht jetzt UNTER DRUCK: Do 16.07. deutlicher Tech-/Chip-Abverkauf -- S&P -0,51%, Nasdaq -1,47%, Nasdaq-100 -1,5%. TREIBER DES DRUCKS: (1) Halbleiter-Distribution nach TSMC (Capex-Anhebung ueberschattet Beat) -> AI-Bewertungs-Fatigue; (2) Alphabet -4% (Verschiebung Gemini 3.5 Pro); (3) Geopolitik (Hormuz/Iran); (4) Asien schwach (Nikkei -5,2%, MSCI Asia-Pacific -2,7%). -> Distribution konzentriert im AI/Chip/Networking-Komplex; FUEHRUNG ROTIERT zu Aerospace/Defense und Teilen von Cyber (relative Staerke ausserhalb des Abverkaufs-Epizentrums). DISZIPLIN im Under-Pressure-Umfeld: KEINE neuen Ausbruchs-Kaeufe in der fuehrenden Abwaertsgruppe (Chips/AI-Hardware); nur RS-Leader ausserhalb des Epizentrums mit sauberem, VOLUMENBESTAETIGTEM Pivot; Positionsgroesse kleiner, Stops enger; 2-Wochen-Earnings-Regel strikt. SCREEN-ERGEBNIS Lauf 73: nur 2 saubere Qualitaets-Setups, die dem Druck standhalten -- HEI (Aerospace-Aftermarket-Leader, Qualitaets-Handle ~4-5% unter Pivot 366,59, RS-Fuehrung ausserhalb des Chip-Abverkaufs -> kurz vor Breakout) und CRWD (Cyber-Leader, hat den split-bereinigten Pivot ~199,53 am 14.07. zurueckerobert und haelt am 16.07. trotz Tech-Schwaeche bei ~204 nur ~2,6% unter ATH 209,67 -> kuerzlich ausgebrochen, relativ fest). DEMOTION: ANET (AI-Networking) am 16.07. -3,03% im Zentrum des Chip-/AI-Abverkaufs -> Ausbruch wird jetzt getestet -> von Pick auf Watchlist. GE hat 16.07. zwar geschlagen und Ausblick angehoben (EPS 2,02 vs 1,86, Umsatz 12,6 Mrd +24%), fiel aber ~3% auf Margendruck -> KEIN sauberer Ausbruch, Kauf erst bei bestaetigtem Volumen-Breakout. Watchlist: ANET, HWM, GE, GEV. Gefiltert: Halbleiter (NVDA/AVGO/MU -- Epizentrum der Distribution), Alphabet/AAPL (Mega-Cap unter Druck), ALAB/CRDO (ueberdehnt/volatil), VRT & AXON (Earnings-Naehe/kein Pivot), PLTR (Recovery-Charakter + extreme Bewertung). Qualitaet vor Anzahl -> 2 Picks. In einem Under-Pressure-Markt ist Zurueckhaltung Teil der Disziplin.",
+  "updated": "2026-07-18",
+  "run": 74,
+  "market_signal": "RED",
+  "market_note": "Stand Sa 18.07.2026 (Basis: US-Schluss Fr 17.07.). DOWNGRADE ggue. Lauf 73 (GELB) auf ROT. GRUND: Der S&P 500 hat am Fr 17.07. ERSTMALS die 50-Tage-Linie UNTERSCHRITTEN (Schluss 7.457,77 / -1,01%; Nasdaq 25.520,24 / -1,4%; Dow 52.146,42 / -0,77%) -- Wochenverlust. Die uebergeordnete Struktur ist zwar noch NICHT gebrochen (Index weiter UEBER 200-Tage-Linie seit 08.04.; 50>200 intakt), aber die kurzfristige Trendfuehrung ist verletzt und die WACHSTUMS-/TECH-FUEHRUNG befindet sich in einer aktiven KORREKTUR: Tech-Sektor auf Wochensicht ~-4,3%, Halbleiter-Abverkauf vertieft, Netflix eingebrochen; AUSLOESER am 17.07. neu: chinesisches KI-Startup Moonshot praesentiert ein Modell 'auf Augenhoehe' mit OpenAI/Anthropic -> KI-Bewertungs-Fatigue schlaegt vom Chip- auf den KI-Software-Komplex durch. WICHTIG (Zwei-Seiten-Bild): Es ist eine ROTATIONS-Korrektur, KEIN Breitenmarkt-Kollaps -- am 17.07. schlossen 8 von 11 S&P-Sektoren HOEHER (fuehrend Energie & Basiskonsum); Oel +~10% auf Nahost-Eskalation (Hormuz/Iran). Geld rotiert AUS Tech/KI/Halbleitern HINEIN in Energie, Verteidigung/Aerospace und defensive Werte. CANSLIM-DISZIPLIN im ROT-Umfeld (M negativ): Kapitalerhalt hat Vorrang -> KEINE aggressiven Tech-Ausbruchskaeufe; hoehere Cash-Quote; nur AUSNAHME-RS-Leader ausserhalb des Abverkaufs-Epizentrums (Aerospace/Defense) mit sauberem, VOLUMENBESTAETIGTEM Pivot, kleinere Position, enge Stops, strikte 2-Wochen-Earnings-Regel. SCREEN-ERGEBNIS Lauf 74: nur 1 sauberes Qualitaets-Setup haelt dem Druck stand -- HEI (Aerospace-Aftermarket-Leader, RS in der rotations-beguenstigten Gruppe, Handle ~4% unter Pivot 366,59 -> kurz vor Breakout). DEMOTION: CRWD -- der Ausbruch ist GESCHEITERT: CRWD fiel am 17.07. ~6% auf ~187 USD und damit klar UNTER den Pivot (~199,53) und deutlich unter das ATH (~209-217) -> Breakout unterlaufen -> von Pick auf Watchlist (Fundamentaldaten weiter Elite, aber Setup gebrochen; neue Basis abwarten). Watchlist: CRWD (Breakout gescheitert), HWM (Earnings 30.07. -> 2-Wochen-Regel + noch unter Breakout-Zone), GEV (Earnings ~22.07. -> 2-Wochen-Regel), TDG (nahe ATH, aber Earnings Ende Juli -> 2-Wochen-Regel), GE (Beat, aber -3% am 16.07., kein sauberer Ausbruch), ANET (Epizentrum Chip-/KI-Abverkauf). Gefiltert: Halbleiter (NVDA/AVGO/MU -- Epizentrum), Netflix (Absturz), Mega-Cap-Tech/KI (GOOGL/AAPL), KI-Software (Moonshot-Schock), Energie (geopolitischer Oel-Spike -> Commodity-getrieben, keine saubere CANSLIM-Basis), PLTR (Recovery/extreme Bewertung). Qualitaet vor Anzahl -> 1 Pick. In einem Markt, der gerade seine 50-Tage-Linie verloren hat und dessen Wachstumsfuehrung korrigiert, ist Zurueckhaltung die richtige Position.",
   "picks": [
     {
       "ticker": "HEI",
       "company": "HEICO Corporation",
       "sector": "Industrials / Aerospace Aftermarket & Defense",
-      "price": 351.0,
+      "price": 352.0,
       "pattern": "near_pivot_handle_kurz_vor_breakout",
-      "pattern_description": "KURZ VOR BREAKOUT: Rekord-Schluss 365,31 am 06.07. (52W-Hoch 369,48); seither in einer Handle/Konsolidierung ~4-5% UNTER dem Pivot 366,59. Noch NICHT ausgebrochen, aber als Qualitaets-Leader das derzeit sauberste Setup -- und wichtig: HEI zeigt RELATIVE STAERKE ausserhalb des Chip-/AI-Abverkaufs, der am 16.07. den Markt belastete (Aerospace/Defense fuehrt die Rotation). Golden Cross (50-Tage ueber 200-Tage) frisch bestaetigt, Zacks/Analysten Buy, Volumen im Ruecksetzer trocknet ab (konstruktiv). Kauf-Trigger: sauberer, VOLUMENBESTAETIGTER Ausbruch UEBER 366,59 -- vorher nur beobachten, Ruecksetzer NICHT als Ausbruch missdeuten; im Under-Pressure-Umfeld Positionsgroesse reduzieren und bei Bruch der Basis mit Volumen raus.",
+      "pattern_description": "KURZ VOR BREAKOUT und einziges sauberes Setup im ROT-Umfeld: Rekord-Schluss 365,31 am 06.07. (52W-Hoch ~369); seither in einer Handle/Konsolidierung ~4% UNTER dem Pivot 366,59. Noch NICHT ausgebrochen. Entscheidend: HEI zeigt RELATIVE STAERKE ausserhalb des Chip-/KI-Abverkaufs -- Aerospace/Defense gehoert zu der Gruppe, in die der Markt am 17.07. hineinrotiert (8/11 Sektoren gruen, Verteidigung/Energie fuehrend). Golden Cross (50>200) intakt, Analysten Buy-Konsens. Kauf-Trigger: sauberer, VOLUMENBESTAETIGTER Ausbruch UEBER 366,59 -- vorher nur beobachten. WICHTIG im ROT-Umfeld: Positionsgroesse deutlich reduzieren, enger Stop, Ruecksetzer NICHT als Ausbruch missdeuten; solange der Gesamtmarkt unter der 50-Tage-Linie handelt, ist auch bei HEI erhoehte Vorsicht geboten.",
       "pct_from_ath": -4.7,
       "canslim": {
-        "C": "C (Current / aktuelle Quartalsgewinne): Fiskal-Q2 2026 EPS 1,66 USD vs. 1,12 -> +48% YoY (Konsens ~25% geschlagen), Umsatz +25,3% auf 1,38 Mrd -- weit ueber der 25%-Schwelle.",
-        "A": "A (Annual / Jahreswachstum): stetiges Wachstum, ~18% organisch aus Aftermarket-Nachfrage plus M&A; Rekord-Backlog, Margenausweitung, mehrere Beats in Folge.",
-        "N": "N (New / Neues): frisches ATH am 06.07., danach ~4-5% in eine Handle unter Pivot 366,59 -> kurz vor Breakout, noch nicht bestaetigt; Treiber Defense-Zyklus (Rekord-Verteidigungsbudget), M&A; frischer Golden Cross.",
-        "S": "S (Supply/Demand): kontrollierte Dual-Class-Struktur, hohe Insiderbeteiligung (Familie Mendelson), stetige institutionelle Akkumulation; Volumen im Ruecksetzer trocknet ab (konstruktiv).",
-        "L": "L (Leader / Marktfuehrer): Weltmarktfuehrer Ersatzteile/PMA fuer die Luftfahrt; RS-Leader nahe ATH in der fuehrenden Aerospace/Defense-Gruppe -- haelt sich waehrend der Tech-/Chip-Distribution.",
-        "I": "I (Institutional / institutionelle Kaeufer): breit und stark institutionell gehalten; Buy-Konsens (15/20 Buy), Kursziel-Schnitt ~386, hoch bis 471.",
-        "M": "M (Market / Marktrichtung): GELB -- Aufwaertstrend intakt, aber UNTER DRUCK (Chip-/AI-Distribution 16.07.). HEI liegt ausserhalb des Epizentrums; Kauf trotzdem NUR bei sauberem, volumenbestaetigtem Ausbruch >366,59, reduzierte Groesse."
+        "C": "C (Current / aktuelle Quartalsgewinne): Fiskal-Q2 2026 EPS 1,66 USD vs. 1,12 -> +48% YoY (Konsens geschlagen), Umsatz +~21-25% (FSG +18%) -- ueber der 25%-Schwelle. Aktuelle Gewinndynamik top.",
+        "A": "A (Annual / Jahreswachstum): mehrjaehrig stetiges Wachstum aus Aftermarket-Nachfrage plus M&A; Rekord-Backlog, Margenausweitung, Serie von Beats.",
+        "N": "N (New / Neues): frisches ATH am 06.07., danach ~4% in eine Handle unter Pivot 366,59 -> kurz vor Breakout, noch nicht bestaetigt; Treiber Defense-Zyklus (Rekord-Budgets), M&A; frischer Golden Cross.",
+        "S": "S (Supply/Demand / Angebot-Nachfrage): kontrollierte Dual-Class-Struktur, hohe Insiderbeteiligung (Familie Mendelson), stetige institutionelle Akkumulation; Volumen im Ruecksetzer trocknet ab (konstruktiv).",
+        "L": "L (Leader / Marktfuehrer): Weltmarktfuehrer Ersatzteile/PMA fuer die Luftfahrt; RS-Leader nahe ATH in der rotations-beguenstigten Aerospace/Defense-Gruppe -- haelt sich waehrend der Tech-/Chip-Korrektur.",
+        "I": "I (Institutional / institutionelle Kaeufer): breit und stark institutionell gehalten; Buy-Konsens, steigende Kursziele.",
+        "M": "M (Market / Marktrichtung): ROT -- Index unter 50-Tage-Linie, Wachstumsfuehrung in Korrektur. HEI liegt ausserhalb des Epizentrums und in der rotations-beguenstigten Gruppe; Kauf trotzdem NUR bei sauberem Volumen-Ausbruch >366,59, stark reduzierte Groesse."
       },
       "earnings_next": "~24.08.2026 (Fiskal-Q3; kein 2-Wochen-Risiko)",
-      "reason": "Bestes Setup im Under-Pressure-Markt: Elite-Aerospace-Aftermarket-Leader mit RELATIVER STAERKE ausserhalb des Chip-/AI-Abverkaufs. EPS +48%, Weltmarktfuehrer, defensiver Charakter, frischer Golden Cross, Handle ~4-5% unter Pivot 366,59. Kauf erst bei volumenbestaetigtem Ausbruch >366,59, Ruecksetzer nicht nachjagen, im gelben Umfeld kleinere Position."
-    },
-    {
-      "ticker": "CRWD",
-      "company": "CrowdStrike Holdings",
-      "sector": "Technology / Cybersecurity",
-      "price": 204.15,
-      "pattern": "kuerzlich_ausgebrochen_haelt_unter_druck",
-      "pattern_description": "KUERZLICH AUSGEBROCHEN & RELATIV FEST: CRWD (nach 4:1-Split zum 02.07.) hat den split-bereinigten ATH-Pivot ~199,53 am 14.07. volumenstark zurueckerobert (ATH 209,67) und HAELT sich am 16.07. trotz des breiten Tech-Abverkaufs bei ~204,15 (Tageshoch 208,50 / Tief 200,07) -- nur ~2,6% unter ATH und weiterhin UEBER dem Pivot. Cyber ist teils vom Chip-/AI-Capex-Abverkauf entkoppelt -> relative Staerke. DISZIPLIN: den Ausbruchs-Spike NICHT nachjagen; im gelben Umfeld sauberer Kauf nur bei ruhigem, VOLUMENARMEM Ruecksetzer an den Pivot ~199,53-202 und solange der Kurs UEBER 199,53 haelt. Bei Rueckfall unter 199,53 mit Volumen kein Einstieg / raus.",
-      "pct_from_ath": -2.6,
-      "canslim": {
-        "C": "C (Current / aktuelle Quartalsgewinne): Rekord-Net-New-ARR +32% YoY, Umsatz +26% YoY, Gesamt-ARR 5,51 Mrd (+24%) -- ueber der 25%-Schwelle.",
-        "A": "A (Annual / Jahreswachstum): stetiges 24-30%-ARR-/Umsatzwachstum, hohe FCF-Marge, Plattform-Ausweitung (Falcon/AI-Security).",
-        "N": "N (New / Neues): Pivot ~199,53 am 14.07. volumenstark zurueckerobert -> frischer Ausbruch; haelt am 16.07. trotz Tech-Schwaeche ueber dem Pivot (~204, ~2,6% unter ATH) -> Ausbruch bislang bestaetigt.",
-        "S": "S (Supply/Demand): starkes Nachfrage-/Volumensignal am Ausbruchstag; Ruecksetzer wurden zuletzt konsequent gekauft -> Akkumulation; haelt sich am Distributionstag relativ stark.",
-        "L": "L (Leader / Marktfuehrer): Marktfuehrer Endpoint-/Cloud-Security (Falcon), Elite-RS, breite Analysten-Kaufunterstuetzung -- Cyber teils entkoppelt vom Chip-Abverkauf.",
-        "I": "I (Institutional / institutionelle Kaeufer): breit institutionell gehalten, mehrere frische Kursziel-Anhebungen.",
-        "M": "M (Market / Marktrichtung): GELB -- Aufwaertstrend unter Druck. CRWD zeigt relative Staerke; Kauf bevorzugt bei ruhigem Pullback an den Pivot, NICHT am Spike, reduzierte Groesse, Stop unter 199,53."
-      },
-      "earnings_next": "~02.09.2026 (Q2 FY2027; kein 2-Wochen-Risiko)",
-      "reason": "Kuerzlich ausgebrochen und im Tech-Abverkauf RELATIV FEST: Cyber-Leader haelt sich am 16.07. bei ~204 ueber dem zurueckeroberten Pivot ~199,53 (nur ~2,6% unter ATH), Cyber teils vom Chip-Abverkauf entkoppelt. Fundamentaldaten Elite. Sauberer Kauf bevorzugt bei ruhigem, volumenarmem Ruecksetzer an ~199,53-202; Stop unter 199,53; im gelben Umfeld kleinere Position."
+      "reason": "Einziges sauberes Setup im ROT-Umfeld: Elite-Aerospace-Aftermarket-Leader mit RELATIVER STAERKE ausserhalb der Tech-/Chip-Korrektur und in der Gruppe, in die der Markt rotiert. EPS +48%, Weltmarktfuehrer, frischer Golden Cross, Handle ~4% unter Pivot 366,59, kein Earnings-Risiko. Kauf erst bei volumenbestaetigtem Ausbruch >366,59, Ruecksetzer nicht nachjagen; da der Gesamtmarkt unter der 50-Tage-Linie liegt, nur kleine Position und enger Stop."
     }
   ],
   "watchlist": [
     {
-      "ticker": "ANET",
-      "company": "Arista Networks",
-      "sector": "Technology / KI-Networking (Data-Center-Switching)",
-      "price": 181.9,
-      "pattern": "ausbruch_wird_getestet_epizentrum",
-      "pattern_description": "DEMOTION von Pick (Lauf 72) auf Watchlist: ANET war frisch ausgebrochen (ATH-Schluss 186,96 am 10.07., 52W-Hoch 189,82), fiel aber am 16.07. -3,03% MITTEN im Chip-/AI-Abverkauf (TSMC-Capex-Fatigue). Der Ausbruch wird jetzt GETESTET -- ANET liegt im Epizentrum der aktuellen Distribution. CANSLIM-Disziplin im Under-Pressure-Umfeld: KEINE Neukaeufe in der fuehrenden Abwaertsgruppe. Wiedervorlage erst, wenn der Chip-/AI-Komplex sich stabilisiert UND ANET den Pivot (~178) haelt bzw. mit Volumen erneut ueber die Hochs ausbricht. Bei Rueckfall unter Pivot ~178 mit Volumen erledigt.",
-      "pct_from_ath": -4.2,
+      "ticker": "CRWD",
+      "company": "CrowdStrike Holdings",
+      "sector": "Technology / Cybersecurity",
+      "price": 187.0,
+      "pattern": "breakout_gescheitert_pivot_unterlaufen",
+      "pattern_description": "DEMOTION von Pick (Lauf 73) auf Watchlist -- AUSBRUCH GESCHEITERT: CRWD fiel am 17.07. ~6% auf ~187 USD (nach Hoch ~210-217 Anfang/Mitte Juli) und handelt damit klar UNTER dem split-bereinigten Pivot ~199,53 sowie deutlich unter dem ATH. Der Rueckeroberungs-Ausbruch vom 14.07. ist unterlaufen -> nach CANSLIM-Regel raus aus der Position. Ausloeser: Bewertungs-Reassessment nach scharfer Rally PLUS KI-Software-Fatigue (Moonshot-Schock). Fundamental weiter Elite, aber technisch gebrochen. Wiedervorlage erst nach Bildung einer NEUEN Basis und sauberem, volumenbestaetigtem Ausbruch -- kein Nachkaufen ins fallende Messer.",
+      "pct_from_ath": -10.8,
       "canslim": {
-        "C": "C (Current): Umsatz +35% YoY, EPS +34% YoY -- deutlich ueber 25%.",
-        "A": "A (Annual): Umsatz-Prognose ~+28,7% dieses Jahr; mehrjaehriges 20-35%-Wachstum bei ~62% Marge.",
-        "N": "N (New): frisches ATH 10.07., aber -3% am 16.07. im Chip-Abverkauf -> Ausbruch wird getestet, nicht mehr sauber.",
-        "S": "S (Supply/Demand): zuletzt Distribution im AI-Hardware-Komplex -> aktuell Angebotsdruck in der Gruppe.",
-        "L": "L (Leader): Leader KI-Networking, ABER Gruppe (Chips/AI-Hardware) fuehrt derzeit die Distribution -> RS belastet.",
-        "I": "I (Institutional): breit gehalten; im Sektor-Abverkauf aktuell Gewinnmitnahmen.",
-        "M": "M (Market): GELB/unter Druck, Epizentrum Chips/AI -> abwarten bis Stabilisierung + Pivot-Halt."
+        "C": "C (Current): Umsatz +26% YoY (1,39 Mrd), Net-New-ARR +32%, Gesamt-ARR 5,51 Mrd (+24%) -- ueber 25%. Fundamental unveraendert stark.",
+        "A": "A (Annual): stetiges 24-30%-ARR-/Umsatzwachstum, hohe FCF-Marge, Plattform-Ausweitung.",
+        "N": "N (New): NEGATIV -- Ausbruch gescheitert, Pivot ~199,53 mit ~-6% am 17.07. auf ~187 unterlaufen; kein sauberes Setup mehr.",
+        "S": "S (Supply/Demand): am 17.07. deutlicher Angebotsdruck/Distribution (Gewinnmitnahmen) -> abwarten bis neue Akkumulation sichtbar.",
+        "L": "L (Leader): Marktfuehrer Endpoint-/Cloud-Security (Falcon), Elite-RS langfristig -- aber kurzfristig im KI-Software-Abverkauf getroffen.",
+        "I": "I (Institutional): breit institutionell gehalten; Analysten uneinheitlich (UBS Ziel 235 vs. Morgan Stanley Kuerzung auf 172).",
+        "M": "M (Market): ROT -- Tech/KI-Software unter Druck; kein Neukauf, bis Markt und Titel sich stabilisieren."
       },
-      "earnings_next": "~04.08.2026 (Q2 FY2026; kein 2-Wochen-Risiko)",
-      "reason": "Watchlist: ehemals Top-Pick, jetzt im Zentrum des Chip-/AI-Abverkaufs (-3% am 16.07.). Ausbruch wird getestet. Erst bei Stabilisierung des AI-Komplexes und Pivot-Halt (~178) bzw. erneutem Volumen-Ausbruch wieder Kandidat."
+      "earnings_next": "~02.09.2026 (Q2 FY2027; kein 2-Wochen-Risiko)",
+      "reason": "Watchlist: Ausbruch gescheitert (-6% am 17.07. auf ~187, Pivot ~199,53 unterlaufen). Fundamental weiter Elite, aber Setup technisch gebrochen. Erst nach neuer Basis + volumenbestaetigtem Ausbruch wieder Kandidat -- nicht ins fallende Messer kaufen."
     },
     {
       "ticker": "HWM",
       "company": "Howmet Aerospace",
-      "sector": "Industrials / Aerospace Components (Fasteners, Structures, Engine Parts)",
-      "price": 274.29,
-      "pattern": "leader_baut_unter_breakout_zone",
-      "pattern_description": "Fundamental Elite und in der fuehrenden Aerospace-Gruppe (RS ausserhalb des Chip-Abverkaufs). Bei ~274 aber noch ~7% UNTER 52W-Hoch 290,63 und baut weiter UNTER der Breakout-Zone ~296-300 -> kein bestaetigter enger Near-Pivot. Earnings 06.08.2026. Wiedervorlage bei enger Basis nahe ATH und sauberem, volumenbestaetigtem Pivot-Ausbruch >~300.",
+      "sector": "Industrials / Aerospace Components",
+      "price": 275.0,
+      "pattern": "leader_earnings_2wochen_regel",
+      "pattern_description": "Elite-Aerospace-Grower in der fuehrenden (rotations-beguenstigten) Gruppe, aber ZWEI Bremsen: (1) Earnings am 30.07.2026 -> 2-WOCHEN-EARNINGS-REGEL AKTIV (heute 18.07.); (2) baut noch unter der Breakout-Zone ~296-300, kein enger bestaetigter Near-Pivot. Konsens Q2 EPS 1,24 (+36% YoY), Strong-Buy. Wiedervorlage bei enger Basis nahe ATH und sauberem, volumenbestaetigtem Ausbruch NACH Earnings.",
       "pct_from_ath": -5.6,
       "canslim": {
-        "C": "C (Current): Q1 Umsatz +19% YoY, Beat; Q2-Konsens EPS zweistelliges Wachstum -> ueber 25%-Bereich.",
-        "A": "A (Annual): mehrjaehriges starkes Wachstum aus Aftermarket/Engine-Nachfrage, Outlook angehoben.",
-        "N": "N (New): unter Breakout-Zone 296-300, ~7% unter ATH -> kein sauberer Near-Breakout.",
+        "C": "C (Current): Q2-Konsens EPS 1,24 (+36% YoY), starker Beat-Track-Record.",
+        "A": "A (Annual): mehrjaehriges starkes Wachstum aus Aftermarket/Engine-Nachfrage, Guidance angehoben.",
+        "N": "N (New): unter Breakout-Zone 296-300 -> kein sauberer Near-Breakout; zudem Event-Risiko Earnings 30.07.",
         "S": "S (Supply/Demand): institutionelle Akkumulation, Rueckkaeufe.",
-        "L": "L (Leader): Leader Luftfahrt-Komponenten; RS in fuehrender Gruppe (Jefferies Ziel 340, TD Cowen 320).",
-        "I": "I (Institutional): breit institutionell gehalten, steigende Kursziele.",
-        "M": "M (Market): GELB/unter Druck; Aerospace fuehrt die Rotation, aber HWM noch ohne engen Pivot."
+        "L": "L (Leader): Leader Luftfahrt-Komponenten; RS in fuehrender Gruppe.",
+        "I": "I (Institutional): breit gehalten, Strong-Buy, Ziel ~280+.",
+        "M": "M (Market): ROT -- rotations-beguenstigt, aber ohne engen Pivot und mit Earnings-Fenster -> abwarten."
       },
-      "earnings_next": "06.08.2026 (Q2; kein 2-Wochen-Risiko)",
-      "reason": "Watchlist: Elite-Aerospace-Grower mit RS, baut aber noch ~7% unter ATH und unter der 296-300-Breakout-Zone ohne engen Pivot. Erst bei enger Basis nahe ATH + volumenbestaetigtem Ausbruch Kandidat."
-    },
-    {
-      "ticker": "GE",
-      "company": "GE Aerospace",
-      "sector": "Industrials / Aerospace Engines & Services",
-      "price": 350.0,
-      "pattern": "earnings_reaktion_negativ_kein_ausbruch",
-      "pattern_description": "GE hat Q2 am 16.07. berichtet: BEAT und Ausblick ANGEHOBEN (EPS 2,02 vs 1,86 Konsens, +22% YoY; Umsatz 12,6 Mrd +24%; Backlog >210 Mrd). ABER die Aktie fiel ~3% (auf ~350) wegen MARGENDRUCK/Lieferketten-Kosten -> KEIN sauberer, volumenbestaetigter Ausbruch, sondern negative Reaktion. 2-Wochen-Regel formal erledigt, aber Setup nicht kaufbar. Wiedervorlage bei enger Basis + sauberem Volumen-Breakout ueber die Hochs.",
-      "pct_from_ath": -3.0,
-      "canslim": {
-        "C": "C (Current): Q2 EPS 2,02 (+22% YoY), Umsatz 12,6 Mrd (+24%) -- Beat, ueber 25%-Bereich beim Umsatz.",
-        "A": "A (Annual): FY2026 Ausblick angehoben; Rekord-Backlog >210 Mrd, Services-Backlog ~170 Mrd.",
-        "N": "N (New): Earnings-Beat, aber Aktie -3% auf Margendruck -> negative Reaktion, kein Ausbruch.",
-        "S": "S (Supply/Demand): am Bericht Angebotsdruck (Verkauf trotz Beat) -> abwarten.",
-        "L": "L (Leader): Leader Triebwerke/Services in fuehrender Aerospace-Gruppe.",
-        "I": "I (Institutional): breit gehalten, Ziele bis ~380-431.",
-        "M": "M (Market): GELB/unter Druck; GE trotz starker Zahlen verkauft -> kein Kauf ohne bestaetigten Breakout."
-      },
-      "earnings_next": "berichtet 16.07.2026 (Q2); naechste ~Okt 2026",
-      "reason": "Watchlist: starke Q2-Zahlen und angehobener Ausblick, aber Aktie -3% auf Margendruck -> kein sauberer Ausbruch. Erst bei enger Basis + volumenbestaetigtem Breakout ueber die Hochs Kandidat."
+      "earnings_next": "30.07.2026 (Q2; 2-WOCHEN-REGEL AKTIV)",
+      "reason": "Watchlist: Elite-Grower mit RS, aber Earnings 30.07. (2-Wochen-Regel) und noch unter der 296-300-Breakout-Zone. Erst nach Earnings bei enger Basis + volumenbestaetigtem Ausbruch Kandidat."
     },
     {
       "ticker": "GEV",
@@ -112,30 +72,89 @@
       "sector": "Industrials / Power & Grid (KI-Rechenzentrums-Strom)",
       "price": 1150.0,
       "pattern": "earnings_2wochen_regel",
-      "pattern_description": "Nahe ATH, KI-Strom-Superzyklus (Electrification-Orders, Data-Center-Strom). ACHTUNG: Earnings Q2 ~22.07. -> 2-Wochen-Earnings-Regel AKTIV. Wiedervorlage bei enger Basis nahe ATH und sauberem, volumenbestaetigtem Pivot-Ausbruch NACH Earnings.",
+      "pattern_description": "Nahe ATH, KI-Strom-Superzyklus (Electrification-Orders, Data-Center-Strom). Earnings Q2 ~22.07. -> 2-WOCHEN-EARNINGS-REGEL AKTIV (nur ~4 Tage). Wiedervorlage bei enger Basis nahe ATH und sauberem, volumenbestaetigtem Pivot-Ausbruch NACH Earnings.",
       "pct_from_ath": -4.0,
       "canslim": {
-        "C": "C (Current): starkes Gewinn-/Auftragswachstum; Electrification stark, Rekord-Data-Center-Orders.",
+        "C": "C (Current): starkes Gewinn-/Auftragswachstum; Rekord-Data-Center-Orders.",
         "A": "A (Annual): beschleunigendes Jahreswachstum, KI-Strom-Superzyklus, Turbinen-Backlog bis Ende Dekade.",
         "N": "N (New): nahe ATH, aber Earnings-Naehe -> aktuell kein Einstieg.",
         "S": "S (Supply/Demand): institutionelle Basis stark.",
         "L": "L (Leader): Leader Gasturbinen/Grid fuer Data-Center-Strom.",
         "I": "I (Institutional): breit institutionell gehalten.",
-        "M": "M (Market): GELB/unter Druck; zusaetzlich Earnings-Event-Risiko ~22.07."
+        "M": "M (Market): ROT + Earnings-Event-Risiko ~22.07. -> abwarten."
       },
       "earnings_next": "~22.07.2026 (Q2; 2-WOCHEN-REGEL AKTIV)",
       "reason": "Watchlist: starker Power/Grid-Leader nahe ATH, aber Earnings ~22.07. innerhalb 2 Wochen -> vor Bericht keine Neukaeufe. Erst bei enger Basis + Ausbruch nach Earnings Kandidat."
+    },
+    {
+      "ticker": "TDG",
+      "company": "TransDigm Group",
+      "sector": "Industrials / Aerospace Components (Proprietaer)",
+      "price": 1600.0,
+      "pattern": "nahe_ath_earnings_2wochen_regel",
+      "pattern_description": "Qualitaets-Leader (proprietaere Aerospace-Teile, hohe Margen), handelt nahe Rekordniveaus im S&P 500 in der rotations-beguenstigten Gruppe. ABER Earnings Ende Juli -> 2-WOCHEN-EARNINGS-REGEL AKTIV. Kein Einstieg vor Bericht. Wiedervorlage bei enger Basis + volumenbestaetigtem Ausbruch nach Earnings.",
+      "pct_from_ath": -3.0,
+      "canslim": {
+        "C": "C (Current): stetig zweistelliges EBITDA-/EPS-Wachstum, Preissetzungsmacht.",
+        "A": "A (Annual): mehrjaehrig starkes Wachstum, Aftermarket-lastig, hohe Margen.",
+        "N": "N (New): nahe ATH, aber Earnings-Fenster -> kein sauberer buyable Pivot aktuell.",
+        "S": "S (Supply/Demand): institutionelle Akkumulation, stabile Nachfrage.",
+        "L": "L (Leader): Leader proprietaere Aerospace-Komponenten; RS in fuehrender Gruppe.",
+        "I": "I (Institutional): breit gehalten, Buy-Konsens.",
+        "M": "M (Market): ROT + Earnings-Naehe -> abwarten."
+      },
+      "earnings_next": "Ende Juli 2026 (2-WOCHEN-REGEL AKTIV)",
+      "reason": "Watchlist: Elite-Aerospace-Leader nahe ATH in der fuehrenden Gruppe, aber Earnings Ende Juli (2-Wochen-Regel). Erst nach Bericht bei sauberem, volumenbestaetigtem Ausbruch Kandidat."
+    },
+    {
+      "ticker": "GE",
+      "company": "GE Aerospace",
+      "sector": "Industrials / Aerospace Engines & Services",
+      "price": 350.0,
+      "pattern": "earnings_reaktion_kein_ausbruch",
+      "pattern_description": "GE hat Q2 am 16.07. berichtet: BEAT und Ausblick angehoben (EPS 2,02 vs 1,86; Umsatz 12,6 Mrd +24%; Backlog >210 Mrd), die Aktie fiel aber ~3% auf Margendruck -> KEIN sauberer, volumenbestaetigter Ausbruch. 2-Wochen-Regel formal erledigt, Setup aber nicht kaufbar. Wiedervorlage bei enger Basis + sauberem Volumen-Breakout ueber die Hochs.",
+      "pct_from_ath": -3.0,
+      "canslim": {
+        "C": "C (Current): Q2 EPS 2,02 (+22% YoY), Umsatz 12,6 Mrd (+24%) -- Beat.",
+        "A": "A (Annual): FY2026 Ausblick angehoben; Rekord-Backlog >210 Mrd.",
+        "N": "N (New): Earnings-Beat, aber Aktie -3% auf Margendruck -> negative Reaktion, kein Ausbruch.",
+        "S": "S (Supply/Demand): am Bericht Angebotsdruck (Verkauf trotz Beat) -> abwarten.",
+        "L": "L (Leader): Leader Triebwerke/Services in fuehrender Aerospace-Gruppe.",
+        "I": "I (Institutional): breit gehalten, Ziele bis ~380-431.",
+        "M": "M (Market): ROT; GE trotz Zahlen verkauft -> kein Kauf ohne bestaetigten Breakout."
+      },
+      "earnings_next": "berichtet 16.07.2026 (Q2); naechste ~Okt 2026",
+      "reason": "Watchlist: starke Q2-Zahlen, aber -3% auf Margendruck -> kein sauberer Ausbruch. Erst bei enger Basis + volumenbestaetigtem Breakout ueber die Hochs Kandidat."
+    },
+    {
+      "ticker": "ANET",
+      "company": "Arista Networks",
+      "sector": "Technology / KI-Networking (Data-Center-Switching)",
+      "price": 178.0,
+      "pattern": "epizentrum_chip_ki_abverkauf",
+      "pattern_description": "Bleibt Watchlist: ANET war frisch ausgebrochen (ATH ~187 am 10.07.), liegt aber MITTEN im Chip-/KI-Abverkauf, der sich am 17.07. vertieft hat (Moonshot-Schock, Halbleiter-Distribution). CANSLIM-Disziplin: KEINE Neukaeufe in der fuehrenden Abwaertsgruppe. Wiedervorlage erst, wenn sich der Chip-/KI-Komplex stabilisiert UND ANET den Pivot (~178) haelt bzw. mit Volumen erneut ausbricht. Bei Rueckfall unter ~178 mit Volumen erledigt.",
+      "pct_from_ath": -6.0,
+      "canslim": {
+        "C": "C (Current): Umsatz +35% YoY, EPS +34% YoY -- deutlich ueber 25%.",
+        "A": "A (Annual): mehrjaehriges 20-35%-Wachstum bei ~62% Marge.",
+        "N": "N (New): Ausbruch vom 10.07. wird im Abverkauf getestet -> nicht mehr sauber.",
+        "S": "S (Supply/Demand): Distribution im KI-Hardware-Komplex -> Angebotsdruck.",
+        "L": "L (Leader): Leader KI-Networking, ABER Gruppe fuehrt die Distribution.",
+        "I": "I (Institutional): breit gehalten; aktuell Gewinnmitnahmen.",
+        "M": "M (Market): ROT, Epizentrum Chips/KI -> abwarten bis Stabilisierung + Pivot-Halt."
+      },
+      "earnings_next": "~04.08.2026 (Q2 FY2026; kein 2-Wochen-Risiko)",
+      "reason": "Watchlist: Top-Fundamentaldaten, aber im Zentrum des Chip-/KI-Abverkaufs (17.07. vertieft). Erst bei Stabilisierung des KI-Komplexes und Pivot-Halt (~178) bzw. erneutem Volumen-Ausbruch wieder Kandidat."
     }
   ],
   "filtered_out": [
-    "ALLGEMEIN (Lauf 73, Fr 17.07.): REGIMEWECHSEL -- Aufwaertstrend intakt, aber UNTER DRUCK. Do 16.07. Tech-/Chip-Abverkauf (S&P -0,51% auf 7.533,77, Nasdaq -1,47% auf 25.881,95, Nasdaq-100 -1,5%): TSMC-Capex-Fatigue, Alphabet -4% (Gemini-Verschiebung), Hormuz/Iran-Risiko, Asien schwach (Nikkei -5,2%). DISZIPLIN: keine Ausbruchs-Kaeufe in der fuehrenden Abwaertsgruppe (Chips/AI-Hardware); nur RS-Leader ausserhalb des Epizentrums, reduzierte Groesse, enge Stops. Qualitaet vor Anzahl -> 2 Picks.",
-    "HALBLEITER (NVDA, AVGO, MU, TSMC-Kette): EPIZENTRUM der aktuellen Distribution (TSMC-Capex-Fatigue) -> Abverkauf nicht kaufen, keine Ausbruchs-Setups.",
-    "ALPHABET (GOOGL): -4% auf Verschiebung Gemini 3.5 Pro -> Mega-Cap unter Druck, kein Setup.",
-    "AAPL (Apple): Mega-Cap im Tech-Abverkauf unter Druck + moderates EPS-Wachstum (kein CANSLIM-Grower) -> raus.",
-    "ALAB (Astera Labs): AI-Hardware, hochvolatil/ueberdehnt und im Zentrum des Chip-Abverkaufs; Earnings 04.08. -> raus.",
-    "CRDO (Credo Technology): AI-Connectivity, breite/volatile Range, Insider-Verkaeufe, im Chip-Abverkauf -> kein sauberer Pivot.",
-    "VRT (Vertiv): Data-Center-Cooling, ~15-20% unter ATH + Earnings 29.07. (2-Wochen-Regel) -> raus.",
-    "AXON (Axon Enterprise): Elite-Wachstum, aber kein enger Near-Pivot + Earnings ~03.-07.08. -> raus.",
-    "PLTR (Palantir): Recovery-Charakter statt sauberer Basis nahe ATH + extreme Bewertung, im AI-Software-Abverkauf volatil -> raus."
+    "ALLGEMEIN (Lauf 74, Sa 18.07.): DOWNGRADE auf ROT. S&P 500 am 17.07. ERSTMALS unter 50-Tage-Linie (Schluss 7.457,77 / -1,01%; Nasdaq -1,4%; Dow -0,77%), Wochenverlust. Struktur (>200-Tage, 50>200) noch intakt, aber Wachstums-/Tech-Fuehrung in KORREKTUR (Tech-Woche ~-4,3%, Halbleiter-Abverkauf vertieft, Netflix eingebrochen). Neuer Ausloeser: chinesisches KI-Startup Moonshot mit Modell 'auf Augenhoehe' -> KI-Bewertungs-Fatigue vom Chip- auf den KI-Software-Komplex. ABER Rotations-Korrektur, kein Kollaps: 8/11 Sektoren am 17.07. gruen (Energie & Basiskonsum fuehrend), Oel +~10% auf Nahost. DISZIPLIN: Kapitalerhalt, hoehere Cash-Quote, keine aggressiven Tech-Ausbruchskaeufe; nur Ausnahme-RS-Leader ausserhalb des Epizentrums. Qualitaet vor Anzahl -> 1 Pick.",
+    "HALBLEITER (NVDA, AVGO, MU, TSMC-Kette): EPIZENTRUM der Distribution -> Abverkauf nicht kaufen, keine Ausbruchs-Setups.",
+    "NETFLIX (NFLX): am 17.07. eingebrochen (Tech-Abverkauf/Bewertung) -> kein Setup.",
+    "MEGA-CAP-TECH/KI (GOOGL, AAPL): im Tech-/KI-Abverkauf unter Druck -> raus.",
+    "KI-SOFTWARE (breit): Moonshot-Schock (chinesisches Modell 'auf Augenhoehe') -> KI-Software-Fatigue, keine sauberen Setups; CRWD siehe Watchlist (Ausbruch gescheitert).",
+    "ENERGIE/OEL (XLE, Oel-Namen): +~10% Oel-Spike ist GEOPOLITISCH/COMMODITY-getrieben (Nahost/Hormuz), keine saubere CANSLIM-Wachstumsbasis -> News-Spike nicht als Breakout kaufen.",
+    "PLTR (Palantir): trotz Army-NGC2-Contract Recovery-Charakter + extreme Bewertung, im KI-Software-Abverkauf volatil -> raus.",
+    "ALAB/CRDO (Astera Labs / Credo): AI-Hardware, im Zentrum des Chip-Abverkaufs, ueberdehnt/volatil -> raus."
   ]
 }
