@@ -1,77 +1,91 @@
 {
-  "updated": "2026-07-23",
-  "run": 79,
+  "updated": "2026-07-24",
+  "run": 80,
   "market_signal": "RED",
-  "market_note": "Stand Do 23.07.2026 (Kursbasis = US-Schluss Mi 22.07.). Marktampel bleibt ROT (wie Lauf 74-78). LAGE: S&P 500 schloss Mi bei 7.498,96 (-0,14%) und damit weiter UNTER der 50-Tage-Linie (~7.527) -- seit 17.07. verletzt. Uebergeordnete Struktur INTAKT (Index > 200-Tage seit 08.04.; 50>200), nur die kurzfristige Trendfuehrung bleibt negativ -> M bleibt technisch NEGATIV. Erst ein Schlusskurs oberhalb der 50-Tage-Linie dreht M auf NEUTRAL/GRUEN. TREIBER: weiterhin ROTATIONS-Korrektur (raus aus Tech/Halbleitern wegen KI-Capex-Angst, rein in Aerospace/Defense, Industrials, Financials), KEIN Breitenkollaps; zusaetzlicher Gegenwind durch steigende Oelpreise. ZUSATZ-FILTER: die Aerospace/Defense-Earnings-Woche ist voll AKTIV (GEV 22.07., RTX 23.07., LMT/NOC diese Woche, GD ~29.07.) -> die 2-Wochen-Earnings-Regel blockiert nahezu den gesamten Prime-Komplex. WICHTIG ggue. Lauf 78: HWM ist jetzt earnings-geblockt -- Q2-Bericht am 06.08., heute 23.07. => exakt 14 Tage davor, 2-Wochen-Regel jetzt AKTIV; zudem noch ~4% unter Pivot -> HWM wandert von Platz 1 auf die Watchlist. SCREEN-ERGEBNIS Lauf 79: 1 Qualitaets-Pick -- HEI. HEICO hat am 22.07. mit ~362 USD ein neues Allzeithoch markiert und steht damit DIREKT am Breakout-Punkt (Pivot-/Hoch-Zone ~362/366) -- relative Staerke gegen einen ROTEN Markt, Golden Cross 06.07., freies Earnings-Fenster (Fiscal Q3 ~Ende Aug). Kauf nur bei volumenbestaetigtem Ausbruch (>40% Volumenanstieg), kleine Position, enge Stops -- den Neu-Hoch-Schub im ROT-Umfeld NICHT als bestaetigten Trend ueberkaufen. Watchlist (stark, aber blockiert/ueberdehnt): HWM (2-Wochen-Regel aktiv), GEV (post-earnings + ~+70% YTD -> ueberdehnt), RTX/LMT/NOC (Earnings-Woche), GD (~29.07.), TDG (~25% unter 52W-Hoch -> tiefe Basis), GE Aerospace (ueberdehnt). GEFILTERT: Halbleiter/Mega-Cap-Tech (Epizentrum des KI-Capex-Abverkaufs), PLTR, breite KI-Software, Energie/Oel, Financials (zyklisch, kein klassischer CANSLIM-Grower), Small-Cap-Ausbrueche (im ROT-Umfeld zu geringe Qualitaet/Liquiditaet). Qualitaet vor Anzahl -> nur 1 sauberer, buchbarer Kandidat.",
+  "market_note": "Stand Fr 24.07.2026 (Kursbasis = US-Schluss Do 23.07.). Marktampel bleibt ROT (wie Lauf 74-79) und hat sich VERSCHAERFT. LAGE: S&P 500 schloss Do bei 7.408 (-1,21%) und damit deutlicher UNTER der 50-Tage-Linie (~7.527) -- seit 17.07. verletzt, Abstand jetzt groesser. Uebergeordnete Struktur weiter INTAKT (Index > 200-Tage seit 08.04.), aber die kurzfristige Trendfuehrung bleibt klar negativ -> M bleibt technisch NEGATIV. Erst ein Schlusskurs oberhalb der 50-Tage-Linie dreht M auf NEUTRAL/GRUEN. TREIBER: Die ROTATIONS-Korrektur beschleunigt -- Alphabet -7,5% nach Verdopplung der KI-Capex-Prognose auf 205 Mrd. USD reisst die Mega-Cap-Tech-/Halbleiter-Fuehrung erneut nach unten (Nasdaq 100 -2%), Kapital rotiert weiter in Aerospace/Defense, Industrials, Financials. KEIN Breitenkollaps, aber die Fuehrung ist gebrochen. ZUSATZ-FILTER (Earnings-Woche Aerospace/Defense voll aktiv): GD am 23.07. auf neuem 52W-Hoch (+3,8%) -- ABER Q2-Bericht bestaetigt fuer 29.07. -> 2-WOCHEN-REGEL AKTIV (heute 24.07., 5 Tage davor) + intraday ueberdehnt -> BLOCKIERT/Watchlist. LMT (+10%) und RTX (+7%) haben am 23.07. berichtet (Beat-and-Raise) -> post-earnings-Gap, UEBERDEHNT -> blockiert. HWM: Q2 am 06.08. -> 2-Wochen-Regel aktiv (13 Tage) -> blockiert. NOC: -12% YTD, tiefe Basis, kein Near-Pivot. GEV/GE Aerospace: post-earnings/ueberdehnt. SCREEN-ERGEBNIS Lauf 80: 1 Qualitaets-Pick -- HEI. HEICO haelt sich am 23.07. trotz S&P -1,21% direkt an seinem Allzeithoch (~360/362, 52W-Hoch 361,8) und steht damit weiter DIREKT am Breakout-Punkt (Pivot-/Hoch-Zone ~362/366) -- ausgepraegte relative Staerke gegen einen tiefer-roten Markt, Golden Cross 06.07., freies Earnings-Fenster (Fiscal Q3 ~Ende Aug). Kauf NUR bei volumenbestaetigtem Ausbruch auf neuem Hoch (>40% Volumenanstieg), reduzierte Position, enge Stops -- im verschaerften ROT-Umfeld den Neu-Hoch-Schub NICHT als bestaetigten Trend ueberkaufen. Watchlist (stark, aber blockiert/ueberdehnt): GD (Q2 29.07. -> 2-Wochen-Regel + intraday-extended), LMT/RTX (post-earnings-Gap, ueberdehnt), HWM (2-Wochen-Regel), GEV (post-earnings + ueberdehnt), TDG (post-earnings/kein sauberer Near-Pivot), NOC (tiefe Basis), GE Aerospace (ueberdehnt). GEFILTERT: Halbleiter/Mega-Cap-Tech (Epizentrum des KI-Capex-Abverkaufs, Alphabet-Schock), PLTR, breite KI-Software, Energie/Oel, Financials (zyklisch, kein klassischer CANSLIM-Grower), Small-Cap-Ausbrueche (im tiefer-roten Umfeld zu geringe Qualitaet/Liquiditaet). Qualitaet vor Anzahl -> nur 1 sauberer, buchbarer Kandidat.",
   "picks": [
     {
       "ticker": "HEI",
       "company": "HEICO Corporation",
       "sector": "Industrials / Aerospace Aftermarket & Defense",
-      "price": 362.26,
-      "pattern": "at_breakout_neues_allzeithoch",
-      "pattern_description": "Flache Base am oberen Rand; nach kurzem Ruecksetzer mit dem schwachen Markt hat HEI am 22.07. mit ~362 USD ein neues Allzeithoch markiert (52W-Hoch ~361,8) -> Aktie steht DIREKT am/knapp am Breakout-Punkt (Pivot-/Hoch-Zone ~362/366). Golden Cross am 06.07.2026 (50-Tage kreuzt ueber 200-Tage), Aktie klar oberhalb der 50-Tage-Linie -> ausgepraegte relative Staerke gegen einen ROTEN Markt. Kauftrigger: sauberer, volumenbestaetigter Schlusskurs auf neuem Hoch (>40% Volumenanstieg). Consensus-Ziel ~386 USD.",
+      "price": 361.5,
+      "pattern": "at_breakout_am_allzeithoch",
+      "pattern_description": "Flache Base am oberen Rand; HEI hat am 22.07. mit ~362 USD ein neues Allzeithoch markiert (52W-Hoch 361,84) und haelt sich am 23.07. TROTZ S&P -1,21% direkt an diesem Hoch (~360/362) -> Aktie steht weiter DIREKT am/knapp am Breakout-Punkt (Pivot-/Hoch-Zone ~362/366), nicht ueberdehnt. Golden Cross am 06.07.2026 (50-Tage kreuzt ueber 200-Tage), Aktie klar oberhalb der 50-Tage-Linie -> ausgepraegte relative Staerke gegen einen tiefer-roten Markt (Aktie haelt, waehrend Index & Tech fallen). Kauftrigger: sauberer, volumenbestaetigter Schlusskurs auf NEUEM Hoch (>40% Volumenanstieg). UBS-Ziel 390 USD, Consensus ~386 USD.",
       "pct_from_ath": 0.1,
       "canslim": {
-        "C": "C = Current Earnings (aktuelle Quartalsgewinne): SEHR STARK -- juengstes Quartal Nettogewinn deutlich zweistellig, Umsatz ~+21% YoY (Flight Support + Electronic Technologies), Rekordquartale, anhaltende Beschleunigung.",
+        "C": "C = Current Earnings (aktuelle Quartalsgewinne): SEHR STARK -- juengstes Quartal Nettogewinn deutlich zweistellig, Umsatz ~+21% YoY (Flight Support + Electronic Technologies), ~18% organisches Wachstum, Rekordquartale, anhaltende Beschleunigung.",
         "A": "A = Annual Earnings (Jahresgewinnwachstum): langjaehriger, konstanter zweistelliger EPS-/Umsatz-Compounder mit wiederholten Rekordjahren und hoher Kapitalrendite.",
-        "N": "N = New (Neues): Rekordergebnisse im Aftermarket/Flight Support, fortlaufende bolt-on-Akquisitionen; Aktie auf NEUEM Allzeithoch + frisches Golden-Cross-Signal.",
+        "N": "N = New (Neues): Rekordergebnisse im Aftermarket/Flight Support, fortlaufende bolt-on-Akquisitionen, +8% Dividendenanhebung (Juli); Aktie am NEUEN Allzeithoch + frisches Golden-Cross-Signal.",
         "S": "S = Supply/Demand (Angebot/Nachfrage): disziplinierte Aktienbasis (Dual-Class), knappes Float-Verhalten; der Neu-Hoch-Ausbruch muss von steigendem Volumen bestaetigt werden.",
-        "L": "L = Leader (Marktfuehrer): klarer Fuehrer im Luftfahrt-Ersatzteil-/PMA-Segment, hohe RS-Line, haelt sich waehrend des Tech-Abverkaufs -> echter Fuehrer.",
-        "I": "I = Institutional Sponsorship (institutionelle Beteiligung): breite, wachsende Fondsbeteiligung, anhaltende institutionelle Akkumulation.",
-        "M": "M = Market Direction (Marktrichtung): ROT (S&P unter 50-Tage) -> nur reduzierte Position, enge Stops, Kauf ausschliesslich bei volumenbestaetigtem Neu-Hoch."
+        "L": "L = Leader (Marktfuehrer): klarer Fuehrer im Luftfahrt-Ersatzteil-/PMA-Segment, hohe RS-Line, haelt sein Hoch waehrend des Tech-/KI-Capex-Abverkaufs -> echter Fuehrer.",
+        "I": "I = Institutional Sponsorship (institutionelle Beteiligung): breite, wachsende Fondsbeteiligung, anhaltende institutionelle Akkumulation, mehrfach angehobene Kursziele (UBS 390).",
+        "M": "M = Market Direction (Marktrichtung): ROT und verschaerft (S&P deutlich unter 50-Tage, Alphabet-Capex-Schock) -> nur reduzierte Position, enge Stops, Kauf ausschliesslich bei volumenbestaetigtem Neu-Hoch."
       },
-      "earnings_next": "Naechster Bericht Fiscal Q3 ~Ende Aug 2026 (Vorjahr 25.08.) -> 2-Wochen-Regel NICHT aktiv (heute 23.07., >4 Wochen Puffer) -> Earnings-Fenster frei.",
-      "reason": "Elite-Aftermarket-Leader mit ausgepraegter relativer Staerke gegen einen ROTEN Markt, frisches Golden Cross und -- entscheidend -- am 22.07. neues Allzeithoch: HEI steht DIREKT am Breakout-Punkt statt nur in der Naehe. Freies Earnings-Fenster macht die Aktie im Gegensatz zum uebrigen Aerospace/Defense-Komplex kaufbar. Bester und einziger sauberer Kandidat des Laufs. Kauf nur bei volumenbestaetigtem Ausbruch auf neuem Hoch, kleine Position, enge Stops."
+      "earnings_next": "Naechster Bericht Fiscal Q3 ~Ende Aug 2026 (Vorjahr 25.08.) -> 2-Wochen-Regel NICHT aktiv (heute 24.07., >4 Wochen Puffer) -> Earnings-Fenster frei. Entscheidender Vorteil ggue. dem uebrigen Aerospace/Defense-Komplex, der diese Woche geschlossen berichtet.",
+      "reason": "Elite-Aftermarket-Leader mit ausgepraegter relativer Staerke: HEI haelt am 23.07. sein Allzeithoch, waehrend der S&P -1,21% faellt und die Tech-Fuehrung durch den Alphabet-Capex-Schock erneut einbricht. Frisches Golden Cross, Aktie DIREKT am Breakout-Punkt (nicht ueberdehnt). Freies Earnings-Fenster macht HEI im Gegensatz zu GD/LMT/RTX/HWM (alle earnings-geblockt oder post-earnings-ueberdehnt) als einzigen Prime-Kandidaten kaufbar. Bester und einziger sauberer Kandidat des Laufs. Kauf nur bei volumenbestaetigtem Ausbruch auf neuem Hoch, reduzierte Position, enge Stops."
     }
   ],
   "watchlist": [
     {
+      "ticker": "GD",
+      "company": "General Dynamics Corp.",
+      "sector": "Defense / Aerospace",
+      "note": "Am 23.07. neues 52W-Hoch 387,32 (+3,8%, getrieben von 209-Mio-Abrams-Contract + Rotation + Jefferies-Upgrade auf 440), enge Konsolidierung ausgebrochen. ABER Q2-Bericht bestaetigt fuer 29.07. -> 2-WOCHEN-REGEL AKTIV (heute 24.07., 5 Tage davor) -> blockiert; zudem intraday ~+3,8% -> kurzfristig ueberdehnt. Nach Q2 Reaktion/Setup neu bewerten -- staerkster Watchlist-Kandidat."
+    },
+    {
+      "ticker": "LMT",
+      "company": "Lockheed Martin Corp.",
+      "sector": "Defense / Aerospace",
+      "note": "Beat-and-Raise Q2 am 23.07. (EPS 7,94; Umsatz +11%), Aktie +10% auf ~567 -> post-earnings-GAP, deutlich UEBERDEHNT, kein sauberer Near-Pivot-Einstieg. Konsolidierung/Handle abwarten."
+    },
+    {
+      "ticker": "RTX",
+      "company": "RTX Corp. (Raytheon)",
+      "sector": "Defense / Aerospace",
+      "note": "Beat-and-Raise Q2 am 23.07. (FY-Guidance angehoben), Aktie +7% auf ~208 -> post-earnings-Gap, ueberdehnt. Nach Konsolidierung neu bewerten."
+    },
+    {
       "ticker": "HWM",
       "company": "Howmet Aerospace Inc.",
       "sector": "Industrials / Aerospace Engineered Components",
-      "note": "War Lauf 78 Platz 1. Am 22.07. ~280,70 USD, rechte Basisseite ~4% unter Pivot-Zone 290/296. ABER: Q2-Earnings am 06.08. -> heute 23.07. exakt 14 Tage davor, 2-WOCHEN-REGEL JETZT AKTIV -> bis nach dem Bericht blockiert. Zudem noch nicht ausgebrochen. Kein Kauf, nach Q2 neu bewerten."
+      "note": "Verbesserte technische Staerke, nahe Hoechststaenden. ABER Q2-Earnings am 06.08. -> heute 24.07. = 13 Tage davor, 2-WOCHEN-REGEL AKTIV -> bis nach dem Bericht blockiert. Nach Q2 neu bewerten."
     },
     {
       "ticker": "GEV",
       "company": "GE Vernova Inc.",
       "sector": "Industrials / Electrification & Power",
-      "note": "Starker RS-Leader (Strom-/Turbinen-Nachfrage durch KI-Rechenzentren), aber Earnings 22.07. -> post-earnings + bereits ~+70% YTD (ueberdehnt) -> KEIN sauberer Near-Pivot. Nach Bericht Setup neu bewerten."
-    },
-    {
-      "ticker": "RTX/LMT/NOC",
-      "company": "Defense-Primes (Raytheon/Lockheed/Northrop)",
-      "sector": "Defense / Aerospace",
-      "note": "Rotations-beguenstigte Primes, aber Earnings-Woche (RTX 23.07., LMT/NOC diese Woche) -> 2-WOCHEN-REGEL AKTIV bzw. post-earnings -> bis nach den Berichten blockiert, danach Reaktion/Setup pruefen."
-    },
-    {
-      "ticker": "GD",
-      "company": "General Dynamics Corp.",
-      "sector": "Defense / Aerospace",
-      "note": "Defense-Leader in der Rotation, enge Konsolidierung, aber Earnings ~29.07.2026 -> 2-WOCHEN-REGEL AKTIV -> blockiert."
+      "note": "Starker RS-Leader (Strom-/Turbinen-Nachfrage durch KI-Rechenzentren), aber post-earnings (22.07.) + bereits ~+70% YTD (ueberdehnt) -> KEIN sauberer Near-Pivot. Ruecksetzer/Basis abwarten."
     },
     {
       "ticker": "TDG",
       "company": "TransDigm Group Inc.",
       "sector": "Industrials / Aerospace Aftermarket",
-      "note": "Qualitaets-Aftermarket-Compounder, aber ~25% unter dem 52W-Hoch -> tiefe Basis, KEIN Near-Pivot. Beobachten, kein Setup."
+      "note": "Qualitaets-Aftermarket-Compounder, starke Guidance + 2,2-Mrd-Akquisition. Nach der post-earnings-Bewegung aktuell kein sauberer, nicht-ueberdehnter Near-Pivot -> beobachten, kein Setup."
+    },
+    {
+      "ticker": "NOC",
+      "company": "Northrop Grumman Corp.",
+      "sector": "Defense / Aerospace",
+      "note": "Schwaechster der Primes, -12% YTD, tiefe Basis -> KEIN Near-Pivot. Insider-Kaeufe (Mai) notiert, aber technisch kein CANSLIM-Ausbruchs-Setup. Beobachten."
     },
     {
       "ticker": "GE",
       "company": "GE Aerospace",
       "sector": "Industrials / Aerospace Engines",
-      "note": "Q2-Beat, aber Ausbruch bereits hinter sich, zuletzt stark gelaufen -> UEBERDEHNT, kein sauberer/nicht-ueberdehnter Re-Entry."
+      "note": "Q2-Beat, Ausbruch bereits hinter sich, zuletzt stark gelaufen -> UEBERDEHNT, kein sauberer/nicht-ueberdehnter Re-Entry."
     }
   ],
   "filtered_out": [
     "Halbleiter NVDA/AVGO/MU -- Epizentrum des KI-Capex-Abverkaufs",
-    "Mega-Cap-Tech/KI GOOGL/AAPL -- korrigierende Fuehrung, keine saubere Basis",
+    "Mega-Cap-Tech/KI GOOGL (-7,5% nach Capex-Verdopplung auf 205 Mrd)/AAPL -- korrigierende/gebrochene Fuehrung, keine saubere Basis",
     "PLTR -- KI/Defense-Tech, choppy, kein sauberer Basis-Ausbruch",
     "Breite KI-Software -- Sentiment-Bruch, gebrochene Fuehrung",
     "Energie/Oel -- geopolitik-/commodity-getrieben, keine saubere CANSLIM-Basis",
-    "GEV / Defense-Primes -- post-earnings bzw. Earnings-Woche -> 2-Wochen-Regel / ueberdehnt",
-    "GE Aerospace -- Ausbruch hinter sich, ueberdehnt",
+    "GD/LMT/RTX -- Earnings-Woche: GD 2-Wochen-Regel (Q2 29.07.), LMT/RTX post-earnings-Gap ueberdehnt",
+    "HWM -- 2-Wochen-Regel aktiv (Q2 06.08.)",
+    "GEV / GE Aerospace -- post-earnings bzw. Ausbruch hinter sich, ueberdehnt",
+    "NOC -- tiefe Basis, kein Near-Pivot",
     "Financials (KEY/COF/GS u.a.) -- Rotations-Zufluss, aber zyklisches Ergebnisprofil = kein klassischer CANSLIM-Grower",
-    "Small-Cap-Ausbrueche FA/BVS/OOMA -- im ROT-Umfeld unzureichende Qualitaet/Liquiditaet"
+    "Small-Cap-Ausbrueche FA/BVS/OOMA -- im tiefer-roten Umfeld unzureichende Qualitaet/Liquiditaet"
   ]
 }
