@@ -1,45 +1,125 @@
 {
-  "updated": "2026-07-31",
-  "run": 87,
-  "market_signal": "YELLOW",
-  "market_note": "Stand Fr 31.07.2026 (Kursbasis = letzter bestaetigter US-Schluss Do 30.07.2026). Marktampel von ROT auf GELB HOCHGESTUFT (verbessert). LAGE: Nach dem hawkishen Fed-Hold-Schock vom Mi 29.07. (Leitzins unveraendert 3,50-3,75%, aber gespaltenes 9-3-Votum mit 3 Dissents FUER eine Erhoehung -> S&P -1,52% auf 7.316, Nasdaq in Korrektur) folgte am Do 30.07. eine kraftvolle Erholung: S&P 500 +1,7% auf 7.437,64, Nasdaq Composite +2,8% auf 25.122,18 (Nasdaq-100 +3,4%), Dow +1,2% auf 52.208,06. Haupttreiber war MSFT (+16%, ~450 Mrd USD Wertzuwachs an EINEM Tag = groesster Ein-Tages-Zuwachs je Aktie, Azure-Cloud +43%) plus Dip-Buying bei Halbleitern. ABER die Erholung bleibt UNBESTAETIGT: (1) Die Fuehrung war extrem SCHMAL -- MSFT allein trug den Loewenanteil, keine Marktbreite/kein Follow-Through-Day. (2) Der S&P schloss mit 7.437 weiterhin KNAPP UNTER der 50-Tage-Linie (~7.470) -> die entscheidende Huerde ist noch nicht zurueckerobert. (3) Nachboerslich gemischt: AMZN stark (Cloud-Umsatz fuenftes Quartal in Folge beschleunigt), AAPL schwach (schwaches China-Geschaeft). (4) Der PCE-Deflator (Fed-Lieblingsmass) wurde mit erwartet ~+3,7% YoY heiss gehandelt -> Inflations-/Zinsrisiko bleibt. FAZIT: Klassisches GELB -- ermutigend, aber noch nicht bestaetigt. Diszipliniert: selektiv bleiben, nur HALBE Positionen, Kaeufe ausschliesslich auf saubere, volumenbestaetigte Ausbrueche. GRUEN erst bei einem S&P-Tagesschluss klar UEBER der 50-Tage-Linie (~7.470) MIT Marktbreite/Follow-Through. SCREEN-ERGEBNIS Lauf 87: genau 1 sauberer Near-Pivot-Leader (HEI) als Buy-on-Trigger; alles Uebrige Watchlist. Qualitaet vor Anzahl.",
+  "updated": "2026-08-01",
+  "run": 88,
+  "market_signal": "GELB-GRUEN",
+  "market_note": "Stand Sa 01.08.2026 (Kursbasis = letzter bestaetigter US-Schluss Fr 31.07.2026). Marktampel von GELB Richtung GRUEN AUFGEHELLT (verbessert, aber noch nicht voll bestaetigt). LAGE: Zum Juli-Schluss legten die Indizes weiter zu -- S&P 500 +0,7% auf 7.489,72, Nasdaq Composite +1,0% auf 25.373,85. ENTSCHEIDEND: Der S&P schloss mit 7.489,72 nun KLAR UEBER seiner 50-Tage-Linie (~7.470) -- die im Lauf 87 als GRUEN-Bedingung genannte Huerde ist damit zurueckerobert. ABER die zweite Bedingung (Marktbreite/Follow-Through) ist erst teilweise erfuellt: Die Freitags-Rally war erneut kopflastig -- Amazon +~13% (starke Cloud-Zahlen) trug den Loewenanteil, waehrend Apple -7,2% (schwaches China-/Services-Geschaeft) fiel. Die Marktbreite bessert sich (High-Low-Prozent im Juli mehrfach >+10%, Spitze +13,2%), bleibt aber tech-konzentriert statt breit. FAZIT: Aufhellung von GELB Richtung GRUEN -- die 50-Tage-Linie ist zurueck, das ist ein echter Fortschritt; solange die Breite aber nicht breit bestaetigt ist, weiter diszipliniert: selektiv bleiben, Kaeufe nur auf saubere, volumenbestaetigte Ausbrueche, in der Uebergangsphase weiter HALBE Positionen. Volles GRUEN + volle Groesse erst bei einem Follow-Through mit klarer Marktbreite (Teilnahme von Industrials/Financials/Breite, nicht nur Mega-Cap-Tech). SCHWERWIEGEND fuer die Auswahl: Ein Earnings-Cluster Anfang August blockiert viele sonst starke Fuehrer per 2-Wochen-Regel (TDG 04.08., AXON 05.08., DAVE 05.08., HWM 06.08.), und die aerospace/defense-Fuehrer GD/GE/RTX sind nach ihren Zahlen ueberdehnt an neuen Hochs. SCREEN-ERGEBNIS Lauf 88: genau 1 sauberer, nicht-earnings-geblockter, nicht-ueberdehnter Near-Pivot-Leader (HEI) als Buy-on-Trigger; alles Uebrige Watchlist. Qualitaet vor Anzahl.",
   "picks": [
     {
       "ticker": "HEI",
       "company": "HEICO Corporation",
       "sector": "Industrials / Aerospace Aftermarket & Defense",
       "status": "NEAR-PIVOT -- Buy-on-Trigger (noch nicht ausgebrochen, aber kurz davor)",
-      "setup": "Handelt ~349-352 in enger Range (~334-369) direkt unter dem Pivot ~362-365 (Widerstand 358-365; ATH 369,48 am 06.07.). Noch KEIN volumenbestaetigter Ausbruch -> genau der vom Auftrag gesuchte 'kurz-davor'-Zustand. Earnings-Fenster FREI (Fiscal Q3 ~Ende Aug, >2 Wochen entfernt -> 2-Wochen-Regel NICHT aktiv).",
-      "buy_trigger": "Sauberer Tagesschluss >365 auf Volumen (>40% ueber Durchschnitt). Stop unter ~348 (Range-Unterkante/Basis). Solange Markt GELB nur HALBE Position.",
+      "setup": "Schluss Fr 31.07. ~349,79. Handelt weiter in enger Konsolidierung (~334-369) DIREKT UNTER dem Pivot ~362-365 (Widerstandszone 358-365; ATH 369,48 am 06.07.). Noch KEIN volumenbestaetigter Ausbruch -> exakt der vom Auftrag gesuchte 'kurz-davor'-Zustand, nicht ueberdehnt (Kurs unter Pivot). Earnings-Fenster FREI (Fiscal Q3 ~Ende Aug, >2 Wochen entfernt -> 2-Wochen-Regel NICHT aktiv).",
+      "buy_trigger": "Sauberer Tagesschluss >365 auf Volumen (>40% ueber Durchschnitt). Stop unter ~348 (Range-Unterkante/Basis). In der GELB-GRUEN-Uebergangsphase nur HALBE Position; auf volle Groesse erst bei bestaetigtem GRUEN (breiter Follow-Through).",
       "canslim": {
-        "C": "Current: Rekord-Q2 FY2026 -- Umsatz +25% YoY (~+18% organisch), Nettogewinn ~234 Mio USD. Starke, beschleunigte laufende Gewinne (erfuellt C-Schwelle klar).",
-        "A": "Annual: Langjaehriger zweistelliger EPS-Compounder mit langer Serie von Rekordjahren.",
-        "N": "New: Nahe 52W-/Allzeithoch (369 am 06.07.); frische Katalysatoren -- Gables-Engineering-Uebernahme (Jul) + ~8% Dividendenanhebung; Pivot 362-365.",
-        "S": "Supply/Demand: Disziplinierte Dual-Class-Struktur, enges Float, geringe Verwaesserung -- ein Ausbruch braucht klare Volumenbestaetigung.",
-        "L": "Leader: PMA-/Aftermarket-Fuehrer mit hoher relativer Staerke im Aerospace-Aftermarket-Komplex.",
-        "I": "Institutions: Wachsende Fondsbeteiligung; Analysten-Kursziel ~385.",
-        "M": "Market: GELB -- von ROT verbessert, aber S&P noch <50-Tage. Deshalb Buy-on-Trigger + nur halbe Position."
+        "C": "C = Current Earnings (laufende Quartalsgewinne): Rekord-Q2 FY2026 -- Umsatz +25% YoY (~+18% organisch), Nettogewinn ~234 Mio USD. Starke, beschleunigte laufende Gewinne, erfuellt die C-Schwelle (>=25%) klar.",
+        "A": "A = Annual Earnings (Jahresgewinnwachstum): Langjaehriger zweistelliger EPS-Compounder mit einer langen Serie von Rekordjahren -- verlaesslich steigende Jahresgewinne.",
+        "N": "N = New (Neues: Produkt/Management/Hoch): Nahe 52W-/Allzeithoch (369 am 06.07.); frische Katalysatoren -- Gables-Engineering-Uebernahme (Jul) und ~8% Dividendenanhebung; klar definierter Pivot 362-365.",
+        "S": "S = Supply/Demand (Angebot/Nachfrage): Disziplinierte Dual-Class-Struktur, enges Float, geringe Verwaesserung -- ein echter Ausbruch braucht daher klare Volumenbestaetigung.",
+        "L": "L = Leader (Fuehrer, nicht Nachzuegler): PMA-/Aftermarket-Fuehrer mit hoher relativer Staerke im Aerospace-Aftermarket- und Defense-Komplex.",
+        "I": "I = Institutional Sponsorship (institutionelle Beteiligung): Wachsende Fondsbeteiligung; Analysten-Kursziel ~385 -- solide, zunehmende institutionelle Nachfrage.",
+        "M": "M = Market Direction (Marktrichtung): GELB-GRUEN -- S&P hat die 50-Tage-Linie zurueckerobert (Aufhellung), aber Breite noch nicht voll bestaetigt. Deshalb Buy-on-Trigger + nur halbe Position."
       },
-      "note": "Bester und einziger sauberer Near-Pivot-Leader der Liste. KEIN Kauf unter dem Pivot; Kauf NUR bei sauberem, volumenbestaetigtem Schluss >365. Bis dahin beobachten. In GELB halbe Groesse, Kapitalschutz vor Gier."
+      "note": "Bester und einziger sauberer Near-Pivot-Leader der Liste. KEIN Kauf unter dem Pivot; Kauf NUR bei sauberem, volumenbestaetigtem Tagesschluss >365. Bis dahin beobachten. In der Uebergangsphase halbe Groesse, Kapitalschutz vor Gier."
     }
   ],
-  "picks_note": "Bewusst SEHR SELEKTIV (1 Name). Die Marktampel ist gerade erst von ROT auf GELB gedreht und der S&P steht noch unter seiner 50-Tage-Linie -> nur ein einziges wirklich sauberes, nicht-ueberdehntes, nicht-earnings-geblocktes Near-Pivot-Setup (HEI) erfuellt die Kriterien. Es wird als Buy-on-Trigger (Kauf erst bei sauberem, volumenbestaetigtem Schluss >365) mit HALBER Position gefuehrt. Qualitaet vor Anzahl: lieber 1 sauberer Kandidat als erzwungene schwache Setups. Ueberdehnte Namen (GEV, LAD), earnings-geblockte (DAVE 05.08., TDG/HWM Anfang Aug) und gebrochene Chip-Fuehrung ohne saubere Basis bleiben bewusst ausgeschlossen.",
+  "picks_note": "Bewusst SEHR SELEKTIV (1 Name). Die Marktampel hellt gerade von GELB Richtung GRUEN auf (S&P wieder ueber der 50-Tage-Linie), aber die Marktbreite ist noch nicht breit bestaetigt und ein Earnings-Cluster Anfang August blockiert viele sonst starke Fuehrer. Nach strenger Filterung erfuellt nur ein einziges wirklich sauberes, nicht-ueberdehntes, nicht-earnings-geblocktes Near-Pivot-Setup (HEI) die Kriterien. Es wird als Buy-on-Trigger (Kauf erst bei sauberem, volumenbestaetigtem Schluss >365) mit HALBER Position gefuehrt. Qualitaet vor Anzahl: lieber 1 sauberer Kandidat als erzwungene schwache Setups. Ueberdehnte post-earnings-Namen (GD, GE, RTX), earnings-geblockte (TDG 04.08., AXON 05.08., DAVE 05.08., HWM 06.08.), gebrochene (HXL) und noch reparierende Chip-Fuehrer ohne saubere Basis (CRDO) bleiben bewusst ausgeschlossen.",
   "watchlist": [
     {
-      "ticker": "GEV",
-      "company": "GE Vernova Inc.",
-      "sector": "Industrials / Electrification & Power",
-      "setup": "RS-Leader (KI-Stromnachfrage), aber ~914 USD und damit ~23% UNTER dem ATH 1.195,94 (06.07.); post-earnings (22.07., -5% trotz angehobener Guidance). Baut allenfalls eine NEUE Basis -> KEIN Near-Pivot, UEBERDEHNTE Korrektur noch nicht abgearbeitet.",
+      "ticker": "GD",
+      "company": "General Dynamics Corp.",
+      "sector": "Defense / Aerospace",
+      "setup": "Neues 52W-Hoch ~387 (Kurszone um 24.07.); Q2 am 29.07. berichtet (EPS 4,10 vs. 3,67 erwartet, Beat) plus Analysten-Upgrades (Jefferies Ziel 440). POST-EARNINGS und an neuen Hochs -> ueberdehnt / kein nicht-ueberdehnter Near-Pivot. Handle/Konsolidierung abwarten.",
       "canslim": {
-        "C": "Current: stark steigende Gewinne, Data-Center-/Turbinen-Auftraege.",
-        "A": "Annual: Turnaround zu profitablem Wachstums-Power-Play.",
-        "N": "New: KI-Stromthema, Rekord-Backlog -- aber bereits weit eingepreist.",
-        "S": "Supply/Demand: hohe Nachfrage, Kurs aber deutlich vom Hoch zurueckgekommen.",
-        "L": "Leader im Electrification/Power-Buildout.",
-        "I": "Institutions: stark akkumuliert.",
-        "M": "Market: GELB; Setup in Korrektur -> neue, saubere Basis abwarten."
+        "C": "C = Current: solide, Backlog-getriebene Quartalsgewinne (Verteidigung/Gulfstream), Q2-Beat.",
+        "A": "A = Annual: stetig steigende Jahresgewinne, defensiver Compounder.",
+        "N": "N = New: 52W-Hoch, Rekord-Backlog, geopolitischer Rueckenwind, Vertragsmodifikation.",
+        "S": "S = Supply/Demand: grosses Float, ruhige Basis -- braucht Volumen.",
+        "L": "L = Leader: Fuehrer im Defense-Komplex mit guter relativer Staerke.",
+        "I": "I = Institutions: solide, breite Fondsbasis; frische Kurszielanhebungen.",
+        "M": "M = Market: GELB-GRUEN -- post-earnings an Hochs, nicht kaufen ohne neuen, nicht-ueberdehnten Near-Pivot mit Handle."
       },
-      "note": "Kein Kauf: zu weit unter Hoch, keine neue Basis fertig. Re-Trigger erst bei sauberem Pivot einer neuen Basis mit Volumen."
+      "note": "Kein Kauf: post-earnings direkt an neuen Hochs = ueberdehnt. Re-Trigger nur bei sauberem, nicht-ueberdehntem Near-Pivot/Handle auf Volumen."
+    },
+    {
+      "ticker": "GE",
+      "company": "GE Aerospace",
+      "sector": "Industrials / Aerospace Engines",
+      "setup": "Rekordhochs ~378-381 nach Q2 (16.07.) und mehreren Kurszielanhebungen (Citi 431, Jefferies 455). RS-Leader, aber post-earnings und WEIT GELAUFEN an neuen Hochs -> ueberdehnt, kein Near-Pivot.",
+      "canslim": {
+        "C": "C = Current: starke Quartalsgewinne, Triebwerks-/Aftermarket-Nachfrage.",
+        "A": "A = Annual: kraeftiges Jahresgewinnwachstum im Post-Spin-Aero-Zyklus.",
+        "N": "N = New: Rekordhochs, angehobene Kursziele, starker Serviceauftragsbestand.",
+        "S": "S = Supply/Demand: grosses, liquides Float.",
+        "L": "L = Leader: klarer Fuehrer im Aerospace-/Engines-Komplex.",
+        "I": "I = Institutions: breite, wachsende Beteiligung.",
+        "M": "M = Market: GELB-GRUEN -- ueberdehnt, neue Basis/Ruecksetzer an einen Pivot abwarten."
+      },
+      "note": "Kein Kauf: an Hochs ueberdehnt. Auf eine neue, saubere Basis oder einen nicht-ueberdehnten Pivot warten."
+    },
+    {
+      "ticker": "RTX",
+      "company": "RTX Corp.",
+      "sector": "Aerospace & Defense",
+      "setup": "52W-Hoch ~218 (intraday), +~45% vom Tief, RSI ~77 -> ueberkauft/ueberdehnt. Attraktiver erst bei Ruecksetzer in die ~205-210-Zone. Kein Kauf am Hoch.",
+      "canslim": {
+        "C": "C = Current: starke Zahlen nach Q2, Beat.",
+        "A": "A = Annual: solides Jahreswachstum, Defense-/Aero-Rueckenwind.",
+        "N": "N = New: neues 52W-Hoch, geopolitische Nachfrage.",
+        "S": "S = Supply/Demand: sehr grosses Float.",
+        "L": "L = Leader: Fuehrer im A&D-Komplex.",
+        "I": "I = Institutions: breite institutionelle Basis.",
+        "M": "M = Market: GELB-GRUEN -- RSI ~77 am Hoch = Mean-Reversion-Risiko; Ruecksetzer abwarten."
+      },
+      "note": "Kein Kauf am 52W-Hoch (RSI ~77). Re-Trigger bei kontrolliertem Ruecksetzer an Support (~205-210) oder sauberem neuen Pivot."
+    },
+    {
+      "ticker": "TDG",
+      "company": "TransDigm Group",
+      "sector": "Industrials / Aerospace Components",
+      "setup": "Nahe Rekord (~1.300+), Momentum stark -- aber Fiscal-Q3-Earnings 04.08. -> 2-WOCHEN-REGEL AKTIV -> BLOCKIERT. Kein bestaetigter Near-Pivot-Kauf vor der Zahl.",
+      "canslim": {
+        "C": "C = Current: starke Quartalsgewinne, angehobene Jahresprognose.",
+        "A": "A = Annual: langjaehriger hochprofitabler Compounder (Aftermarket-Margen).",
+        "N": "N = New: nahe Rekordhoch, Stellant-Ausstieg entfernt Regulierungs-Overhang.",
+        "S": "S = Supply/Demand: diszipliniertes Float, hohe Kursniveaus.",
+        "L": "L = Leader: Fuehrer bei proprietaeren Aerospace-Komponenten.",
+        "I": "I = Institutions: starke, stabile institutionelle Beteiligung.",
+        "M": "M = Market: GELB-GRUEN + Earnings-Block bis nach 04.08."
+      },
+      "note": "Qualitativ stark, aber earnings-geblockt (04.08.). Nach der Zahlenreaktion + Marktbestaetigung auf einen sauberen Near-Pivot neu bewerten."
+    },
+    {
+      "ticker": "HWM",
+      "company": "Howmet Aerospace",
+      "sector": "Industrials / Aerospace Components",
+      "setup": "RS-Leader (+~51% in 52W), nahe 52W-Hoch (~295); ~277 zuletzt. ABER Q2-Earnings 06.08. -> 2-WOCHEN-REGEL AKTIV -> BLOCKIERT.",
+      "canslim": {
+        "C": "C = Current: erwartetes EPS +~36% YoY, starke Beschleunigung.",
+        "A": "A = Annual: kraeftiges Jahreswachstum im Commercial-Aero-Zyklus.",
+        "N": "N = New: nahe 52W-Hoch, steigende Flugzeug-Bauraten.",
+        "S": "S = Supply/Demand: grosses Float, RS-getrieben.",
+        "L": "L = Leader: Fuehrer bei geschmiedeten Aero-Komponenten.",
+        "I": "I = Institutions: Strong-Buy-Konsens (18/23), wachsende Beteiligung.",
+        "M": "M = Market: GELB-GRUEN + Earnings-Block bis nach 06.08."
+      },
+      "note": "Stark, aber earnings-geblockt (06.08.). Nach der Zahl auf sauberen, nicht-ueberdehnten Near-Pivot pruefen -- Gap-Risiko beachten."
+    },
+    {
+      "ticker": "AXON",
+      "company": "Axon Enterprise",
+      "sector": "Technology / Public Safety Software & Devices",
+      "setup": "Hyper-Grower (Q1 Umsatz +34% YoY, Backlog 14,3 Mrd USD), aber +~25% in 30 Tagen -> ueberdehnt, UND Earnings 05.08. -> 2-WOCHEN-REGEL AKTIV -> doppelt blockiert.",
+      "canslim": {
+        "C": "C = Current: sehr hohes Umsatzwachstum, wenn auch EPS kurzfristig gedaempft.",
+        "A": "A = Annual: struktureller Hyper-Grower (SaaS + Hardware).",
+        "N": "N = New: TASER-Contract-Momentum, angehobene Guidance, hohe Analystenziele.",
+        "S": "S = Supply/Demand: volatil, hohes Momentum -- Volumen entscheidend.",
+        "L": "L = Leader: klarer Kategoriefuehrer Public Safety.",
+        "I": "I = Institutions: starke, steigende Beteiligung.",
+        "M": "M = Market: GELB-GRUEN + ueberdehnt + Earnings-Block bis nach 05.08."
+      },
+      "note": "Kein Kauf: ueberdehnt und earnings-geblockt (05.08.). Nach der Zahl auf eine neue, saubere Basis warten."
     },
     {
       "ticker": "DAVE",
@@ -47,13 +127,13 @@
       "sector": "Financials / Fintech (Neobank)",
       "setup": "Hyper-Grower in Konsolidierung, aber Q2-Earnings 05.08. -> 2-WOCHEN-REGEL AKTIV -> BLOCKIERT. Kein bestaetigter Ausbruch.",
       "canslim": {
-        "C": "Current: juengstes EPS-Blowout (~85% Surprise).",
-        "A": "Annual: 2025 Umsatz +59,7%, Gewinn +238% -- Hyper-Grower.",
-        "N": "New: Neobank-Momentum, Mitglieder-/ARPU-Wachstum.",
-        "S": "Supply/Demand: hohe Volatilitaet, Volumenbestaetigung noetig.",
-        "L": "Leader: einer der staerksten Fintech-Movers.",
-        "I": "Institutions: Strong-Buy-Konsens, steigende Beteiligung.",
-        "M": "Market: GELB + Earnings-Block bis nach 05.08."
+        "C": "C = Current: juengstes EPS-Blowout (~85% Surprise).",
+        "A": "A = Annual: 2025 Umsatz +59,7%, Gewinn +238% -- Hyper-Grower.",
+        "N": "N = New: Neobank-Momentum, Mitglieder-/ARPU-Wachstum.",
+        "S": "S = Supply/Demand: hohe Volatilitaet, Volumenbestaetigung noetig.",
+        "L": "L = Leader: einer der staerksten Fintech-Movers.",
+        "I": "I = Institutions: Strong-Buy-Konsens, steigende Beteiligung.",
+        "M": "M = Market: GELB-GRUEN + Earnings-Block bis nach 05.08."
       },
       "note": "Qualitativ stark, aber earnings-geblockt. Nach Q2-Reaktion (05.08.) + Marktbestaetigung neu bewerten. Bewertung bereits hoch."
     },
@@ -61,75 +141,44 @@
       "ticker": "CRDO",
       "company": "Credo Technology Group",
       "sector": "Technology / Semiconductors (AI-Connectivity)",
-      "setup": "Zacks Rank #1, EPS-Konsens laufendes Jahr +17,5% -- AI-Networking-Nachfrage. Am 30.07. Teil des Chip-Rebounds. ABER: gerade erst heftiger Halbleiter-Abverkauf davor -> Fuehrung noch NICHT repariert, keine saubere Basis. Earnings ~Anfang Sept (frei).",
+      "setup": "AI-Networking-Leader (FY27-Guidance >80% Umsatzwachstum), Zacks-/Analystenrueckenwind (PT-Anhebungen). ABER ~15-22% UNTER ATH (308,67 am 22.06.), Kurs zuletzt ~240-265 -> in REPARATUR/neue Basis im Bau, KEIN Near-Pivot. Earnings ~Ende Aug (frei).",
       "canslim": {
-        "C": "Current: hohes Umsatz-/EPS-Wachstum aus AI-Connectivity.",
-        "A": "Annual: starkes strukturelles Wachstum (AI-Datacenter-Verkabelung).",
-        "N": "New: 800G/AI-Networking-Zyklus als Treiber.",
-        "S": "Supply/Demand: mittleres Float, sehr volatil -- Volumen entscheidend.",
-        "L": "Leader in der Nische High-Speed-Connectivity.",
-        "I": "Institutions: steigendes Interesse, Zacks #1.",
-        "M": "Market: GELB; Chip-Fuehrung erst 1 Tag erholt -> Basis abwarten."
+        "C": "C = Current: Rekord-FY2026, hohes Umsatz-/EPS-Wachstum aus AI-Connectivity.",
+        "A": "A = Annual: starkes strukturelles Wachstum (AI-Datacenter-Verkabelung).",
+        "N": "N = New: 800G/optische Produkte als Treiber, angehobene Kursziele.",
+        "S": "S = Supply/Demand: mittleres Float, sehr volatil -- Volumen entscheidend.",
+        "L": "L = Leader in der Nische High-Speed-/AI-Connectivity.",
+        "I": "I = Institutions: Strong-Buy-Konsens, steigendes Interesse.",
+        "M": "M = Market: GELB-GRUEN; Chip-Basis erst im Wiederaufbau -> sauberen Ausbruch abwarten."
       },
-      "note": "Nur beobachten, kein Kauf: 1 Erholungstag ersetzt keine reparierte Basis. Re-Trigger bei sauberem Basisausbruch mit Volumen."
-    },
-    {
-      "ticker": "GD",
-      "company": "General Dynamics Corp.",
-      "sector": "Defense / Aerospace",
-      "setup": "Am 24.07. neues 52W-Hoch (~387). Q2 am 29.07. berichtet -> POST-EARNINGS; Reaktion/Handle abwarten, kein Kauf ohne bestaetigten Near-Pivot.",
-      "canslim": {
-        "C": "Current: solide, Backlog-getriebene Gewinne (Verteidigung/Gulfstream).",
-        "A": "Annual: stetig steigende Gewinne, defensiver Compounder.",
-        "N": "New: 52W-Hoch, Rekord-Backlog, geopolitischer Rueckenwind.",
-        "S": "Supply/Demand: grosses Float, ruhige Basis.",
-        "L": "Leader im Defense-Komplex mit guter relativer Staerke.",
-        "I": "Institutions: solide, breite Fondsbasis.",
-        "M": "Market: GELB -- post-earnings, neue Basis/Handle abwarten."
-      },
-      "note": "Post-earnings (29.07.). Auf sauberen, nicht-ueberdehnten Near-Pivot mit Handle nach der Zahlenreaktion pruefen."
-    },
-    {
-      "ticker": "HXL",
-      "company": "Hexcel Corp.",
-      "sector": "Industrials / Aerospace Composites",
-      "setup": "RS-Leader, ATH ~108,67 (21.07.). Q2 am 29.07. berichtet -> POST-EARNINGS; Gap-Risiko, Reaktion/Handle abwarten.",
-      "canslim": {
-        "C": "Current: zuletzt Q1-EPS +59,5% YoY -- Beschleunigung.",
-        "A": "Annual: Wachstum durch den Commercial-Aero-Zyklus.",
-        "N": "New: nahe ATH, steigende Flugzeug-Bauraten als Treiber.",
-        "S": "Supply/Demand: moderates Float, RS-Ausbruch mit Volumen.",
-        "L": "Leader bei Verbundwerkstoffen (Composites).",
-        "I": "Institutions: zunehmende Beteiligung.",
-        "M": "Market: GELB -- post-earnings, Handle/Reaktion abwarten."
-      },
-      "note": "Post-earnings (29.07.). Nach Zahlenreaktion/Handle neu bewerten -- post-earnings-Gap-Risiko beachten."
+      "note": "Nur beobachten, kein Kauf: noch keine reparierte Basis, ~18% unter ATH. Re-Trigger bei sauberem Basisausbruch mit Volumen an einem definierten Pivot."
     },
     {
       "ticker": "FIVE",
       "company": "Five Below Inc.",
       "sector": "Consumer Discretionary / Specialty Retail",
-      "setup": "Zacks Rank #1, Momentum zuletzt gut (+11% in 2 Wochen), aber ~203 USD und damit ~19% UNTER dem 52W-Hoch 251,63 -> MID-RANGE-Erholung, KEIN Near-Pivot an neuen Hochs. Earnings 26.08. (frei).",
+      "setup": "Momentum zuletzt gut (+~11% in 2 Wochen), aber ~204 USD und damit ~19% UNTER dem 52W-Hoch 251,63 (21.04.) -> MID-RANGE-Erholung, KEIN Near-Pivot an neuen Hochs. Earnings 26.08. (frei).",
       "canslim": {
-        "C": "Current: sich verbessernde Gewinnschaetzungen (Zacks-EPS-Revision +9,9%).",
-        "A": "Annual: Rueckkehr auf Wachstumspfad im Value-Retail.",
-        "N": "New: Turnaround-Momentum, Filialexpansion.",
-        "S": "Supply/Demand: mittleres Float.",
-        "L": "Leader im Discount-/Value-Retail-Segment.",
-        "I": "Institutions: steigendes Interesse (Zacks #1).",
-        "M": "Market: GELB; Kurs mid-range -> erst Ausbruch Richtung neue Hochs abwarten."
+        "C": "C = Current: sich verbessernde Gewinnschaetzungen (positive Zacks-EPS-Revisionen).",
+        "A": "A = Annual: Rueckkehr auf Wachstumspfad im Value-Retail.",
+        "N": "N = New: Turnaround-Momentum, Filialexpansion.",
+        "S": "S = Supply/Demand: mittleres Float.",
+        "L": "L = Leader im Discount-/Value-Retail-Segment.",
+        "I": "I = Institutions: steigendes Interesse.",
+        "M": "M = Market: GELB-GRUEN; Kurs mid-range -> erst Ausbruch Richtung neue Hochs abwarten."
       },
-      "note": "Beobachten: noch kein Near-Pivot. Re-Trigger bei sauberem Ausbruch Richtung 52W-Hoch (~252) auf Volumen."
+      "note": "Beobachten: noch kein Near-Pivot (~19% unter Hoch). Re-Trigger bei sauberem Ausbruch Richtung 52W-Hoch (~252) auf Volumen."
     }
   ],
   "filtered_out": [
-    "GEV / LAD -- ueberdehnt bzw. in Korrektur (GEV ~23% unter ATH und post-earnings; LAD +46,7% in 1 Monat) -> kein sauberer, nicht-ueberdehnter Near-Pivot",
-    "DAVE (05.08.), TDG / HWM (Anfang Aug) -- 2-Wochen-Regel aktiv -> blockiert",
-    "GD / HXL -- post-earnings (29.07.), Handle/Reaktion abwarten",
-    "Halbleiter CRDO / NVDA / AVGO / MU / AMD -- erst 1 Erholungstag nach heftigem Abverkauf, Fuehrung noch nicht repariert, keine saubere Basis -> Watchlist",
-    "Mega-Cap-Tech MSFT / AMZN / META / AAPL -- post-earnings bzw. nach Gap ueberdehnt / 2-Wochen-Regel; AAPL zudem fundamental schwach (China)",
-    "Small-Cap-Momentum (FA / BVS / OOMA u.ae.) -- zu geringe Qualitaet/Liquiditaet fuer einen noch nicht bestaetigten (GELB) Markt",
+    "GD / GE / RTX -- post-earnings an neuen 52W-/Rekordhochs, ueberdehnt (RTX RSI ~77) -> kein nicht-ueberdehnter Near-Pivot -> Watchlist",
+    "TDG (04.08.), AXON (05.08.), DAVE (05.08.), HWM (06.08.) -- 2-Wochen-Regel aktiv (Earnings-Cluster Anfang Aug) -> blockiert",
+    "HXL -- nach Q2 (29.07.) trotz EPS-Beat negativ (Guidance-Enttaeuschung, ~-4% auf ~102), unter ATH gebrochen -> kein sauberes Setup",
+    "CRDO / Halbleiter -- Chip-Fuehrung nach heftigem Abverkauf erst im Wiederaufbau (~18% unter ATH), keine reparierte Basis -> Watchlist",
+    "Mega-Cap-Tech MSFT / AMZN / META -- post-earnings/nach Gap ueberdehnt bzw. 2-Wochen-Regel; AAPL fundamental schwach (China/Services -7,2% am 31.07.)",
+    "IART -- EPS-Wachstum ~9,9% unter der C-Schwelle (>=25%) und post-earnings (29.07.) -> faellt durch C-Filter",
+    "BSET / AVAH -- Zacks-nahe-Hoch-Screen, aber zu geringe Qualitaet/Liquiditaet als CANSLIM-Wachstums-Leader in noch nicht voll bestaetigtem Markt",
     "FIVE -- Mid-Range (~19% unter 52W-Hoch), noch kein Near-Pivot -> Watchlist",
-    "Rotations-/Defensiv-Gewinner (Consumer Staples, Regionalbanken) -- keine klassischen CANSLIM-Wachstums-Leader an sauberen Pivots"
+    "Small-Cap-Momentum (FA / BVS / OOMA u.ae.) -- zu geringe Qualitaet/Liquiditaet fuer einen noch nicht breit bestaetigten Markt"
   ]
 }
