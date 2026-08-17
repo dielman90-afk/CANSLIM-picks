@@ -1,192 +1,222 @@
 {
-  "updated": "2026-08-09",
-  "run": 94,
+  "updated": "2026-08-17",
+  "run": 95,
   "market_signal": "GRUEN",
-  "market_note": "Stand So 09.08.2026 (Kursbasis = bestaetigter US-Schluss Fr 08.08.2026). Marktampel GRUEN: S&P 500 Rekordschluss 7.757,64 (Fr 08.08.), Nasdaq 26.690,62, Dow 54.036,93. Zweite Gewinnwoche in Folge; kraeftige Halbleiter-Erholung (SOXX-Woche >+7%). Ausloeser: schwacher US-Arbeitsmarktbericht (-23k Jobs) -> verstaerkte Zinssenkungserwartungen -> Risk-on. S&P klar ueber 50- und 200-Tage-Linie (50-MA > 200-MA) -> GRUEN, Markt verbreitert sich (Semis kehren zurueck). EINSCHRAENKUNG/RISIKO: weiterhin Spaetphase mit hoher Bewertung und Rekord-Margin-Debt -> nur saubere, volumenbestaetigte Ausbrueche kaufen, KEIN Nachlaufen. SCREEN-ERGEBNIS Lauf 94: nach strenger Filterung genau 3 saubere, nicht-ueberdehnte, nicht-earnings-geblockte Leader im gesuchten Fenster (kurz-vor/am-Punkt/kuerzlich-ausgebrochen): HEI (Near-Pivot direkt unter ATH), HWM (frischer Ausbruch auf neues ATH nach Beat+Raise am 06.08., Earnings jetzt hinter sich) und ANET (frischer Ausbruch auf neues ATH nach Beat+Raise am 04.08., Earnings hinter sich). Alle sonst aussichtsreichen Namen sind entweder ueberdehnt (GE, GEV), earnings-nah (NVDA, Bericht 26.08.), in Basis-Reparatur deutlich unter ATH (VRT -28%, PWR -15%, FIX -16%, CW -12%, TDG -24%, AVGO -11%) oder durch Kapitalmassnahme belastet (CLS: 3-Mrd-Aktienplatzierung, ~23% unter ATH) -> Watchlist/aussortiert. Qualitaet vor Anzahl.",
+  "market_note": "Stand Mo 17.08.2026 (Kursbasis = bestaetigter US-Schluss Fr 14.08.2026; Live-Kurse Mo 17.08. ca. 10:40 ET zusaetzlich angegeben). Marktampel GRUEN: S&P 500 Schluss 7.785,76 (-0,17% am Fr), Rekordschluss 7.798,99 am Do 13.08., dritte Gewinnwoche in Folge (+0,4%). S&P steht +3,6% ueber der 50-Tage- und +10,0% ueber der 200-Tage-Linie und nur -0,4% unter dem 52-Wochen-Hoch -> klar GRUEN. Nasdaq 26.729,16 (+0,1% Woche), Dow 53.732,41. Russell 2000 3.068,42 (+3,15% Woche, frisches Rekordhoch) -> die Marktbreite verbessert sich deutlich, die Rally traegt breiter als in den Vorwochen. Treiber: kuehlere Grosshandelsinflation (PPI) und fallende Oelpreise; Bremse am Freitag: schwaches Michigan-Verbrauchervertrauen, Broadcom -6%. Live Mo 17.08.: S&P 7.771,29 (-0,19%), Nasdaq 26.726,84 (-0,01%), VIX 14,97 (+5%). WICHTIGSTE EINSCHRAENKUNG DIESES LAUFS: Die Ausbrueche erfolgen fast durchgaengig auf UNTERDURCHSCHNITTLICHEM Volumen (MOG.A Ausbruchstag 0,73x Durchschnitt, HEI 1,03x, BFH 0,46x). Die CANSLIM-Lehre verlangt am Pivot mindestens 40-50% UEBER dem Durchschnittsvolumen. Fehlende Volumenbestaetigung bei gleichzeitigen Index-Rekorden ist ein typisches Spaetphasen-Signal -> kleinere Positionsgroessen, Trigger strikt einhalten, keine Ausnahmen. METHODIK Lauf 95: quantitatives Screening von 1.293 US-Aktien auf Tagesdatenbasis (Stage-2-Trend, RS-Perzentil, Basistiefe/-laenge, Pivot-Abstand, Ausbruchsvolumen, Akkumulation), danach fundamentale CANSLIM-Pruefung (C/A) und Earnings-Termin-Pruefung der Shortlist. Ergebnis: 5 saubere Setups im gesuchten Fenster.",
   "picks": [
+    {
+      "ticker": "MOG.A",
+      "company": "Moog Inc. Class A",
+      "sector": "Industrials / Aerospace, Defense & Space (Praezisionsantriebe)",
+      "status": "KUERZLICH AUSGEBROCHEN -- Ausbruch am Fr 14.08. auf neues Allzeithoch, nur +2,5% ueber dem Pivot (noch in der Kaufzone)",
+      "setup": "Schluss 14.08. 441,21 nach Ausbruch ueber den Pivot 430,52 (Basishoch vom 01.07.). ATH 442,58, Kurs damit nur -0,3% unter dem Hoch. Basis: 15% tief ueber rund 32 Handelstage -> normal geformte, nicht zu tiefe Konsolidierung. 50-Tage-Linie 405,19 (Kurs +8,9% darueber, also NICHT ueberdehnt), 200-Tage-Linie 314,98 klar steigend. Akkumulation (Auf-/Ab-Volumen 50 Tage) 1,20. Live Mo 17.08.: 443,52 (+0,52%) -> neues Allzeithoch, Ausbruch haelt. SCHWACHSTELLE: Ausbruchsvolumen nur 0,73x des Durchschnitts -- die Volumenbestaetigung fehlt bislang.",
+      "buy_trigger": "Kauf nur, solange der Kurs innerhalb von 5% ueber dem Pivot 430,52 liegt (Kaufzone bis ca. 452). Ideal: Bestaetigungstag mit Schluss ueber 442,6 auf Volumen mindestens 40% ueber Durchschnitt (ca. 0,45 Mio Stueck) -- solange das Volumen fehlt, nur reduzierte Startposition. Stop unter 405 (50-Tage-Linie / Ausbruchsbasis), spaetestens unter 430,5 bei Rueckfall in die Basis. KEIN Nachkauf ueber 452.",
+      "canslim": {
+        "C": "C = Current Earnings (laufende Quartalsgewinne): Rekord-Q3 FY2026 (31.07.2026) -- Umsatz 1,1 Mrd USD +15% YoY, adjustiertes EPS 3,72 USD +60% YoY, adjustierte operative Marge +280 Basispunkte. Klar ueber der CANSLIM-Schwelle von +25%.",
+        "A": "A = Annual Earnings (Jahresgewinnwachstum): Mehrjaehriger Aufwaertstrend bei Umsatz und Gewinn; die FY2026-Prognose fuer das adjustierte EPS wurde um 1,05 USD auf 11,65 USD angehoben -- also beschleunigtes, nicht nachlassendes Jahreswachstum.",
+        "N": "N = New (Neues): Rekordquartal, Rekord-Auftragsbestand von 3,3 Mrd USD (+23% -- waechst schneller als der Umsatz und sichert die Visibilitaet), Nachfrageschub aus Verteidigung/Raumfahrt sowie ein neues Allzeithoch im Kurs.",
+        "S": "S = Supply/Demand (Angebot/Nachfrage): Kleine Aktienbasis (Handelsvolumen nur ca. 0,3 Mio Stueck/Tag, ca. 137 Mio USD) -- knappes Angebot wirkt kurshebelnd. Einschraenkung: Der Ausbruchstag lief mit 0,73x Durchschnittsvolumen, die Nachfrageseite ist also noch nicht bestaetigt.",
+        "L": "L = Leader (Marktfuehrer, nicht Nachzuegler): RS-Perzentil 86 von 99. +41% in 3 Monaten und +37% in 6 Monaten gegenueber +3,8% bzw. +14,0% beim S&P 500 -- klarer Outperformer in einer fuehrenden Branche.",
+        "I": "I = Institutional Sponsorship (institutionelle Kaeufer): Auf-/Ab-Volumen-Verhaeltnis 1,20 ueber 50 Tage zeigt netto Akkumulation; Kursziele wurden nach den Quartalszahlen mehrfach angehoben.",
+        "M": "M = Market Direction (Marktrichtung): GRUEN -- S&P 500 auf Rekordniveau, ueber 50- und 200-Tage-Linie, Marktbreite durch das Russell-2000-Rekordhoch bestaetigt."
+      },
+      "note": "Bestes Setup dieses Laufs: frischer Ausbruch, minimal ueberdehnt, Earnings am 31.07. bereits abgehandelt -> naechster Bericht erst Anfang November, kein Earnings-Risiko im Kauffenster. Einziger Kritikpunkt ist das fehlende Ausbruchsvolumen."
+    },
+    {
+      "ticker": "STT",
+      "company": "State Street Corporation",
+      "sector": "Financials / Verwahrstelle & Vermoegensverwaltung",
+      "status": "DIREKT AM BREAKOUT-PUNKT -- Schluss 14.08. nur -0,4% unter dem Pivot; Mo 17.08. live UEBER dem Pivot (Ausbruch laeuft)",
+      "setup": "Schluss 14.08. 191,74, Pivot 192,51 -- identisch mit dem 52-Wochen-Hoch, also der klassische Zustand 'kurz davor / am Punkt'. Sehr enge, flache Basis: nur 9% tief ueber rund 21 Handelstage. 50-Tage-Linie 177,37 (Kurs +8,1% darueber), 200-Tage-Linie 143,47 steigend. Das Volumen der letzten 5 Tage liegt bei nur 0,52x des Durchschnitts -- klassische Volumen-Austrocknung am Ende einer Basis und ein konstruktives Zeichen. Live Mo 17.08.: 193,49 (+0,91%) -> handelt UEBER dem Pivot, der Ausbruch laeuft, der Tagesschluss muss ihn bestaetigen.",
+      "buy_trigger": "Kauf bei Tagesschluss ueber 192,5 auf Volumen mindestens 40% ueber Durchschnitt (ca. 3,2 Mio Stueck). Kaufzone bis maximal 202 (5% ueber Pivot). Stop unter 177 (50-Tage-Linie), enger Stop unter 184 (Basisunterkante). KEIN Kauf unter dem Pivot, kein Nachlaufen ueber 202.",
+      "canslim": {
+        "C": "C = Current Earnings (laufende Quartalsgewinne): Q2 2026 (23.07.) EPS 3,65 USD nach 2,17 USD im Vorjahr = +44% YoY, Umsatz Rekord 4,0 Mrd USD +17%. Deutlich ueber der 25%-Schwelle.",
+        "A": "A = Annual Earnings (Jahresgewinnwachstum): Stetig steigende Jahresgewinne; der Jahresausblick wurde angehoben (Gebuehrenertrag +12-13%, Nettozinsertrag +14-15%) -- das Wachstum beschleunigt sich statt auszulaufen.",
+        "N": "N = New (Neues): Rekordumsatz und Rekord-Gebuehrenertrag, verwaltetes Vermoegen 6,3 Bio USD (+23%), Nettozufluesse von 114 Mrd USD im Quartal, Managementgebuehren +29%, Devisenhandel +27% -- und der Kurs steht am 52-Wochen-Hoch.",
+        "S": "S = Supply/Demand (Angebot/Nachfrage): Grosser, liquider Wert (ca. 441 Mio USD Tagesumsatz), Aktienzahl wird laufend durch Rueckkaeufe verringert. Die Volumen-Austrocknung in der Basis (0,52x) zeigt, dass kaum noch Verkaufsdruck vorhanden ist.",
+        "L": "L = Leader (Marktfuehrer): RS-Perzentil 88 von 99. +25% in 3 Monaten und +52% in 6 Monaten gegenueber +3,8% bzw. +14,0% beim S&P 500 -- fuehrend im wieder erstarkten Finanzsektor.",
+        "I": "I = Institutional Sponsorship (institutionelle Kaeufer): Auf-/Ab-Volumen 1,15; als Verwahrstelle mit 6,3 Bio USD AUM durchgehend im Besitz grosser Adressen; ruhige, geordnete Basis ohne Abgabedruck.",
+        "M": "M = Market Direction (Marktrichtung): GRUEN -- Indizes auf Rekordniveau, Finanzwerte profitieren von der Marktbreite (Russell-2000-Rekord)."
+      },
+      "note": "Technisch das sauberste Setup der Liste: engste Basis (9%), Volumen-Austrocknung, Pivot exakt am 52-Wochen-Hoch. Earnings am 23.07. abgehandelt, naechster Bericht erst Mitte Oktober -> kein Earnings-Risiko. Der Ausbruch laeuft heute live; auf den bestaetigten Schluss warten."
+    },
+    {
+      "ticker": "RELY",
+      "company": "Remitly Global, Inc.",
+      "sector": "Financials / Fintech -- grenzueberschreitende Zahlungen",
+      "status": "KUERZLICH AUSGEBROCHEN -- Rueckkehr ueber den Pivot am 14.08. nach Earnings-Ausbruch vom 05.08., +2,1% ueber dem Pivot",
+      "setup": "Schluss 14.08. 26,30 ueber dem Pivot 25,75. Ablauf: Ausbruch am 06.08. nach den Quartalszahlen (Volumen 2,24x Durchschnitt = echte Akkumulation), danach Konsolidierung bis 23,14 und seit dem 12.08. wieder aufwaerts -- ein normaler Rueckset nach dem Ausbruch, der Pivot wurde verteidigt. 52-Wochen-Hoch 27,15 (Kurs -3,1% darunter). Basis 13% tief. 200-Tage-Linie 17,82 steil steigend. Auf-/Ab-Volumen 1,70 (stark). Die 50-Tage-Linie liegt 16,4% unter dem Kurs -- das ist gap-bedingt (Earnings-Sprung) und daher hier KEIN Ueberdehnungssignal. Live Mo 17.08.: 26,25 (-0,17%), haelt ueber dem Pivot.",
+      "buy_trigger": "Kaufzone bis maximal 27,0 (5% ueber Pivot 25,75). Bester Trigger: Schluss ueber dem 52-Wochen-Hoch 27,15 auf Volumen ueber 5 Mio Stueck. Stop unter 23,10 (Tief der Konsolidierung nach dem Ausbruch). Rueckfall unter 25,75 auf hohem Volumen = Setup gebrochen, Position aufloesen.",
+      "canslim": {
+        "C": "C = Current Earnings (laufende Quartalsgewinne): Q2 2026 (05.08.) adjustiertes EPS 0,93 USD gegenueber 0,13 USD Erwartung -- eine der groessten Ueberraschungen der Berichtssaison. Umsatz 495,2 Mio USD +20%, adjustiertes EBITDA Rekord 115 Mio USD (23% Marge, 28 Mio ueber der eigenen Prognose), freier Cashflow auf ueber 130 Mio USD verdreifacht.",
+        "A": "A = Annual Earnings (Jahresgewinnwachstum): Uebergang von Wachstum ohne Gewinn zu profitablem Wachstum mit starker operativer Hebelwirkung; Jahresprognose angehoben auf 1,978-1,988 Mrd USD Umsatz bei ca. 21% EBITDA-Marge.",
+        "N": "N = New (Neues): Meilenstein von ueber 10 Mio aktiven Nutzern (+20%), Effizienzgewinne durch KI-Einsatz, angehobene Jahresprognose und ein neues 52-Wochen-Hoch.",
+        "S": "S = Supply/Demand (Angebot/Nachfrage): Mittelgrosser Wert (ca. 5,6 Mrd USD Marktkapitalisierung, ca. 98 Mio USD Tagesumsatz). Der Ausbruchstag am 06.08. lief mit 2,24x Durchschnittsvolumen -- die staerkste Volumenbestaetigung aller Picks dieses Laufs.",
+        "L": "L = Leader (Marktfuehrer): RS-Perzentil 94 von 99. +106% in 6 Monaten gegenueber +14,0% beim S&P 500 -- fuehrender Wert im Bereich grenzueberschreitender Zahlungsverkehr.",
+        "I": "I = Institutional Sponsorship (institutionelle Kaeufer): Auf-/Ab-Volumen 1,70 -- der beste Akkumulationswert unter den Picks; nach den Zahlen breite Anhebung der Kursziele.",
+        "M": "M = Market Direction (Marktrichtung): GRUEN -- Rekordniveau der Indizes, Small- und Mid-Caps mit klarer relativer Staerke (Russell-2000-Rekord), was diesem Segment zugutekommt."
+      },
+      "note": "Earnings am 05.08. abgehandelt, naechster Bericht erst Anfang November -> das Kauffenster ist frei von Earnings-Risiko. Hoehere Volatilitaet als MOG.A und STT -> kleinere Positionsgroesse waehlen."
+    },
+    {
+      "ticker": "URI",
+      "company": "United Rentals, Inc.",
+      "sector": "Industrials / Geraetevermietung (Bau, Infrastruktur, Rechenzentren)",
+      "status": "KURZ VOR DEM AUSBRUCH -- -2,0% unter dem Pivot, noch nicht ausgebrochen (Buy-on-Trigger)",
+      "setup": "Schluss 14.08. 1.153,83, Pivot 1.177,67, 52-Wochen-Hoch 1.179,18 -- der Kurs liegt also nur rund 2% unter der Ausbruchsmarke, exakt der gesuchte Zustand 'kurz davor'. Basis nur 11% tief ueber rund 16 Handelstage. 50-Tage-Linie 1.094,12 (Kurs +5,5% darueber -- die geringste Ueberdehnung aller Picks), 200-Tage-Linie 911,93 steigend. Auf-/Ab-Volumen 1,53 (gute Akkumulation). Am Freitag Erholung von 1.120,58 auf 1.153,83 (+3,0%) -> der Kurs laeuft von unten an den Pivot heran. Live Mo 17.08.: 1.156,54 (+0,23%).",
+      "buy_trigger": "KEIN Kauf auf dem aktuellen Niveau. Kauf ausschliesslich bei Tagesschluss ueber 1.179,2 (neues Allzeithoch) auf Volumen mindestens 40% ueber Durchschnitt (ca. 0,7 Mio Stueck). Kaufzone bis maximal 1.238. Stop unter 1.094 (50-Tage-Linie), enger Stop unter 1.120 (Wochentief).",
+      "canslim": {
+        "C": "C = Current Earnings (laufende Quartalsgewinne): Rekord-Q2 2026 (23.07.) -- Umsatz 4,4 Mrd USD +12%, adjustiertes EPS 12,76 USD +22%, adjustiertes EBITDA ueber 2 Mrd USD bei 46,6% Marge. EINSCHRAENKUNG: +22% liegt knapp unter der CANSLIM-Idealschwelle von +25% -- der schwaechste C-Wert der Liste.",
+        "A": "A = Annual Earnings (Jahresgewinnwachstum): Langjaehriger Gewinn-Compounder; die Jahresprognose 2026 wurde angehoben (Umsatz 17,5-17,8 Mrd USD, adjustiertes EBITDA 7,975-8,125 Mrd USD) -- nach einer Plateauphase wieder anziehend.",
+        "N": "N = New (Neues): Rekordquartal, Zeitauslastung der Flotte auf Allzeithoch, Spezialvermietung +25%, Nachfrage aus Grossprojekten -- Rechenzentren, Stromerzeugung, Halbleiterfabriken und Infrastruktur. Kurs unmittelbar unter dem Allzeithoch.",
+        "S": "S = Supply/Demand (Angebot/Nachfrage): Aktienzahl wird durch umfangreiche Rueckkaeufe stetig verringert (klassisch positiv fuer S). Sehr liquide (ca. 575 Mio USD Tagesumsatz) bei nur ca. 0,5 Mio gehandelten Stueck -- hoher Kurs, knappes Stueckangebot.",
+        "L": "L = Leader (Marktfuehrer): RS-Perzentil 79 von 99 -- der niedrigste Wert der Liste, aber mit +19% in 3 Monaten und +33% in 6 Monaten weiterhin klar besser als der S&P 500 (+3,8% / +14,0%). Unangefochtene Nummer 1 der Branche.",
+        "I": "I = Institutional Sponsorship (institutionelle Kaeufer): Auf-/Ab-Volumen 1,53 -- deutliche Akkumulation waehrend der Konsolidierung; Standardwert grosser Industrie- und Infrastrukturfonds.",
+        "M": "M = Market Direction (Marktrichtung): GRUEN -- Rekordniveau der Indizes; die Verbreiterung in zyklische Industriewerte stuetzt dieses Setup zusaetzlich."
+      },
+      "note": "Der reinste 'kurz davor'-Kandidat: geringste Ueberdehnung zur 50-Tage-Linie (+5,5%), gute Akkumulation, Earnings am 23.07. abgehandelt (naechster Bericht erst Ende Oktober). Aufnahme trotz C von nur +22% wegen der sehr sauberen Technik -- bewusst als Buy-on-Trigger, nicht als sofortiger Kauf."
+    },
+    {
+      "ticker": "FLYW",
+      "company": "Flywire Corporation",
+      "sector": "Technology / Zahlungssoftware (Bildung, Gesundheit, Reise, B2B)",
+      "status": "KURZ VOR DEM AUSBRUCH -- Pivot entspricht dem 52-Wochen-Hoch; kleinste und spekulativste Position der Liste",
+      "setup": "Schluss 14.08. 18,81, Pivot 18,98 = 52-Wochen-Hoch -> -0,9% darunter, also direkt am Punkt. Basis 18% tief ueber rund 20 Handelstage. 50-Tage-Linie 16,79 (Kurs +12,0% darueber), 200-Tage-Linie 14,34 steigend. Auf-/Ab-Volumen 1,42. Der Tag nach den Zahlen (05.08.) lief mit 2,42x Durchschnittsvolumen -> echte institutionelle Nachfrage vorhanden. Live Mo 17.08.: 18,43 (-1,99%) -> faellt auf -2,9% unter den Pivot zurueck, der Trigger ist damit heute NICHT ausgeloest.",
+      "buy_trigger": "Kauf ausschliesslich bei Tagesschluss ueber 19,0 auf Volumen mindestens 40% ueber Durchschnitt (ca. 3,2 Mio Stueck). Kaufzone bis maximal 19,9. Stop unter 16,80 (50-Tage-Linie). Wegen geringerer Marktkapitalisierung und duennerem Handel bewusst halbe Positionsgroesse.",
+      "canslim": {
+        "C": "C = Current Earnings (laufende Quartalsgewinne): Q2 2026 (04.08.) Umsatz 164 Mio USD gegenueber 156,9 Mio USD Erwartung; Umsatz ohne Nebenleistungen +28% (waehrungsbereinigt +27%), adjustierte EBITDA-Marge +160 Basispunkte auf 14,6%. Starkes Umsatzwachstum, die absolute Gewinnbasis ist aber noch niedrig.",
+        "A": "A = Annual Earnings (Jahresgewinnwachstum): Jahresprognose 2026 angehoben -- waehrungsbereinigtes Wachstum von 21-27% bei einer Margenausweitung von 200-400 Basispunkten. Der Gewinn waechst hier ueber die Marge, nicht ueber eine lange Gewinnhistorie.",
+        "N": "N = New (Neues): Effizienzgewinne durch KI, Ausrollen der Zahlungsabwicklung in B2B und Gesundheitswesen (3-4 Prozentpunkte Wachstumsbeitrag), angehobene Jahresprognose, neues 52-Wochen-Hoch.",
+        "S": "S = Supply/Demand (Angebot/Nachfrage): Kleiner Wert (ca. 2,2 Mrd USD Marktkapitalisierung, nur ca. 44 Mio USD Tagesumsatz) -- knappes Angebot wirkt stark, erhoeht aber auch die Volatilitaet und das Ausfuehrungsrisiko.",
+        "L": "L = Leader (Marktfuehrer): RS-Perzentil 90 von 99. +19% in 3 Monaten und +69% in 6 Monaten gegenueber +3,8% bzw. +14,0% beim S&P 500.",
+        "I": "I = Institutional Sponsorship (institutionelle Kaeufer): Auf-/Ab-Volumen 1,42 und 2,42x Volumen am Tag nach den Zahlen zeigen institutionelle Kaeufe; die Sponsorenbasis ist wegen der geringen Groesse aber schmaler als bei den uebrigen Picks.",
+        "M": "M = Market Direction (Marktrichtung): GRUEN -- das Rekordhoch des Russell 2000 zeigt, dass gerade kleinere Werte Mittelzufluesse erhalten."
+      },
+      "note": "Bewusst als kleinste Position gefuehrt. RISIKO: Die Q3-Prognose sieht nur noch +16-22% Wachstum vor -- also eine Verlangsamung gegenueber +28% im Q2. Zusammen mit dem duennen Handel der schwaechste der fuenf Picks. Earnings am 04.08. abgehandelt, naechster Bericht erst Anfang November."
+    }
+  ],
+  "picks_note": "Bewusst SELEKTIV: 5 Picks aus 1.293 gescreenten US-Aktien. Marktampel GRUEN, Kaeufe auf saubere, volumenbestaetigte Ausbrueche erlaubt. Alle 5 Namen liegen im gesuchten Fenster (kurz-davor / am-Punkt / kuerzlich-ausgebrochen), keiner ist ueberdehnt: der groesste Abstand zum Pivot betraegt +2,5% (MOG.A), der groesste Abstand zur 50-Tage-Linie 16,4% (RELY, gap-bedingt). Bei KEINEM der 5 Picks steht ein Quartalsbericht innerhalb der naechsten 14 Tage an -- die 2-Wochen-Earnings-Regel ist durchgaengig erfuellt. Reihenfolge nach Setup-Qualitaet: 1. MOG.A (frischer ATH-Ausbruch), 2. STT (engste Basis, Ausbruch laeuft live), 3. RELY (staerkste Volumenbestaetigung), 4. URI (geringste Ueberdehnung, Buy-on-Trigger), 5. FLYW (kleinste, spekulativste Position). ZENTRALE WARNUNG: Die Ausbrueche dieses Laufs erfolgen ueberwiegend auf unterdurchschnittlichem Volumen -- bei Indizes auf Rekordniveau ist das ein Spaetphasen-Signal. Konsequenz: gestaffelt einsteigen, Trigger strikt einhalten, keine Position ohne Volumenbestaetigung voll aufbauen.",
+  "watchlist": [
     {
       "ticker": "HEI",
       "company": "HEICO Corporation",
       "sector": "Industrials / Aerospace Aftermarket & Defense",
-      "status": "NEAR-PIVOT / AM BREAKOUT-PUNKT -- Buy-on-Trigger (noch nicht ausgebrochen, aber direkt am Pivot)",
-      "setup": "Schluss ~363 (06.08.: Range 361,98-366,58). Handelt in enger, ruhiger Konsolidierung DIREKT UNTER dem ATH-Pivot 369,48 (06.07.2026). Kurs nur ~1,5-2% unter dem Pivot -> exakt der gesuchte 'kurz-davor/am-Punkt'-Zustand, NICHT ueberdehnt (noch unter ATH). Konstruktive Basis mit Volumen-Akkumulation. Earnings Fiscal Q3 am 31.08.2026 (~22 Tage entfernt) -> 2-Wochen-Regel NOCH NICHT aktiv, rueckt aber naeher (beobachten).",
-      "buy_trigger": "Sauberer Tagesschluss > 369,5 (neues ATH) auf Volumen > 40% ueber Durchschnitt. Stop unter ~348 (Basis-Unterkante). Markt GRUEN, aber Spaetphase/hoch gehebelt -> diszipliniert und gestaffelt einsteigen. KEIN Kauf unter dem Pivot, KEIN Nachlaufen > 5% ueber 370. Vor dem 31.08. (Earnings) Position ggf. reduzieren.",
+      "setup": "Ausbruch am 12.08. ueber den Pivot 369,48 vollzogen, Schluss 14.08. 374,67, Allzeithoch 376,86 -- technisch weiterhin ein sauberer, frischer Ausbruch (nur +1,4% ueber dem Pivot, Basis nur 9% tief). AUSSCHLUSSGRUND: Quartalsbericht am 25.08.2026 nach Boersenschluss (Telefonkonferenz 26.08.) -- das sind 8 Tage, die 2-Wochen-Earnings-Regel ist damit aktiv. Nach den Zahlen neu bewerten.",
       "canslim": {
-        "C": "C = Current Earnings (laufende Quartalsgewinne): Rekord-Q2 FY2026 -- Umsatz ~1,38 Mrd USD (+25% YoY, ~18% organisch), EPS ~1,66 (+~48% YoY), Nettogewinn +49%. Starke, beschleunigte laufende Gewinne, erfuellt die C-Schwelle (>=25%) klar.",
-        "A": "A = Annual Earnings (Jahresgewinnwachstum): Langjaehriger zweistelliger EPS-Compounder mit langer Serie von Rekordjahren -- verlaesslich steigende Jahresgewinne.",
-        "N": "N = New (Neues: Produkt/Management/Hoch): Direkt unter 52W-/Allzeithoch (369,48 am 06.07.); frische Katalysatoren -- aktive M&A-Pipeline, robuste Commercial-Aviation-/Defense-/Space-Nachfrage; klar definierter Pivot 369,5.",
-        "S": "S = Supply/Demand (Angebot/Nachfrage): Disziplinierte Dual-Class-Struktur, enges Float, geringe Verwaesserung -- ein echter Ausbruch braucht klare Volumenbestaetigung.",
-        "L": "L = Leader (Fuehrer, nicht Nachzuegler): PMA-/Aftermarket-Fuehrer mit hoher relativer Staerke im Aerospace-Aftermarket- und Defense-Komplex; haelt sich nahe Hoch.",
-        "I": "I = Institutional Sponsorship (institutionelle Beteiligung): Schwere, wachsende Fondsbeteiligung; solide, zunehmende institutionelle Nachfrage.",
-        "M": "M = Market Direction (Marktrichtung): GRUEN -- S&P Rekord, klar ueber 50-/200-Tage-Linie. ABER: Rekord-Margin-Debt + Spaetphase -> Buy nur bei sauberem, volumenbestaetigtem Ausbruch."
+        "C": "C = Current: Rekord-Q2 FY2026, Umsatz +25%, EPS +48% -- fundamental weiterhin erstklassig.",
+        "A": "A = Annual: langjaehriger zweistelliger EPS-Compounder mit Serie von Rekordjahren.",
+        "N": "N = New: Ausbruch auf neues Allzeithoch, starke Ersatzteilnachfrage im Luftfahrt-Aftermarket.",
+        "S": "S = Supply/Demand: ca. 174 Mio USD Tagesumsatz; Ausbruchsvolumen nur 1,03x Durchschnitt -- schwach bestaetigt.",
+        "L": "L = Leader: RS-Perzentil 71 -- unter der CANSLIM-Anforderung von 80; +26% in 3 Monaten, aber nur +14% in 6 Monaten (auf S&P-Niveau).",
+        "I": "I = Institutional: Auf-/Ab-Volumen 1,37, solide Akkumulation.",
+        "M": "M = Market: GRUEN."
       },
-      "note": "Der klassische 'kurz-davor/am-Punkt'-Leader. KEIN Kauf unter dem Pivot; Kauf NUR bei sauberem, volumenbestaetigtem Tagesschluss > 369,5. Nicht nachlaufen (Kapitalschutz vor Gier). Earnings 31.08. beachten."
+      "note": "Aus den Picks genommen, obwohl der Ausbruch technisch sauber ist -- allein wegen des Earnings-Termins am 25.08. Zusaetzlich liegt die relative Staerke (RS 71) unter der Zielschwelle."
     },
     {
-      "ticker": "HWM",
-      "company": "Howmet Aerospace Inc.",
-      "sector": "Industrials / Aerospace & Defense (Triebwerks- & Strukturkomponenten)",
-      "status": "KUERZLICH AUSGEBROCHEN -- neues ATH nach Beat+Raise, Earnings jetzt HINTER sich",
-      "setup": "Q2 am 06.08.2026 berichtet: EPS 1,33 (Beat vs. 1,25), Umsatz +24% YoY auf 2,547 Mrd USD (ueber Erwartung), Adj. EBITDA +39% auf 817 Mio (Marge 32,1%, +340 Bp), Guidance angehoben. Aktie markierte am Berichtstag ein NEUES Rekordhoch (~288-292) und haelt sich dort. Frischer, volumenstarker Ausbruch, NICHT weit ueberdehnt (nahe am Ausbruchspunkt, naechste Ziele ~296-300). Earnings jetzt HINTER sich -> fuer ein Quartal kein Earnings-Risiko, 2-Wochen-Regel frei.",
-      "buy_trigger": "Idealer Einstieg auf erstem ruhigem Pullback an den Ausbruchsbereich / die 21-Tage-Linie ODER Zusatzkauf bei Follow-Through-Schluss ueber ~292 auf Volumen. Stop ~10-12% unter dem Ausbruchspunkt bzw. unter der juengsten Basis. KEIN Nachlaufen > 5% ueber dem Ausbruch (Earnings-Gap nicht ueberjagen).",
+      "ticker": "OSCR",
+      "company": "Oscar Health, Inc.",
+      "sector": "Healthcare / Krankenversicherung (ACA-Marktplatz)",
+      "setup": "Fundamental der staerkste Kandidat des Laufs (Umsatz +70%, adjustiertes EPS 1,10 USD gegenueber 0,37 USD Erwartung, Mitglieder +46% auf 2,96 Mio, Schadenquote um fast 12 Prozentpunkte auf 79,2% verbessert, Jahresprognose angehoben) und mit RS-Perzentil 98 der Spitzenreiter der relativen Staerke. TROTZDEM KEIN KAUF: Die Basis ist V-foermig ohne Handle (23% tief, 10-Tage-Spanne 24% -- sehr locker), die Erholung wurde massgeblich von einer politischen Meldung getragen (vorgeschlagene zweijaehrige Verlaengerung der erhoehten ACA-Subventionen), und am 17.08. faellt der Kurs live um 3,5% auf 31,60 und damit wieder klar unter den Pivot 33,10.",
       "canslim": {
-        "C": "C = Current Earnings: Q2 EPS 1,33 (+~30% YoY, Beat), Umsatz +24% YoY, Adj. EBITDA +39%, Marge stark ausgeweitet (32,1%). Kraeftige, beschleunigte laufende Gewinne -> C erfuellt.",
-        "A": "A = Annual Earnings: Verlaesslicher, mehrjaehriger EPS-Compounder mit steigenden Margen im Aerospace-Aufschwung; angehobene Jahres-Guidance 2026.",
-        "N": "N = New: Neues Allzeithoch am Berichtstag (frischer Ausbruch); Katalysatoren -- starke Aero-/Gasturbinen-Nachfrage, Rekord-Cashflow, angehobener Ausblick.",
-        "S": "S = Supply/Demand: Grosses, liquides Float; aktive Aktienrueckkaeufe reduzieren Angebot; Ausbruch von Volumen begleitet.",
-        "L": "L = Leader: RS-Fuehrer im Aerospace-/Defense-Komplex (Triebwerksschaufeln/Fastening), macht neue Hochs waehrend viele Peers noch unter ATH konsolidieren.",
-        "I": "I = Institutions: Breite, starke und zunehmende institutionelle Beteiligung.",
-        "M": "M = Market: GRUEN -- Rekordmaerkte, Industrials fuehren. Spaetphase -> diszipliniert, nicht ueber den Ausbruch nachlaufen."
+        "C": "C = Current: Umsatz +70% auf 4,88 Mrd USD, adjustiertes EPS 1,10 USD gegenueber 0,37 USD erwartet -- herausragend.",
+        "A": "A = Annual: Wende in die Profitabilitaet (1 Mrd USD Nettogewinn im ersten Halbjahr), aber noch keine mehrjaehrige Gewinnhistorie.",
+        "N": "N = New: Rekordprofitabilitaet, Mitgliederwachstum, moegliche Verlaengerung der ACA-Subventionen als Kurstreiber.",
+        "S": "S = Supply/Demand: ca. 204 Mio USD Tagesumsatz; am 06.08. jedoch ein Abgabetag mit -12% auf 2,6x Volumen (Verteilung).",
+        "L": "L = Leader: RS-Perzentil 98 -- staerkster Wert des gesamten Screenings, +139% in 6 Monaten.",
+        "I": "I = Institutional: Auf-/Ab-Volumen 1,24, aber sehr sprunghafter Kursverlauf.",
+        "M": "M = Market: GRUEN."
       },
-      "note": "Frischer, sauberer Ausbruch auf neues ATH mit Earnings bereits hinter sich (grosser Vorteil: kein anstehendes Quartals-Risiko). Bevorzugt auf ersten Pullback kaufen statt dem Gap nachlaufen."
+      "note": "Das Geschaeftsmodell haengt direkt an einer politischen Entscheidung (Verlaengerung der erhoehten ACA-Subventionen). Binaeres Ereignisrisiko plus lockere V-Basis -> erst bei enger Konsolidierung und Ausbruch ueber 33,3 auf hohem Volumen erneut pruefen."
+    },
+    {
+      "ticker": "PANW",
+      "company": "Palo Alto Networks, Inc.",
+      "sector": "Technology / Cybersecurity",
+      "setup": "RS-Perzentil 98, +136% in 6 Monaten, und mit +4,2% ueber dem Pivot 368,80 formal noch in der 5%-Kaufzone. AUSSCHLUSSGRUENDE: Der Kurs steht 17,8% ueber der 50-Tage-Linie -- ohne frisches Earnings-Gap, das diese Distanz rechtfertigen wuerde, gilt das als ueberdehnt; zusaetzlich Quartalsbericht am 01.09.2026 (15 Tage).",
+      "canslim": {
+        "C": "C = Current: starkes Wachstum, Details erst mit dem Bericht am 01.09.",
+        "A": "A = Annual: mehrjaehriger Gewinn- und Umsatz-Compounder im Sicherheitsmarkt.",
+        "N": "N = New: Plattform-Konsolidierung und KI-Sicherheit als Wachstumstreiber, nahe Allzeithoch.",
+        "S": "S = Supply/Demand: sehr liquide (ca. 2,6 Mrd USD Tagesumsatz).",
+        "L": "L = Leader: RS-Perzentil 98, +61% in 3 Monaten.",
+        "I": "I = Institutional: Auf-/Ab-Volumen 1,33.",
+        "M": "M = Market: GRUEN."
+      },
+      "note": "Klarer Marktfuehrer, aber bereits weit gelaufen -- genau der Fall, den die Vorgabe 'weit gelaufene Setups konsequent herausfiltern' meint. Nach dem Bericht am 01.09. und einer neuen, engen Basis erneut pruefen."
+    },
+    {
+      "ticker": "ENVA",
+      "company": "Enova International, Inc.",
+      "sector": "Financials / Digitale Kreditvergabe",
+      "setup": "Fundamental stark (Gewinnwachstum zweistellig, RS-Perzentil 95, +79% in 6 Monaten) und nur -0,7% unter dem 52-Wochen-Hoch. AUSSCHLUSSGRUND: +7,7% ueber dem Pivot 246,38 -- damit ausserhalb der 5%-Kaufzone. Nicht nachlaufen; auf eine neue Basis warten.",
+      "canslim": {
+        "C": "C = Current: kraeftiges Gewinnwachstum, Konsens sieht das EPS von 13,46 auf ueber 20 USD steigen.",
+        "A": "A = Annual: mehrjaehriges zweistelliges Wachstum.",
+        "N": "N = New: neue Hoechststaende, wachsendes Kreditbuch.",
+        "S": "S = Supply/Demand: kleiner Wert (ca. 104 Mio USD Tagesumsatz), Ausbruchsvolumen nur 0,8x.",
+        "L": "L = Leader: RS-Perzentil 95.",
+        "I": "I = Institutional: Auf-/Ab-Volumen 1,78 -- sehr gute Akkumulation.",
+        "M": "M = Market: GRUEN."
+      },
+      "note": "Reines Timing-Problem: gutes Unternehmen, aber der Einstiegspunkt ist vorbei. Kauf erst nach Bildung einer neuen Konsolidierung."
+    },
+    {
+      "ticker": "NUE",
+      "company": "Nucor Corporation",
+      "sector": "Materials / Stahl",
+      "setup": "Technisch am Pivot (Schluss 268,91 gegenueber Pivot 270,90, -0,7%), Q2-EPS von rund 4,75 USD entspricht +80% YoY. AUSSCHLUSSGRUND: Das A-Kriterium faellt durch -- die Jahresgewinne sind seit dem Zyklushoch 2022 ruecklaeufig; es handelt sich um eine zyklische Erholung, nicht um strukturelles CANSLIM-Wachstum.",
+      "canslim": {
+        "C": "C = Current: Q2-2026-EPS ca. 4,75 USD, +80% YoY -- erfuellt.",
+        "A": "A = Annual: NICHT erfuellt -- Jahresgewinne seit 2022 ruecklaeufig, erst jetzt wieder anziehend.",
+        "N": "N = New: hoehere Stahlpreise (Warmband nahe 1.200 USD/short ton), Zoelle druecken Importe.",
+        "S": "S = Supply/Demand: ca. 417 Mio USD Tagesumsatz, laufende Rueckkaeufe.",
+        "L": "L = Leader: RS-Perzentil 82, +42% in 6 Monaten.",
+        "I": "I = Institutional: Auf-/Ab-Volumen 1,10 -- nur leichte Akkumulation.",
+        "M": "M = Market: GRUEN."
+      },
+      "note": "Guter zyklischer Diversifizierer, aber kein sauberer CANSLIM-Wert. Bei Ausbruch ueber 280,1 auf hohem Volumen als taktische Position erneut pruefen."
     },
     {
       "ticker": "ANET",
       "company": "Arista Networks, Inc.",
-      "sector": "Technology / AI-Datacenter Networking",
-      "status": "KUERZLICH AUSGEBROCHEN -- neues ATH nach Beat+Raise, Earnings jetzt HINTER sich",
-      "setup": "Q2 am 04.08.2026 berichtet: EPS 1,02 (Beat vs. 0,90), Umsatz +37,7% YoY auf 3,04 Mrd USD (ueber Erwartung), Jahres-Guidance 2026 auf 12,6 Mrd (+40%) angehoben. Aktie auf neuem ATH (Schluss 197,31 am 05.08.; Premarket-Hoch bis ~214). Zahlreiche Kursziel-Anhebungen (Barclays 289, Wells Fargo 255, JPMorgan 250, BofA 240, Piper 240). Frischer Ausbruch, haelt sich nahe Hoch (~189-199), NICHT ueberdehnt gemessen am Ausbruchspunkt. Earnings hinter sich -> 2-Wochen-Regel frei.",
-      "buy_trigger": "Einstieg auf erstem ruhigem Pullback an den Ausbruchsbereich / die 21-Tage-Linie ODER Zusatzkauf bei ruhigem Schluss ueber 197-199 auf Volumen. Stop ~7-8% unter Einstieg bzw. unter der Basis. KEIN Nachlaufen > 5% ueber dem Pivot; Earnings-Gap nicht ueberjagen.",
+      "sector": "Technology / Netzwerkinfrastruktur fuer Rechenzentren",
+      "setup": "AUS DEN PICKS ENTFERNT (war Pick in Lauf 94). Der Ausbruch ist gescheitert: Hoch 214,89 am 05.08., danach Rueckfall auf 198,82 zum 14.08. = -7,5% unter dem Hoch; am 12.08. noch 210,50, seither drei schwaechere Tage. Der Kurs haelt sich zwar +4,7% ueber dem alten Pivot 189,82, das Setup ist aber kein sauberes Kauffenster mehr.",
       "canslim": {
-        "C": "C = Current Earnings: Q2 EPS 1,02 (Beat), Umsatz +37,7% YoY auf 3,04 Mrd -- explosive, beschleunigte laufende Gewinne, klar ueber der C-Schwelle.",
-        "A": "A = Annual Earnings: Hoher, stetiger Jahres-Compounder; Guidance 2026 auf 12,6 Mrd (+40%) angehoben.",
-        "N": "N = New: Neues Allzeithoch nach Zahlen (frischer Ausbruch); Katalysator -- AI-/Cloud-Networking-Nachfrage (400/800G-Switching, Hyperscaler-Buildout).",
-        "S": "S = Supply/Demand: Grosses, liquides Float; Ausbruch von hohem Volumen begleitet, breite Nachfrage.",
-        "L": "L = Leader: Klarer Fuehrer im High-Speed-/AI-Datacenter-Networking mit hoher relativer Staerke; Teil des fuehrenden Semi-/AI-Infrastruktur-Aufschwungs dieser Woche.",
-        "I": "I = Institutions: Schwere institutionelle Beteiligung; nach Zahlen breite Kursziel-Anhebungen der grossen Haeuser.",
-        "M": "M = Market: GRUEN -- Nasdaq/Semis fuehren die Rally an. Spaetphase -> nur sauberer, volumenbestaetigter Nachkauf, kein Nachlaufen."
+        "C": "C = Current: starke Zahlen mit Beat and Raise am 04.08.",
+        "A": "A = Annual: mehrjaehriger, kraeftiger Gewinn-Compounder.",
+        "N": "N = New: KI-Rechenzentrums-Netzwerke, zuvor neues Allzeithoch.",
+        "S": "S = Supply/Demand: sehr liquide (ca. 1,6 Mrd USD Tagesumsatz).",
+        "L": "L = Leader: RS-Perzentil 89 -- weiterhin fuehrend.",
+        "I": "I = Institutional: Auf-/Ab-Volumen 1,23.",
+        "M": "M = Market: GRUEN."
       },
-      "note": "Fuehrer im AI-Networking mit frischem Ausbruch auf neues ATH und Earnings hinter sich. Post-Earnings-Gap nicht ueberjagen -- bevorzugt auf erstem Pullback an die Basis/21-Tage-Linie einsteigen."
-    }
-  ],
-  "picks_note": "Bewusst SELEKTIV (3 Namen). Marktampel GRUEN (S&P-Rekordschluss 7.757,64 am 08.08., klar ueber 50-/200-Tage-Linie), Kaeufe auf saubere Ausbrueche grundsaetzlich erlaubt. ABER Spaetphase + Rekord-Margin-Debt -> strikte Disziplin, keine ueberdehnten oder erzwungenen Setups. Genau 3 Kandidaten erfuellen das gesuchte Fenster 'kurz-davor / am-Punkt / kuerzlich-ausgebrochen' sauber und nicht-ueberdehnt: HEI (Near-Pivot direkt unter ATH, Buy-on-Trigger > 369,5), HWM und ANET (beide frische ATH-Ausbrueche nach Beat+Raise mit Earnings bereits hinter sich). Schwache/weit-gelaufene Setups (GE, GEV ueberdehnt; NVDA earnings-nah 26.08.; VRT/PWR/FIX/CW/TDG/AVGO in Basis-Reparatur unter ATH; CLS Kapitalmassnahme) wurden konsequent aussortiert. Qualitaet vor Anzahl.",
-  "watchlist": [
-    {
-      "ticker": "GEV",
-      "company": "GE Vernova",
-      "sector": "Industrials / Power & Grid (AI-Energy)",
-      "setup": "AI-Power-/Grid-Leader, ~1.130 (08.08.), nur ~5-6% unter ATH 1.195,94 (06.07.), seit ~1 Monat seitwaerts. Konstruktiver werdende Konsolidierung, aber (noch) KEIN klar definierter, enger Pivot und hoch bewertet/weit gelaufen -> auf saubere Handle-Bildung/Volumen-Trigger warten, nicht nachlaufen.",
-      "canslim": {
-        "C": "C = Current: starke laufende Gewinne, Guidance angehoben.",
-        "A": "A = Annual: kraeftiges Jahreswachstum (Power/Grid-Zyklus).",
-        "N": "N = New: Strom-/Netz-Nachfrage aus AI-Rechenzentren, Rekordauftraege, nahe ATH.",
-        "S": "S = Supply/Demand: grosses Float, institutionell getragen.",
-        "L": "L = Leader: klarer Fuehrer im Energy/Power-Komplex.",
-        "I": "I = Institutions: schwere institutionelle Beteiligung.",
-        "M": "M = Market: GRUEN, aber Titel hoch bewertet/weit gelaufen."
-      }
+      "note": "Fundamental unveraendert stark, technisch aber ein Fehlausbruch. Erst bei neuer, enger Basis und Rueckeroberung von 214,9 wieder aufnehmen."
     },
     {
-      "ticker": "GE",
-      "company": "GE Aerospace",
-      "sector": "Industrials / Aerospace (Triebwerke & Services)",
-      "setup": "Erstklassiger Aerospace-Leader, ~276 (08.08.), +~66% YTD, nahe Hoch. Analysten-Kursziele 405-450. ABER: bereits weit im Trend gelaufen, kein enger, nicht-ueberdehnter Near-Pivot am Hoch erkennbar -> auf Konsolidierung/neue Basis warten.",
+      "ticker": "HWM",
+      "company": "Howmet Aerospace Inc.",
+      "sector": "Industrials / Aerospace-Komponenten",
+      "setup": "AUS DEN PICKS ENTFERNT (war Pick in Lauf 94). Schluss 289,18 liegt -6,7% unter dem Allzeithoch 310,00 und -1,3% UNTER dem Pivot 293,00 -- der Ausbruch aus Lauf 94 wurde nicht gehalten, der Wert ist in die Basis zurueckgefallen.",
       "canslim": {
-        "C": "C = Current: starke laufende Gewinne, Umsatz +20%, EPS +19%.",
-        "A": "A = Annual: kraeftiger Compounder, Aftermarket-getrieben.",
-        "N": "N = New: Rekord-Triebwerksauftraege/Services-Nachfrage, angehobener Ausblick.",
-        "S": "S = Supply/Demand: grosses, liquides Float, Rueckkaeufe.",
-        "L": "L = Leader: dominanter Fuehrer im Triebwerks-/Aftermarket-Komplex.",
-        "I": "I = Institutions: breite, starke institutionelle Basis.",
-        "M": "M = Market: GRUEN, aber Titel weit gelaufen -> kein Near-Pivot."
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA Corporation",
-      "sector": "Technology / AI-Semiconductors",
-      "setup": "AI-Chip-Fuehrer, ~224 (08.08.), ~5% unter 52W-Hoch 236,54; Semis fuehrten die Woche. ABER: Earnings am 26.08.2026 (bestaetigt, nachboerslich) -> 2-Wochen-Regel wird in Kuerze (ab ~12.08.) AKTIV -> kein Neu-Einstieg ins Earnings-Fenster; zudem aktuell mitten in der Range, kein sauberer Near-Pivot. Nach den Zahlen neu bewerten.",
-      "canslim": {
-        "C": "C = Current: sehr hohe laufende Gewinne (Datacenter/AI).",
-        "A": "A = Annual: extremer Jahres-Compounder.",
-        "N": "N = New: naechste GPU-Generation, anhaltender AI-Capex-Boom.",
-        "S": "S = Supply/Demand: riesiges, liquides Float.",
-        "L": "L = Leader: unangefochtener AI-Halbleiter-Fuehrer.",
-        "I": "I = Institutions: massive institutionelle Beteiligung.",
-        "M": "M = Market: GRUEN, aber per 2-Wochen-Regel bald blockiert (Earnings 26.08.)."
-      }
-    },
-    {
-      "ticker": "VRT",
-      "company": "Vertiv Holdings",
-      "sector": "Technology / AI-Datacenter Power & Cooling",
-      "setup": "AI-Datacenter-Infrastruktur-Leader, ~272 (08.08.), ~28% unter ATH 379,94 -> Basis erst im Wiederaufbau, KEIN Near-Pivot. Q2 (29.07.) Beat, Guidance angehoben. Beobachten, ob sich naeher am Hoch ein sauberer Pivot bildet.",
-      "canslim": {
-        "C": "C = Current: solide laufende Gewinne, Umsatz +24% YoY (Q2), EPS-Beat.",
-        "A": "A = Annual: kraeftiges Jahreswachstum, steigende Margen.",
-        "N": "N = New: AI-Power-/Cooling-Nachfrage, angehobene Guidance.",
-        "S": "S = Supply/Demand: grosses, liquides Float.",
-        "L": "L = Leader: Fuehrer bei Datacenter-Power/Cooling.",
-        "I": "I = Institutions: starke institutionelle Basis.",
-        "M": "M = Market: GRUEN, aber Titel ~28% unter ATH -> kein Near-Pivot."
-      }
-    },
-    {
-      "ticker": "PWR",
-      "company": "Quanta Services",
-      "sector": "Industrials / Electrical & Grid Infrastructure",
-      "setup": "Netz-/Elektrifizierungs-Leader, ~672 (08.08.), ~15% unter ATH 788,75 (06.05.). Rekord-Q2 (30.07.). Basis im Wiederaufbau, kein Near-Pivot -> beobachten auf saubere Basis naeher am Hoch.",
-      "canslim": {
-        "C": "C = Current: Rekord-Quartal, zweistelliges EPS-Wachstum.",
-        "A": "A = Annual: struktureller Compounder (Grid/Elektrifizierung).",
-        "N": "N = New: Grid-/AI-Power-Buildout, Rekord-Backlog, M&A.",
-        "S": "S = Supply/Demand: grosses, liquides Float.",
-        "L": "L = Leader: Fuehrer bei Netz-/Elektro-Infrastruktur.",
-        "I": "I = Institutions: breite institutionelle Basis.",
-        "M": "M = Market: GRUEN, aber Titel ~15% unter ATH -> kein Near-Pivot."
-      }
-    },
-    {
-      "ticker": "FIX",
-      "company": "Comfort Systems USA",
-      "sector": "Industrials / Mechanical & Electrical (AI-Datacenter)",
-      "setup": "Datacenter-/HVAC-Backlog-Leader, ~1.728 (06.08.), ~16% unter ATH 2.066,51 (22.06.). Q2 (24.07.) berichtet. Basis-Reparatur, kein Near-Pivot -> beobachten auf saubere neue Basis naeher am Hoch.",
-      "canslim": {
-        "C": "C = Current: starke laufende Gewinne, hoher Backlog.",
-        "A": "A = Annual: kraeftiger Compounder.",
-        "N": "N = New: Datacenter-Backlog-Expansion, AI-Nachfrage.",
-        "S": "S = Supply/Demand: liquides Float.",
-        "L": "L = Leader: Fuehrer im mechanischen/elektrischen Datacenter-Buildout.",
-        "I": "I = Institutions: solide institutionelle Basis.",
-        "M": "M = Market: GRUEN, aber Titel ~16% unter ATH -> kein Near-Pivot."
-      }
-    },
-    {
-      "ticker": "CW",
-      "company": "Curtiss-Wright",
-      "sector": "Industrials / Aerospace & Defense / Nuclear",
-      "setup": "Defense-/Nuklear-Leader, ~715 (06.08.), ~12% unter ATH 808,16. Starker Trend, aber kein Pivot am Hoch -> Basis-Reparatur/Konsolidierung. Beobachten auf saubere neue Basis.",
-      "canslim": {
-        "C": "C = Current: starke laufende Gewinne, Beat.",
-        "A": "A = Annual: verlaesslicher Compounder (Defense/Nuclear).",
-        "N": "N = New: Defense-/Nuklear-Nachfrage, angehobene Guidance.",
-        "S": "S = Supply/Demand: liquides Float.",
-        "L": "L = Leader: RS-Fuehrer im Defense-Komplex.",
-        "I": "I = Institutions: solide institutionelle Basis.",
-        "M": "M = Market: GRUEN, aber Titel ~12% unter ATH -> kein Near-Pivot."
-      }
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom Inc.",
-      "sector": "Technology / AI-Semiconductors & Software",
-      "setup": "AI-Accelerator-/Networking-Chip-Leader, ~426 (08.08.), ~11% unter ATH 480,77 (02.06.). Semis erholten sich stark, aber Titel noch in Basis-Aufbau (kein Near-Pivot am Hoch); Earnings erst Anfang September. Beobachten auf saubere Basis naeher am Hoch.",
-      "canslim": {
-        "C": "C = Current: sehr starke laufende Gewinne (AI-Custom-Chips, VMware).",
-        "A": "A = Annual: kraeftiger Compounder, hohe Wachstumsraten erwartet.",
-        "N": "N = New: kundenspezifische AI-Accelerators, High-Speed-Networking-Nachfrage.",
-        "S": "S = Supply/Demand: grosses, liquides Float.",
-        "L": "L = Leader: Co-Fuehrer im AI-Halbleiter-/Networking-Komplex.",
-        "I": "I = Institutions: massive institutionelle Beteiligung.",
-        "M": "M = Market: GRUEN, aber Titel ~11% unter ATH -> kein Near-Pivot."
-      }
+        "C": "C = Current: Q2 2026 stark, Umsatz im Zivilluftfahrt-Segment +28% YoY.",
+        "A": "A = Annual: mehrjaehriges kraeftiges Wachstum durch den Luftfahrtzyklus.",
+        "N": "N = New: anhaltender Nachfrageboom in der Zivilluftfahrt.",
+        "S": "S = Supply/Demand: sehr liquide (ca. 783 Mio USD Tagesumsatz).",
+        "L": "L = Leader: RS-Perzentil 62 -- deutlich unter der Anforderung; nur +6% in 3 Monaten.",
+        "I": "I = Institutional: Auf-/Ab-Volumen 1,03 -- neutral, keine Akkumulation.",
+        "M": "M = Market: GRUEN."
+      },
+      "note": "Nachlassende relative Staerke bei gleichzeitigem Rueckfall unter den Pivot -> Basis-Reparatur abwarten."
     }
   ],
   "filtered_out": [
-    "CLS (Celestica) -- ~363, ~23% unter ATH 472,40 (02.06.) UND 3-Mrd-USD-Aktienplatzierung (Verwaesserung/Angebotsdruck), hohe Volatilitaet -> kein sauberes Setup, aussortiert.",
-    "GE / GEV -- erstklassige Leader, aber bereits weit im Trend gelaufen/hoch bewertet, kein nicht-ueberdehnter Near-Pivot -> Watchlist.",
-    "NVDA -- nahe Hoch, aber Earnings 26.08. -> 2-Wochen-Regel wird bald aktiv + mitten in der Range -> Watchlist, nach Zahlen neu bewerten.",
-    "VRT (-28%), PWR (-15%), FIX (-16%), CW (-12%), TDG (-24%), AVGO (-11%) -- fundamentale Leader, aber deutlich unter ATH in Basis-Reparatur, kein Near-Pivot -> Watchlist.",
-    "Allgemein: Spaetphasen-Rally + Rekord-Margin-Debt -> nur die 3 saubersten, nicht-ueberdehnten, nicht-earnings-geblockten Near-Pivot/Fresh-Breakout-Leader aufgenommen. Erzwungene Setups werden bewusst vermieden. Qualitaet vor Anzahl."
+    "EARNINGS-REGEL (Bericht innerhalb von 14 Tagen -> kein Kauf): HEI (25.08.), KEYS (18.08.), TGT (19.08.). PANW (01.09.) liegt knapp ausserhalb, wurde aber zusaetzlich wegen Ueberdehnung aussortiert.",
+    "UEBERDEHNT / WEIT GELAUFEN: ENVA (+7,7% ueber Pivot, ausserhalb der 5%-Kaufzone), PANW (17,8% ueber 50-Tage-Linie), NTAP (+7,4% ueber Pivot, 21,7% ueber 50-Tage), DXCM (+13,4% ueber Pivot), TGT (+7,0% ueber Pivot), CBRL (-8,3% unter Hoch nach Ausreisser), sowie die Raffinerien PBF (32,1% ueber 50-Tage), VLO (20,3%) und DINO (18,2%).",
+    "C ODER A DURCHGEFALLEN (Kern-CANSLIM-Kriterien): KMX (CarMax -- Technik sauber, RS 91, aber EPS im Q1 FY27 -5,1% YoY), KSPI (Kaspi.kz -- Ausbruch mit sehr gutem Volumen von 3,1x, aber Nettogewinn stagniert und EBITDA nur +5%), BFH (Bread Financial -- beste Akkumulation des Screenings mit 2,73, aber Gewinnwachstum nur ca. +9% und Ausbruchsvolumen 0,46x), CNC (Centene -- negatives Ergebnis der letzten zwoelf Monate), NUE (A durchgefallen, siehe Watchlist).",
+    "ZYKLIKER MIT RUECKLAEUFIGEN ERWARTUNGEN: Tanker- und Schifffahrtswerte INSW (-61% erwartetes Gewinnwachstum), LPG (-43%), FRO (-3%) sowie die Energiewerte OVV, CVE, EC und SM -- technisch teils am Pivot, fundamental aber ohne CANSLIM-Wachstum.",
+    "FEHLAUSBRUCH / UNTER PIVOT: ANET (-7,5% unter dem Hoch vom 05.08.), HWM (-1,3% unter Pivot), OKTA (-6,1% unter Pivot), CRWD und DELL (beide nach Hochlauf zurueckgefallen, RS 97 bzw. 99, aber kein sauberes Kauffenster).",
+    "SUBSTANZ-/VALUE-TITEL OHNE WACHSTUM: THG, TRV, MET, NTRS, OMC, MSM, EXPD, PAG, KTB und MSGS/MSGE -- teilweise technisch sauber am Pivot, erfuellen aber die Wachstumsanforderungen von C und A nicht.",
+    "ALLGEMEIN Lauf 95: Von 1.293 gescreenten Aktien bestanden 27 die technische Pruefung (Stage-2-Trend, RS, Basisqualitaet, Pivot-Naehe, keine Ueberdehnung); nach fundamentaler CANSLIM-Pruefung und Earnings-Termin-Kontrolle blieben 5 Picks. Auffaelligstes Merkmal des Laufs: Die Indizes stehen auf Rekordniveau, die Einzelausbrueche erfolgen aber ueberwiegend auf unterdurchschnittlichem Volumen -- Qualitaet vor Anzahl, gestaffelt einsteigen."
   ]
 }
