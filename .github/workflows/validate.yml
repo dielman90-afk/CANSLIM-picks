@@ -1,0 +1,32 @@
+name: canslim-picks validieren
+
+# Jeder Push auf diese Datei wird gegen den Datenvertrag geprueft
+# (canslim-picks.schema.json). Ein Lauf, der das Schema verletzt, faellt
+# hier auf — und nicht erst als leeres oder halbes Widget im Dashboard.
+
+on:
+  push:
+    paths:
+      - 'canslim-picks.json'
+      - 'canslim-picks.schema.json'
+      - '.github/workflows/validate.yml'
+  pull_request:
+    paths:
+      - 'canslim-picks.json'
+      - 'canslim-picks.schema.json'
+  workflow_dispatch: {}
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - run: pip install jsonschema
+
+      - name: Gegen das Schema pruefen
+        run: python3 validate_picks.py canslim-picks.json
