@@ -1,0 +1,101 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/dielman90-afk/CANSLIM-picks/blob/main/canslim-picks.schema.json",
+  "title": "CANSLIM-Picks — Datenvertrag zwischen Analyse-Routine und Dashboard",
+  "description": "Verbindliches Format von canslim-picks.json. Producer: die taegliche CANSLIM-Routine. Consumer: das Stock-Weather-Dashboard. Aenderungen hier sind Breaking Changes und muessen in beiden Projekten nachgezogen werden.",
+  "type": "object",
+  "required": ["updated", "market_signal"],
+  "additionalProperties": true,
+  "properties": {
+    "updated": {
+      "type": "string",
+      "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$",
+      "description": "Datum des Laufs, JJJJ-MM-TT. Das Dashboard markiert den Stand als veraltet, wenn er aelter als 4 Tage ist."
+    },
+    "run": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Fortlaufende Lauf-Nummer. Wird im Footer des Widgets angezeigt."
+    },
+    "market_signal": {
+      "type": "string",
+      "enum": ["GRUEN", "GRÜN", "GELB", "ROT", "GREEN", "YELLOW", "RED"],
+      "description": "Marktampel nach O'Neil. Deutsch bevorzugt (GRUEN/GELB/ROT); die englischen Werte bleiben aus Kompatibilitaet zu aelteren Laeufen erlaubt. Das Dashboard normalisiert beides."
+    },
+    "market_note": {
+      "type": "string",
+      "description": "Begruendung der Marktampel. Wird als aufklappbarer Text unter dem Widget-Titel angezeigt."
+    },
+    "picks_note": {
+      "type": "string",
+      "description": "Einordnung der Auswahl insgesamt (Selektivitaet, Reihenfolge, Warnungen). Zweite aufklappbare Zeile im Widget-Kopf."
+    },
+    "picks": {
+      "type": "array",
+      "maxItems": 8,
+      "description": "Kaufkandidaten. Das Dashboard zeigt maximal 8. Leeres Array ist zulaessig (z. B. Marktampel ROT).",
+      "items": { "$ref": "#/definitions/eintrag" }
+    },
+    "watchlist": {
+      "type": "array",
+      "maxItems": 8,
+      "description": "Beobachtungsliste: technisch interessant, aber (noch) kein Kauf. Wird ZUSAETZLICH zu den Picks angezeigt.",
+      "items": { "$ref": "#/definitions/eintrag" }
+    },
+    "filtered_out": {
+      "type": "array",
+      "description": "Klartext-Begruendungen, warum Kandidaten aussortiert wurden. Wird als eigener Block am Ende des Widgets angezeigt.",
+      "items": {
+        "oneOf": [
+          { "type": "string" },
+          {
+            "type": "object",
+            "properties": {
+              "ticker": { "type": "string" },
+              "reason": { "type": "string" },
+              "note":   { "type": "string" }
+            },
+            "additionalProperties": true
+          }
+        ]
+      }
+    }
+  },
+  "definitions": {
+    "eintrag": {
+      "type": "object",
+      "required": ["ticker"],
+      "additionalProperties": true,
+      "properties": {
+        "ticker":  { "type": "string", "minLength": 1, "description": "Boersenkuerzel, z. B. MOG.A." },
+        "company": { "type": "string", "description": "Firmenname. Wird unter dem Ticker angezeigt. (Alt-Feldname `name` wird vom Dashboard weiterhin gelesen.)" },
+        "name":    { "type": "string", "description": "VERALTET — bitte `company` verwenden. Nur noch aus Kompatibilitaet unterstuetzt." },
+        "sector":  { "type": "string", "description": "Sektor/Branche. Wird als Chip auf der Karte angezeigt." },
+        "status": {
+          "type": "string",
+          "description": "Stufe des Setups im Format 'STUFE -- Fliesstext'. Aus der STUFE (allem vor dem '--') leitet das Dashboard das farbige Badge ab. Erkannte Stufen: KUERZLICH AUSGEBROCHEN / AUSGEBROCHEN -> gruen 'Ausgebrochen'; DIREKT AM BREAKOUT-PUNKT / AM PIVOT -> gruen 'Am Pivot'; KURZ VOR DEM AUSBRUCH -> gelb 'Kurz vor Pivot'; UEBERDEHNT -> rot 'Ueberdehnt'."
+        },
+        "setup":       { "type": "string", "description": "Technische Analyse: Pivot, Basis, gleitende Durchschnitte, Volumen. Wird als Block 'SETUP' angezeigt." },
+        "buy_trigger": { "type": "string", "description": "Konkrete Kaufregel inkl. Kaufzone und Stop. Wird als Block 'KAUF-TRIGGER' angezeigt." },
+        "note":        { "type": "string", "description": "Freie Einordnung/Risiken. Wird als Block 'NOTIZ' bzw. 'GRUND' angezeigt." },
+        "reason":      { "type": "string", "description": "Nur Watchlist: Ausschlussgrund. Alternative zu `note`." },
+        "canslim": {
+          "type": "object",
+          "description": "Die sieben CANSLIM-Kriterien. Bevorzugt je Buchstabe ein erklaerender Fliesstext (erscheint als Tooltip auf dem Buchstaben-Chip); Booleans werden aus Kompatibilitaet weiter unterstuetzt. Bei Fliesstext gelten C-I als erfuellt, M folgt der Marktampel.",
+          "required": ["C", "A", "N", "S", "L", "I", "M"],
+          "additionalProperties": false,
+          "patternProperties": {
+            "^[CANSLIM]$": { "type": ["string", "boolean"] }
+          }
+        },
+        "price": {
+          "type": "number",
+          "description": "Optional. Letzter Kurs in USD. Fehlt er, blendet das Dashboard das Preisfeld aus (statt '—' anzuzeigen). Kurse veralten schnell — die konkreten Zahlen stehen ohnehin in `setup`/`buy_trigger`."
+        },
+        "pct_from_ath":  { "type": "number", "description": "Optional, nur Watchlist: Abstand zum Allzeithoch in Prozent. Erscheint als Badge." },
+        "chart_pattern": { "type": "string", "description": "Optional: Chartformation, z. B. 'Cup with Handle'. Erscheint als Chip." },
+        "pattern":       { "type": "string", "description": "Optional, maschinenlesbare Formation: kurz_vor_pivot | am_pivot | ausgebrochen." }
+      }
+    }
+  }
+}
