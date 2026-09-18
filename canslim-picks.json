@@ -1,9 +1,9 @@
 {
   "updated": "2026-09-18",
-  "run": 100,
+  "run": 101,
   "market_signal": "GELB",
-  "market_note": "Stand 18.09.2026 (vor US-Handelsstart, Triple-Witching-Tag). Nach dem hawkishen Fed-Zinsschritt vom 16.09. (+25 Basispunkte auf 3,75-4,00%) hat sich der Markt zwei Tage in Folge erholt: S&P 500 +1,12% auf 7.637,72 am 17.09., Dow +0,62% auf 51.779,85, Nasdaq Composite +1,7%. Treiber waren faellende Oelpreise und ruecklaeufige Anleiherenditen (10-Jahres-Rendite vom hoechsten Stand seit 2007 zurueckgekommen). Ein dreitaegiger Halbleiter-Rebound (SOXX +3,4% am 17.09., Intel +7,7%, AMD +6,5%, Arm +8,6%) stuetzte zusaetzlich, getragen von Berichten ueber Intel-SK-Hynix-Gespraeche und anhaltend knappem Speicherchip-Angebot. Fuer Freitag (18.09., Triple Witching mit typischerweise erhoehter Volatilitaet) zeigten die Futures vor Handelsbeginn erneut nach oben, MSCI Asien-Index +0,8%. Der S&P 500 liegt trotz der Erholung noch rund 2,1% unter seinem Allzeithoch vom 13.08. (7.798,99). MARKTBREITE BLEIBT DAS KERNPROBLEM: Nur 33,5% der US-Aktien notierten zum Stand 15.09. ueber ihrer 50-Tage-Linie -- nahezu unveraendert schwach gegenueber Lauf 99 (17.09., dort rund 33%) und weit von den rund 48% aus Lauf 98 entfernt. Die Indexerholung der letzten zwei Tage wird also von einer relativ schmalen Gruppe grosser Werte (Halbleiter, Software) getragen, nicht von einer Verbesserung der Marktbreite. FAZIT: Marktampel bleibt GELB. Die Kurserholung ist ermutigend, aber ohne Bestaetigung durch die Marktbreite noch nicht belastbar genug fuer GRUEN; der hawkishe Fed-Ausblick (weitere Zinsschritte moeglich) und der Triple-Witching-Tag sprechen zusaetzlich fuer Vorsicht. Nur mit reduzierter Positionsgroesse und strikter Trigger-Disziplin kaufen. Eine Bestaetigung der Erholung durch steigende Marktbreite (ueber 40% ueber der 50-Tage-Linie) waere ein Kandidat fuer eine Hochstufung auf GRUEN; ein erneuter Bruch unter 7.500 im S&P waere ein Kandidat fuer ROT.",
-  "picks_note": "3 Picks (HNGE, CRWD, HEI) plus 2 Watchlist-Titel (CHEF, KNSA) -- bewusst knapp gehalten. Ausschlaggebend war diese Runde vor allem die Gegenprobe bei TG Therapeutics (TGTX): Auf den ersten Blick ein Lehrbuch-CANSLIM-Kandidat mit +64% Umsatzwachstum beim Hauptprodukt BRIUMVI und einer weiteren Anhebung der Jahresprognose -- die Detailpruefung zeigt jedoch einen Gewinneinbruch (Quartals-EPS 0,05 USD gegen Konsens 0,33 USD, ein Fehlschlag von rund 85%, Nettogewinn -72% ggue. Vorjahr wegen stark gestiegener F&E- und Vertriebskosten). Genau das C-Kriterium, das CANSLIM an die erste Stelle setzt, ist damit nicht erfuellt -- TGTX fliegt trotz starker Wachstumsstory aus der Auswahl (siehe filtered_out). Von den verbliebenen Kandidaten sind HNGE (KUERZLICH AUSGEBROCHEN, neues 52-Wochen-Hoch 17.09. nach Q2-Beat und GAAP-Turnaround in die Gewinnzone) und CRWD (DIREKT AM BREAKOUT-PUNKT, 9. Quartal in Folge ueber den Erwartungen, ARR-Wachstum beschleunigt) die staerksten Setups dieser Runde. HEI bleibt unveraendert aus Lauf 99 KURZ VOR DEM AUSBRUCH -- der Pivot wurde in der Zwischenzeit nicht erreicht, das Setup aber auch nicht beschaedigt. CHEF wandert von Pick auf Watchlist: das S-Kriterium (+12,9% Umsatz) liegt strukturell unter der CANSLIM-Schwelle und es gab seit Lauf 99 keinen neuen Katalysator. Sektoren breit gestreut: Digital-Health (HNGE), Cybersecurity (CRWD), Luftfahrt-Zulieferer (HEI) -- keine Konzentration auf ein einzelnes Thema wie die Halbleiter-/Datacenter-Rallye. UMSETZUNG: Buy-on-Trigger fuer alle drei Picks, wegen Marktampel GELB nur mit halber Positionsgroesse.",
+  "market_note": "Stand 18.09.2026 (Triple-Witching-Freitag, rund 7 Billionen USD Optionsnotional laeuft aus). Nach dem hawkishen Fed-Zinsschritt vom 16.09. (+25 Basispunkte auf 3,75-4,00%) signalisiert der Dot Plot weitere Schritte: 16 von 18 Notenbankern erwarten bis Jahresende mindestens eine weitere Anhebung um 25 Basispunkte, 4 davon sogar 50 Basispunkte mehr (Medianerwartung 2026 rund 4,125%). Fed-Chair Warsh nannte eine sich festigende Wirtschaft, AI-Capex-Wettbewerb und Geopolitik als Gruende fuer die erhoehten Renditen. Die zwei-Tages-Erholung vom 16./17.09. (S&P 500 17.09. bei 7.637,72, +1,12%; Dow 51.779,85, +0,62%; Nasdaq +1,7%) laesst sich fuer den 18.09. selbst nicht eindeutig bestaetigen: Quellen zeigen wahlweise eine schwache, gemischte Sitzung (S&P +0,11%, Dow -0,13%, Nasdaq +0,39%, abkuehlende Dynamik) oder widerspruechlich einen erneuten kraeftigen Nasdaq-Sprung (+1,69%) -- Letzteres duerfte ein falsch datierter Wert vom Vortag sein (siehe filtered_out). MARKTBREITE BLEIBT UNVERAENDERT SCHWACH: je nach Quelle notierten am 15./17.09. nur 31-33,5% der US-Aktien ueber ihrer 50-Tage-Linie -- keine Verbesserung gegenueber Lauf 99/100 und weiterhin weit von den rund 48% vor einem Monat entfernt. Ein verlaesslicher aktueller Distribution-Day-Count sowie NYSE-Hoch/Tief-Zahlen liessen sich diese Runde nicht ermitteln (letzter gesicherter Distribution-Day-Stand vom 16.08. ist zu alt fuer eine Aussage). FAZIT: Marktampel bleibt GELB. Die Indexerholung ist real, aber ohne Bestaetigung durch die Marktbreite, mit stockendem Momentum am Freitag selbst und dem zusaetzlichen Verzerrungseffekt des Triple-Witching-Tages nicht belastbar genug fuer GRUEN; der hawkishe Fed-Ausblick spricht weiter fuer Vorsicht. Fuer ROT fehlt umgekehrt ein bestaetigter Bruch oder ein klarer Anstieg der Distribution-Days. Nur mit reduzierter Positionsgroesse und strikter Trigger-Disziplin kaufen. Eine Bestaetigung der Erholung durch steigende Marktbreite (ueber 40% ueber der 50-Tage-Linie) waere ein Kandidat fuer eine Hochstufung auf GRUEN; ein erneuter Bruch unter 7.500 im S&P waere ein Kandidat fuer ROT.",
+  "picks_note": "5 Picks (HNGE, CRWD, HEI, NET, ARGX) plus 4 Watchlist-Titel (CHEF, KNSA, NTRA, IOT) -- mehr Auswahl als in Lauf 99/100, weil die heutige Recherche zwei zusaetzliche, technisch und fundamental sehr saubere Setups gefunden hat: NET (Cloudflare, nur rund 0,7% unter dem 52-Wochen-Hoch nach +36% Umsatzwachstum) und ARGX (argenx, druckt heute frische Allzeithochs nach dem 18. Quartal in Folge mit Umsatzwachstum). HNGE, CRWD und HEI werden aus Lauf 100 als Kern-Setups bestaetigt; CRWD hat den Pivot 250,32 USD am 17.09. intraday beruehrt, aber noch nicht per Schlusskurs ueberwunden (Status unveraendert 'am Breakout-Punkt'). NEU AUF DER WATCHLIST statt Pick: NTRA (Natera, +37,7% Umsatzwachstum und frischer Ausbruch, aber GAAP-Verlust verfehlt das C-Kriterium -- gleiche Logik wie der fruehere NBIS-Ausschluss) und IOT (Samsara, starker GAAP-Turnaround und Prognoseanhebung, aber Kurs noch 9-15% unter dem alten 52-Wochen-Hoch ohne verifizierbaren engen Pivot, vergleichbar mit der Distanz die bei KNSA bereits zum Ausschluss aus den Picks fuehrte). WICHTIGER VORBEHALT DIESER RUNDE: Die Web-Recherche lieferte mehrfach widerspruechliche Kursdaten -- u.a. der aktuelle HEI-Kurs je nach Quelle zwischen rund 272 und 359 USD, der CRWD-Schlusskurs vom 17.09. mit 245,70 oder 241,36 USD, dazu die oben genannte Nasdaq-Diskrepanz (Details siehe filtered_out). Die Kauftrigger selbst sind davon nicht betroffen, da sie an festen Pivot-Schlusskursen haengen und nicht am aktuellen Kurs -- vor jedem Trade sollte der Live-Kurs trotzdem unabhaengig gegengeprueft werden. UMSETZUNG: Buy-on-Trigger fuer alle Picks, wegen Marktampel GELB nur mit halber Positionsgroesse.",
   "picks": [
     {
       "ticker": "HNGE",
@@ -12,15 +12,15 @@
       "price": 96.66,
       "pattern": "ausgebrochen",
       "chart_pattern": "Basis nach Q2-Bericht, Ausbruch auf neues 52-Wochen-Hoch",
-      "status": "KUERZLICH AUSGEBROCHEN -- neues 52-Wochen-Hoch 96,66 USD am 17.09., getragen von starkem Q2-Bericht und angehobener Jahresprognose.",
-      "setup": "52-Wochen-Hoch (= neuer Pivot-Referenzpunkt) 96,66 USD, erreicht am 17.09.2026, vorheriger Schlusskurs 16.09. bei 93,73 USD. Die Aktie handelt an der Spitze ihres 52-Wochen-Bereichs (30,08-96,66 USD) und oberhalb der 200-Tage-Linie. HINWEIS ZUR DATENLAGE: keine institutionellen Volumen- oder RS-Rang-Daten verfuegbar diese Runde (Tooling-Einschraenkung, siehe filtered_out); Kursstand aus oeffentlichen Web-Suchergebnissen, kein Live-Kursabruf.",
-      "buy_trigger": "Kauf bei TAGESSCHLUSS ueber 96,66 USD, nach Moeglichkeit mit ueberdurchschnittlichem Volumen. Kaufzone 96,66-101,50 USD (Pivot bis +5%). Stop 7-8% unter Einstieg. Wegen Marktampel GELB nur halbe Positionsgroesse.",
-      "note": "Q2 2026 (berichtet 04.08.): Umsatz 213 Mio USD, +53% ggue. Vorjahr, ueber der eigenen Prognose von 200-202 Mio USD. Non-GAAP-Betriebsergebnis mehr als verdoppelt auf 62 Mio USD (29% Marge). GAAP-Nettogewinn Turnaround auf 43,7 Mio USD (Vorjahr: Verlust 575,7 Mio USD, groesstenteils IPO-bedingte Sonderposten). Jahresprognose 2026 angehoben auf 856-860 Mio USD Umsatz (+46%). Zusaetzlich Uebernahme von Cylinder Health (virtuelle Magen-Darm-Versorgung) fuer 105 Mio USD angekuendigt -- Erweiterung ueber MSK-Kernprodukt hinaus. RISIKEN: (1) Boersengang erst 2025 -- keine mehrjaehrige Kennzahlenhistorie, A-Kriterium eingeschraenkt pruefbar. (2) Bewertung nach dem Kurssprung nicht mehr guenstig. (3) Naechster Bericht (Q3) laut Muster Ende Oktober/Anfang November -- vor Kauf pruefen, ob das Kauffenster (Kaufzone) davor ausreicht. (4) Institutionelle Volumenbestaetigung diese Runde nicht unabhaengig geprueft.",
+      "status": "KUERZLICH AUSGEBROCHEN -- neues 52-Wochen-Hoch 96,66 USD am 17.09., getragen von starkem Q2-Bericht und angehobener Jahresprognose. Fuer den 18.09. selbst konnte trotz mehrfacher Suche kein aktueller Kurs ermittelt werden (Datenluecke), es gibt aber auch kein Anzeichen fuer einen Ruecksetzer.",
+      "setup": "52-Wochen-Hoch (= neuer Pivot-Referenzpunkt) 96,66 USD, erreicht am 17.09.2026, vorheriger Schlusskurs 16.09. bei 93,73 USD. Die Aktie handelt an der Spitze ihres 52-Wochen-Bereichs (30,08-96,66 USD) und oberhalb der 200-Tage-Linie. HINWEIS ZUR DATENLAGE: keine institutionellen Volumen- oder RS-Rang-Daten verfuegbar diese Runde; kein aktueller Kurs fuer 18.09. auffindbar -- vor Kauf aktuellen Schlusskurs pruefen.",
+      "buy_trigger": "Kauf bei TAGESSCHLUSS ueber 96,66 USD, nach Moeglichkeit mit ueberdurchschnittlichem Volumen (Triple-Witching-Tag 18.09. kann Volumen verzerren -- Bestaetigung am Folgetag pruefen). Kaufzone 96,66-101,50 USD (Pivot bis +5%). Stop 7-8% unter Einstieg. Wegen Marktampel GELB nur halbe Positionsgroesse.",
+      "note": "Q2 2026 (berichtet 04.08.): Umsatz 213 Mio USD, +53% ggue. Vorjahr, ueber der eigenen Prognose von 200-202 Mio USD. Non-GAAP-Betriebsergebnis mehr als verdoppelt auf 62 Mio USD (29% Marge). GAAP-Nettogewinn-Turnaround auf 43,7 Mio USD (Vorjahr: Verlust 575,7 Mio USD, groesstenteils IPO-bedingte Sonderposten). Jahresprognose 2026 angehoben auf 856-860 Mio USD Umsatz (+46%). Zusaetzlich Uebernahme von Cylinder Health (virtuelle Magen-Darm-Versorgung) fuer 105 Mio USD angekuendigt. RISIKEN: (1) Boersengang erst 2025 -- keine mehrjaehrige Kennzahlenhistorie, A-Kriterium eingeschraenkt pruefbar. (2) Bewertung nach dem Kurssprung nicht mehr guenstig. (3) Naechster Bericht (Q3) laut Muster Ende Oktober/Anfang November. (4) Institutionelle Volumenbestaetigung diese Runde nicht unabhaengig geprueft.",
       "canslim": {
-        "C": "ERFUELLT, deutlich. Non-GAAP-Betriebsergebnis mehr als verdoppelt (62 Mio USD, 29% Marge), GAAP-Nettogewinn Turnaround auf 43,7 Mio USD gegen einen Vorjahresverlust -- weit ueber der 25%-Schwelle.",
+        "C": "ERFUELLT, deutlich. Non-GAAP-Betriebsergebnis mehr als verdoppelt (62 Mio USD, 29% Marge), GAAP-Nettogewinn-Turnaround auf 43,7 Mio USD gegen einen Vorjahresverlust -- weit ueber der 25%-Schwelle.",
         "A": "PLAUSIBEL, eingeschraenkt verifizierbar. Boersengang 2025, daher keine mehrjaehrige Jahresreihe pruefbar; der Quartalstrend seit IPO zeigt aber konsistent beschleunigendes Wachstum und Margenausweitung.",
         "N": "ERFUELLT. Neues 52-Wochen-Hoch am 17.09., angehobene Jahresprognose, plus Uebernahme von Cylinder Health als zusaetzlicher Wachstumskatalysator.",
-        "S": "ERFUELLT, deutlich. Quartalsumsatz +53% auf 213 Mio USD -- weit ueber der 20-25%-Schwelle, zusaetzlich ueber der eigenen Prognose.",
+        "S": "ERFUELLT, deutlich. Quartalsumsatz +53% auf 213 Mio USD -- weit ueber der 20-25%-Schwelle.",
         "L": "ERFUELLT. Aktie an der Spitze des 52-Wochen-Bereichs, fuehrender Anbieter fuer digitale MSK-Therapie; kein unabhaengig geprueter RS-Rang diese Runde.",
         "I": "NICHT VERIFIZIERT diese Runde -- keine Up/Down-Volumendaten verfuegbar.",
         "M": "NICHT ERFUELLT -- Marktampel GELB. Daher nur halbe Positionsgroesse und strikte Trigger-Disziplin."
@@ -30,13 +30,12 @@
       "ticker": "CRWD",
       "company": "CrowdStrike Holdings, Inc.",
       "sector": "Technologie / Cybersecurity",
-      "price": 247.15,
       "pattern": "am_pivot",
       "chart_pattern": "Enge Konsolidierung direkt unter dem 52-Wochen-Hoch",
-      "status": "DIREKT AM BREAKOUT-PUNKT -- nur 1,3% unter dem 52-Wochen-Hoch von 250,32 USD, nach dem neunten Quartal in Folge ueber den Erwartungen.",
-      "setup": "52-Wochen-Hoch (= Pivot) 250,32 USD, Kurs zuletzt (17.09.) 247,15 USD, damit rund 1,3% darunter -- die engste Distanz aller Picks dieser Runde. 12-Monats-Performance +118%. HINWEIS ZUR DATENLAGE: keine institutionellen Volumen- oder RS-Rang-Daten verfuegbar diese Runde; Kursstand aus oeffentlichen Web-Suchergebnissen, kein Live-Kursabruf.",
+      "status": "DIREKT AM BREAKOUT-PUNKT -- Kurs beruehrte am 17.09. intraday den Pivot 250,32 USD, schloss aber darunter. Der Schlusskurs wird je nach Quelle mit 245,70 oder 241,36 USD angegeben (nicht eindeutig verifizierbar) -- rund 2-4% unter dem Pivot.",
+      "setup": "52-Wochen-Hoch (= Pivot) 250,32 USD. Intraday-Spanne 17.09. lag bei 233,19-250,32 USD, der Pivot wurde also beruehrt, aber nicht per Schlusskurs ueberwunden. 12-Monats-Performance +118%. HINWEIS ZUR DATENLAGE: der Schlusskurs vom 17.09. ist zwischen Quellen widerspruechlich (245,70 vs. 241,36 USD); vor Kauf aktuellen Kurs unabhaengig gegenpruefen.",
       "buy_trigger": "Kauf bei TAGESSCHLUSS ueber 250,32 USD, nach Moeglichkeit mit ueberdurchschnittlichem Volumen (Triple-Witching-Tag 18.09. kann Volumen verzerren -- Bestaetigung am Folgetag pruefen). Kaufzone 250,32-262,84 USD (Pivot bis +5%). Stop 7-8% unter Einstieg. Wegen Marktampel GELB nur halbe Positionsgroesse.",
-      "note": "Q2 Geschaeftsjahr 2027 (berichtet 26.08.): Umsatz 1,47 Mrd USD, +26% ggue. Vorjahr, Subscription-Umsatz +27%. Non-GAAP-EPS 0,31 USD (+34% ggue. Vorjahr) gegen Konsens 0,29 USD -- neunter Beat in Folge. Annual Recurring Revenue (ARR) 5,84 Mrd USD (+25%), Nettoneugeschaeft (Net New ARR) beschleunigte auf 332,8 Mio USD (+51% ggue. Vorjahr). Falcon-Flex-Plattform-ARR ueber 2,29 Mrd USD (+101%). FY27-Guidance angehoben: EPS 1,25-1,26 USD (ueber Konsens 1,23 USD), Net-New-ARR-Wachstumsprognose um 630 Basispunkte auf 34% angehoben. RISIKEN: (1) Bewertung mit KGV auf Non-GAAP-Basis im hohen Bereich -- kein klassischer Value-Titel. (2) Aktie bereits 12 Monate im Aufwaertstrend, Rueckschlagsrisiko bei Gesamtmarktschwaeche entsprechend hoeher. (3) Naechster Bericht erst 01.12. -- ausserhalb des unmittelbaren Kauffensters, daher kein Earnings-Risiko fuer den Trigger. (4) Institutionelle Volumenbestaetigung diese Runde nicht unabhaengig geprueft.",
+      "note": "Q2 Geschaeftsjahr 2027 (berichtet 26.08.): Umsatz 1,47 Mrd USD, +26% ggue. Vorjahr, Subscription-Umsatz +27%. Non-GAAP-EPS 0,31 USD (+34% ggue. Vorjahr) gegen Konsens 0,29 USD -- neunter Beat in Folge. ARR 5,84 Mrd USD (+25%), Net New ARR beschleunigte auf 332,8 Mio USD (+51%). Falcon-Flex-Plattform-ARR ueber 2,29 Mrd USD (+101%). FY27-Guidance angehoben: EPS 1,25-1,26 USD, Net-New-ARR-Wachstumsprognose um 630 Basispunkte auf 34% angehoben. RISIKEN: (1) Bewertung auf Non-GAAP-Basis im hohen Bereich. (2) Aktie bereits 12 Monate im Aufwaertstrend, Rueckschlagsrisiko bei Gesamtmarktschwaeche entsprechend hoeher. (3) Naechster Bericht erst 01.12. -- kein Earnings-Risiko fuer den Trigger. (4) Institutionelle Volumenbestaetigung diese Runde nicht unabhaengig geprueft.",
       "canslim": {
         "C": "ERFUELLT, deutlich. Non-GAAP-EPS 0,31 USD, +34% ggue. Vorjahr, neunter Beat in Folge -- weit ueber der 25%-Schwelle.",
         "A": "ERFUELLT. Mehrjaehrig konsistentes ARR- und Margenwachstum seit dem Boersengang; Analystenkonsens fuer das laufende Geschaeftsjahr mehrfach angehoben.",
@@ -51,20 +50,61 @@
       "ticker": "HEI",
       "company": "HEICO Corporation",
       "sector": "Industrie / Luftfahrt-Zulieferer und Elektronik",
-      "price": 358.26,
       "pattern": "kurz_vor_pivot",
-      "chart_pattern": "Basis dicht unter dem 52-Wochen-Hoch, seit Lauf 99 unveraendert",
-      "status": "KURZ VOR DEM AUSBRUCH -- unveraendert aus Lauf 99, rund 3,6% unter dem 52-Wochen-Hoch von 369,48 USD, Pivot bislang nicht erreicht, Setup aber intakt.",
-      "setup": "52-Wochen-Hoch (= Pivot) 369,48 USD, Kurs zuletzt rund 358,26 USD, damit rund 3,6% darunter -- praktisch unveraendert gegenueber Lauf 99 (17.09., dort 356,36 USD). Der Rekord-Quartalsbericht vom 01.09. wirkt weiter nach, ohne dass bislang eine Ausbruchsbewegung stattgefunden hat. HINWEIS ZUR DATENLAGE: keine institutionellen Volumen- oder RS-Rang-Daten verfuegbar diese Runde; Kursstand aus oeffentlichen Web-Suchergebnissen, kein Live-Kursabruf.",
+      "chart_pattern": "Basis dicht unter dem 52-Wochen-Hoch, seit Lauf 99/100 unveraendert",
+      "status": "KURZ VOR DEM AUSBRUCH -- unveraendert aus Lauf 99/100, Pivot 369,48 USD bislang nicht erreicht. Der aktuelle Kurs konnte diese Runde NICHT verlaesslich bestimmt werden (siehe Datenhinweis) -- der Kauftrigger selbst bleibt davon unberuehrt, da er an einem festen Schlusskurs-Niveau haengt.",
+      "setup": "52-Wochen-Hoch (= Pivot) 369,48 USD. HINWEIS ZUR DATENLAGE (diese Runde besonders ausgepraegt): fuenf verschiedene Quellen nannten fuer den aktuellen Kurs Werte zwischen rund 272 und 359 USD -- eine Streuung, die zu breit ist, um daraus eine verlaessliche Pivot-Distanz abzuleiten. Die Fundamentaldaten sind unveraendert stark (Rekord-Q3 vom 01.09.), Analysten-Kursziele clustern bei 365-421 USD (Median rund 390 USD), also oberhalb des Pivots -- das stuetzt die These, ohne die genaue Distanz zu bestaetigen. Vor Kauf zwingend Live-Kurs pruefen.",
       "buy_trigger": "Kauf erst bei TAGESSCHLUSS ueber 369,48 USD, nach Moeglichkeit mit ueberdurchschnittlichem Volumen. Kaufzone 369,48-388,00 USD (Pivot bis +5%). Stop 7-8% unter Einstieg. Wegen Marktampel GELB nur halbe Positionsgroesse.",
-      "note": "Q3 Geschaeftsjahr 2026 (berichtet 01.09.): Rekordumsatz 1.413,1 Mio USD (+23%), Nettogewinn 235,4 Mio USD (+33%), EPS 1,67 USD gegen Schaetzung 1,51 USD (+11% Beat). Operative Marge auf 25,1% ausgeweitet. Beide Segmente zweistellig gewachsen (Flight Support +12%, Electronic Technologies +18% organisch). Nischenzulieferer fuer PMA-Ersatzteile in der zivilen Luftfahrt sowie Elektronik/Verteidigung, profitiert von hoher Flugzeugauslastung und Verteidigungs-Auftragspolster (Branchenbacklog laut Berichten ueber 450 Mrd USD). RISIKEN: (1) Bewertung nicht guenstig (KGV historisch im hohen 30er-Bereich). (2) Naechster Bericht (Q4/Jahresbericht) fuer 16.12. terminiert -- ausserhalb des unmittelbaren Kauffensters, kein Earnings-Risiko fuer den Trigger. (3) Institutionelle Volumenbestaetigung diese Runde nicht unabhaengig geprueft.",
+      "note": "Q3 Geschaeftsjahr 2026 (berichtet 01.09.): Rekordumsatz 1.413,1 Mio USD (+23%), Nettogewinn 235,4 Mio USD (+33%), EPS 1,67 USD gegen Schaetzung 1,51 USD. Operative Marge auf 25,1% ausgeweitet. Beide Segmente zweistellig gewachsen (Flight Support +12%, Electronic Technologies +18% organisch, Segment-Marge 26,0% gegen 22,8% im Vorjahr). Analysten-Kursziele clustern bei 365-421 USD. RISIKEN: (1) Bewertung nicht guenstig (KGV historisch im hohen 30er-Bereich). (2) Naechster Bericht (Q4/Jahresbericht) fuer 16.12. terminiert. (3) Aktueller Kurs diese Runde nicht verlaesslich verifizierbar (siehe Setup). (4) Institutionelle Volumenbestaetigung nicht unabhaengig geprueft.",
       "canslim": {
         "C": "ERFUELLT, deutlich. Quartals-EPS 1,67 USD gegen 1,26 USD im Vorjahr, +32,5% -- ueber der 25%-Schwelle, dazu rund 11% Beat gegen Analystenschaetzung.",
         "A": "PLAUSIBEL ERFUELLT. HEICO gilt als bestaendiger langfristiger Fuehrer, Nettogewinn im aktuellen Quartal auf Rekordniveau (+33%); exakte mehrjaehrige Reihen diese Runde nicht neu geprueft.",
         "N": "ERFUELLT. Rekord-Quartalsbericht (01.09.) mit Beat auf allen Ebenen und Margenausweitung auf 25,1%.",
         "S": "ERFUELLT. Quartalsumsatz +23% auf Rekordniveau 1.413,1 Mio USD -- ueber der 20-25%-Schwelle.",
-        "L": "PLAUSIBEL, nicht unabhaengig verifiziert. Kurs nur 3,6% unter dem 52-Wochen-Hoch spricht fuer relative Staerke; kein exakter RS-Rang diese Runde verfuegbar.",
+        "L": "PLAUSIBEL, nicht unabhaengig verifiziert -- Analysten-Kursziele deutlich oberhalb des Pivots sprechen fuer relative Staerke; kein exakter RS-Rang diese Runde verfuegbar, aktueller Kurs diese Runde nicht zuverlaessig bestimmbar.",
         "I": "NICHT VERIFIZIERT diese Runde -- keine Up/Down-Volumendaten verfuegbar.",
+        "M": "NICHT ERFUELLT -- Marktampel GELB. Daher nur halbe Positionsgroesse und strikte Trigger-Disziplin."
+      }
+    },
+    {
+      "ticker": "NET",
+      "company": "Cloudflare, Inc.",
+      "sector": "Technologie / Internet-Infrastruktur und Sicherheit",
+      "price": 334.55,
+      "pattern": "am_pivot",
+      "chart_pattern": "Aufwaertstrend +45% in 3 Monaten, Kurs direkt unter dem 52-Wochen-Hoch",
+      "status": "DIREKT AM BREAKOUT-PUNKT -- nur rund 0,7% unter dem 52-Wochen-Hoch 336,90 USD (Stand 17.09.), nach starkem Q2-Bericht (06.08.) mit Kurssprung +17% nachboerslich.",
+      "setup": "52-Wochen-Hoch (= Pivot) 336,90 USD, Kurs zuletzt (17.09.) 334,55 USD, damit rund 0,7% darunter -- die engste Distanz aller Picks dieser Runde. Aktie +45% in den letzten 3 Monaten. Struktureller Rueckenwind durch AI-Traffic: laut CEO macht 'Non-Human Traffic' inzwischen ueber 50% des Datenverkehrs aus. HINWEIS ZUR DATENLAGE: keine institutionellen Volumen- oder RS-Rang-Daten verfuegbar diese Runde; Kursstand aus oeffentlichen Web-Suchergebnissen, kein Live-Kursabruf.",
+      "buy_trigger": "Kauf bei TAGESSCHLUSS ueber 336,90 USD, nach Moeglichkeit mit ueberdurchschnittlichem Volumen (Triple-Witching-Tag 18.09. kann Volumen verzerren -- Bestaetigung am Folgetag pruefen). Kaufzone 336,90-353,75 USD (Pivot bis +5%). Stop 7-8% unter Einstieg. Wegen Marktampel GELB nur halbe Positionsgroesse.",
+      "note": "Q2 2026 (berichtet 06.08.): Umsatz 696,1 Mio USD, +36% ggue. Vorjahr, rund 5% ueber Konsens. EPS 0,29 USD, Beat. Net Dollar Retention auf 120% verbessert (+6 Punkte ggue. Vorjahr). Grosskunden (Big-Spend-Kunden) +27% auf 4.698. Q3-Guidance impliziert +31% ggue. Vorjahr, FY26-Umsatzguidance 2.864-2.870 Mrd USD. RISIKEN: (1) weiterhin GAAP-Verlust, Profitabilitaetsziel erst 2028 -- Non-GAAP-Ergebnis positiv und ueber Konsens, GAAP-C-Kriterium daher nur eingeschraenkt bewertbar. (2) hohe Bewertung. (3) Naechster Bericht 29.10. -- ausserhalb des unmittelbaren Kauffensters. (4) Institutionelle Volumenbestaetigung diese Runde nicht unabhaengig geprueft.",
+      "canslim": {
+        "C": "PLAUSIBEL ERFUELLT auf Non-GAAP-Basis -- EPS 0,29 USD ueber Konsens; GAAP bleibt wegen laufender Wachstumsinvestitionen defizitaer (Profitabilitaetsziel 2028).",
+        "A": "PLAUSIBEL. Mehrjaehrig beschleunigter Umsatztrend (Q3-Guide impliziert +31%), aber noch keine durchgehend positive GAAP-Ergebnishistorie.",
+        "N": "ERFUELLT. AI-Traffic-Wachstum (Non-Human-Traffic ueber 50%) als neuer struktureller Treiber, plus Rekord-Kundenwachstum bei Grosskunden.",
+        "S": "ERFUELLT, deutlich. Quartalsumsatz +36% auf 696,1 Mio USD, Q3-Guide +31% -- weit ueber der 20-25%-Schwelle.",
+        "L": "ERFUELLT. Fuehrender Anbieter fuer Internet-Infrastruktur/Zero-Trust, Kurs direkt am 52-Wochen-Hoch, +45% in 3 Monaten; kein exakter RS-Rang diese Runde verfuegbar.",
+        "I": "PLAUSIBEL, nicht unabhaengig verifiziert -- Kurssprung +17% nachboerslich nach Zahlen spricht fuer starkes institutionelles Interesse.",
+        "M": "NICHT ERFUELLT -- Marktampel GELB. Daher nur halbe Positionsgroesse und strikte Trigger-Disziplin."
+      }
+    },
+    {
+      "ticker": "ARGX",
+      "company": "argenx SE",
+      "sector": "Gesundheit / Biopharma (Immunologie)",
+      "price": 1005.0,
+      "pattern": "ausgebrochen",
+      "chart_pattern": "Fortgesetzte Rally seit 02.09., neue Allzeithochs am 18.09.",
+      "status": "KUERZLICH AUSGEBROCHEN -- druckt am 18.09. neue Allzeithochs (Bandbreite rund 994-1.010 USD je nach Quelle), Rally seit 02.09. nach starkem Q2-Bericht und Analysten-Kurszielanhebungen.",
+      "setup": "Kontinuierliche neue Allzeithochs seit 02.09.2026, aktuell (18.09.) im Bereich 994-1.010 USD. Getragen vom Vyvgart-Franchise (FcRn-Antikoerper) in der Immunologie. HINWEIS ZUR DATENLAGE: keine institutionellen Volumen- oder RS-Rang-Daten verfuegbar diese Runde; Kursstand aus oeffentlichen Web-Suchergebnissen, kein Live-Kursabruf. Der Ausbruch ist bereits im Gange -- es gibt keinen klassischen, noch nicht ueberschrittenen Pivot mehr.",
+      "buy_trigger": "Bereits im bestaetigten Ausbruch. Fuer einen Neueinstieg: Kauf bei TAGESSCHLUSS auf neuem Hoch mit Volumenbestaetigung, Referenzniveau 994 USD (unterer Rand der aktuellen Spanne) nicht signifikant unterschreiten. Kaufzone 994-1.044 USD (Referenzniveau bis +5%). Stop 7-8% unter Einstieg. Wegen Marktampel GELB nur halbe Positionsgroesse.",
+      "note": "Q2 2026 (berichtet 23.07.): Produktumsatz 1,54 Mrd USD, +60% ggue. Vorjahr, +17% zum Vorquartal -- 18. Quartal in Folge mit Umsatzwachstum. EPS 7,32 USD gegen Konsens 5,86 USD. Operatives Ergebnis +146% ggue. Vorjahr. Mehrere Analysten-Kurszielanhebungen nach dem Bericht (Morgan Stanley auf 1.250 USD, Wells Fargo auf 1.415 USD). RISIKEN: (1) der Ergebnis-Katalysator liegt bereits rund 8 Wochen zurueck -- die aktuelle Staerke ist primaer technisch/analysten-getrieben, kein frischer Zahlenimpuls. (2) typisches Grosskapitalisierungs-Biotech-Risiko durch anstehende Studien-Ausleseergebnisse (Myositis/MMN, Q3/Q4 erwartet). (3) hoher absoluter Aktienkurs -- Positionsgroesse entsprechend planen. (4) Naechster Bericht rund 22.10. -- ausserhalb des unmittelbaren Kauffensters. (5) Institutionelle Volumenbestaetigung diese Runde nicht unabhaengig geprueft.",
+      "canslim": {
+        "C": "ERFUELLT, deutlich. EPS 7,32 USD gegen Konsens 5,86 USD, operatives Ergebnis +146% ggue. Vorjahr -- weit ueber der 25%-Schwelle.",
+        "A": "ERFUELLT. 18. Quartal in Folge mit Umsatzwachstum -- aussergewoehnlich konsistente mehrjaehrige Reihe.",
+        "N": "ERFUELLT. Fortgesetzte Vyvgart-Franchise-Expansion, Analysten-Kurszielanhebungen nach dem Bericht als Katalysator.",
+        "S": "ERFUELLT, deutlich. Produktumsatz +60% ggue. Vorjahr, +17% zum Vorquartal -- weit ueber der 20-25%-Schwelle.",
+        "L": "ERFUELLT. Fuehrender Anbieter im FcRn-Antikoerper-Segment, druckt aktuell neue Allzeithochs; kein exakter RS-Rang diese Runde verfuegbar.",
+        "I": "PLAUSIBEL, nicht unabhaengig verifiziert -- mehrere Analysten-Kurszielanhebungen (Morgan Stanley, Wells Fargo) nach dem Bericht.",
         "M": "NICHT ERFUELLT -- Marktampel GELB. Daher nur halbe Positionsgroesse und strikte Trigger-Disziplin."
       }
     }
@@ -76,14 +116,14 @@
       "sector": "Basiskonsum / Lebensmittel-Distribution",
       "price": 114.98,
       "pct_from_ath": -2.3,
-      "status": "KURZ VOR DEM AUSBRUCH, aber von Pick auf Watchlist herabgestuft -- S-Kriterium strukturell unter der CANSLIM-Schwelle und kein neuer Katalysator seit Lauf 99.",
-      "setup": "Pivot 117,65 USD (Allzeithoch vom 01.09.), Kurs unveraendert rund 114,98 USD, ca. 2,3% darunter -- identisch zu Lauf 99. TD-Cowen-Kurszielanhebung vom 11.09. (131,00 USD) liegt bereits eine Woche zurueck, kein frischer Impuls diese Runde.",
-      "reason": "AUSSCHLUSSGRUND fuer Picks diese Runde: Quartalsumsatzwachstum +12,9% liegt strukturell unter der 20-25%-CANSLIM-Schwelle -- CHEF ist primaer eine Margen-/Konsolidierungs-Story, kein Hyperwachstumswert. In einer Runde mit staerkeren Alternativen (HNGE, CRWD) reicht das fuer einen aktiven Pick nicht. Auf Watchlist behalten: bei Ausbruch ueber 117,65 USD mit Volumenbestaetigung erneut pruefen. Naechster Bericht (Q4) am 04.11. -- ausserhalb des unmittelbaren Fensters.",
+      "status": "KURZ VOR DEM AUSBRUCH, aber weiter auf Watchlist -- S-Kriterium strukturell unter der CANSLIM-Schwelle und kein neuer Katalysator seit Lauf 99/100.",
+      "setup": "Pivot 117,65 USD (Allzeithoch vom 01.09.), kein frischerer Kurs als 113,05-117,65 USD (Stand rund 01.-02.09.) auffindbar. FY26-Guidance bestaetigt (4,35-4,45 Mrd USD Umsatz, 88-92 Mio USD Nettogewinn), aber kein frischer Impuls diese Runde.",
+      "reason": "AUSSCHLUSSGRUND fuer Picks diese Runde: Quartalsumsatzwachstum +12,9% (organisch +12,2%) liegt strukturell unter der 20-25%-CANSLIM-Schwelle -- CHEF ist primaer eine Margen-/Konsolidierungs-Story, kein Hyperwachstumswert. Auf Watchlist behalten: bei Ausbruch ueber 117,65 USD mit Volumenbestaetigung erneut pruefen. Naechster Bericht (Q4) am 04.11.",
       "canslim": {
         "C": "PLAUSIBEL ERFUELLT laut Zacks Rang 1 (Strong Buy) und positiven Gewinnrevisionen; keine neue Quartalszahl diese Runde.",
-        "A": "ERFUELLT laut letztem bestaetigten Quartal (Q2) -- Bruttomarge waechst schneller als der Umsatz, Jahresprognose nach Q2 angehoben.",
-        "N": "TEILWEISE -- Kurszielanhebung TD Cowen (11.09.) liegt bereits eine Woche zurueck, kein frischer Katalysator diese Runde.",
-        "S": "NICHT ERFUELLT im engeren CANSLIM-Sinn -- Quartalsumsatz +12,9%, klar unter der 20-25%-Schwelle. Hauptgrund fuer die Herabstufung von Pick auf Watchlist.",
+        "A": "ERFUELLT laut letztem bestaetigten Quartal (Q2) -- Bruttomarge waechst schneller als der Umsatz, Jahresprognose nach Q2 angehoben und diese Runde bestaetigt.",
+        "N": "TEILWEISE -- kein frischer Katalysator seit Lauf 99/100.",
+        "S": "NICHT ERFUELLT im engeren CANSLIM-Sinn -- Quartalsumsatz +12,9%, klar unter der 20-25%-Schwelle.",
         "L": "PLAUSIBEL. Kurs nahe am Allzeithoch; kein exakter RS-Rang diese Runde verfuegbar.",
         "I": "NICHT VERIFIZIERT diese Runde -- keine Up/Down-Volumendaten verfuegbar.",
         "M": "NICHT ERFUELLT -- Marktampel GELB."
@@ -95,26 +135,63 @@
       "sector": "Gesundheit / Biopharma",
       "price": 75.11,
       "pct_from_ath": -9.1,
-      "status": "KURZ VOR DEM AUSBRUCH, aber Basis bleibt breiter als in Lauf 98 -- unveraendert zu Lauf 99, keine neue Kursbestaetigung diese Runde verfuegbar.",
-      "setup": "52-Wochen-Hoch 82,65 USD, letzter verfuegbarer Kurs (16.09.) 75,11 USD -- identisch zum Stand aus Lauf 99. Der Abstand zum Pivot hat sich seit Lauf 98 (6,1%) auf rund 9% vergroessert und diese Runde nicht wieder verengt. Fundamental laut Lauf 98 weiterhin stark (ARCALYST-Wachstum, angehobene Jahresprognose) -- diese Runde nicht neu verifiziert.",
-      "reason": "AUSSCHLUSSGRUND fuer Picks diese Runde: Die Basis bleibt breiter statt sich zu verengen, und es liegt kein aktuellerer Kurs- oder Volumenstand vor als in Lauf 99. Auf Watchlist behalten, bei erneuter Annaeherung an das Hoch mit Volumenbestaetigung erneut pruefen.",
+      "status": "KURZ VOR DEM AUSBRUCH, aber Basis bleibt breiter als in Lauf 98 -- unveraendert zu Lauf 99/100, keine neue Kursbestaetigung diese Runde verfuegbar.",
+      "setup": "52-Wochen-Hoch 82,65 USD, kein frischerer Kurs als 79,18 USD (Stand 17.08.) auffindbar. Der Abstand zum Pivot hat sich seit Lauf 98 (6,1%) auf rund 9% vergroessert und diese Runde nicht wieder verengt. Fundamental laut Lauf 98 weiterhin stark (ARCALYST-Wachstum von +55% Quartalsumsatz, angehobene Jahresprognose auf 930-945 Mio USD, KPL-1161-Phase-1-Start 01.09.) -- diese Runde nicht neu verifiziert.",
+      "reason": "AUSSCHLUSSGRUND fuer Picks diese Runde: Die Basis bleibt breiter statt sich zu verengen, und es liegt kein aktuellerer Kurs- oder Volumenstand vor als in Lauf 99/100. Auf Watchlist behalten, bei erneuter Annaeherung an das Hoch mit Volumenbestaetigung erneut pruefen.",
       "canslim": {
         "C": "Laut Lauf 98 erfuellt (+30% Quartalsgewinn je Aktie), seither nicht neu verifiziert.",
         "A": "Laut Lauf 98 erfuellt (Rueckkehr in die Gewinnzone, Jahresumsatz +60%).",
-        "N": "Laut Lauf 98 erfuellt (ARCALYST-Prognose angehoben, KPL-387 in Phase 3).",
+        "N": "Laut Lauf 98 erfuellt; KPL-1161 Phase-1-Start 01.09. als weiterer Katalysator.",
         "S": "Laut Lauf 98 erfuellt (+55% Quartalsumsatz), seither nicht neu verifiziert.",
         "L": "Fraglich -- der Kurs hat sich vom Hoch weiter entfernt statt sich anzunaehern.",
         "I": "NICHT VERIFIZIERT diese Runde.",
         "M": "NICHT ERFUELLT -- Marktampel GELB."
       }
+    },
+    {
+      "ticker": "NTRA",
+      "company": "Natera, Inc.",
+      "sector": "Gesundheit / Diagnostik (Gentests, Onkologie)",
+      "price": 321.0,
+      "pct_from_ath": -6.9,
+      "status": "KUERZLICH AUSGEBROCHEN, aber auf Watchlist statt Pick -- GAAP-Verlust erfuellt das C-Kriterium nicht, trotz starkem Wachstum.",
+      "setup": "Neues Allzeithoch rund 343-347 USD am 15.09., seither leichter Ruecksetzer auf rund 315-328 USD (rund 5-9% unter dem Hoch). Onkologie-Testvolumen +56% ggue. Vorjahr, Rekord von 1,04 Mio verarbeiteten Tests im Quartal.",
+      "reason": "AUSSCHLUSSGRUND fuer Picks diese Runde: GAAP-Verlust je Aktie -0,47 USD (Vorjahr -0,74 USD) -- der Verlust verringert sich zwar deutlich, aber das CANSLIM-C-Kriterium (Gewinnwachstum) ist bei negativem Ergebnis nicht erfuellbar, analog zur fruaheren NBIS-Ausschluss-Logik. Umsatzwachstum (+37,7%) und Prognoseanhebung waeren sonst ein starkes Setup. Auf Watchlist: bei Erreichen der GAAP-Gewinnschwelle oder erneuter Annaeherung an das Hoch (343-347 USD) mit Volumen erneut pruefen. Institutioneller Anteil ueber 90%.",
+      "canslim": {
+        "C": "NICHT ERFUELLT -- GAAP-Verlust -0,47 USD je Aktie, trotz deutlicher Verbesserung ggue. Vorjahr (-0,74 USD) noch kein Gewinn.",
+        "A": "PLAUSIBEL, eingeschraenkt -- mehrjaehriger Trend zu geringeren Verlusten, aber keine durchgehend positive Gewinnreihe.",
+        "N": "ERFUELLT. Onkologie-Testvolumen +56% ggue. Vorjahr, Jahresprognose deutlich angehoben auf 2,85-2,91 Mrd USD.",
+        "S": "ERFUELLT, deutlich. Quartalsumsatz +37,7% auf 752,8 Mio USD -- weit ueber der 20-25%-Schwelle.",
+        "L": "PLAUSIBEL. Neues Allzeithoch am 15.09., seither Ruecksetzer; kein exakter RS-Rang diese Runde verfuegbar.",
+        "I": "ERFUELLT laut Berichten -- institutioneller Anteil ueber 90%.",
+        "M": "NICHT ERFUELLT -- Marktampel GELB."
+      }
+    },
+    {
+      "ticker": "IOT",
+      "company": "Samsara Inc.",
+      "sector": "Technologie / IoT-Flottenmanagement-Software",
+      "price": 41.5,
+      "pct_from_ath": -12.6,
+      "status": "KURZ VOR DEM AUSBRUCH (unbestaetigt), aber auf Watchlist -- Pivot/Basis diese Runde nicht praezise genug verifizierbar, Abstand zum 52-Wochen-Hoch mit 9-15% zu gross fuer einen aktiven Pick.",
+      "setup": "Bull-Flag-Konsolidierung nach dem Q2-Bericht (03.09.), Ausbruchsversuch am 16.09. mit +7,6% nach mehreren Analysten-Kurszielanhebungen (Truist, RBC, JPMorgan, BMO). 52-Wochen-Hoch 47,47 USD (Dezember 2025), aktueller Kurs rund 40-43 USD.",
+      "reason": "AUSSCHLUSSGRUND fuer Picks diese Runde: kein praezise verifizierbarer Pivot -- die Quellen beschreiben eine Bull-Flag-Konsolidierung, der exakte Basisrand liess sich diese Runde nicht unabhaengig bestimmen. Zudem liegt der Kurs noch 9-15% unter dem alten 52-Wochen-Hoch -- eine Distanz, die bei KNSA bereits zum Ausschluss aus den Picks fuehrte. Fundamental sehr stark (Turnaround in die GAAP-Gewinnzone, +29,9% Umsatz, Prognoseanhebung, 96% institutioneller Anteil) -- bei einem bestaetigten, engeren Ausbruch mit klarem Pivot erneut pruefen.",
+      "canslim": {
+        "C": "ERFUELLT. Turnaround in die GAAP-Gewinnzone (Nettogewinn 16,2 Mio USD gegen Verlust im Vorjahr), Non-GAAP-EPS-Beat +27%.",
+        "A": "PLAUSIBEL. ARR-Wachstum auf ueber 2,1 Mrd USD, mehrjaehriger Wachstumstrend, aber noch junge Gewinnhistorie.",
+        "N": "ERFUELLT. Jahresprognose angehoben, 242 neue Kunden mit ueber 100.000 USD Jahresumsatz.",
+        "S": "ERFUELLT, deutlich. Quartalsumsatz +29,9% auf 508,4 Mio USD -- ueber der 20-25%-Schwelle.",
+        "L": "FRAGLICH diese Runde -- Kurs 9-15% unter dem 52-Wochen-Hoch, kein bestaetigter enger Pivot.",
+        "I": "ERFUELLT laut Berichten -- institutioneller Anteil 96%, mehrere Kurszielanhebungen nach dem Bericht.",
+        "M": "NICHT ERFUELLT -- Marktampel GELB."
+      }
     }
   ],
   "filtered_out": [
-    "GEWINNEINBRUCH TROTZ UMSATZWACHSTUM: TGTX (TG Therapeutics) -- auf den ersten Blick starkes CANSLIM-Setup (Briumvi-Umsatz +64%, Jahresprognose auf ca. 950 Mio USD angehoben, Kurs nur rund 6,5% unter dem 52-Wochen-Hoch von 59,30 USD). Die Detailpruefung zeigt jedoch: Quartals-EPS nur 0,05 USD gegen Konsens 0,33 USD (rund 85% Fehlschlag), Nettogewinn -72% auf 7,8 Mio USD (Vorjahr 28,2 Mio USD), Marge von 20% auf 3,2% eingebrochen -- getrieben durch stark gestiegene F&E- (verdreifacht auf 95,3 Mio USD) und Vertriebskosten. Das C-Kriterium (Quartalsgewinnwachstum), das CANSLIM an erste Stelle setzt, ist damit klar nicht erfuellt. Kein Kauf trotz starker Wachstumsstory beim Umsatz.",
-    "UMSATZ ZU SCHWACH FUER CANSLIM-SCHWELLE: FIVN (Five9) -- Aktie nahe 52-Wochen-Hoch (34,17 USD gegen Hoch 35,31 USD) nach Q2-Beat, aber Gesamtumsatz nur +10% ggue. Vorjahr (AI-Segment zwar +78%, macht aber nur einen Teil des Geschaefts aus). S-Kriterium klar verfehlt trotz guter Kursnaehe zum Pivot.",
-    "ZU WEIT VOM PIVOT ENTFERNT NACH KORREKTUR: CRDO (Credo Technology) rund 48% unter dem 52-Wochen-Hoch von 308,67 USD trotz weiterhin starkem Analystenkonsens (Strong Buy); PLXS (Plexus) rund 22% unter dem 52-Wochen-Hoch von 305,14 USD trotz Kurszielanhebung auf 330 USD. Beide fundamental interessant, aber kein Pivot in Reichweite -- bei neuer Basisbildung erneut pruefen.",
-    "UEBERDEHNT / ZU WEIT GELAUFEN: SNDK (SanDisk) rund 33% unter dem Juni-Hoch von 2.354,39 USD nach einer Rally von ueber +4.300% seit dem Boersengang 2025 -- fundamental laut Berichten weiter durch AI-getriebene NAND-Nachfrage gestuetzt, aber technisch weder ein frischer Ausbruch noch nahe am Pivot, sondern mitten in einer laengeren Korrektur nach Extremlauf. Bei neuer Basisbildung erneut pruefen.",
-    "ZYKLIK- BZW. DATENUNSICHERHEIT: Grosskapitalisierte Halbleiterwerte (u.a. Intel, AMD, Arm), die den dreitaegigen Sektor-Rebound anfuehrten, wurden diese Runde bewusst nicht als Einzelpicks aufgenommen -- die Bewegung ist bislang ein kurzfristiger Erholungs-/Shortcovering-Rebound nach vorherigen AI-Capex-Sorgen, kein bestaetigter Ausbruch aus einer sauberen Basis, und fuer mehrere Titel lagen diese Runde widerspruechliche Kursdaten vor. Bei Bestaetigung durch eine neue, engere Basis erneut pruefen.",
-    "METHODIK-HINWEIS DIESER RUNDE: Wie bereits in Lauf 99 stand kein Zugriff auf das fruehere Screening-Tool mit RS-Raengen und Up/Down-Volumen-Analyse zur Verfuegung; die Auswahl stuetzt sich auf oeffentliche Web-Suchergebnisse unterschiedlichen Datums (meist 15.-17.09.) und wurde nicht durch einen unabhaengigen Live-Kursabruf verifiziert. Institutionelle Volumenbestaetigung wurde bei keinem der drei Picks unabhaengig geprueft und ist entsprechend explizit als 'nicht verifiziert' gekennzeichnet statt erfunden."
+    "TARIFFGETRIEBENER BEAT OHNE ORGANISCHES WACHSTUM: ANF (Abercrombie & Fitch) trotz starkem Kurssprung (+30%) ausgeschlossen -- der Gewinn-Beat wurde massgeblich durch eine einmalige Zollrueckerstattung getrieben, das Umsatzwachstum liegt organisch nur bei rund 5% und damit weit unter der CANSLIM-S-Schwelle.",
+    "SCHWACHES MOMENTUM: TTAN (ServiceTitan) wegen sich verlangsamendem GTV-Wachstum nicht aufgenommen.",
+    "WEITERE GEPRUEFTE UND AUSGESCHLOSSENE KANDIDATEN: Docusign, Axon, Robinhood, Duolingo, CAVA, Wingstop, Dutch Bros, Toast, Sea Ltd, Klaviyo, Guidewire, GE Vernova, Fabrinet, Comfort Systems, Sterling Infrastructure, Kratos, AeroVironment, Boot Barn, HubSpot, DoorDash, Coinbase, Carvana, Shopify, Vital Farms und First Solar -- jeweils wegen zu grossem Abstand zum Pivot (Korrektur 15-30%+), Umsatzwachstum unter 20%, einem Gewinn-Fehlschlag oder nicht-organischem Ergebnistreiber (Einmaleffekte, Uebernahme) aussortiert.",
+    "GROSSKAPITALISIERTE HALBLEITERWERTE weiterhin nicht als Einzelpicks: der dreitaegige Rebound bei Intel/AMD/Arm bleibt ein Erholungs-/Shortcovering-Move ohne bestaetigten Ausbruch aus einer sauberen Basis (unveraendert zur Einschaetzung aus Lauf 100).",
+    "METHODIK- UND DATENQUALITAETS-HINWEIS DIESER RUNDE (WICHTIG): Die Web-Recherche lieferte heute mehrfach widerspruechliche Zahlen -- (1) Nasdaq-Tagesveraenderung fuer 18.09. wurde sowohl mit +0,39% als auch mit +1,69% angegeben (Letzteres vermutlich ein falsch datierter Wert vom 17.09.); (2) CRWD-Schlusskurs 17.09. wurde je nach Quelle mit 245,70 oder 241,36 USD angegeben; (3) der aktuelle HEI-Kurs streute je nach Quelle zwischen rund 272 und 359 USD -- zu breit, um daraus eine verlaessliche Pivot-Distanz abzuleiten (die Kaufregel bei HEI bleibt dennoch gueltig, da sie an einem festen Schlusskurs-Niveau haengt, nicht am aktuellen Kurs); (4) ein aktueller, gepruefter Distribution-Day-Count und NYSE-Hoch/Tief-Verhaeltnis fuer 17./18.09. konnte nicht ermittelt werden. Vor jedem Trade sollte der jeweilige Live-Kurs unabhaengig gegengeprueft werden."
   ]
 }
