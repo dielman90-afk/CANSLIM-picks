@@ -1,72 +1,30 @@
 {
-  "updated": "2026-10-16",
-  "run": 126,
-  "market_signal": "GELB",
-  "market_note": "Marktampel bleibt GELB mit weiterhin erhoehtem Risiko Richtung ROT. Nach dem heissen September-CPI (3,7% YoY vs. 3,6% erwartet) brach der Markt am 14.10.2026 ein: S&P 500 -1,11% auf 7.718,94, Nasdaq Composite -1,88% auf 26.692,87, Russell 2000 -1,9% -- fuenfter Verlusttag in sechs Sitzungen seit dem Rekordhoch vom 06.10. (S&P 7.818,93). Am 15.10. eine zaghafte Stabilisierung: S&P 500 +0,33% auf 7.744,06, Nasdaq +0,08% auf 26.713,02 -- ein frueher Tech-Abverkauf wurde im Handelsverlauf aufgeholt, aber OHNE klare Volumenbestaetigung und damit KEIN Follow-Through-Day. Marktbreite bleibt schwach: rund 49% der S&P-500-Werte ueber der 200-Tage-Linie (Rueckgang von ca. 71% im August), bereits am 06.10. negative Divergenz mit 69 NYSE New Lows gegen nur 37 New Highs trotz Index-Rekord. Makro-Risiko hat sich verschaerft: Fed-Chair Kevin Warsh hat im September erstmals seit drei Jahren die Zinsen angehoben und Null-Toleranz fuer Inflation ueber 2% signalisiert; fuer die FOMC-Sitzung am 27.-28.10. werden nach dem heissen CPI nun Chancen auf eine weitere Zinserhoehung gehandelt (Schaetzungen 12-42%), 'Halten' bleibt mit ca. 60-70% Basisszenario. VIX bei ca. 17 -- erhoeht, aber kein Panikniveau. FAZIT: Stabilisierung ja, Entwarnung nein -- weiterhin defensive Haltung: keine neuen Vollpositionen, auf einen echten Follow-Through-Day warten. Datenlage: WebFetch-Zugriff auf Finanzseiten war in diesem Lauf blockiert (Proxy/DNS-Fehler), daher stammen alle Zahlen aus WebSearch-Snippets -- vor jedem Trade zwingend gegen eine Live-Quelle pruefen.",
-  "picks_note": "0 Picks + 8 Watchlist (8 von max. 10 -- bewusst nicht aufgefuellt, Qualitaet vor Quantitaet). Markt bleibt GELB ohne bestaetigten Follow-Through-Day, daher weiterhin keine neuen Vollpositionen -- alle acht Kandidaten sind Beobachtung, kein Kauf. WICHTIGER HINWEIS ZUR DATENLAGE: In diesem Lauf war WebFetch auf gaengige Finanzseiten (Yahoo, Google Finance, Barchart, MarketBeat, StockAnalysis etc.) durchgehend blockiert (DNS-Fehler, vermutlich Proxy-Restriktion) -- alle Kurse und Status stammen daher aus WebSearch-Snippets, die teils widersprechen oder mehrere Tage alt sind. Entsprechend mit mehr Vorsicht als sonst behandeln und vor jedem Trade zwingend live verifizieren. BESTEHENDE WATCHLIST AKTUALISIERT: YPF (Pivot 51,10 USD) haelt den Ausbruch weiterhin, Volumen bleibt duenn, Berichtstermin diesmal uneinheitlich (29.10./06.11./10.11. je nach Quelle) -- in jedem Fall Sperrfrist. SN (Pivot 194,54 USD) ruckt mit zuletzt 188,80 USD (13.10., -2,9%) naeher an den Pivot, Sperrfrist vor Bericht 04.11. bestaetigt. KEYS (Pivot ca. 371-375 USD): der zuvor gemeldete nachboerslichen KI-Pop liess sich NICHT unabhaengig bestaetigen -- mit Vorsicht behandeln, Status bleibt kurz vor Pivot. HALO: das zuvor gemeldete neue Allzeithoch (116,85 USD) liess sich diesmal ebenfalls nicht unabhaengig verifizieren (andere Quellen zeigen Hochs im Bereich 99-108 USD aus dem August) -- Status vorsichtshalber unveraendert belassen, aber Kurs vor jedem Trade zwingend pruefen. DAC: aktuelle Kursdaten widersprachen sich stark (Range 125-170 USD je nach Quelle) -- keine belastbare Aktualisierung moeglich, Status unveraendert mit Caveat uebernommen. NEU AUFGENOMMEN: Atlassian (TEAM) -- haelt sich nahe dem Allzeithoch trotz schwachem Nasdaq, kein Cybersecurity-/KI-Hardware-Name und damit nicht vom Sektorbruch vom 14.10. betroffen, frisches Mizuho-Kurszielupgrade (215 auf 235 USD) am 15.10., keine unmittelbare Sperrfrist (Bericht erst 05.11.). Centene (CNC) -- massiver Turnaround mit EPS-Beat (2,51 vs. 1,08 USD) und frischem 52-Wochen-Hoch, ABER nur 10 Tage bis zum naechsten Bericht (26.10.) und Analystenkonsens-Kursziel unter dem aktuellen Kurs -- daher trotz starkem Chart nur Watchlist, hohes Gap-Risiko. Heritage Insurance (HRTG) -- konstantes zweistelliges Gewinnwachstum, aber Praemienrueckgang in Florida und Konsens-Kursziel unter dem Kurs -- gemischtes Bild, daher vorsichtig als Watchlist. GEPRUEFT UND NICHT AUFGENOMMEN: Universal Insurance Holdings (UVE) -- frisches 52-Wochen-Hoch, aber Analysten-Konsens nur Hold mit Kursziel UNTER dem aktuellen Kurs und nur 6 Tage bis zum naechsten Bericht (22.10.) -- Gap-Risiko zu hoch fuer die Datenqualitaet. Slide Insurance Holdings (SLDE) -- kurz vor Pivot, aber IPO von 2025 ohne mehrjaehrige Historie (schwaches A), Wachstumszahlen nur aus einer moeglicherweise werblichen Quelle nicht unabhaengig verifiziert, zusaetzlich Sperrfrist in 11 Tagen (27.10.) -- Datenqualitaet zu unsicher. RISIKOHINWEIS: Von den aufgenommenen bzw. gepruefien neuen Kandidaten sind mehrere aus dem Versicherungssektor (CNC, HRTG, UVE, SLDE) -- Klumpenrisiko falls mehrere gleichzeitig gekauft wuerden. Weiterhin entfernt bleiben PANW, CRWD, PENG, HPE und NVDA (siehe filtered_out) -- in keinem Fall wurde ein glaubwuerdiges Stabilisierungs- oder Re-Breakout-Signal gefunden.",
+  "updated": "2026-10-17",
+  "run": 127,
+  "market_signal": "ROT",
+  "market_note": "Marktampel wird von GELB auf ROT verschaerft: Die Korrektur seit dem S&P-Rekord vom 06.10.2026 (7.818,93) hat sich verschaerft statt stabilisiert. Nach dem CPI-Schock am 14.10. (S&P -1,11% auf 7.718,94, Nasdaq -1,88% auf 26.692,87, SOXX -4%) folgte am 15.10. nur eine duenne, rotationsgetriebene Erholung (Dow +1,08%, Nasdaq nur +0,08%, Tech weiterhin schwach) OHNE Follow-Through-Day. Am 16.10. kam es dann zu einem klaren Verteilungstag: S&P -1,09% auf 7.659,44, Nasdaq -2,14% auf 26.140,03 -- die schwaechste Woche seit Juni (Nasdaq-Wochenverlust -4,5%, S&P -1,95%). Halbleiter/KI-Hardware fuehren die Verluste an (AMD -5,95%, Intel -5,79%, SOXX -10% in 5 Tagen) wegen neuer Sorgen um KI-Schulden/-Finanzierung; Rotation von Tech in Old-Economy/Dow-Werte. FOMC-Sitzung 27.-28.10.2026: keine verlaessliche aktuelle Zinserwartung auffindbar, nach dem heissen CPI werden teilweise sogar wieder Zinserhoehungs-Spekulationen gehandelt -- ungewoehnlich unsicheres Makro-Setup. Marktbreite-Daten (zuletzt verlaesslich 71% ueber der 200-Tage-Linie, aber vom 14.08. und damit veraltet) sowie aktueller VIX-Stand konnten nicht aktuell verifiziert werden. FAZIT: Kein Follow-Through-Day seit dem letzten Tief, anhaltende Distribution, schwaechste Woche seit Juni -- damit ist die O'Neil-Regel fuer eine Korrekturphase erfuellt. Konsequenz: keine neuen Vollpositionen, Cash/Watchlist-Haltung, auf einen bestaetigten Follow-Through-Day warten. Datenluecken: aktueller VIX, aktuelle CME-FedWatch-Quote, Oktober-Marktbreitendaten und Russell-2000-Schlusskurs vom 16.10. konnten in dieser Recherche nicht verlaesslich ermittelt werden.",
+  "picks_note": "0 Picks + 5 Watchlist (5 von max. 10 -- bewusst nicht aufgefuellt, Qualitaet vor Quantitaet). Marktampel wurde in diesem Lauf von GELB auf ROT verschaerft (siehe market_note) -- entsprechend keine neuen Vollpositionen, alle fuenf Kandidaten sind reine Beobachtung. BESTEHENDE WATCHLIST AKTUALISIERT UND AUSGEDUENNT: SN haelt einen frisch bestaetigten Ausbruch auf ein neues Allzeithoch (194,69 USD, +4%, 15.10.) mit mehreren Kurszielanhebungen. HALO bestaetigt seine Serie neuer Allzeithochs (116,85 USD, +6,7%, 14.10.) mit reaffirmiertem Buy-Rating. YPF haelt sich weiterhin ueber seinem urspruenglichen Pivot und hat zwischenzeitlich sogar ein hoeheres Hoch (57,87 USD) erreicht, aktuelle Kursdaten fuer 15./16.10. sind aber diesmal nicht verlaesslich verifizierbar. TEAM steht nach einem kraeftigen Anstieg seit 11.10. jetzt direkt in der Pivot-/Allzeithoch-Zone (Kursangaben zwischen 212,87 und 217,00 USD widersprechen sich), gestuetzt von mehreren frischen Kurszielanhebungen (Mizuho, Wells Fargo, Barclays). DAC bleibt unveraendert knapp unter seinem ex-Div-bereinigten Pivot (~163 USD). ENTFERNT WURDEN: KEYS (Setup hat sich weiter vom Pivot entfernt statt angenaehert, Abstand jetzt -4% bis -11% statt -3,6%), CNC (sehr enge Sperrfrist vor Bericht am 27.10. kombiniert mit schwachem Analysten-Kursziel knapp ueber dem Kurs) und HRTG (Ausbruch ueber das 52-Wochen-Hoch am 15.10. nicht gehalten, am 16.10. zurueckgefallen, zusaetzlich Zacks-Downgrade auf Hold). NEUE KANDIDATEN GEPRUEFT, ABER NICHT AUFGENOMMEN: Die Scouting-Recherche fand fuer Fortinet (FTNT), Zebra Technologies (ZBRA), Samsara (IOT) und Toast (TOST) nur veraltete bzw. widerspruechliche Kursdaten (teils 4+ Wochen alt) -- keine ausreichend verlaessliche Basis fuer eine Aufnahme in dieser defensiven Marktphase. WICHTIGER DATENHINWEIS: Fuer mehrere Watchlist-Titel (YPF, HALO, DAC, TEAM) konnte in dieser Recherche kein unabhaengig verifizierter Schlusskurs fuer den 15. oder 16.10.2026 gefunden werden -- die genannten Kurse sind teils mehrere Tage alt und vor jedem Trade zwingend live zu pruefen.",
   "picks": [],
   "watchlist": [
-    {
-      "ticker": "YPF",
-      "company": "YPF Sociedad Anonima",
-      "sector": "Energie / Oel & Gas (Argentinien, Vaca-Muerta-Schieferoel)",
-      "price": 52.25,
-      "pattern": "ausgebrochen",
-      "chart_pattern": "Haelt den Ausbruch ueber mehrere Tage, aber duennes Volumen und Sperrfrist vor Bericht ruecken naeher",
-      "status": "AUSGEBROCHEN (HAELT WEITER, SPERRFRIST RUECKT NAEHER) -- Letzter verifizierter Schlusskurs 52,25 USD (14.10.2026), rund 2,3% ueber dem Pivot 51,10 USD. Haelt den Ausbruch bereits mehrere Tage, Volumenbestaetigung aber weiterhin duenn. Aktuellere Kursdaten (15./16.10.) liessen sich in dieser Recherche nicht unabhaengig verifizieren -- vor jedem Trade live pruefen.",
-      "setup": "Pivot 51,10 USD, 52-Wochen-Hoch 57,87 USD. EBITDA-Guidance 2026 deutlich angehoben, Trend getrieben von Oelpreis-Staerke. Unternehmen platziert zusaetzlich neue Anleihen (Sitio Andino, ca. 750 Mio. USD, 13.10.) -- liquiditaetspositiv.",
-      "pct_from_ath": 9.7,
-      "reason": "KEIN NEUKAUF: Quartalsbericht in den naechsten 2-4 Wochen faellig -- Termin je nach Quelle 29.10., 06.11. oder 10.11.2026 nicht einheitlich bestaetigt, in jedem Fall Sperrfrist. Nach dem Bericht mit frischem, verifiziertem Kurs neu pruefen. RISIKO: Duennes Volumen bei der Pivot-Rueckeroberung, Berichtstermin unklar.",
-      "canslim": {
-        "C": "EBITDA-Guidance fuer 2026 deutlich angehoben (Rekordjahr erwartet).",
-        "A": "Mehrjaehrige Produktionsausweitung (Vaca Muerta) treibt beschleunigtes Wachstum.",
-        "N": "Hochskalierung der Schieferoelproduktion, neue Anleiheplatzierung staerkt Finanzierung.",
-        "S": "Solide Bilanz, frische Fremdkapitalaufnahme stuetzt Investitionsprogramm.",
-        "L": "Haelt den Ausbruch ueber dem Pivot mehrere Tage, auch gegen einen schwachen Gesamtmarkt.",
-        "I": "J.P. Morgan Kursziel 66 USD, UBS Hold bei 55 USD (keine neueren Updates gefunden).",
-        "M": "NICHT ERFUELLT -- Marktampel GELB, erhoehtes Risiko Richtung ROT; zusaetzlich bevorstehende Sperrfrist vor Bericht."
-      }
-    },
     {
       "ticker": "SN",
       "company": "SharkNinja, Inc.",
       "sector": "Konsumgueter / Haushaltskleingeraete (Shark/Ninja)",
-      "price": 188.80,
-      "pattern": "kurz_vor_pivot",
-      "chart_pattern": "Relative Staerke nahe dem Allzeithoch, aber weiterhin Sperrfrist vor Bericht",
-      "status": "KURZ VOR DEM AUSBRUCH (SPERRFRIST VOR BERICHT) -- Letzter verifizierter Schlusskurs 188,80 USD (13.10.2026), rund 2,9% unter dem Pivot/Allzeithoch 194,54 USD. Kein Hinweis auf einen neuen Ausbruchsversuch seitdem gefunden.",
-      "setup": "Pivot/Allzeithoch 194,54 USD (28.08.2026). Q2: Nettoumsatz +22,2% YoY, EPS-Beat, FY26-Guidance deutlich angehoben (Umsatzwachstum auf 16-17%, EPS auf 6,45-6,55 USD).",
-      "pct_from_ath": 2.9,
-      "reason": "KEIN NEUKAUF: Quartalsbericht offiziell am 04.11.2026 bestaetigt -- rund 3 Wochen entfernt, Sperrfrist. Bei Ausbruch mit Volumen vor dem Bericht hoechstens sehr kleine Position, danach regulaer neu pruefen.",
+      "price": 194.69,
+      "pattern": "ausgebrochen",
+      "chart_pattern": "Bestaetigtes neues Allzeithoch mit Tagesgewinn +4%, mehrere frische Kurszielanhebungen",
+      "status": "KUERZLICH AUSGEBROCHEN (BESTAETIGT) -- Neues Allzeithoch 194,69 USD am 15.10.2026 (+4% Tagesgewinn), rund 0,08% ueber dem alten Pivot/Allzeithoch 194,54 USD. Duenner, aber bestaetigter Ausbruch mit Volumen.",
+      "setup": "Pivot/altes Allzeithoch 194,54 USD (28.08.2026), jetzt ueberschritten. Q2: Nettoumsatz +22,2% YoY, EPS-Beat, FY26-Guidance deutlich angehoben (Umsatzwachstum auf 16-17%, EPS auf 6,45-6,55 USD).",
+      "pct_from_ath": 0,
+      "reason": "KEIN NEUKAUF: Marktampel ROT -- keine neuen Vollpositionen trotz bestaetigtem Ausbruch. Zusaetzlich Quartalsbericht am 04.11.2026 bestaetigt -- Sperrfrist rueckt naeher (rund 2,5 Wochen). RISIKO: Eine Bewertungssoftware (InvestingPro) stuft die Aktie trotz des Ausbruchs als ueberbewertet ein.",
       "canslim": {
         "C": "Q2-Nettoumsatz +22,2% YoY, deutlicher EPS-Beat.",
         "A": "FY26-Guidance deutlich angehoben (Umsatzwachstum auf 16-17%, EPS auf 6,45-6,55 USD).",
         "N": "Kontinuierliche neue Produktlaunches (Shark/Ninja), starkes internationales Wachstum.",
         "S": "13. Quartal in Folge mit zweistelligem Umsatzwachstum, Marktanteilsgewinne.",
-        "L": "Haelt sich nahe dem Allzeithoch, relative Staerke gegen den schwachen Gesamtmarkt.",
-        "I": "Aelteres Zacks-Downgrade auf Hold bleibt einziges juengeres Analysten-Signal, keine neuen Updates gefunden.",
-        "M": "NICHT ERFUELLT -- Marktampel GELB; zusaetzlich Sperrfrist vor Bericht 04.11."
-      }
-    },
-    {
-      "ticker": "KEYS",
-      "company": "Keysight Technologies, Inc.",
-      "sector": "Technologie / Elektronik-Testgeraete (KI-/Rechenzentrums-Test)",
-      "price": 357.62,
-      "pattern": "kurz_vor_pivot",
-      "chart_pattern": "Moeglicher nachboerslicher Pop nach KI-Produktnews, aber nicht unabhaengig bestaetigt",
-      "status": "KURZ VOR DEM AUSBRUCH (NACHBOERSLICHER POP UNBESTAETIGT) -- Letzter verifizierter Schlusskurs 357,62 USD (14.10.2026), rund 3,6% unter dem Pivot (Juni-Hoch, am 01.10. mit 375,06 USD ueberschritten). Der zuvor gemeldete nachboerslichen +4%-Pop nach einer KI-Produktankuendigung auf einem OCP-Summit liess sich in dieser Recherche NICHT unabhaengig bestaetigen (nur ein separater OCP-APAC-Auftritt in Taipeh mit -0,18% gefunden) -- mit Vorsicht behandeln.",
-      "setup": "Pivot ca. 371-375 USD. Q3 FY26: Umsatz +37% YoY, Non-GAAP-EPS +79%. Auftragseingang +56%, Wireline-Auftraege (KI-Rechenzentren) mehr als verdoppelt. Aktie +71% YTD.",
-      "pct_from_ath": 8.3,
-      "reason": "Einstieg erst bei verifizierter Rueckeroberung von ca. 371-375 USD mit Volumen, kein Kauf auf Basis des unbestaetigten AH-Pops. Naechster Bericht ca. 17.-24.11. (unbestaetigt) -- ausserhalb der unmittelbaren Sperrfrist. RISIKO: Rueckbestaetigung des Pivots steht noch aus, AH-Kursnews nicht verifiziert.",
-      "canslim": {
-        "C": "Q3 FY26: Umsatz +37% YoY, Non-GAAP-EPS +79%.",
-        "A": "FY26-Guidance: Umsatz +32%, EPS rund +60%; Q4-Guidance +37%.",
-        "N": "KI-Testprodukte und verdoppelte Wireline-/KI-Rechenzentrums-Auftraege (Kernnews unabhaengig nicht neu bestaetigt).",
-        "S": "Rund 172 Mio. Aktien ausstehend; Rueckkaufaktivitaet nicht verifiziert.",
-        "L": "Marktfuehrer bei Test & Messung, Kurs +71% in den letzten 12 Monaten.",
-        "I": "Analystenkonsens weiterhin Buy, keine frischen Updates in dieser Recherche gefunden.",
-        "M": "NICHT ERFUELLT -- Marktampel GELB, erhoehtes Risiko Richtung ROT."
+        "L": "Neues Allzeithoch mit Volumen -- fuehrt die relative Staerke in seinem Segment an.",
+        "I": "UBS hob das Kursziel auf 219,10 USD an, Canaccord und Guggenheim auf 210 USD.",
+        "M": "NICHT ERFUELLT -- Marktampel ROT."
       }
     },
     {
@@ -74,20 +32,62 @@
       "company": "Halozyme Therapeutics, Inc.",
       "sector": "Biotechnologie / Drug-Delivery-Royalty-Plattform (ENHANZE)",
       "price": 116.85,
-      "pattern": "am_pivot",
-      "chart_pattern": "Gemeldetes neues Allzeithoch trotz schwachem Gesamtmarkt -- in dieser Recherche nicht unabhaengig bestaetigt",
-      "status": "DIREKT AM BREAKOUT-PUNKT / GEMELDETES NEUES ALLZEITHOCH (NICHT UNABHAENGIG BESTAETIGT, SPERRFRIST UNSICHER) -- Vorlauf meldete ein neues Allzeithoch von 116,85 USD am 14.10.2026 trotz schwachem Gesamtmarkt. Diese Recherche fand dazu keine unabhaengige Bestaetigung; andere (teils aeltere) Quellen zeigen eine ATH-Serie im August 2026 bei 99-108 USD nach dem Q2-Beat. Vor jedem Trade zwingend aktuellen Live-Kurs pruefen.",
-      "setup": "Pivot/Allzeithoch (gemeldet) 116,85 USD. Q2: Umsatz +48% YoY, Non-GAAP-EPS 2,28 USD (Vorjahr 1,54 USD, deutlicher Beat gegen Konsens 1,81 USD). Royalties (ENHANZE-Plattform) +50%.",
+      "pattern": "ausgebrochen",
+      "chart_pattern": "Bestaetigte Serie neuer Allzeithochs (109,59 -> 111,56 -> 116,85 USD seit Ende August)",
+      "status": "KUERZLICH AUSGEBROCHEN (BESTAETIGT) -- Neues Allzeithoch 116,85 USD am 14.10.2026 (+6,7% Tagesgewinn), Teil einer Serie neuer Hochs seit Ende August (109,59 USD am 26.08., 111,56 USD am 18.09.). Aktuellere Kursdaten (15./16.10.) nicht verifizierbar.",
+      "setup": "Allzeithoch 116,85 USD. Q2: Umsatz +48% YoY, Non-GAAP-EPS 2,28 USD (deutlicher Beat gegen Konsens 1,81 USD). Royalties (ENHANZE-Plattform) +50%.",
       "pct_from_ath": 0,
-      "reason": "KEIN NEUKAUF: Quartalsbericht weiterhin nur geschaetzt (02.-05.11.2026, nicht offiziell bestaetigt) -- voraussichtlich Sperrfrist in 2-3 Wochen. Zusaetzlich Kursangabe diesmal nicht unabhaengig verifizierbar. Vor Kauf unbedingt aktuellen Kurs und Berichtstermin aus einer Live-Quelle bestaetigen. RISIKO: Datenlage diesmal schwaecher als sonst.",
+      "reason": "KEIN NEUKAUF: Marktampel ROT -- keine neuen Vollpositionen trotz bestaetigter ATH-Serie. Quartalsbericht weiterhin nur geschaetzt (Anfang November, nicht offiziell bestaetigt). RISIKO: Potenzielle kuenftige Konkurrenz fuer die ENHANZE-Plattform durch eine neue Novartis-Alteogen-Vereinbarung.",
       "canslim": {
         "C": "Q2: Umsatz +48% YoY, deutlicher EPS-Beat (2,28 USD vs. 1,81 USD Konsens).",
         "A": "FY26-Guidance deutlich angehoben (Umsatz 1,835-1,91 Mrd. USD, EPS 8,65-9,00 USD).",
         "N": "ENHANZE-Royalty-Plattform (+50%) und neue Wachstumsplattformen.",
         "S": "Sehr stark: 4,8 Mio. Aktien fuer 333 Mio. USD zurueckgekauft, neues 1-Mrd.-USD-Rueckkaufprogramm.",
-        "L": "Laut Vorlauf neues Allzeithoch trotz schwachem Gesamtmarkt -- diesmal nicht unabhaengig bestaetigt.",
-        "I": "Deutlicher EPS-Beat gegen Konsens in Q2, aber Kurszielangaben anderer Quellen (Wells Fargo 95, Morgan Stanley 105) liegen unter dem gemeldeten ATH -- Vorsicht.",
-        "M": "NICHT ERFUELLT -- Marktampel GELB; zusaetzlich voraussichtliche Sperrfrist vor geschaetztem Bericht Anfang November."
+        "L": "Bestaetigte Serie neuer Allzeithochs trotz schwachem Gesamtmarkt.",
+        "I": "H.C. Wainwright bekraeftigte Buy mit Kurszielen 115-130 USD.",
+        "M": "NICHT ERFUELLT -- Marktampel ROT."
+      }
+    },
+    {
+      "ticker": "YPF",
+      "company": "YPF Sociedad Anonima",
+      "sector": "Energie / Oel & Gas (Argentinien, Vaca-Muerta-Schieferoel)",
+      "price": 52.25,
+      "pattern": "ausgebrochen",
+      "chart_pattern": "Haelt Ausbruch schon mehrere Wochen (zwischenzeitliches Hoch 57,87 USD Mitte September), aktuelle Kursdaten fuer 15./16.10. nicht verifizierbar",
+      "status": "AUSGEBROCHEN (HAELT WEITER, DATEN UNSICHER) -- Letzter verifizierter Schlusskurs 52,25 USD (14.10.2026), rund 2,3% ueber dem urspruenglichen Pivot 51,10 USD. Zwischenzeitlich bereits neues Hoch bei 57,87 USD (Mitte September) erreicht, seitdem aber Ruecksetzer -- aktuelle Kursdaten fuer 15./16.10. aus dieser Recherche widersprechen sich stark (49,90-53,93 USD) und sind nicht verlaesslich. Vor jedem Trade zwingend Live-Kurs pruefen.",
+      "setup": "Urspruenglicher Pivot 51,10 USD, zwischenzeitliches Hoch 57,87 USD (15.09.). EBITDA-Guidance 2026 deutlich angehoben, YPF uebernimmt per 430-Mio-USD-Deal volle Kontrolle ueber die Stromsparte YPF Luz.",
+      "pct_from_ath": 9.7,
+      "reason": "KEIN NEUKAUF: Marktampel ROT -- keine neuen Vollpositionen. Zusaetzlich Quartalsbericht laut einer Quelle am 28.10.2026 (nicht zweifelsfrei bestaetigt, fruehere Schaetzungen nannten 29.10./06.11./10.11.) -- in jedem Fall Sperrfrist in den naechsten Wochen. RISIKO: Aktuelle Kursdaten diesmal nicht verlaesslich verifizierbar.",
+      "canslim": {
+        "C": "EBITDA-Guidance fuer 2026 deutlich angehoben (Rekordjahr erwartet).",
+        "A": "Mehrjaehrige Produktionsausweitung (Vaca Muerta) treibt beschleunigtes Wachstum.",
+        "N": "Volle Kontrolle ueber Stromsparte YPF Luz per 430-Mio-USD-Deal uebernommen; Hochskalierung der Schieferoelproduktion.",
+        "S": "Solide Bilanz, frische Anleiheplatzierung (Sitio Andino) staerkt Finanzierung.",
+        "L": "Haelt sich seit Wochen ueber dem urspruenglichen Pivot, auch gegen einen schwachen Gesamtmarkt.",
+        "I": "J.P. Morgan Kursziel auf 66 USD angehoben, UBS 55 USD.",
+        "M": "NICHT ERFUELLT -- Marktampel ROT."
+      }
+    },
+    {
+      "ticker": "TEAM",
+      "company": "Atlassian Corporation",
+      "sector": "Software / Collaboration & DevOps (Jira, Confluence)",
+      "price": 212.87,
+      "pattern": "am_pivot",
+      "chart_pattern": "Kraeftiger Anstieg seit 11.10., jetzt genau im Pivot-/ATH-Bereich -- Kursangaben widersprechen sich (212,87 bis 217,00 USD)",
+      "status": "DIREKT AM BREAKOUT-PUNKT (KURSDATEN WIDERSPRECHEN SICH) -- Quellen nennen fuer 15.10.2026 entweder 217,00 USD oder 212,87 USD (+4% Tagesgewinn); beide Werte liegen im bzw. knapp am Pivot-/Allzeithoch-Bereich 214-217 USD (ca. -0,5% bis +1,4%). Deutlicher Anstieg seit dem 11.10. (206,79 USD). Vor jedem Trade zwingend Live-Kurs pruefen.",
+      "setup": "Pivot-/Allzeithoch-Zone ca. 214-217 USD. Q4 FY26: Umsatz +28% YoY, Cloud-Umsatz +31% YoY, Adj. EPS 1,87 USD vs. 1,50 USD erwartet.",
+      "pct_from_ath": 0.8,
+      "reason": "KEIN NEUKAUF: Marktampel ROT -- keine neuen Vollpositionen trotz starkem Setup. Naechster Bericht 05.11.2026 bestaetigt -- noch rund 2,5 Wochen bis zur Sperrfrist. RISIKO: Kursdaten vom 15.10. widerspruechlich -- vor Trade unbedingt aktualisieren.",
+      "canslim": {
+        "C": "Q4 FY26: Umsatz +28% YoY, Cloud-Umsatz +31% YoY, EPS-Beat (1,87 vs. 1,50 USD erwartet).",
+        "A": "FY26-Gesamtjahresumsatz 6,6 Mrd. USD, +26% YoY -- mehrjaehrig konstant hohes Wachstum.",
+        "N": "Weiterer Ausbau von Cloud- und KI-Features im Produktportfolio.",
+        "S": "Keine Rueckkauf-/Volumendaten am Pivot verifiziert -- Datenluecke.",
+        "L": "Haelt sich nahe/in der Pivot-Zone trotz schwachem Nasdaq -- relative Staerke.",
+        "I": "Mizuho erhoehte das Kursziel auf 235 USD, Wells Fargo auf 230 USD, Barclays auf 222 USD -- mehrfache frische Upgrades.",
+        "M": "NICHT ERFUELLT -- Marktampel ROT."
       }
     },
     {
@@ -96,94 +96,28 @@
       "sector": "Transport/Schifffahrt / Container- und Massengutfrachter",
       "price": 161.96,
       "pattern": "kurz_vor_pivot",
-      "chart_pattern": "Knapp unter dem ex-Div-adjustierten Pivot -- aktuelle Kursdaten diesmal nicht verifizierbar",
-      "status": "KURZ VOR DEM PIVOT (KURSDATEN DIESMAL NICHT VERIFIZIERBAR) -- Letzter verifizierter Schlusskurs 161,96 USD (14.10.2026), rund 0,6% unter dem ex-Div-adjustierten Pivot ~163 USD. Neuere Quellen zu 15./16.10. widersprachen sich stark (Preisangaben zwischen 125 und 170 USD, teils veraltet) -- keine belastbare Aktualisierung moeglich. Vor jedem Trade zwingend Live-Kurs pruefen.",
-      "setup": "Pivot ~163 USD (ex-Div-bereinigt). Sonderdividende (5 USD) plus regulaere Dividende (1 USD), Record-Date 13.10., Zahlung 22.10. Q3-Bericht noch nicht offiziell terminiert (Schaetzung Mitte November).",
+      "chart_pattern": "Haelt sich knapp unter dem ex-Div-adjustierten Pivot, Setup unveraendert zum Vortag",
+      "status": "KURZ VOR DEM PIVOT (UNVERAENDERT) -- Letzter verifizierter Schlusskurs 161,96 USD (14.10.2026), rund 0,6% unter dem ex-Div-adjustierten Pivot ~163 USD. Keine neuere Kursbestaetigung fuer 15./16.10. gefunden, Setup aber nicht gebrochen.",
+      "setup": "Pivot ~163 USD (ex-Div-bereinigt). Sonderdividende (5 USD) plus regulaere Dividende (1 USD), Record-Date 13.10., Zahlung 22.10.2026. YTD-Rendite rund +73%.",
       "pct_from_ath": 0.6,
-      "reason": "Erst bei verifiziertem Schlusskurs ueber ~163 USD mit Volumen wieder als Pick pruefen. Fearnley-Buy-Rating (Kursziel 174 USD) ist rund zwei Monate alt. RISIKO: Duenne Analysten-Coverage, aktuelle Kursdaten diesmal unsicher.",
+      "reason": "KEIN NEUKAUF: Marktampel ROT -- keine neuen Vollpositionen. Erst bei verifiziertem Schlusskurs ueber ~163 USD mit Volumen wieder als Pick pruefen. RISIKO: Duenne Analysten-Coverage (nur 2 Analysten), Kursdaten fuer 15./16.10. nicht aktualisierbar.",
       "canslim": {
         "C": "Solide Quartalszahlen, Dividendenpolitik (Sonderdividende 5 USD) als Vertrauenssignal.",
         "A": "Mehrjaehrig steigende Charterraten treiben beschleunigtes Wachstum.",
         "N": "Sonderdividende und Capesize-Wiedereinstieg als neue Wachstumstreiber.",
         "S": "Solide Bilanz, Dividendenpolitik stuetzt das Anlegervertrauen.",
-        "L": "Setup zuletzt nicht gebrochen, aktuelle Kursentwicklung diesmal nicht verifizierbar.",
+        "L": "Setup seit Tagen unveraendert, nicht gebrochen trotz Marktschwaeche.",
         "I": "Nur 2 Analysten decken den Titel (Fearnley Buy, Kursziel 174 USD, zwei Monate alt).",
-        "M": "NICHT ERFUELLT -- Marktampel GELB, erhoehtes Risiko Richtung ROT."
-      }
-    },
-    {
-      "ticker": "TEAM",
-      "company": "Atlassian Corporation",
-      "sector": "Software / Collaboration & DevOps (Jira, Confluence)",
-      "price": 206.79,
-      "pattern": "kurz_vor_pivot",
-      "chart_pattern": "Haelt sich nahe dem Allzeithoch trotz schwachem Nasdaq, frisches Analysten-Kurszielupgrade",
-      "status": "KURZ VOR DEM AUSBRUCH (NEU) -- Letzter verifizierter Schlusskurs 206,79 USD (11.10.2026), rund 4-5% unter dem Pivot/Allzeithoch-Bereich 214-217 USD. Kein Cybersecurity- oder KI-Hardware-Name, daher nicht vom Sektorbruch bei PANW/CRWD/HPE am 14.10. betroffen.",
-      "setup": "Pivot-Zone ca. 214-217 USD (Allzeithoch-Bereich). Q4 FY26: Umsatz +28% YoY, Cloud-Umsatz +31% YoY, Adj. EPS 1,87 USD vs. 1,50 USD erwartet. FY26-Gesamtumsatz 6,6 Mrd. USD, +26% YoY.",
-      "pct_from_ath": 4.5,
-      "reason": "Einstieg erst bei Schlusskurs ueber ca. 214-217 USD mit Volumen. Naechster Bericht 05.11.2026 -- aktuell noch ausserhalb der Sperrfrist (ca. 3 Wochen), rechtzeitig vor dem Termin neu pruefen. RISIKO: Kursdaten vom 11.10., keine Bestaetigung fuer 15./16.10. gefunden -- vor Trade aktualisieren.",
-      "canslim": {
-        "C": "Q4 FY26: Umsatz +28% YoY, Cloud-Umsatz +31% YoY, EPS-Beat (1,87 vs. 1,50 USD erwartet).",
-        "A": "FY26-Gesamtjahresumsatz 6,6 Mrd. USD, +26% YoY -- mehrjaehrig konstant hohes Wachstum.",
-        "N": "Weiterer Ausbau von Cloud- und KI-Features im Produktportfolio.",
-        "S": "Keine Rueckkauf-/Volumendaten am Pivot verifiziert -- Datenluecke.",
-        "L": "Haelt sich nahe dem Allzeithoch trotz schwachem Nasdaq -- Software diversifiziert gegen das gebrochene Cybersecurity-Segment.",
-        "I": "Mizuho erhoehte das Kursziel am 15.10.2026 von 215 auf 235 USD -- frisches Analysten-Upgrade.",
-        "M": "NICHT ERFUELLT -- Marktampel GELB, erhoehtes Risiko Richtung ROT."
-      }
-    },
-    {
-      "ticker": "CNC",
-      "company": "Centene Corporation",
-      "sector": "Managed Care / Krankenversicherung (USA, Medicaid/Medicare/ACA)",
-      "price": 69.64,
-      "pattern": "ausgebrochen",
-      "chart_pattern": "Frisches 52-Wochen-Hoch nach massivem Turnaround-Quartal, aber enge Sperrfrist vor Bericht",
-      "status": "KUERZLICH AUSGEBROCHEN (NEU, ENGE SPERRFRIST) -- Letzter verifizierter Schlusskurs 69,64 USD (13.10.2026), frisches 52-Wochen-/Allzeithoch am 13.10. bei ca. 69,36 USD knapp ueberschritten. Managed-Care/Healthcare war laut einer Quelle am 15.10. der staerkste US-Sektor (XLV +2,53%).",
-      "setup": "Pivot/52W-Hoch ca. 69,36 USD. Q2-EPS 2,51 USD vs. 1,08 USD erwartet (massiver Beat); FY26-Guidance auf EPS >4,80 USD angehoben (vorher ca. 3,40 USD) -- grosser Turnaround nach schwachen ACA-Jahren.",
-      "pct_from_ath": 0,
-      "reason": "SEHR ENGE SPERRFRIST: Quartalsbericht am 26.10.2026 -- nur rund 10 Tage entfernt, kein Neukauf vor dem Bericht. Analysten-Konsenskursziel (ca. 64,61 USD) liegt aktuell UNTER dem Kurs -- I-Kriterium schwach, Vorsicht vor Overextension. Nach dem Bericht mit frischem Kurs neu pruefen.",
-      "canslim": {
-        "C": "Q2-EPS 2,51 USD vs. 1,08 USD erwartet -- massiver Gewinn-Beat.",
-        "A": "Konsens erwartet rund +135% EPS-Wachstum ggue. Vorjahr fuer 2026 -- starker Turnaround.",
-        "N": "Verbesserte Medicare-Advantage- und Marketplace-Margen, neues Guidance-Narrativ.",
-        "S": "Keine verifizierten Rueckkauf-/Volumendaten gefunden -- Datenluecke.",
-        "L": "Managed-Care/Healthcare-Sektor zuletzt staerkster US-Sektor trotz schwachem Gesamtmarkt.",
-        "I": "Analystenkonsens nur Hold mit Kursziel ca. 64,61 USD -- UNTER aktuellem Kurs, schwaches I-Signal.",
-        "M": "NICHT ERFUELLT -- Marktampel GELB; zusaetzlich sehr enge Sperrfrist vor Bericht 26.10."
-      }
-    },
-    {
-      "ticker": "HRTG",
-      "company": "Heritage Insurance Holdings, Inc.",
-      "sector": "P&C Versicherung / Sachschaden (Florida, Hausbesitzer)",
-      "price": 34.64,
-      "pattern": "kurz_vor_pivot",
-      "chart_pattern": "Konstantes zweistelliges Gewinnwachstum, aber Praemienrueckgang in Florida und Kursziel unter aktuellem Kurs",
-      "status": "KURZ VOR DEM AUSBRUCH (NEU) -- Letzter verifizierter Schlusskurs 34,64 USD (07.10.2026, aeltere Daten), rund 5% unter dem 52-Wochen-Hoch ca. 36,50 USD (Ende September). Keine aktuelleren verifizierten Kursdaten gefunden -- vor Trade unbedingt aktualisieren.",
-      "setup": "52W-Hoch ca. 36,50 USD. Q2-EPS +32,3% YoY auf 2,05 USD; Q1-EPS +19,7% YoY. Netto-Gewinn H1 2026 98,2 Mio. USD vs. 78,5 Mio. USD Vorjahr (+25%).",
-      "pct_from_ath": 5.0,
-      "reason": "Einstieg erst bei Rueckeroberung des 52W-Hochs mit Volumen. Naechster Bericht nicht offiziell terminiert (Schaetzungen Anfang November) -- Termin unbedingt vor Kauf verifizieren. RISIKO: Praemien in Florida zuletzt ruecklaeufig (-1,4%, Wettbewerbsdruck), Analystenkonsens-Kursziel (ca. 33,50 USD) liegt unter aktuellem Kurs, Q1 2026 bereits ein -20%-Kursrutsch nach Schaetzungs-Miss -- erhoehte Volatilitaet.",
-      "canslim": {
-        "C": "Q2-EPS +32,3% YoY auf 2,05 USD -- konsistent starkes Gewinnwachstum.",
-        "A": "Netto-Gewinn H1 2026 +25% YoY (98,2 Mio. vs. 78,5 Mio. USD) -- solide mehrjaehrige Basis.",
-        "N": "Keine grosse neue Story; reifes Geschaeft -- schwaechster CANSLIM-Punkt dieses Kandidaten.",
-        "S": "Praemien in Florida zuletzt ruecklaeufig (-1,4%) wegen Wettbewerbsdruck -- leicht negativ.",
-        "L": "P&C-Versicherungssektor zuletzt stark, HRTG aber volatiler/kleiner als vergleichbare Branchenwerte.",
-        "I": "Nur 'Moderate Buy'-Konsens, Kursziel ca. 33,50 USD -- UNTER aktuellem Kurs, Vorsicht.",
-        "M": "NICHT ERFUELLT -- Marktampel GELB, erhoehtes Risiko Richtung ROT."
+        "M": "NICHT ERFUELLT -- Marktampel ROT."
       }
     }
   ],
   "filtered_out": [
-    "PANW (Palo Alto Networks) bleibt ENTFERNT: weiterhin unter Druck wegen Sorgen rund um den CyberArk-Deal (TipRanks berichtete von rund -15% auf Wochensicht, genaues Datum unklar), kein Stabilisierungssignal gefunden.",
-    "CRWD (CrowdStrike) bleibt ENTFERNT: seit dem Hoch von 566,90 USD (12.11.2025) in Korrektur, zuletzt rund 270-275 USD (Anfang Oktober) -- auch wenn das wieder leicht ueber dem alten Pivot 263,87 USD liegt, ist das kein klar bestaetigter Re-Breakout.",
-    "PENG (Penguin Solutions) bleibt ENTFERNT: starker Earnings-Beat am 06.10. (+17% auf ca. 75 USD, EPS 1,00 vs. 0,78 USD erwartet), aber danach am 14.10. Pivot-Bruch mit Volumen -- vermutlich Gewinnmitnahme nach dem Spike, kein stabiles Setup.",
-    "HPE (Hewlett Packard Enterprise) bleibt ENTFERNT: keine neuen Daten gefunden, kein Stabilisierungssignal nach dem Bruch vom 14.10.",
-    "NVDA (Nvidia) bleibt ENTFERNT: unveraendert seit Lauf 125, kein neues gueltiges Setup nach dem gescheiterten Ausbruchsversuch von Anfang Oktober.",
-    "Universal Insurance Holdings (UVE) GEPRUEFT, NICHT AUFGENOMMEN: frisches 52-Wochen-Hoch 47,63 USD (15.10.), 8 von 8 Quartalen Gewinn-Beat in Folge, aber Analystenkonsens nur Hold mit Kursziel 45 USD (UNTER aktuellem Kurs) und nur 6 Tage bis zum Bericht (22.10.) -- Gap-Risiko zu hoch.",
-    "Slide Insurance Holdings (SLDE) GEPRUEFT, NICHT AUFGENOMMEN: kurz vor Pivot (~6% drunter), aber IPO von 2025 ohne mehrjaehrige Historie, Wachstumszahlen nur aus einer moeglicherweise werblichen Quelle nicht unabhaengig verifiziert, zusaetzlich Sperrfrist in 11 Tagen (27.10.).",
-    "Weitere im Scouting GEPRUEFTE, NICHT AUFGENOMMENE Sektoren/Kandidaten (Lauf 126): AppLovin (APP), Robinhood (HOOD), American Eagle (AEO, zu weit vom Allzeithoch entfernt), Thermo Fisher (TMO), Defense-Sektor (stark gebrochen), Gaming/Leisure-Sektor (schwach), Gold-/Silberminen (in Korrektur, kein Breakout).",
-    "METHODIK-HINWEIS LAUF 126 (16.10.2026): Recherche ueber drei parallele Recherche-Agenten (Marktampel/Makro, Status-Check der bestehenden 5er-Watchlist aus Lauf 125, Scouting neuer Kandidaten) -- kein Live-Terminal-/Brokerzugriff. WebFetch auf gaengige Finanzseiten war in diesem Lauf durchgehend blockiert (DNS-Fehler, vermutlich Proxy-Restriktion) -- alle Kursdaten stammen aus WebSearch-Snippets, die teils widersprechen oder mehrere Tage alt sind (insbesondere DAC, HALO und KEYS-AH-Pop konnten nicht zuverlaessig aktualisiert/verifiziert werden). Datenqualitaet entsprechend schwaecher als in frueheren Laeufen -- alle Kurse und Termine vor jedem Trade zwingend gegen eine Live-Quelle pruefen."
+    "KEYS (Keysight Technologies) ENTFERNT: Setup hat sich seit dem letzten Lauf verschlechtert statt verbessert -- Kurs fiel laut einer Quelle bis auf ca. 331 USD (16.10.), Abstand zum Pivot (371-375 USD) damit auf -4% bis -11% vergroessert statt verringert. Fundamental weiterhin stark (Goldman-Kursziel 487 USD, neue 1,6T-Ethernet-Testplattformen), aber technisch kein Breakout-nahes Setup mehr -- bei erneuter Annaeherung an den Pivot neu pruefen.",
+    "CNC (Centene) ENTFERNT: Quartalsbericht praezisiert auf 27.10.2026 -- nur noch rund 10 Tage, sehr enge Sperrfrist. Zusaetzlich Analystenkonsens weiterhin nur 'Hold' mit Kursziel (~70,05 USD) kaum ueber dem aktuellen Kurs -- schwaches I-Kriterium kombiniert mit hohem Gap-Risiko vor dem Bericht macht das Setup in der aktuellen Marktphase zu riskant.",
+    "HRTG (Heritage Insurance) ENTFERNT: Ausbruch ueber das 52-Wochen-Hoch (37,30 USD, 15.10.) nicht gehalten -- Kurs fiel am 16.10. auf 35,87 USD zurueck, damit wieder unter den alten Pivot ~36,50 USD. Zusaetzlich Zacks-Downgrade von 'Strong Buy' auf 'Hold' (09.10.) und Raymond-James-Coverage nur mit 'Market Perform' -- gescheiterter Ausbruch plus verschlechtertes Analysten-Bild.",
+    "Vier im Scouting GEPRUEFTE, NICHT AUFGENOMMENE Kandidaten (zu unsichere/veraltete Kursdaten fuer eine verlaessliche Einstufung, vor Aufnahme mit Live-Screener zu verifizieren): Fortinet (FTNT) -- fundamental starkes Beat-and-Raise-Setup mit Serie neuer 52-Wochen-Hochs im Spaetsommer, aber Analystenkonsens nur 'Hold' mit Kursziel unter Kurs sowie unbestaetigte Hinweise auf ein Morgan-Stanley-Downgrade und eine Sammelklage; Zebra Technologies (ZBRA) -- ca. 9-10% unter dem 52-Wochen-Hoch, Daten vier Wochen alt; Samsara (IOT) -- rund 13-16% unter dem Hoch, keine Oktober-Kursdaten; Toast (TOST) -- rund 23% unter dem Hoch, Datenlage zu duenn fuer ein belastbares Signal.",
+    "PANW, CRWD, PENG, HPE und NVDA bleiben entfernt -- in keinem der bisherigen Laeufe wurde ein glaubwuerdiges Stabilisierungs- oder Re-Breakout-Signal gefunden. UVE und SLDE bleiben wegen Gap-Risiko bzw. zu kurzer Historie aussen vor.",
+    "METHODIK-HINWEIS LAUF 127 (17.10.2026): Recherche ueber drei parallele Recherche-Agenten (Marktampel/Makro, Status-Check der bestehenden 8er-Watchlist aus Lauf 126, Scouting neuer Kandidaten) -- kein Live-Terminal-/Brokerzugriff, alle Daten aus WebSearch. Datenqualitaet fuer den 15./16.10.2026 durchgaengig schwach: viele Aggregator-Quellen widersprechen sich oder sind veraltet. Alle Kurse und Termine vor jedem Trade zwingend gegen eine Live-Quelle pruefen."
   ]
 }
