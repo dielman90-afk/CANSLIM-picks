@@ -1,11 +1,34 @@
 {
-  "updated": "2026-10-20",
-  "run": 130,
+  "updated": "2026-10-21",
+  "run": 131,
   "market_signal": "ROT",
-  "market_note": "Marktampel bleibt ROT (vierter Lauf in Folge unveraendert, seit Lauf 127). Montag, 19.10.2026 brachte eine Erholung nach der schwaechsten Woche seit Juni: S&P 500 ca. +0,4 bis +0,66% auf rund 7.690-7.710 Punkte, Nasdaq Composite ca. +1,1 bis +1,35% auf rund 26.400-26.430 Punkte (Quellen -- CNBC/Yahoo vs. 24/7 Wall St./Trading Economics -- weichen leicht voneinander ab), Dow nahezu unveraendert. Das markiert fruehestens Tag 1 eines neuen Rallye-Versuchs nach dem Verteilungstag vom 16.10. Fuer einen gueltigen Follow-Through-Day nach O'Neil braucht es jedoch Tag 4 oder spaeter mit kraeftigem Kursgewinn (ueblicherweise mindestens 1,5% im Nasdaq) bei steigendem Volumen -- das liegt noch nicht vor. VIX-Schlusswert fuer 19.10. nicht verifizierbar (zuletzt auf 4-Monats-Hoch). Naechste Katalysatoren: Netflix-Q3-Zahlen heute nachboerslich (20.10., nach Redaktionsschluss dieses Berichts), FOMC-Sitzung 27.-28.10.2026. FAZIT: Rallye-Versuch begonnen, aber ohne bestaetigten Follow-Through-Day -- weiterhin keine neuen Vollpositionen, auf Tag 4+ mit Volumenbestaetigung warten. DATENLUECKEN: kein verifizierter VIX-Schlusswert, keine aktuelle Marktbreite (% Aktien ueber 200-Tage-Linie), Indexstaende vom 19.10. je nach Quelle uneinheitlich.",
-  "picks_note": "0 Picks + 6 Watchlist (von 7 auf 6 reduziert -- BSVN entfernt, Begruendung siehe filtered_out). Trotz Platz bis max. 10 bewusst nicht aufgefuellt: Qualitaet vor Quantitaet, kein neuer Kandidat zeigte eine belastbare Kombination aus Pivot-Naehe, aktueller Datenlage und sauberem CANSLIM-Setup. BESTEHENDE WATCHLIST GEPRUEFT: SN, HALO, RGA, PAYC und TEVA zeigen keine neuen Hinweise auf Pivot-Brueche -- Setups im Kern von Lauf 129 uebernommen, da keine unabhaengig bestaetigten Kurse ueber den 15.-17.10. hinaus gefunden wurden. SLDE: Berichtstermin jetzt explizit bestaetigt (27.10.2026, Yahoo Finance) -- Sperrfrist ruckt auf rund eine Woche, im Blick behalten. BSVN ENTFERNT: Eine konkret datierte Quelle (MarketBeat, 16.10.2026) zeigt ein deutlich schwaecheres Bild als zuvor erfasst -- Umsatz 23,37 Mio. USD unter der Konsensschaetzung von 23,75 Mio. USD, EPS 1,06 USD zwar leicht ueber dem (dort niedrigeren) Konsens von 1,05 USD, aber gegenueber dem Vorjahreswert von 1,13 USD gesunken. Das widerspricht der bisher gefuehrten Einschaetzung eines EPS-Wachstums von +21,8% YoY. Da sich die Quellen hier erkennbar widersprechen und das C-Kriterium (aktuelles Gewinnwachstum) damit nicht mehr eindeutig erfuellt ist, wird BSVN aus Vorsicht von der Liste genommen statt mit widerspruechlichen Daten weitergefuehrt. SCOUTING NEUER KANDIDATEN: Trefis-Liste der S&P-500-Titel auf 52-Wochen-Hoch (Stand 15.10., 17 Titel, davon 9 aus dem Gesundheitssektor -- u.a. Visa, Mastercard, AbbVie, Coca-Cola, Gilead, Pfizer, Altria, McKesson, ADP, Cardinal Health, Mettler-Toledo) gesichtet: durchweg Large-Caps ohne in dieser Recherche verfuegbare Pivot-/Volumen-Details fuer ein belastbares CANSLIM-Setup, daher nicht aufgenommen. Diverse allgemeine Breakout-Watchlists (Substack-Quellen) lieferten keine Namen mit ausreichend verifizierter aktueller Datenlage. DATENHINWEIS: WebFetch weiterhin nicht nutzbar, ausschliesslich WebSearch-Synthese; fuer praktisch alle Einzelwerte liegen keine unabhaengig bestaetigten Kurse nach dem 15.-17.10.2026 vor. Kurse und Termine vor jedem Trade zwingend gegen eine Live-Quelle pruefen.",
+  "market_summary": "ROT: Tag 2 eines Rallye-Versuchs seit 19.10., noch kein Follow-Through-Day, Marktbreite schwach (36,5% ueber 200-Tage-Linie).",
+  "market_note": "Marktampel bleibt ROT (5. Lauf in Folge unveraendert, seit Lauf 127). Dienstag 20.10. war Tag 2 des Rallye-Versuchs seit dem Verteilungstag vom 16.10.: Dow +1,02% auf ein 1-Monats-Hoch, Russell 2000 +1,65%, S&P 500 ca. +0,36%, Nasdaq Composite nahezu unveraendert (-0,02%) -- Healthcare-Sektor (u.a. Eli Lilly) auf Rekordhoch. Fuer einen gueltigen Follow-Through-Day nach O'Neil braucht es jedoch Tag 4+ mit kraeftigem Kursgewinn (ueblicherweise mind. 1,5% im Nasdaq) bei steigendem Volumen -- das liegt weiterhin nicht vor, und die Marktbreite bleibt schwach (zuletzt 36,5% der US-Aktien ueber der 200-Tage-Linie, faellt seit 5 Tagen; 50-Tage-Breite nur 25,1%). Naechste Katalysatoren: breite Q3-Berichtssaison laeuft (u.a. Hasbro, Northrop Grumman, Equifax am 20.10.), FOMC-Sitzung 27.-28.10.2026. FAZIT: Rallye-Versuch intakt, aber ohne bestaetigten Follow-Through-Day und bei schwacher Marktbreite -- weiterhin keine neuen Vollpositionen, auf Tag 4+ mit Volumenbestaetigung warten. DATENLUECKEN: kein verifizierter Schlussstand fuer den 21.10. (laufender Handelstag zum Redaktionsschluss), kein VIX-Schlusswert unabhaengig bestaetigt.",
+  "picks_summary": "0 Picks + 7 Watchlist: HAS frisch nach Q3-Blowout aufgenommen, Rest aus Lauf 130 uebernommen, Qualitaet vor Quantitaet.",
+  "picks_note": "0 Picks + 7 Watchlist (von 6 auf 7 erhoeht -- HAS neu aufgenommen, siehe unten). BESTEHENDE WATCHLIST GEPRUEFT: SN, HALO, RGA, PAYC und TEVA zeigen keine neuen Hinweise auf Pivot-Brueche, Kerndaten aus Lauf 130 uebernommen, da keine unabhaengig bestaetigten Kurse ueber den 15.-18.10. hinaus gefunden wurden. SLDE und RGA: Berichtstermine (27.10. bzw. ca. 28.-29.10.) ruecken auf unter zwei Wochen -- Sperrfrist-Risiko verschaerft sich, im Blick behalten, kein Neukauf. HAS NEU AUFGENOMMEN: Am 20.10.2026 taggleich mit Q3-Zahlen auf neues 7-Jahres-Hoch (109,52 USD, +11,2%) ausgebrochen -- Umsatz +15% YoY, Magic: The Gathering +34% auf Rekordniveau, FY26-Guidance angehoben, Rueckkaufziel verdoppelt (mind. 200 Mio. USD), naechster Bericht erst ca. Mitte Februar 2027 (keine Sperrfrist in Sicht). Ausbruch aber erst einen Tag alt und noch nicht durch einen zweiten Handelstag bestaetigt -- deshalb Watchlist statt Pick. SCOUTING WEITERER KANDIDATEN: NOC (Northrop Grumman, Q3-EPS-Beat) GEPRUEFT, NICHT AUFGENOMMEN -- Kurs weiterhin weit unter dem Allzeithoch vom 03.03., keine Pivot-Naehe. TMO (Thermo Fisher, 52W-Hoch) GEPRUEFT, NICHT AUFGENOMMEN -- Kursgewinn laut Trefis ueberwiegend multiple-getrieben (Nettogewinn nur +5,8% YoY), C-Kriterium schwach. IFF (52W-Hoch) GEPRUEFT, NICHT AUFGENOMMEN -- EPS verfehlt mit 0,82 vs. 1,07 USD Konsens, Kursstaerke nicht fundamental gedeckt. EFX (Equifax, Q3 am 20.10.) GEPRUEFT, NICHT AUFGENOMMEN -- Kursangaben in der Recherche widersprechen sich stark (teils 145 USD, teils 52W-Hoch 273 USD), Datenlage zu unsicher. BRZE (Braze, angeblich +51,6% am 20.10.) GEPRUEFT, NICHT AUFGENOMMEN -- kein auffindbarer Katalysator, naechster Bericht erst 08.12.2026, Daten wirken unplausibel. DATENHINWEIS: WebFetch weiterhin nicht nutzbar (investors.com nicht erreichbar), ausschliesslich WebSearch-Synthese; fuer die meisten Einzelwerte liegen keine unabhaengig bestaetigten Kurse nach dem 15.-18.10.2026 vor, Ausnahme HAS (mehrfach unabhaengig bestaetigt fuer den 20.10., u.a. Reuters/Motley Fool/StockStory). Kurse und Termine vor jedem Trade zwingend gegen eine Live-Quelle pruefen.",
   "picks": [],
   "watchlist": [
+    {
+      "ticker": "HAS",
+      "company": "Hasbro, Inc.",
+      "sector": "Konsumgueter / Spielwaren und Tabletop-Gaming (Wizards of the Coast, Magic: The Gathering)",
+      "price": 109.52,
+      "pattern": "ausgebrochen",
+      "chart_pattern": "Ausbruch auf neues 7-Jahres-Hoch 109,52 USD am 20.10.2026 (+11,2%), taggleich mit Q3-Zahlen, mehrfach unabhaengig bestaetigt (Reuters/Motley Fool/StockStory)",
+      "status": "KUERZLICH AUSGEBROCHEN -- 7-Jahres-Hoch 109,52 USD am 20.10.2026 (+11,2%), Ausbruch erst einen Handelstag alt, noch keine zweite Bestaetigung.",
+      "setup": "Q3-Umsatz +15% YoY auf 1,6 Mrd. USD, operatives Ergebnis +46-52% YoY. Magic: The Gathering +34% auf Rekordniveau, FY26-Guidance angehoben, Rueckkaufziel verdoppelt (mind. 200 Mio. USD).",
+      "pct_from_ath": 0,
+      "reason": "KEIN NEUKAUF: Marktampel ROT UND Ausbruch erst einen Tag alt -- auf Bestaetigung (zweiter Tag ueber dem alten Hoch ~107 USD, Volumen) warten. Naechster Bericht erst ca. Mitte Februar 2027, keine Sperrfrist in Sicht.",
+      "canslim": {
+        "C": "Q3-EPS-Beat, Umsatz +15% YoY auf 1,6 Mrd. USD -- deutlich ueber Erwartungen.",
+        "A": "FY26-Guidance angehoben, operatives Ergebnis +46-52% YoY -- starke Beschleunigung.",
+        "N": "Magic: The Gathering +34% auf Rekordniveau, Digital Gaming treibt Wachstum.",
+        "S": "Rueckkaufziel 2026 auf mind. 200 Mio. USD verdoppelt -- Angebot wird verknappt.",
+        "L": "Neues 7-Jahres-Hoch mit starkem Volumen -- Marktfuehrer im Tabletop-Gaming.",
+        "I": "Historisch mehrere Buy/Overweight-Ratings (u.a. Citi, Morgan Stanley, Roth Capital).",
+        "M": "NICHT ERFUELLT -- Marktampel ROT."
+      }
+    },
     {
       "ticker": "SN",
       "company": "SharkNinja, Inc.",
@@ -16,14 +39,15 @@
       "status": "KUERZLICH AUSGEBROCHEN -- Allzeithoch 194,69 USD am 15.10.2026, rund 0,08% ueber dem alten Pivot 194,54 USD (28.08.2026). Seitdem kein unabhaengig bestaetigter neuerer Kurs gefunden; Setup gilt unveraendert.",
       "setup": "Pivot/altes Allzeithoch 194,54 USD (28.08.2026), jetzt ueberschritten. Q2: Nettoumsatz +22,2% YoY, EPS 1,26 vs. 1,11 USD Konsens (Beat), FY26-Guidance auf 6,45-6,55 USD EPS angehoben.",
       "pct_from_ath": 0,
-      "reason": "KEIN NEUKAUF: Marktampel ROT. Bericht fix auf 04.11.2026 bestaetigt (ca. 2 Wochen) -- Sperrfrist rueckt naeher. RISIKO: aktuellster Kurs seit 15.10. nicht unabhaengig neu bestaetigt.",
+      "earnings_date": "2026-11-04",
+      "reason": "KEIN NEUKAUF: Marktampel ROT. Bericht fix auf 04.11.2026 bestaetigt -- Sperrfrist jetzt unter zwei Wochen. RISIKO: aktuellster Kurs seit 15.10. nicht unabhaengig neu bestaetigt.",
       "canslim": {
         "C": "Q2-Nettoumsatz +22,2% YoY, EPS 1,26 vs. 1,11 USD Konsens -- deutlicher Beat.",
-        "A": "FY26-Guidance auf 6,45-6,55 USD EPS angehoben, auch dank erwarteter Zollrueckerstattung.",
+        "A": "FY26-Guidance auf 6,45-6,55 USD EPS angehoben (inkl. Zollrueckerstattung).",
         "N": "Laufend neue Produktlaunches (Shark/Ninja), starkes internationales Wachstum.",
-        "S": "Nur routinemaessige Insider-Filings (RSU-Steuer-Withholding), kein aktiver Verkauf.",
+        "S": "Nur routinemaessige Insider-Filings (RSU-Steuer), kein aktiver Verkauf.",
         "L": "Allzeithoch mit Volumen -- fuehrend im Segment Haushaltskleingeraete.",
-        "I": "UBS/Canaccord/Guggenheim mit angehobenen Kurszielen (bis 219 USD), Wall Street Zen Upgrade auf Buy (08.08.).",
+        "I": "UBS/Canaccord/Guggenheim Kurszielanhebungen bis 219 USD, mehrere Buy-Upgrades.",
         "M": "NICHT ERFUELLT -- Marktampel ROT."
       }
     },
@@ -39,10 +63,10 @@
       "pct_from_ath": 0,
       "reason": "KEIN NEUKAUF: Marktampel ROT. Quartalsbericht weiterhin nur geschaetzt (Anfang November, nicht offiziell bestaetigt) -- Sperrfrist rueckt naeher.",
       "canslim": {
-        "C": "Q2: Umsatz +48% YoY, deutlicher EPS-Beat (2,28 vs. 1,81 USD Konsens).",
-        "A": "FY26-Guidance deutlich angehoben (Umsatz 1,835-1,91 Mrd. USD, EPS 8,65-9,00 USD).",
+        "C": "Q2-Umsatz +48% YoY, deutlicher EPS-Beat (2,28 vs. 1,81 USD Konsens).",
+        "A": "FY26-Guidance deutlich angehoben (Umsatz 1,835-1,91 Mrd., EPS 8,65-9,00 USD).",
         "N": "ENHANZE-Royalty-Plattform (+50%) und neue Wachstumsplattformen.",
-        "S": "4,8 Mio. Aktien fuer 333 Mio. USD zurueckgekauft, neues 1-Mrd.-USD-Rueckkaufprogramm.",
+        "S": "4,8 Mio. Aktien fuer 333 Mio. USD zurueckgekauft, neues 1-Mrd.-USD-Programm.",
         "L": "Fortgesetzte Serie neuer Allzeithochs trotz schwachem Gesamtmarkt.",
         "I": "H.C. Wainwright bekraeftigte Buy mit Kurszielen 115-130 USD.",
         "M": "NICHT ERFUELLT -- Marktampel ROT."
@@ -58,7 +82,8 @@
       "status": "DIREKT AM BREAKOUT-PUNKT -- neues Allzeithoch 26,88 USD, Ausbruch erst seit Lauf 128 beobachtet, kuerzeste Historie der Liste.",
       "setup": "Pivot/ATH ca. 26,75-26,88 USD. Q2 EPS 1,06 USD vs. 0,58 USD erwartet (massiver Beat). IPO 2024, seitdem mehrjaehrig stark beschleunigtes Praemienwachstum.",
       "pct_from_ath": 0,
-      "reason": "KEIN NEUKAUF: Marktampel ROT -- Ausbruch ueber mehrere Handelstage noch nicht unabhaengig bestaetigt. Bericht jetzt explizit auf 27.10.2026 terminiert (Yahoo Finance) -- Sperrfrist ruckt auf rund eine Woche, engster Termin der Liste.",
+      "earnings_date": "2026-10-27",
+      "reason": "KEIN NEUKAUF: Marktampel ROT -- Ausbruch ueber mehrere Handelstage noch nicht unabhaengig bestaetigt. Bericht auf 27.10.2026 terminiert -- nur noch rund 6 Tage, engste Sperrfrist der Liste.",
       "canslim": {
         "C": "Q2 EPS 1,06 USD vs. 0,58 USD erwartet -- massiver Beat.",
         "A": "Seit IPO 2024 mehrjaehrig stark beschleunigtes Praemienwachstum.",
@@ -79,7 +104,7 @@
       "status": "KUERZLICH AUSGEBROCHEN -- Allzeithoch 265,27 USD am 15.10.2026, zuletzt ca. 2-4% darunter konsolidierend. Keine neuere Kursbestaetigung seit dem 16.10. gefunden.",
       "setup": "Allzeithoch 265,27 USD. Q2-EPS deutlich ueber 6,53 USD Konsens, Aktie +30% YTD, mehrjaehrig stetige Gewinnausweitung.",
       "pct_from_ath": 3,
-      "reason": "KEIN NEUKAUF: Marktampel ROT. Bericht ca. 28.-29.10.2026 (ca. 1,5 Wochen) -- im Blick behalten.",
+      "reason": "KEIN NEUKAUF: Marktampel ROT. Bericht ca. 28.-29.10.2026 -- Sperrfrist rueckt auf unter zwei Wochen, im Blick behalten.",
       "canslim": {
         "C": "Q2-EPS deutlich ueber 6,53 USD Konsens -- starker Beat.",
         "A": "Aktie +30% YTD, mehrjaehrig stetige Gewinnausweitung.",
@@ -97,13 +122,14 @@
       "price": 249.0,
       "pattern": "ausgebrochen",
       "chart_pattern": "Neues 52-Wochen-Hoch am 15.10.2026 nach Beat-and-Raise-Quartal",
-      "status": "KUERZLICH AUSGEBROCHEN -- neues 52-Wochen-Hoch am 15.10.2026 im Bereich 245-253 USD. Keine neuere unabhaengig bestaetigte Kursangabe seit dem 16.10. gefunden; in dieser Recherche aufgetauchte Preisangaben weichen stark und widerspruechlich ab (RISIKO: Preisquellen unzuverlaessig).",
+      "status": "KUERZLICH AUSGEBROCHEN -- neues 52-Wochen-Hoch am 15.10.2026 im Bereich 245-253 USD. Keine neuere unabhaengig bestaetigte Kursangabe seit dem 16.10. gefunden; Preisquellen weichen stark ab (RISIKO).",
       "setup": "52-Wochen-Hoch im Bereich 245-253 USD. Q2 EPS 2,78 USD vs. 2,38 USD Konsens, Umsatz +9,8% YoY, wiederkehrende Umsaetze +11%, FY-Guidance angehoben.",
       "pct_from_ath": 1.5,
-      "reason": "KEIN NEUKAUF: Marktampel ROT. Bericht 04.11.2026 (ca. 2 Wochen) -- unkritisch. RISIKO: aktuelle Kursangaben aus der Recherche widersprechen sich stark, vor jedem Trade zwingend Live-Kurs pruefen.",
+      "earnings_date": "2026-11-04",
+      "reason": "KEIN NEUKAUF: Marktampel ROT. Bericht 04.11.2026 -- unkritisch. RISIKO: aktuelle Kursangaben widersprechen sich stark, vor Trade Live-Kurs pruefen.",
       "canslim": {
         "C": "Q2 EPS 2,78 USD vs. 2,38 USD Konsens -- Beat, Umsatz +9,8% YoY.",
-        "A": "Nach mehreren schwaecheren Jahren jetzt wieder Wachstumsbeschleunigung, Guidance angehoben.",
+        "A": "Nach schwaecheren Jahren jetzt wieder Wachstumsbeschleunigung, Guidance angehoben.",
         "N": "KI-gestuetztes Payroll-Automatisierungsprodukt 'Beti' als Wachstumstreiber.",
         "S": "Aggressives Aktienrueckkaufprogramm reduziert den Streubesitz spuerbar.",
         "L": "Marktfuehrer im HCM-Software-Nischensegment.",
@@ -118,13 +144,14 @@
       "price": 41.4,
       "pattern": "kurz_vor_pivot",
       "chart_pattern": "52-Wochen-Hoch 42,02 USD am 09.10.2026 nach FDA-Zulassung, leichter Ruecksetzer",
-      "status": "KUERZLICH AUSGEBROCHEN (RUECKSETZER INNERHALB DER KAUFZONE) -- 52-Wochen-Hoch 42,02 USD am 09.10.2026, zuletzt 41,40 USD (16.10.), rund 1,5% darunter. Keine neuere verlaessliche Kursbestaetigung gefunden; eine in dieser Recherche aufgetauchte, undatierte Quelle nennt einen deutlich niedrigeren ADR-Kurs (ca. 21,82 USD) -- erscheint stale/unplausibel und wird nicht uebernommen.",
+      "status": "KUERZLICH AUSGEBROCHEN (RUECKSETZER INNERHALB DER KAUFZONE) -- 52-Wochen-Hoch 42,02 USD am 09.10.2026, zuletzt 41,40 USD (16.10.), rund 1,5% darunter. Keine neuere verlaessliche Kursbestaetigung gefunden.",
       "setup": "52-Wochen-Hoch 42,02 USD. Q2-Umsatz 4,14 Mrd. USD ueber 4,05 Mrd. USD Konsens, FY26-Umsatzguidance um 75 Mio. USD angehoben. Innovativ-Portfolio (Austedo, Ajovy +56% YoY) waechst beschleunigt.",
       "pct_from_ath": 1.5,
-      "reason": "KEIN NEUKAUF: Marktampel ROT. Bericht 03.11.2026 (ca. 2 Wochen) -- unkritisch. RISIKO: Hohe Nettoverschuldung (12,9 Mrd. USD) -- schwaches S-Kriterium.",
+      "earnings_date": "2026-11-03",
+      "reason": "KEIN NEUKAUF: Marktampel ROT. Bericht 03.11.2026 -- unkritisch. RISIKO: Hohe Nettoverschuldung (12,9 Mrd. USD) -- schwaches S-Kriterium.",
       "canslim": {
         "C": "Q2-Umsatz 4,14 Mrd. USD ueber 4,05 Mrd. USD Konsens, Guidance angehoben.",
-        "A": "Innovativ-Portfolio waechst beschleunigt (Ajovy +56% YoY), trotz schrumpfender Generika.",
+        "A": "Innovativ-Portfolio waechst beschleunigt (Ajovy +56% YoY), trotz Generika-Schrumpfung.",
         "N": "FDA-Zulassung fuer monatliches Schizophrenie-Injektable 'Weltruza' (9.10.) als Katalysator.",
         "S": "SCHWACH -- hohe Nettoverschuldung (12,9 Mrd. USD), Fokus auf Schuldenabbau.",
         "L": "Groesster Generika-Hersteller weltweit.",
@@ -134,11 +161,16 @@
     }
   ],
   "filtered_out": [
-    "BSVN (Bank7) ENTFERNT: Neue, konkret datierte Quelle (MarketBeat, 16.10.2026) zeigt Umsatzverfehlung (23,37 Mio. vs. 23,75 Mio. USD Konsens) und einen EPS-Ruckgang gegenueber dem Vorjahr (von 1,13 auf 1,06 USD) -- widerspricht der bisherigen Annahme von +21,8% EPS-Wachstum YoY. Das C-Kriterium ist damit nicht mehr eindeutig erfuellt; aus Vorsicht von der Liste genommen statt mit widerspruechlichen Daten weitergefuehrt.",
-    "Large-Cap-52-Wochen-Hoch-Liste (Trefis, Stand 15.10.2026, 17 S&P-500-Titel, v.a. Gesundheitssektor: u.a. Visa, Mastercard, AbbVie, Coca-Cola, Gilead, Pfizer, Altria, McKesson, ADP, Cardinal Health, Mettler-Toledo) GEPRUEFT, NICHT AUFGENOMMEN: keine in dieser Recherche verfuegbaren Pivot-/Volumen-Details fuer ein belastbares CANSLIM-Setup.",
-    "Profound Medical, Pacira Biosciences, Option Care Health bleiben aus Lauf 129 ausgeschlossen (M&A-getrieben bzw. Katalysator zu alt, kein organischer CANSLIM-Ausbruch) -- unveraendert.",
-    "YPF, TEAM (Atlassian), DAC (Danaos) bleiben aus frueheren Laeufen entfernt (widerspruechliche Kursdaten bzw. Pivot-Bruch bzw. Ex-Div-Belastung) -- unveraendert.",
-    "FFIV, ANF, WELL, NAT, PANW, CRWD, PENG, HPE, NVDA, AMD, KEYS, CNC, HRTG, FTNT, ZBRA, IOT, TOST, GM, Carnival, Travel+Leisure, Vertiv, GE Vernova, Kratos, FICO, Ovintiv, Integer, UVE, ANET, URBN, Agilent bleiben aus frueheren Laeufen ausgeschlossen (schwaches I-/S-/A-Kriterium, Sperrfrist- oder Momentum-Risiko) -- unveraendert.",
-    "METHODIK-HINWEIS LAUF 130 (20.10.2026, Dienstag): Montag 19.10. war seit Freitag 16.10. der erste neue US-Handelstag und brachte eine Erholung (S&P +0,4-0,66%, Nasdaq +1,1-1,35%) -- fruehestens Tag 1 eines Rallye-Versuchs, noch kein Follow-Through-Day. Recherche ausschliesslich per WebSearch (WebFetch weiterhin nicht erreichbar); fuer die Einzelwerte lieferte die Websuche ueberwiegend keine Kursdaten juenger als 15.-17.10.2026, teils mit stark widerspruechlichen/stale Werten (siehe PAYC, TEVA). Watchlist daher im Kern von Lauf 129 uebernommen; BSVN wegen neuer, konkreter gegenlaufender Daten entfernt. Alle Kurse und Termine vor jedem Trade zwingend gegen eine Live-Quelle pruefen."
+    "NOC (Northrop Grumman) GEPRUEFT, NICHT AUFGENOMMEN: Q3-EPS-Beat (7,89 vs. ca. 7,17 USD Konsens) am 20.10., aber Kurs zuletzt (17.09.) bei ca. 524 USD weiterhin weit unter dem Allzeithoch 761,19 USD (03.03.) -- keine Pivot-Naehe, keine CANSLIM-Breakout-Situation gefunden.",
+    "TMO (Thermo Fisher) GEPRUEFT, NICHT AUFGENOMMEN: 52-Wochen-Hoch 696,49 USD (15.10.), aber laut Trefis waechst der Nettogewinn nur +5,8% YoY gegenueber +30,7% Kursgewinn -- Rally ueberwiegend multiple- statt gewinngetrieben, C-Kriterium zu schwach.",
+    "IFF (International Flavors & Fragrances) GEPRUEFT, NICHT AUFGENOMMEN: 52-Wochen-Hoch trotz EPS-Verfehlung (0,82 vs. 1,07 USD Konsens) -- Kursstaerke nicht durch aktuelles Gewinnwachstum gedeckt.",
+    "EFX (Equifax) GEPRUEFT, NICHT AUFGENOMMEN: Q3-Bericht am 20.10. (Umsatz +10% YoY), aber Kursangaben in der Recherche widersprechen sich stark (teils ca. 145 USD, teils 52W-Hoch 273 USD genannt) -- Datenlage zu unsicher fuer ein belastbares Setup.",
+    "BRZE (Braze) GEPRUEFT, NICHT AUFGENOMMEN: gemeldeter Tagesgewinn von +51,6% am 20.10. ohne auffindbaren Katalysator, naechster Bericht erst 08.12.2026 -- kein Earnings-Trigger identifizierbar, Daten wirken unplausibel/unverifiziert.",
+    "BSVN (Bank7) bleibt entfernt (Lauf 130): widersprechende Quelle zeigte Umsatzverfehlung und EPS-Ruckgang ggue. Vorjahr -- C-Kriterium nicht mehr eindeutig erfuellt.",
+    "Large-Cap-52-Wochen-Hoch-Liste (Trefis, Stand 15.10., v.a. Gesundheitssektor: Visa, Mastercard, AbbVie, Coca-Cola, Gilead, Pfizer, Altria, McKesson, ADP, Cardinal Health, Mettler-Toledo) weiterhin NICHT AUFGENOMMEN: keine verfuegbaren Pivot-/Volumen-Details.",
+    "Profound Medical, Pacira Biosciences, Option Care Health bleiben ausgeschlossen (M&A-getrieben bzw. Katalysator zu alt).",
+    "YPF, TEAM (Atlassian), DAC (Danaos) bleiben aus frueheren Laeufen entfernt (widerspruechliche Kursdaten bzw. Pivot-Bruch bzw. Ex-Div-Belastung).",
+    "FFIV, ANF, WELL, NAT, PANW, CRWD, PENG, HPE, NVDA, AMD, KEYS, CNC, HRTG, FTNT, ZBRA, IOT, TOST, GM, Carnival, Travel+Leisure, Vertiv, GE Vernova, Kratos, FICO, Ovintiv, Integer, UVE, ANET, URBN, Agilent bleiben aus frueheren Laeufen ausgeschlossen (schwaches I-/S-/A-Kriterium, Sperrfrist- oder Momentum-Risiko).",
+    "METHODIK-HINWEIS LAUF 131 (21.10.2026, Mittwoch): Dienstag 20.10. war Tag 2 eines Rallye-Versuchs (Dow +1,02%, Nasdaq nahezu flach), weiterhin kein Follow-Through-Day, Marktbreite schwach. Gezielte Scouting-Suche nach frischen Breakouts/Earnings-Reaktionen (NOC, TMO, IFF, EFX, BRZE) gepruft, nur HAS erfuellte CANSLIM-Kriterien mit ausreichend bestaetigten Daten. Recherche ausschliesslich per WebSearch (WebFetch weiterhin nicht erreichbar, auch investors.com/IBD nicht abrufbar); fuer die bestehende Watchlist (SN, HALO, RGA, PAYC, TEVA) ueberwiegend keine Kursdaten juenger als 15.-18.10.2026 gefunden. Alle Kurse und Termine vor jedem Trade zwingend gegen eine Live-Quelle pruefen."
   ]
 }
