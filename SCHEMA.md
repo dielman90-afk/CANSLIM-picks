@@ -31,6 +31,8 @@ gemerkt, weil nichts geprueft wurde.
   "updated": "2026-08-17",
   "run": 95,
   "market_signal": "GRUEN",
+  "market_summary": "Ein Satz zur Marktlage ...",
+  "picks_summary": "Ein Satz zur Auswahl ...",
   "market_note": "Begruendung der Marktampel ...",
   "picks_note": "Einordnung der Auswahl insgesamt ...",
   "picks":       [ /* Eintraege, max. 8 */ ],
@@ -46,9 +48,16 @@ gemerkt, weil nichts geprueft wurde.
 | `updated` | ja | `JJJJ-MM-TT`. Steht im Footer. Aelter als **4 Tage** → gelbe Warnpille „veraltet“. |
 | `run` | nein | Lauf-Nummer, Footer. |
 | `market_signal` | ja | Ampelpille oben rechts **und** das M-Kriterium jeder Karte. `GRUEN`/`GELB`/`ROT` (deutsch bevorzugt), englische Werte weiter erlaubt. |
-| `market_note` | nein | Aufklappbarer Text unter dem Titel. |
-| `picks_note` | nein | Zweite aufklappbare Zeile. |
-| `filtered_out` | nein | Eigener Block „Aussortiert (N)“ am Ende. |
+| `market_summary` | empfohlen | **Ein Satz** (Ziel ≤ 140 Zeichen), steht im Widget-Kopf. Fehlt er, nimmt das Dashboard den `FAZIT:`-Abschnitt bzw. den ersten Satz von `market_note`. |
+| `picks_summary` | empfohlen | **Ein Satz** (Ziel ≤ 140 Zeichen), zweite Zeile im Kopf. |
+| `market_note` | nein | Langtext, eingeklappt unter „Marktlage & Auswahl“. |
+| `picks_note` | nein | Langtext, ebenfalls dort. |
+| `filtered_out` | nein | Eingeklappter Block „Aussortiert (N)“ am Ende. |
+
+Die Langtexte (`market_note`, `picks_note`) zerlegt das Dashboard an Labels
+in Grossbuchstaben mit Doppelpunkt (`FAZIT:`, `BSVN ENTFERNT:`,
+`DATENHINWEIS:` — mindestens vier Zeichen) in Stichpunkte. Bei
+`filtered_out` wird der Text vor dem ersten `: ` fett als Label gezeigt.
 
 ### Eintrag (`picks` und `watchlist`)
 
@@ -58,10 +67,11 @@ gemerkt, weil nichts geprueft wurde.
 | `company` | empfohlen | Zeile darunter |
 | `sector` | empfohlen | Chip |
 | `status` | empfohlen | farbiges Badge oben rechts — siehe unten |
-| `setup` | empfohlen | Block **SETUP** (3 Zeilen, klickbar aufklappbar) |
-| `buy_trigger` | empfohlen | Block **KAUF-TRIGGER** |
-| `note` / `reason` | empfohlen | Block **NOTIZ** bzw. **GRUND** |
-| `canslim` | ja | sieben Buchstaben-Chips, Volltext als Tooltip |
+| `canslim` | ja | **Hauptinhalt der Karte:** Liste mit sieben Zeilen (Buchstabe, Bedeutung, Text) — siehe unten |
+| `earnings_date` | empfohlen | `JJJJ-MM-TT` des naechsten Quartalsberichts. Chip „Zahlen TT.MM. · in N T.“, gelb ab 14 Tagen vorher. Unbekannt → weglassen. |
+| `setup` | empfohlen | eingeklappt unter „Details“, Block **SETUP** |
+| `buy_trigger` | empfohlen | eingeklappt unter „Details“, Block **KAUF-TRIGGER** |
+| `note` / `reason` | empfohlen | eingeklappt unter „Details“, Block **NOTIZ** bzw. **GRUND** |
 | `price` | optional | Kurs oben rechts; fehlt er, bleibt das Feld leer statt „—“ |
 | `pct_from_ath` | optional | Watchlist-Badge |
 
@@ -83,9 +93,22 @@ regelmaessig „(Ausbruch laeuft)“ o. ae.
 
 ### `canslim`
 
-Alle sieben Buchstaben `C A N S L I M` muessen vorhanden sein. Bevorzugt je
-ein erklaerender Satz (erscheint als Tooltip). Booleans funktionieren
-weiterhin. Bei Text gelten `C`–`I` als erfuellt; `M` folgt der Marktampel.
+Alle sieben Buchstaben `C A N S L I M` muessen vorhanden sein. Je Buchstabe
+**ein kurzer Satz, Ziel ≤ 80 Zeichen** — sichtbar ist eine Zeile, der Rest
+erst nach Antippen (`validate_picks.py` warnt ab 120 Zeichen). Booleans
+funktionieren weiterhin.
+
+Einstufung (Farbe des Buchstabens):
+
+| Text beginnt mit | Farbe | Angezeigt wird |
+|---|---|---|
+| — (kein Praefix) | gruen, erfuellt | der ganze Text |
+| `SCHWACH -- ` oder `TEILWEISE -- ` | gelb | Text hinter `--` |
+| `NICHT ERFUELLT -- ` | rot | Text hinter `--` |
+
+`M` folgt immer der Marktampel (GRUEN gruen, GELB gelb, ROT rot).
+
+Beispiel: `"S": "SCHWACH -- hohe Nettoverschuldung (12,9 Mrd. USD)"`
 
 ## Regeln fuer Aenderungen
 

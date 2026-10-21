@@ -37,6 +37,9 @@ STUFEN = re.compile(
     r"|AUSGEBROCH|BREAKOUT ERFOLGT|AUSBRUCH (VOLLZOGEN|BESTAETIGT|LAEUFT)"
     r"|AM (BREAKOUT|PIVOT|PUNKT|AUSBRUCHSPUNKT)|BREAKOUT-PUNKT"
 )
+# Laengen, ab denen die Kurzfelder im Dashboard abgeschnitten werden
+MAX_KURZ = 200       # market_summary, picks_summary (Ziel: <= 140)
+MAX_BUCHSTABE = 120  # canslim.X (Ziel: <= 80)
 
 
 def pruefe_eintrag(eintrag, wo, fehler, warnungen):
@@ -63,6 +66,8 @@ def pruefe_eintrag(eintrag, wo, fehler, warnungen):
                 fehler.append(f"{wo}: canslim.{l} ist weder Text noch Boolean ({type(v).__name__})")
             elif isinstance(v, str) and not v.strip():
                 fehler.append(f"{wo}: canslim.{l} ist leer")
+            elif isinstance(v, str) and len(v) > MAX_BUCHSTABE:
+                warnungen.append(f"{wo}: canslim.{l} hat {len(v)} Zeichen — im Dashboard nur eine Zeile, Ziel <= 80")
         unbekannt = [k for k in canslim if k not in LETTERS]
         if unbekannt:
             warnungen.append(f"{wo}: unbekannte canslim-Schluessel {unbekannt} — werden nicht angezeigt")
@@ -89,6 +94,13 @@ def pruefe_eintrag(eintrag, wo, fehler, warnungen):
     for feld in ("price", "pct_from_ath"):
         if feld in eintrag and eintrag[feld] is not None and not isinstance(eintrag[feld], (int, float)):
             fehler.append(f"{wo}: `{feld}` ist keine Zahl")
+
+    termin = eintrag.get("earnings_date")
+    if termin is not None:
+        if not isinstance(termin, str):
+            fehler.append(f"{wo}: `earnings_date` ist kein Text")
+        elif not DATUM.match(termin):
+            warnungen.append(f"{wo}: `earnings_date` {termin!r} ist nicht JJJJ-MM-TT — kein Zahlen-Chip")
 
 
 def pruefe(daten, min_datum=None):
@@ -125,9 +137,12 @@ def pruefe(daten, min_datum=None):
 
     if "run" in daten and daten["run"] is not None and not isinstance(daten["run"], int):
         fehler.append("`run` ist keine Ganzzahl")
-    for feld in ("market_note", "picks_note"):
+    for feld in ("market_note", "picks_note", "market_summary", "picks_summary"):
         if feld in daten and daten[feld] is not None and not isinstance(daten[feld], str):
             fehler.append(f"`{feld}` ist kein Text")
+    for feld in ("market_summary", "picks_summary"):
+        if isinstance(daten.get(feld), str) and len(daten[feld]) > MAX_KURZ:
+            warnungen.append(f"`{feld}` hat {len(daten[feld])} Zeichen — gedacht ist ein Satz, Ziel <= 140")
 
     picks = daten.get("picks")
     watchlist = daten.get("watchlist")
