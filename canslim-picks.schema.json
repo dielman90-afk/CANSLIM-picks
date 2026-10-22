@@ -24,11 +24,19 @@
     },
     "market_note": {
       "type": "string",
-      "description": "Begruendung der Marktampel. Wird als aufklappbarer Text unter dem Widget-Titel angezeigt."
+      "description": "Begruendung der Marktampel (Langtext). Steht eingeklappt unter 'Marktlage & Auswahl', in Stichpunkte zerlegt an Labels in Grossbuchstaben ('FAZIT:', 'DATENLUECKEN:')."
     },
     "picks_note": {
       "type": "string",
-      "description": "Einordnung der Auswahl insgesamt (Selektivitaet, Reihenfolge, Warnungen). Zweite aufklappbare Zeile im Widget-Kopf."
+      "description": "Einordnung der Auswahl insgesamt (Selektivitaet, Reihenfolge, Warnungen). Steht eingeklappt unter 'Marktlage & Auswahl', in Stichpunkte zerlegt an Labels in Grossbuchstaben ('BSVN ENTFERNT:', 'DATENHINWEIS:')."
+    },
+    "market_summary": {
+      "type": "string",
+      "description": "Optional, empfohlen: Marktlage in EINEM Satz (Ziel <= 140 Zeichen). Steht im Widget-Kopf. Fehlt das Feld, zeigt das Dashboard den FAZIT-Abschnitt bzw. den ersten Satz von market_note."
+    },
+    "picks_summary": {
+      "type": "string",
+      "description": "Optional, empfohlen: Einordnung der Auswahl in EINEM Satz (Ziel <= 140 Zeichen). Zweite Zeile im Widget-Kopf; fehlt sie, entfaellt die Zeile."
     },
     "picks": {
       "type": "array",
@@ -75,13 +83,17 @@
           "type": "string",
           "description": "Stufe des Setups im Format 'STUFE -- Fliesstext'. Aus der STUFE (allem vor dem '--') leitet das Dashboard das farbige Badge ab. Erkannte Stufen: KUERZLICH AUSGEBROCHEN / AUSGEBROCHEN -> gruen 'Ausgebrochen'; DIREKT AM BREAKOUT-PUNKT / AM PIVOT -> gruen 'Am Pivot'; KURZ VOR DEM AUSBRUCH -> gelb 'Kurz vor Pivot'; UEBERDEHNT -> rot 'Ueberdehnt'."
         },
-        "setup":       { "type": "string", "description": "Technische Analyse: Pivot, Basis, gleitende Durchschnitte, Volumen. Wird als Block 'SETUP' angezeigt." },
-        "buy_trigger": { "type": "string", "description": "Konkrete Kaufregel inkl. Kaufzone und Stop. Wird als Block 'KAUF-TRIGGER' angezeigt." },
-        "note":        { "type": "string", "description": "Freie Einordnung/Risiken. Wird als Block 'NOTIZ' bzw. 'GRUND' angezeigt." },
+        "setup":       { "type": "string", "description": "Technische Analyse: Pivot, Basis, gleitende Durchschnitte, Volumen. Steht eingeklappt unter 'Details' als Block 'SETUP'." },
+        "buy_trigger": { "type": "string", "description": "Konkrete Kaufregel inkl. Kaufzone und Stop. Steht eingeklappt unter 'Details' als Block 'KAUF-TRIGGER'." },
+        "note":        { "type": "string", "description": "Freie Einordnung/Risiken. Steht eingeklappt unter 'Details' als Block 'NOTIZ' bzw. 'GRUND'." },
         "reason":      { "type": "string", "description": "Nur Watchlist: Ausschlussgrund. Alternative zu `note`." },
+        "earnings_date": {
+          "type": "string",
+          "description": "Optional, empfohlen: Termin des naechsten Quartalsberichts als JJJJ-MM-TT. Das Dashboard zeigt den Chip 'Zahlen TT.MM. · in N T.', gelb ab 14 Tagen vorher. Nur ein bestaetigter oder klar datierter Termin; sonst Feld weglassen."
+        },
         "canslim": {
           "type": "object",
-          "description": "Die sieben CANSLIM-Kriterien. Bevorzugt je Buchstabe ein erklaerender Fliesstext (erscheint als Tooltip auf dem Buchstaben-Chip); Booleans werden aus Kompatibilitaet weiter unterstuetzt. Bei Fliesstext gelten C-I als erfuellt, M folgt der Marktampel.",
+          "description": "Die sieben CANSLIM-Kriterien, im Dashboard als Liste (Buchstabe | Bedeutung | Text) der Hauptinhalt der Karte. Je Buchstabe EIN kurzer Satz (Ziel <= 80 Zeichen, sichtbar ist eine Zeile). Text gilt als erfuellt; beginnt er mit 'SCHWACH -- ' (auch 'TEILWEISE -- ') wird der Buchstabe gelb, mit 'NICHT ERFUELLT -- ' rot, das Praefix selbst wird nicht angezeigt. M folgt immer der Marktampel. Booleans werden aus Kompatibilitaet weiter unterstuetzt.",
           "required": ["C", "A", "N", "S", "L", "I", "M"],
           "additionalProperties": false,
           "patternProperties": {
