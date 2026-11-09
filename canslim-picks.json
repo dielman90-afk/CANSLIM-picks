@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-08",
-  "run": 145,
+  "updated": "2026-11-09",
+  "run": 146,
   "market_signal": "ROT",
-  "market_summary": "ROT: Letzter Handelstag bleibt Freitag 06.11. (Wochenende) -- Tag 1 eines Rallye-Versuchs, weiter kein bestaetigter Trendwechsel.",
-  "market_note": "Lauf 145 faellt auf Sonntag, 08.11.2026 -- der Markt war am 07. und 08.11. geschlossen, es gab keine neue Handelssitzung seit dem Freitagsschluss (06.11.), der bereits in Lauf 144 ausgewertet wurde: Nasdaq +1,09% auf 24.579,42, S&P 500 +0,31% auf 7.376,86, Dow Jones -0,46% auf 51.285,73 -- Erholung nach dem schweren Ausverkauf vom 05.11. (Nasdaq -5,52%), aber unvollstaendig (Wochenbilanz weiter rund -2,7%). Gezielte Suche nach Wochenend-Nachrichten und bereits verfuegbaren Montags-Vorboersenindikationen (08./09.11.) lieferte keine belastbaren, datierten neuen Fakten zu den Indizes oder zu den fuenf Watchlist-Titeln (LH, HAS, MAR, MANH, NDAQ) -- mehrere gepruefte Quellen enthielten widerspruechliche oder nicht verifizierbare Zahlen und wurden verworfen. FAZIT: Ohne neue Handelssitzung bleibt die Einstufung von Lauf 144 gueltig -- der 06.11. ist nach IBD-Methodik bestenfalls Tag 1 eines Rallye-Versuchs (Follow-Through-Day erst ab Tag 4-10 mit mindestens 1,25% Tagesgewinn auf hoeherem Volumen moeglich), der Dow blieb im Minus, kein bestaetigter Trendwechsel. Marktampel bleibt ROT, Neukaeufe bleiben ausgesetzt. Montag, 09.11., ist die naechste reale Pruefung. DATENHINWEIS: Dieser Lauf ist ein reiner Wochenend-Fortschreibungslauf ohne neue Kursdaten; alle Kurse und Abstaende entsprechen weiterhin dem Freitagsschluss 06.11.2026.",
-  "picks_summary": "0 Picks, 5 Watchlist unveraendert -- keine neue Handelssitzung seit Lauf 144, LH bleibt mit 1,8% Abstand am naechsten am Pivot.",
-  "picks_note": "Da seit Lauf 144 keine neue Handelssitzung stattfand (Wochenende), bleibt die Watchlist mit den fuenf Titeln LH, HAS, MAR, MANH, NDAQ unveraendert -- Kurse, Pivot-Abstaende und CANSLIM-Einschaetzungen entsprechen weiterhin dem Freitagsschluss 06.11.2026. CHE (Chemed) bleibt wie in Lauf 144 begruendet draussen. 0 Picks, da Marktampel ROT weiterhin Neukaeufe ausschliesst und sich am M-Kriterium nichts geaendert hat. SCOUTING (Lauf 145): Breite Zusatzsuche nach neuen, noch nicht im Pool befindlichen Nahe-Pivot-Setups in anderen Sektoren (u. a. IBD-Leaderboard-Nennungen wie Atlassian, HubSpot, Palantir, Snowflake, Costco, Heico, Cup-and-Handle-Screener) ergab keine mit aktuellem, fuer dieses Wochenende verifizierbarem Datum und bestaetigten Fundamentaldaten -- die gefundenen Treffer waren durchgehend undatiert, veraltet oder bezogen sich auf andere Maerkte. Qualitaet vor Quantitaet bleibt Prioritaet, daher keine ungepruefte Neuaufnahme. DATENHINWEIS: Fuer LH, HAS, MAR, MANH, NDAQ weiterhin keine bestaetigten naechsten Berichtstermine auffindbar -- 'earnings_date' bleibt bei allen fuenf Titeln weggelassen.",
+  "market_summary": "ROT: Lauf 146 vor Handelsbeginn 09.11. -- noch keine Montagsdaten, Stand bleibt Freitagsschluss 06.11., kein FTD bestaetigt.",
+  "market_note": "Lauf 146 (Montag, 09.11.2026) wurde vor Beginn der regulaeren Handelssitzung erstellt -- zum Laufzeitpunkt liegen noch keine neuen Kursdaten fuer den 09.11. vor (Live-Abfragen mehrerer Quellen zeigen durchgehend weiterhin den Schlusskurs vom Freitag, 06.11.: Nasdaq 24.579,42 (+1,09%), S&P 500 7.376,86 (+0,31%), Dow Jones 51.285,73 (-0,46%)). Damit ist dies der dritte Lauf in Folge (144, 145, 146) auf identischer Datenbasis. FAZIT: Die Einstufung von Lauf 144/145 bleibt gueltig -- der 06.11. war nach IBD-Methodik bestenfalls Tag 1 eines Rallye-Versuchs nach dem schweren KI-Ausverkauf vom 05.11. (Nasdaq -5,52%), ein Follow-Through-Day (Tag 4-10, mindestens 1,25% Tagesgewinn auf hoeherem Volumen) ist weiterhin nicht bestaetigt. Marktampel bleibt ROT, Neukaeufe bleiben ausgesetzt. Die Montagssitzung 09.11. ist die naechste reale Pruefung, sobald Kursdaten nach Handelsschluss vorliegen. DATENHINWEIS: Alle Kurse, Pivot-Abstaende und CANSLIM-Einschaetzungen in diesem Lauf entsprechen weiterhin dem Freitagsschluss 06.11.2026, sofern nicht anders vermerkt.",
+  "picks_summary": "0 Picks, 6 Watchlist (neu: Block/XYZ) -- Montagsdaten (09.11.) zum Laufzeitpunkt noch nicht verfuegbar, Marktampel bleibt ROT.",
+  "picks_note": "Da zum Laufzeitpunkt keine neue Handelssitzung vorliegt, bleiben die fuenf bisherigen Watchlist-Titel (LH, HAS, MAR, MANH, NDAQ) mit Kursen, Pivot-Abstaenden und CANSLIM-Einschaetzungen vom Freitagsschluss 06.11. unveraendert. 0 Picks, da Marktampel ROT weiterhin Neukaeufe ausschliesst. SCOUTING (Lauf 146): Breite Zusatzsuche nach neuen Nahe-Pivot-Setups ausserhalb des bisherigen Pools ergab einen qualitativ hochwertigen Neuzugang: BLOCK (XYZ) sprang nach einem klaren Q3-Blowout (03.11., adj. EPS +109% YoY, dritte Guidance-Anhebung in Folge) auf ein neues 52-Wochen-Hoch von 88,51 USD und haelt sich seither nur 3,4% darunter -- ein frisch ausgebrochenes, noch nicht ueberdehntes Setup, neu in die Watchlist aufgenommen. Zwei weitere, zunaechst aussichtsreich wirkende Kandidaten wurden nach Pruefung verworfen: SEAGATE (STX, nach dem KI-Ausverkauf vom 05.11. 60% unter dem 52-Wochen-Hoch, falsche Richtung) und NEXTPOWER/NEXTRACKER (NXT, trotz sechs Quartalen in Folge mit Schaetzungen-Beat 35,7% unter dem Hoch). Qualitaet vor Quantitaet bleibt Prioritaet. CHE (Chemed) bleibt wie in Laeufen 144/145 begruendet draussen.",
   "picks": [],
   "watchlist": [
     {
@@ -14,12 +14,12 @@
       "sector": "Gesundheitswesen / Labordiagnostik",
       "price": 366.57,
       "pattern": "kurz_vor_pivot",
-      "chart_pattern": "Unveraendert seit Lauf 144: nach Q3-Doppel-Beat (28.10.) und Erholung am 06.11. auf 366,57 USD, nur 1,8% unter dem 52-Wochen-Hoch 373,34 USD.",
-      "status": "KURZ VOR DEM AUSBRUCH -- staerkste relative Staerke im Pool, unveraendert 1,8% unter dem Hoch (Stand Freitag 06.11., keine neue Sitzung).",
-      "setup": "Q3: EPS 4,78 vs. 4,64 USD Konsens, Umsatz +6,9% (28.10.). FY26-Guidance erhoeht auf EPS 18,30-18,70 USD. Kurs 366,57 USD, 1,8% unter dem Hoch 373,34 USD -- Basis bleibt intakt, unveraendert seit Lauf 144.",
+      "chart_pattern": "Unveraendert seit Freitagsschluss 06.11.: nach Q3-Doppel-Beat (28.10.) Kurs 366,57 USD, nur 1,8% unter dem 52-Wochen-Hoch 373,34 USD.",
+      "status": "KURZ VOR DEM AUSBRUCH -- staerkste relative Staerke im Pool, unveraendert 1,8% unter dem Hoch (Stand 06.11., keine neue Sitzung).",
+      "setup": "Q3: EPS 4,78 vs. 4,64 USD Konsens, Umsatz +6,9% (28.10.). FY26-Guidance erhoeht auf EPS 18,30-18,70 USD. Kurs 366,57 USD, 1,8% unter dem Hoch 373,34 USD -- Basis bleibt intakt.",
       "buy_trigger": "Kauf bei Ausbruch ueber 373,34 USD mit Volumen; Stop unter dem Tief des Ausbruchstags.",
       "pct_from_ath": 1.8,
-      "reason": "KEIN NEUKAUF: Marktampel ROT, keine neue Handelssitzung seit Lauf 144 (Wochenende). Staerkste relative Staerke im gesamten Pool und am naechsten am Pivot. Vor jedem Trade zwingend Live-Kurs pruefen.",
+      "reason": "KEIN NEUKAUF: Marktampel ROT, keine neue Handelssitzung seit Freitagsschluss 06.11. Staerkste relative Staerke im gesamten Pool und am naechsten am Pivot. Vor jedem Trade zwingend Live-Kurs pruefen.",
       "canslim": {
         "C": "Q3-EPS 4,78 vs. 4,64 USD erwartet, Umsatz +6,9% auf 3,81 Mrd USD.",
         "A": "FY26-Guidance erhoeht auf EPS 18,30-18,70 USD.",
@@ -27,7 +27,7 @@
         "S": "SCHWACH -- keine aktuellen Rueckkaufzahlen verifizierbar.",
         "L": "Staerkste Erholung im Watchlist-Pool am 06.11. (+0,9%).",
         "I": "Mehrfache positive Analystenreaktionen nach dem Beat.",
-        "M": "NICHT ERFUELLT -- Marktampel ROT, keine neue Sitzung seit 06.11."
+        "M": "NICHT ERFUELLT -- Marktampel ROT, kein bestaetigter Follow-Through-Day."
       }
     },
     {
@@ -36,12 +36,12 @@
       "sector": "Konsumgueter / Spielwaren und Tabletop-Gaming (Wizards of the Coast, Magic: The Gathering)",
       "price": 118.91,
       "pattern": "kurz_vor_pivot",
-      "chart_pattern": "Unveraendert seit Lauf 144: nach Ausbruch auf 7-Jahres-Hoch (20.10.) Kurs 118,91 USD, 4,1% unter dem 52-Wochen-Hoch 124,00 USD.",
+      "chart_pattern": "Unveraendert seit Freitagsschluss 06.11.: nach Ausbruch auf 7-Jahres-Hoch (20.10.) Kurs 118,91 USD, 4,1% unter dem 52-Wochen-Hoch 124,00 USD.",
       "status": "KURZ VOR DEM AUSBRUCH -- 4,1% unter dem Hoch, unveraendert seit Freitagsschluss 06.11.",
       "setup": "Nach Q3-Beat (2,90 vs. 1,85 USD) am 20.10. Ausbruch auf 7-Jahres-Hoch. Kurs 118,91 USD, 4,1% unter dem Hoch 124,00 USD -- relative Staerke bleibt grundsaetzlich intakt.",
       "buy_trigger": "Kauf bei Ausbruch ueber 124,00 USD mit Volumen; Stop unter dem Tief der letzten Basis.",
       "pct_from_ath": 4.1,
-      "reason": "KEIN NEUKAUF: Marktampel ROT, keine neue Handelssitzung seit Lauf 144 (Wochenende). Blieb am Ausverkaufstag relativ stabil, zog bei der Erholung am 06.11. aber nicht mit. Vor jedem Trade zwingend Live-Kurs pruefen.",
+      "reason": "KEIN NEUKAUF: Marktampel ROT, keine neue Handelssitzung seit Freitagsschluss 06.11. Blieb am Ausverkaufstag relativ stabil, zog bei der Erholung am 06.11. aber nicht mit. Vor jedem Trade zwingend Live-Kurs pruefen.",
       "canslim": {
         "C": "Q3-EPS 2,90 vs. 1,85 USD erwartet, Gewinn +69% auf 394,5 Mio USD.",
         "A": "FY26-Umsatzausblick auf 7-9% erhoeht (vorher 5-7%).",
@@ -49,7 +49,7 @@
         "S": "SCHWACH -- keine aktuellen Rueckkaufzahlen verifizierbar.",
         "L": "SCHWACH -- gab bei der Erholung am 06.11. leicht nach (-0,5%).",
         "I": "Mehrere Buy/Overweight-Ratings (UBS, Jefferies, Citi, Argus).",
-        "M": "NICHT ERFUELLT -- Marktampel ROT, keine neue Sitzung seit 06.11."
+        "M": "NICHT ERFUELLT -- Marktampel ROT, kein bestaetigter Follow-Through-Day."
       }
     },
     {
@@ -58,12 +58,12 @@
       "sector": "Konsum / Hotellerie und Reise (Hotelmanagement, Franchise, Loyalty)",
       "price": 416.47,
       "pattern": "kurz_vor_pivot",
-      "chart_pattern": "Unveraendert seit Lauf 144: haelt nach Q3-Beat (02.11.) die Erholung, Kurs 416,47 USD, 3,9% unter dem 52-Wochen-Hoch 433,30 USD.",
+      "chart_pattern": "Unveraendert seit Freitagsschluss 06.11.: haelt nach Q3-Beat (02.11.) die Erholung, Kurs 416,47 USD, 3,9% unter dem 52-Wochen-Hoch 433,30 USD.",
       "status": "KURZ VOR DEM AUSBRUCH -- haelt die Q3-Reaktion, 3,9% unter dem Hoch, unveraendert seit Freitagsschluss 06.11.",
       "setup": "Q3: adj. EPS +22% YoY, adj. EBITDA +12% (02.11.). FY26-Guidance zuvor auf EPS 11,64-11,81 USD angehoben. Kurs 416,47 USD, 3,9% unter dem Hoch 433,30 USD.",
       "buy_trigger": "Kauf bei Ausbruch ueber 433,30 USD mit Volumen; Stop unter dem Tief des Ausbruchstags.",
       "pct_from_ath": 3.9,
-      "reason": "KEIN NEUKAUF: Marktampel ROT, keine neue Handelssitzung seit Lauf 144 (Wochenende). Blieb am 06.11. stabil, aber ohne Teilnahme an der Index-Erholung. Vor jedem Trade zwingend Live-Kurs pruefen.",
+      "reason": "KEIN NEUKAUF: Marktampel ROT, keine neue Handelssitzung seit Freitagsschluss 06.11. Blieb am 06.11. stabil, aber ohne Teilnahme an der Index-Erholung. Vor jedem Trade zwingend Live-Kurs pruefen.",
       "canslim": {
         "C": "Q3-adj.-EPS +22% YoY, adj. EBITDA +12%.",
         "A": "FY26-EPS-Guidance auf 11,64-11,81 USD angehoben.",
@@ -71,7 +71,7 @@
         "S": "TEILWEISE -- Insiderquote 11,4%, keine aktuellen Rueckkaufzahlen verifizierbar.",
         "L": "Blieb am 06.11. stabil (-0,2%), aber ohne Teilnahme an der Erholung.",
         "I": "Deutliche Kaufreaktion am Berichtstag (+4,3% am 02.11.).",
-        "M": "NICHT ERFUELLT -- Marktampel ROT, keine neue Sitzung seit 06.11."
+        "M": "NICHT ERFUELLT -- Marktampel ROT, kein bestaetigter Follow-Through-Day."
       }
     },
     {
@@ -80,12 +80,12 @@
       "sector": "Technologie / Supply-Chain- und Omnichannel-Software (Cloud, WMS)",
       "price": 252.78,
       "pattern": "kurz_vor_pivot",
-      "chart_pattern": "Unveraendert seit Lauf 144: nach Q3-Beat (27.10.) Kurs 252,78 USD, 4,1% unter dem 52-Wochen-Hoch 263,47 USD.",
+      "chart_pattern": "Unveraendert seit Freitagsschluss 06.11.: nach Q3-Beat (27.10.) Kurs 252,78 USD, 4,1% unter dem 52-Wochen-Hoch 263,47 USD.",
       "status": "KURZ VOR DEM AUSBRUCH -- 4,1% unter dem Hoch, unveraendert seit Freitagsschluss 06.11.",
       "setup": "Q3: adj. EPS 1,55 vs. 1,46 USD Konsens (+14% YoY), Umsatz 306,2 vs. 297,0 Mio USD Konsens (27.10.). Cloud-Abonnementumsatz +28,1% auf 134,4 Mio USD. Kurs 252,78 USD, 4,1% unter dem Hoch 263,47 USD.",
       "buy_trigger": "Kauf bei Ausbruch ueber 263,47 USD mit Volumen; Stop unter dem Tief der letzten Basis.",
       "pct_from_ath": 4.1,
-      "reason": "KEIN NEUKAUF: Marktampel ROT, keine neue Handelssitzung seit Lauf 144 (Wochenende). Zog bei der Markterholung am 06.11. nicht mit. Vor jedem Trade zwingend Live-Kurs pruefen.",
+      "reason": "KEIN NEUKAUF: Marktampel ROT, keine neue Handelssitzung seit Freitagsschluss 06.11. Zog bei der Markterholung am 06.11. nicht mit. Vor jedem Trade zwingend Live-Kurs pruefen.",
       "canslim": {
         "C": "Q3-adj.-EPS 1,55 vs. 1,46 USD erwartet (+14% YoY), Umsatz-Beat 306 vs. 297 Mio.",
         "A": "FY26-Guidance auf adj. EPS 5,54-5,56 USD angehoben.",
@@ -93,7 +93,7 @@
         "S": "SCHWACH -- keine aktuellen Rueckkaufzahlen verifizierbar.",
         "L": "SCHWACH -- gab bei der Erholung am 06.11. nach (-0,9%), statt mitzuziehen.",
         "I": "Mehrere Analysten-Kurszielanhebungen nach dem Zahlen-Beat.",
-        "M": "NICHT ERFUELLT -- Marktampel ROT, keine neue Sitzung seit 06.11."
+        "M": "NICHT ERFUELLT -- Marktampel ROT, kein bestaetigter Follow-Through-Day."
       }
     },
     {
@@ -102,12 +102,12 @@
       "sector": "Finanzdienstleistungen / Boersenbetreiber und Marktdaten/Tech-Plattform",
       "price": 107.12,
       "pattern": "kurz_vor_pivot",
-      "chart_pattern": "Unveraendert seit Lauf 144: haelt die relative Staerke, Kurs 107,12 USD, 3,9% unter dem 52-Wochen-Hoch 111,45 USD.",
+      "chart_pattern": "Unveraendert seit Freitagsschluss 06.11.: haelt die relative Staerke, Kurs 107,12 USD, 3,9% unter dem 52-Wochen-Hoch 111,45 USD.",
       "status": "KURZ VOR DEM AUSBRUCH -- haelt die relative Staerke, 3,9% unter dem Hoch, unveraendert seit Freitagsschluss 06.11.",
       "setup": "TTM-EPS 3,66 USD (+30,7%), Umsatz-TTM 5,78 Mrd. USD (+13,7%), Nettogewinn +28,2%. Q3 2026 (22.10.) bereits veroeffentlicht. Kurs 107,12 USD, 3,9% unter dem Hoch 111,45 USD.",
       "buy_trigger": "Kauf bei Ausbruch ueber 111,45 USD mit Volumen; Stop unter dem Tief des Ausbruchstags.",
       "pct_from_ath": 3.9,
-      "reason": "KEIN NEUKAUF: Marktampel ROT, keine neue Handelssitzung seit Lauf 144 (Wochenende). Zog mit leichtem Plus mit der Index-Erholung am 06.11. mit. Vor jedem Trade zwingend Live-Kurs pruefen.",
+      "reason": "KEIN NEUKAUF: Marktampel ROT, keine neue Handelssitzung seit Freitagsschluss 06.11. Zog mit leichtem Plus mit der Index-Erholung am 06.11. mit. Vor jedem Trade zwingend Live-Kurs pruefen.",
       "canslim": {
         "C": "TTM-EPS 3,66 USD (+30,7% YoY), Nettogewinn +28,2%.",
         "A": "FY2025-Gewinn bereits +60,1%, Q3 2026 am 22.10. bereits berichtet.",
@@ -115,7 +115,29 @@
         "S": "Laufendes Aktienrueckkaufprogramm, solide Bilanzstruktur.",
         "L": "Stieg am 06.11. leicht (+0,3%), haelt die relative Staerke.",
         "I": "JPMorgan Buy-Rating, Kursziel zuletzt auf 114 USD angehoben.",
-        "M": "NICHT ERFUELLT -- Marktampel ROT, keine neue Sitzung seit 06.11."
+        "M": "NICHT ERFUELLT -- Marktampel ROT, kein bestaetigter Follow-Through-Day."
+      }
+    },
+    {
+      "ticker": "XYZ",
+      "company": "Block, Inc.",
+      "sector": "Fintech / Zahlungsverkehr (Square, Cash App, Bitcoin-Produkte)",
+      "price": 85.48,
+      "pattern": "ausgebrochen",
+      "chart_pattern": "Nach Q3-Blowout (03.11.) Ausbruch auf neues 52-Wochen-Hoch 88,51 USD, haelt sich seither 3,4% darunter bei 85,48 USD (Schlusskurs 06.11.).",
+      "status": "AUSGEBROCHEN -- neues 52-Wochen-Hoch 88,51 USD am 04.11., aktuell 3,4% darunter in Konsolidierung.",
+      "setup": "Q3: adj. EPS 1,13 vs. 1,02 USD erwartet (+109% YoY), Umsatz 6,72 Mrd USD (+10%, ex-Bitcoin +20%, 03.11.). FY26-Guidance zum dritten Mal in Folge angehoben. Aktie sprang bis zu 16% auf ein neues 52-Wochen-Hoch von 88,51 USD, Schlusskurs 06.11. bei 85,48 USD (3,4% unter dem Hoch) -- neu ins Scouting aufgenommen.",
+      "buy_trigger": "Kauf bei erneutem Ausbruch ueber 88,51 USD mit Volumen (Pivot = frisches 52-Wochen-Hoch); Stop unter dem Tief der Konsolidierung nach dem Gap.",
+      "pct_from_ath": 3.4,
+      "reason": "KEIN NEUKAUF: Marktampel ROT, kein bestaetigter Follow-Through-Day. Neu in die Watchlist nach Q3-Blowout und drittem Guidance-Raise in Folge -- GAAP-Ergebnis durch DOJ-Rueckstellung verzerrt, daher auf adjustierte Zahlen abgestuetzt. Vor jedem Trade zwingend Live-Kurs pruefen.",
+      "canslim": {
+        "C": "Q3: adj. EPS 1,13 vs. 1,02 USD (+109% YoY), Umsatz 6,72 Mrd USD (+10%).",
+        "A": "FY26-Guidance 3. Mal angehoben: adj. EPS auf 4,15 USD.",
+        "N": "52-Wochen-Hoch 88,51 USD nach Ausbruch am 03./04.11., 3,4% darunter.",
+        "S": "SCHWACH -- GAAP durch 764-Mio-USD-DOJ-Rueckstellung und Entlassungen belastet.",
+        "L": "Fuehrender Fintech-Zahlungsanbieter (Square/Cash App), +16% in einer Woche.",
+        "I": "Mehrere Kurszielanhebungen (BofA 117, JPMorgan 110, Barclays 105 USD).",
+        "M": "NICHT ERFUELLT -- Marktampel ROT, kein bestaetigter Follow-Through-Day."
       }
     }
   ],
@@ -131,7 +153,9 @@
     "DUOLINGO (DUOL), SUPER MICRO COMPUTER (SMCI), IDEXX LABORATORIES (IDXX), TEMPUS AI (TEM): bleiben aus frueheren Laeufen ausgeschlossen (zu volatil/fundamental unsicher bzw. zu weit vom Pivot), in diesem Lauf nicht erneut geprueft.",
     "INTEL (INTC), META, ALPHABET (GOOGL), AMAZON (AMZN), REDDIT, ROBLOX, PINTEREST: bleiben aus frueheren Laeufen ausgeschlossen (Gewinnwarnung, >20% unter Hoch bzw. anhaltende Kursverluste), in diesem Lauf nicht erneut geprueft.",
     "Lange Liste aus frueheren Laeufen (AERCAP, VERTIV, FLEX, SOFI, MICRON, ETSY, CRACKER BARREL, AVGO, CRWV, ROP, NUE, ESTC, RBRK, NSIT, PNTG, SNOW, HBT Financial, RHI, SN, HALO, PAYC, TEVA, FIX, JCI, NOC, TMO, IFF, EFX, BRZE, YPF, TEAM, DAC, FFIV, ANF, WELL, NAT, PANW, CRWD, PENG, HPE, NVDA, KEYS, CNC, HRTG, FTNT, ZBRA, IOT, TOST, GM u. a.) bleibt ausgeschlossen (Sperrfrist-, Sektor-, Momentum- oder Datenrisiko aus Vorlaeufen, in diesem Lauf nicht erneut geprueft).",
-    "ATLASSIAN (TEAM), HUBSPOT (HUBS), PALANTIR (PLTR), SNOWFLAKE (SNOW), COSTCO (COST), HEICO (HEI), TESLA (TSLA), CAVA: in undatierten/aelteren IBD-Leaderboard-Treffern als Nahe-Pivot-Namen genannt, aber ohne fuer dieses Wochenende verifizierbares aktuelles Datum oder bestaetigte Kennzahlen -- nicht aufgenommen.",
-    "METHODIK-HINWEIS LAUF 145 (08.11.2026): Reiner Wochenend-Fortschreibungslauf -- seit Lauf 144 (Stand Freitag 06.11.) fand keine neue Handelssitzung statt (07./08.11. Markt geschlossen). Marktampel bleibt ROT (Tag 1 eines Rallye-Versuchs, kein bestaetigter Follow-Through-Day), 0 Picks. Die fuenf Watchlist-Titel (LH, HAS, MAR, MANH, NDAQ) wurden unveraendert uebernommen, da sich weder Kurse noch Fundamentaldaten seit Lauf 144 geaendert haben. Breites Zusatzscouting nach neuen Nahe-Pivot-Kandidaten in anderen Sektoren durchgefuehrt (Cup-and-Handle-Screener, IBD-Leaderboard-Nennungen), aber keine mit aktuellem, verifizierbarem Datum fuer dieses Wochenende gefunden -- Qualitaet vor Quantitaet bleibt Prioritaet. Montag 09.11. ist die naechste reale Pruefung mit frischen Kursdaten."
+    "ATLASSIAN (TEAM), HUBSPOT (HUBS), PALANTIR (PLTR), SNOWFLAKE (SNOW), COSTCO (COST), HEICO (HEI), TESLA (TSLA), CAVA: in undatierten/aelteren IBD-Leaderboard-Treffern als Nahe-Pivot-Namen genannt, aber ohne verifizierbares aktuelles Datum oder bestaetigte Kennzahlen -- weiterhin nicht aufgenommen.",
+    "SEAGATE TECHNOLOGY (STX): im Scouting Lauf 146 geprueft -- nach starkem Lauf auf ueber 1.100 USD im Sommer 2026 jetzt bei 458,57 USD, rund 60% unter dem 52-Wochen-Hoch 1.145 USD, stark getroffen vom KI-Ausverkauf vom 05.11. -- kein Nahe-Pivot-Setup, Abstand in die falsche Richtung.",
+    "NEXTPOWER / NEXTRACKER (NXT): im Scouting Lauf 146 geprueft -- sechs Quartale in Folge Schaetzungen uebertroffen, Guidance zum dritten Mal angehoben (adj. EPS-Ziel 4,61-4,87 USD, Backlog > 6 Mrd. USD), aber bei 104,91 USD 35,7% unter dem 52-Wochen-Hoch 163,13 USD -- fundamental stark, aber kein Nahe-Pivot-Setup.",
+    "METHODIK-HINWEIS LAUF 146 (09.11.2026): Lauf wurde vor Handelsbeginn der Montagssitzung erstellt -- mehrere unabhaengig abgefragte Live-Quellen (Yahoo Finance Einzelwerte und Indizes) zeigten zum Laufzeitpunkt durchgehend noch den Schlusskurs vom Freitag, 06.11., sodass keine neuen Kursdaten fuer den 09.11. verifizierbar waren. Die fuenf bestehenden Watchlist-Titel wurden daher unveraendert uebernommen. Breites Zusatzscouting ausserhalb des bisherigen Pools (Fintech/Payments, Speicher/Hardware, Solar/Energieinfrastruktur) identifizierte Block (XYZ) als neuen, frisch ausgebrochenen Nahe-Pivot-Titel nach Q3-Blowout; Seagate (STX) und Nextpower/Nextracker (NXT) wurden trotz starker Fundamentaldaten verworfen, da beide deutlich zu weit (35-60%) unter ihrem 52-Wochen-Hoch notieren. Marktampel bleibt ROT, 0 Picks. Die naechste reale Pruefung mit frischen Montags-Kursdaten folgt im naechsten Lauf."
   ]
 }
