@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-10",
-  "run": 147,
+  "updated": "2026-11-11",
+  "run": 148,
   "market_signal": "ROT",
-  "market_summary": "ROT: Rebound 09.11. (Dow +2,2%, S&P +2,4%, Nasdaq +2,7%) -- FTD erst ab Tag 4 (11.11.) moeglich, Neukaeufe weiter ausgesetzt.",
-  "market_note": "Lauf 147 (Dienstag, 10.11.2026) wertet den bestaetigten Schlusskurs vom Montag, 09.11.2026 aus: Nasdaq Composite +2,69% auf 25.253 (damit erstmals seit dem KI-Ausverkauf vom 05.11. wieder ausserhalb der Korrekturzone), S&P 500 +2,43% auf 7.549, Dow Jones +2,15% auf 52.389. Der Rallye-Versuch zaehlt den 06.11. als Tag 1; der 09.11. ist damit Tag 2, der heutige 10.11. Tag 3. FAZIT: Nach IBD-Methodik ist ein gueltiger Follow-Through-Day erst ab Tag 4 moeglich -- selbst die kraeftigen, deutlich ueber der 1,25%-Schwelle liegenden Gewinne vom 09.11. zaehlen wegen der zu fruehen Tagesnummer formal nicht als FTD. Fruehestmoegliches FTD-Fenster: Mittwoch, 11.11.2026. Marktampel bleibt daher ROT, Neukaeufe bleiben ausgesetzt, auch wenn die Breite der Erholung (Dow, S&P und Nasdaq gleichzeitig deutlich im Plus) ermutigend ist. DATENHINWEIS: Fuer den laufenden Handelstag 10.11.2026 lagen zum Laufzeitpunkt noch keine verifizierbaren Kurs- oder Futures-Daten vor; alle Index- und Einzelwertangaben in diesem Lauf basieren auf dem bestaetigten Schlusskurs vom 09.11.2026.",
-  "picks_summary": "0 Picks, 8 Watchlist (neu: MSFT, REGN) -- Marktampel bleibt ROT, FTD erst ab Tag 4 moeglich.",
-  "picks_note": "0 Picks, da Marktampel ROT weiterhin jeden Neukauf ausschliesst -- auch fuer Setups, die durch die Rally vom 09.11. naeher an ihren Pivot gerueckt sind. WATCHLIST-UPDATE: Alle sechs bisherigen Titel (LH, HAS, MAR, MANH, NDAQ, XYZ) wurden mit bestaetigten Schlusskursen vom 09.11. aktualisiert. XYZ (Block) ruckte nach einem weiteren starken Tag (+3,6%) auf nur noch 0,9% unter das 52-Wochen-Hoch 89,40 USD vor und steht damit praktisch direkt am Pivot. MANH blieb trotz des starken Markttags leicht im Minus (-0,4%) -- die bereits zuvor schwache relative Staerke bestaetigt sich damit zum zweiten Mal. SCOUTING (Lauf 147): Breite Zusatzsuche identifizierte zwei neue, qualitativ hochwertige Nahe-Pivot-Kandidaten aus dem KI-Ausverkauf-Rebound: MICROSOFT (MSFT) nach einem Rekord-Quartal (Azure-Wachstum auf 48% beschleunigt, non-GAAP-EPS +18%) nur noch 2,5% unter dem Allzeithoch 559,15 USD, und REGENERON (REGN) nach einem klaren Q3-Doppel-Beat (non-GAAP-EPS +70%, Umsatz +36%) 7,2% unter dem 52-Wochen-Hoch 991,73 USD. Beide wurden durch den KI-Ausverkauf vom 05.11. zurueckgeworfen, zeigten sich in der Erholung aber staerker als der Gesamtmarkt. WARBY PARKER (WRBY) wurde geprueft und verworfen: trotz +22% Kurssprung nach Zahlen bleibt die Profitabilitaet zu duenn (GAAP-EPS 0,04 USD, KGV im hohen dreistelligen Bereich) fuer ein solides C/A-Fundament. Qualitaet vor Quantitaet bleibt Prioritaet, daher 8 statt 10 Watchlist-Titel.",
+  "market_summary": "ROT: Ruecksetzer am 10.11. nach heisser CPI-Zahl (Nasdaq -0,74%) -- heute, 11.11., fruehestmoeglicher FTD-Tag, noch unbestaetigt.",
+  "market_note": "Lauf 148 (Mittwoch, 11.11.2026) wertet den bestaetigten Schlusskurs vom Dienstag, 10.11.2026 aus: Dow Jones -0,30% auf 52.231,89, S&P 500 -0,38% auf 7.520,93, Nasdaq Composite -0,74% auf 25.065,88. Ausloeser war ein heisser als erwarteter US-Inflationsbericht fuer Oktober (Kern-CPI +0,3% ggue. +0,2% erwartet), die 10-Jahres-Rendite stieg auf rund 4,98%. Der Rallye-Versuch zaehlt den 06.11. als Tag 1, den 09.11. (Dow +2,2%, S&P +2,4%, Nasdaq +2,7%) als Tag 2, den 10.11. als Tag 3 -- der Ruecksetzer unterschritt die Tiefs des Rallye-Versuchs nicht und bricht ihn damit nicht ab. FAZIT: Der fruehestmoegliche Follow-Through-Day (Tag 4, IBD-Methodik) ist damit erst heute, Mittwoch 11.11.2026, erreichbar. Ob er tatsaechlich eintritt, war zum Laufzeitpunkt dieses Laufs noch nicht bekannt. Marktampel bleibt daher ROT, Neukaeufe bleiben ausgesetzt. DATENHINWEIS: Fuer den laufenden Handelstag 11.11.2026 lagen zum Laufzeitpunkt keine verifizierbaren Kurs- oder Futures-Daten vor. Ebenso konnten die Einzelkurse der sieben uebernommenen Watchlist-Titel fuer den 10.11. nicht durchgehend frisch verifiziert werden -- deren Preis- und Abstandsangaben stammen vom zuletzt bestaetigten Stand (09.11.2026) und sind vor jedem Trade zwingend gegen Live-Kurse zu pruefen.",
+  "picks_summary": "0 Picks, 8 Watchlist (neu: BIIB, MANH entfernt) -- Marktampel ROT, FTD-Fenster erst seit heute (11.11.) ueberhaupt offen.",
+  "picks_note": "0 Picks, da Marktampel ROT weiterhin jeden Neukauf ausschliesst -- auch fuer Setups, die bereits sehr nahe am Pivot stehen (z. B. XYZ, MSFT). WATCHLIST-UPDATE: MANH (Manhattan Associates) nach zwei Laeufen in Folge mit schwacher relativer Staerke (blieb am 02. und 09.11. jeweils im Minus trotz starkem Gesamtmarkt) aus der Watchlist entfernt -- Fundamentaldaten bleiben solide, aber das Setup bestaetigt sich nicht. SCOUTING (Lauf 148): BIOGEN (BIIB) neu aufgenommen -- nach Q3-Beat (28.10., Non-GAAP-EPS 2,62 vs. 1,98 USD erwartet, Umsatz +11% auf 2,80 Mrd. USD, Guidance angehoben) markierte die Aktie am 09.11. ein neues 52-Wochen-Hoch von 258,81 USD, gestuetzt von mehreren Analysten-Upgrades (Argus, Needham, Stifel, Wells Fargo) seit Ende Oktober. Weitere Zahlen-Gewinner wurden geprueft und verworfen: UNITY (U) notiert trotz starkem Q3 (Umsatz +32%, erstmals GAAP-profitabel) noch rund 12% unter seinem Zwischenhoch vom 20.08. und damit zu weit vom Pivot entfernt; AFFILIATED MANAGERS GROUP (AMG) verfehlte trotz EPS-Beat die Umsatzschaetzung deutlich (595 vs. 662 Mio. USD); MODERNA (MRNA) und XERIS BIOPHARMA (XERS) fehlt ein belastbares mehrjaehriges CANSLIM-Gewinnprofil; GILEAD (GILD) war in den verfuegbaren Quellen nicht ausreichend verifizierbar. DATENHINWEIS: Fuer die sieben uebernommenen Watchlist-Titel (LH, HAS, MAR, NDAQ, XYZ, MSFT, REGN) konnten keine frischen Schlusskurse zum 10.11. verifiziert werden; Angaben basieren auf dem zuletzt bestaetigten Stand vom 09.11.2026.",
   "picks": [],
   "watchlist": [
     {
@@ -14,12 +14,12 @@
       "sector": "Gesundheitswesen / Labordiagnostik",
       "price": 366.64,
       "pattern": "kurz_vor_pivot",
-      "chart_pattern": "Stieg am 09.11. mit dem Gesamtmarkt auf 366,64 USD, nur noch 1,9% unter dem 52-Wochen-Hoch 373,76 USD.",
+      "chart_pattern": "Stieg am 09.11. mit dem Gesamtmarkt auf 366,64 USD, nur noch 1,9% unter dem 52-Wochen-Hoch 373,76 USD (Kurs vom 10.11. nicht verifiziert).",
       "status": "KURZ VOR DEM AUSBRUCH -- 1,9% unter dem Hoch, staerkste relative Staerke im Pool.",
-      "setup": "Q3: EPS 4,78 vs. 4,64 USD Konsens, Umsatz +6,9% (28.10.). FY26-Guidance erhoeht auf EPS 18,30-18,70 USD. Kurs 366,64 USD nach der Rally vom 09.11., 1,9% unter dem Hoch 373,76 USD -- Basis bleibt intakt.",
+      "setup": "Q3: EPS 4,78 vs. 4,64 USD Konsens, Umsatz +6,9% (28.10.). FY26-Guidance erhoeht auf EPS 18,30-18,70 USD. Kurs 366,64 USD (Stand 09.11.), 1,9% unter dem Hoch 373,76 USD -- Basis bleibt intakt.",
       "buy_trigger": "Kauf bei Ausbruch ueber 373,76 USD mit Volumen; Stop unter dem Tief des Ausbruchstags.",
       "pct_from_ath": 1.9,
-      "reason": "KEIN NEUKAUF: Marktampel ROT, kein bestaetigter FTD (fruehestens Tag 4, 11.11.). Weiterhin staerkste relative Staerke im gesamten Pool und am naechsten am Pivot. Vor jedem Trade zwingend Live-Kurs pruefen.",
+      "reason": "KEIN NEUKAUF: Marktampel ROT, kein bestaetigter FTD (fruehestens heute, 11.11., noch unbestaetigt). Weiterhin staerkste relative Staerke im gesamten Pool und am naechsten am Pivot. Vor jedem Trade zwingend Live-Kurs pruefen.",
       "canslim": {
         "C": "Q3-EPS 4,78 vs. 4,64 USD erwartet, Umsatz +6,9% auf 3,81 Mrd USD.",
         "A": "FY26-Guidance erhoeht auf EPS 18,30-18,70 USD.",
@@ -27,7 +27,7 @@
         "S": "SCHWACH -- keine aktuellen Rueckkaufzahlen verifizierbar.",
         "L": "Staerkste relative Staerke im Watchlist-Pool, zog am 09.11. mit.",
         "I": "Mehrfache positive Analystenreaktionen nach dem Q3-Beat.",
-        "M": "NICHT ERFUELLT -- Marktampel ROT, kein bestaetigter FTD (fruehestens Tag 4, 11.11.)."
+        "M": "NICHT ERFUELLT -- ROT, FTD fruehestens heute (11.11.) moeglich, unbestaetigt."
       }
     },
     {
@@ -36,12 +36,12 @@
       "sector": "Konsumgueter / Spielwaren und Tabletop-Gaming (Wizards of the Coast, Magic: The Gathering)",
       "price": 118.91,
       "pattern": "kurz_vor_pivot",
-      "chart_pattern": "Blieb am starken Markttag 09.11. nahezu unveraendert bei 118,91 USD, 4,1% unter dem 52-Wochen-Hoch 124,00 USD.",
+      "chart_pattern": "Blieb am starken Markttag 09.11. nahezu unveraendert bei 118,91 USD, 4,1% unter dem 52-Wochen-Hoch 124,00 USD (Kurs vom 10.11. nicht verifiziert).",
       "status": "KURZ VOR DEM AUSBRUCH -- 4,1% unter dem Hoch, blieb am starken Markttag 09.11. nahezu unveraendert.",
-      "setup": "Nach Q3-Beat (2,90 vs. 1,85 USD) am 20.10. Ausbruch auf 7-Jahres-Hoch. Kurs 118,91 USD, 4,1% unter dem Hoch 124,00 USD -- relative Staerke bleibt grundsaetzlich intakt, Teilnahme an der Rally vom 09.11. aber schwach.",
+      "setup": "Nach Q3-Beat (2,90 vs. 1,85 USD) am 20.10. Ausbruch auf 7-Jahres-Hoch. Kurs 118,91 USD (Stand 09.11.), 4,1% unter dem Hoch 124,00 USD -- relative Staerke bleibt grundsaetzlich intakt, Teilnahme an der Rally vom 09.11. aber schwach.",
       "buy_trigger": "Kauf bei Ausbruch ueber 124,00 USD mit Volumen; Stop unter dem Tief der letzten Basis.",
       "pct_from_ath": 4.1,
-      "reason": "KEIN NEUKAUF: Marktampel ROT, kein bestaetigter FTD (fruehestens Tag 4, 11.11.). Zog bei der kraeftigen Markterholung am 09.11. nicht mit. Vor jedem Trade zwingend Live-Kurs pruefen.",
+      "reason": "KEIN NEUKAUF: Marktampel ROT, kein bestaetigter FTD (fruehestens heute, 11.11., noch unbestaetigt). Zog bei der kraeftigen Markterholung am 09.11. nicht mit. Vor jedem Trade zwingend Live-Kurs pruefen.",
       "canslim": {
         "C": "Q3-EPS 2,90 vs. 1,85 USD erwartet, Gewinn +69% auf 394,5 Mio USD.",
         "A": "FY26-Umsatzausblick auf 7-9% erhoeht (vorher 5-7%).",
@@ -49,7 +49,7 @@
         "S": "SCHWACH -- keine aktuellen Rueckkaufzahlen verifizierbar.",
         "L": "SCHWACH -- blieb am starken Rally-Tag 09.11. nahezu unveraendert, keine Teilnahme.",
         "I": "Mehrere Buy/Overweight-Ratings (UBS, Jefferies, Citi, Argus).",
-        "M": "NICHT ERFUELLT -- Marktampel ROT, kein bestaetigter FTD (fruehestens Tag 4, 11.11.)."
+        "M": "NICHT ERFUELLT -- ROT, FTD fruehestens heute (11.11.) moeglich, unbestaetigt."
       }
     },
     {
@@ -58,12 +58,12 @@
       "sector": "Konsum / Hotellerie und Reise (Hotelmanagement, Franchise, Loyalty)",
       "price": 417.16,
       "pattern": "kurz_vor_pivot",
-      "chart_pattern": "Ruckte am 09.11. leicht naeher an den Pivot, Kurs 417,16 USD, 3,7% unter dem 52-Wochen-Hoch 433,30 USD.",
+      "chart_pattern": "Ruckte am 09.11. leicht naeher an den Pivot, Kurs 417,16 USD, 3,7% unter dem 52-Wochen-Hoch 433,30 USD (Kurs vom 10.11. nicht verifiziert).",
       "status": "KURZ VOR DEM AUSBRUCH -- 3,7% unter dem Hoch, leicht naeher gerueckt nach dem Rally-Tag 09.11.",
-      "setup": "Q3: adj. EPS +22% YoY, adj. EBITDA +12% (02.11.). FY26-Guidance zuvor auf EPS 11,64-11,81 USD angehoben. Kurs 417,16 USD, 3,7% unter dem Hoch 433,30 USD.",
+      "setup": "Q3: adj. EPS +22% YoY, adj. EBITDA +12% (02.11.). FY26-Guidance zuvor auf EPS 11,64-11,81 USD angehoben. Kurs 417,16 USD (Stand 09.11.), 3,7% unter dem Hoch 433,30 USD.",
       "buy_trigger": "Kauf bei Ausbruch ueber 433,30 USD mit Volumen; Stop unter dem Tief des Ausbruchstags.",
       "pct_from_ath": 3.7,
-      "reason": "KEIN NEUKAUF: Marktampel ROT, kein bestaetigter FTD (fruehestens Tag 4, 11.11.). Zog am 09.11. moderat mit dem Gesamtmarkt mit. Vor jedem Trade zwingend Live-Kurs pruefen.",
+      "reason": "KEIN NEUKAUF: Marktampel ROT, kein bestaetigter FTD (fruehestens heute, 11.11., noch unbestaetigt). Zog am 09.11. moderat mit dem Gesamtmarkt mit. Vor jedem Trade zwingend Live-Kurs pruefen.",
       "canslim": {
         "C": "Q3-adj.-EPS +22% YoY, adj. EBITDA +12%.",
         "A": "FY26-EPS-Guidance auf 11,64-11,81 USD angehoben.",
@@ -71,29 +71,7 @@
         "S": "TEILWEISE -- Insiderquote 11,4%, keine aktuellen Rueckkaufzahlen verifizierbar.",
         "L": "Zog am 09.11. moderat mit dem Gesamtmarkt mit.",
         "I": "Deutliche Kaufreaktion am Berichtstag (+4,3% am 02.11.).",
-        "M": "NICHT ERFUELLT -- Marktampel ROT, kein bestaetigter FTD (fruehestens Tag 4, 11.11.)."
-      }
-    },
-    {
-      "ticker": "MANH",
-      "company": "Manhattan Associates, Inc.",
-      "sector": "Technologie / Supply-Chain- und Omnichannel-Software (Cloud, WMS)",
-      "price": 252.78,
-      "pattern": "kurz_vor_pivot",
-      "chart_pattern": "Blieb trotz starkem Markttag 09.11. im Minus (-0,4%), Kurs 252,78 USD, 4,1% unter dem 52-Wochen-Hoch 263,47 USD.",
-      "status": "KURZ VOR DEM AUSBRUCH -- 4,1% unter dem Hoch, blieb am Rally-Tag 09.11. im Minus -- schwache relative Staerke.",
-      "setup": "Q3: adj. EPS 1,55 vs. 1,46 USD Konsens (+14% YoY), Umsatz 306,2 vs. 297,0 Mio USD Konsens (27.10.). Cloud-Abonnementumsatz +28,1% auf 134,4 Mio USD. Kurs 252,78 USD, 4,1% unter dem Hoch 263,47 USD.",
-      "buy_trigger": "Kauf bei Ausbruch ueber 263,47 USD mit Volumen; Stop unter dem Tief der letzten Basis.",
-      "pct_from_ath": 4.1,
-      "reason": "KEIN NEUKAUF: Marktampel ROT, kein bestaetigter FTD (fruehestens Tag 4, 11.11.). Gab am starken Rally-Tag 09.11. nach (-0,4%) statt mitzuziehen -- zweiter schwacher Tag in Folge. Vor jedem Trade zwingend Live-Kurs pruefen.",
-      "canslim": {
-        "C": "Q3-adj.-EPS 1,55 vs. 1,46 USD erwartet (+14% YoY), Umsatz-Beat 306 vs. 297 Mio.",
-        "A": "FY26-Guidance auf adj. EPS 5,54-5,56 USD angehoben.",
-        "N": "4,1% unter dem 52-Wochen-Hoch 263,47 USD.",
-        "S": "SCHWACH -- keine aktuellen Rueckkaufzahlen verifizierbar.",
-        "L": "SCHWACH -- gab am starken Rally-Tag 09.11. nach (-0,4%), zweiter schwacher Tag in Folge.",
-        "I": "Mehrere Analysten-Kurszielanhebungen nach dem Zahlen-Beat.",
-        "M": "NICHT ERFUELLT -- Marktampel ROT, kein bestaetigter FTD (fruehestens Tag 4, 11.11.)."
+        "M": "NICHT ERFUELLT -- ROT, FTD fruehestens heute (11.11.) moeglich, unbestaetigt."
       }
     },
     {
@@ -102,12 +80,12 @@
       "sector": "Finanzdienstleistungen / Boersenbetreiber und Marktdaten/Tech-Plattform",
       "price": 107.12,
       "pattern": "kurz_vor_pivot",
-      "chart_pattern": "Zog am 09.11. mit (+1,3%), Kurs 107,12 USD, 3,7% unter dem 52-Wochen-Hoch 111,25 USD.",
+      "chart_pattern": "Zog am 09.11. mit (+1,3%), Kurs 107,12 USD, 3,7% unter dem 52-Wochen-Hoch 111,25 USD (Kurs vom 10.11. nicht verifiziert).",
       "status": "KURZ VOR DEM AUSBRUCH -- 3,7% unter dem Hoch, zog am Rally-Tag 09.11. mit.",
-      "setup": "TTM-EPS 3,66 USD (+30,7%), Umsatz-TTM 5,78 Mrd. USD (+13,7%), Nettogewinn +28,2%. Q3 2026 (22.10.) bereits veroeffentlicht. Kurs 107,12 USD, 3,7% unter dem Hoch 111,25 USD.",
+      "setup": "TTM-EPS 3,66 USD (+30,7%), Umsatz-TTM 5,78 Mrd. USD (+13,7%), Nettogewinn +28,2%. Q3 2026 (22.10.) bereits veroeffentlicht. Kurs 107,12 USD (Stand 09.11.), 3,7% unter dem Hoch 111,25 USD.",
       "buy_trigger": "Kauf bei Ausbruch ueber 111,25 USD mit Volumen; Stop unter dem Tief des Ausbruchstags.",
       "pct_from_ath": 3.7,
-      "reason": "KEIN NEUKAUF: Marktampel ROT, kein bestaetigter FTD (fruehestens Tag 4, 11.11.). Zog mit spuerbarem Plus mit der Index-Erholung am 09.11. mit. Vor jedem Trade zwingend Live-Kurs pruefen.",
+      "reason": "KEIN NEUKAUF: Marktampel ROT, kein bestaetigter FTD (fruehestens heute, 11.11., noch unbestaetigt). Zog mit spuerbarem Plus mit der Index-Erholung am 09.11. mit. Vor jedem Trade zwingend Live-Kurs pruefen.",
       "canslim": {
         "C": "TTM-EPS 3,66 USD (+30,7% YoY), Nettogewinn +28,2%.",
         "A": "FY2025-Gewinn bereits +60,1%, Q3 2026 am 22.10. bereits berichtet.",
@@ -115,7 +93,7 @@
         "S": "Laufendes Aktienrueckkaufprogramm, solide Bilanzstruktur.",
         "L": "Zog am Rally-Tag 09.11. mit (+1,3%), haelt die relative Staerke.",
         "I": "JPMorgan Buy-Rating, Kursziel zuletzt auf 114 USD angehoben.",
-        "M": "NICHT ERFUELLT -- Marktampel ROT, kein bestaetigter FTD (fruehestens Tag 4, 11.11.)."
+        "M": "NICHT ERFUELLT -- ROT, FTD fruehestens heute (11.11.) moeglich, unbestaetigt."
       }
     },
     {
@@ -124,12 +102,12 @@
       "sector": "Fintech / Zahlungsverkehr (Square, Cash App, Bitcoin-Produkte)",
       "price": 88.56,
       "pattern": "am_pivot",
-      "chart_pattern": "Zweiter starker Tag in Folge (+3,6% am 09.11.), Kurs 88,56 USD, nur noch 0,9% unter dem 52-Wochen-Hoch 89,40 USD.",
+      "chart_pattern": "Zweiter starker Tag in Folge (+3,6% am 09.11.), Kurs 88,56 USD, nur noch 0,9% unter dem 52-Wochen-Hoch 89,40 USD (Kurs vom 10.11. nicht verifiziert).",
       "status": "AM PIVOT -- nur noch 0,9% unter dem 52-Wochen-Hoch 89,40 USD nach erneut starkem Tag am 09.11.",
       "setup": "Q3: adj. EPS 1,13 vs. 1,02 USD erwartet (+109% YoY), Umsatz 6,72 Mrd USD (+10%, ex-Bitcoin +20%, 03.11.). FY26-Guidance zum dritten Mal in Folge angehoben. Nach dem Q3-Blowout und einem zweiten starken Tag (+3,6% am 09.11.) nur noch 0,9% unter dem 52-Wochen-Hoch 89,40 USD -- praktisch direkt am Pivot.",
       "buy_trigger": "Kauf bei Ausbruch ueber 89,40 USD mit Volumen (Pivot = frisches 52-Wochen-Hoch); Stop unter dem Tief der Konsolidierung nach dem Q3-Gap.",
       "pct_from_ath": 0.9,
-      "reason": "KEIN NEUKAUF: Marktampel ROT, kein bestaetigter FTD (fruehestens Tag 4, 11.11.). Zweiter starker Tag in Folge seit dem Q3-Blowout, steht jetzt praktisch am Pivot. GAAP-Ergebnis durch DOJ-Rueckstellung verzerrt, daher auf adjustierte Zahlen abgestuetzt. Vor jedem Trade zwingend Live-Kurs pruefen.",
+      "reason": "KEIN NEUKAUF: Marktampel ROT, kein bestaetigter FTD (fruehestens heute, 11.11., noch unbestaetigt). Zweiter starker Tag in Folge seit dem Q3-Blowout, steht jetzt praktisch am Pivot. GAAP-Ergebnis durch DOJ-Rueckstellung verzerrt, daher auf adjustierte Zahlen abgestuetzt. Vor jedem Trade zwingend Live-Kurs pruefen.",
       "canslim": {
         "C": "Q3: adj. EPS 1,13 vs. 1,02 USD (+109% YoY), Umsatz 6,72 Mrd USD (+10%).",
         "A": "FY26-Guidance 3. Mal angehoben: adj. EPS auf 4,15 USD.",
@@ -137,7 +115,7 @@
         "S": "SCHWACH -- GAAP durch 764-Mio-USD-DOJ-Rueckstellung und Entlassungen belastet.",
         "L": "Fuehrender Fintech-Zahlungsanbieter, zweiter starker Rally-Tag in Folge (+3,6%).",
         "I": "Mehrere Kurszielanhebungen (BofA 117, JPMorgan 110, Barclays 105 USD).",
-        "M": "NICHT ERFUELLT -- Marktampel ROT, kein bestaetigter FTD (fruehestens Tag 4, 11.11.)."
+        "M": "NICHT ERFUELLT -- ROT, FTD fruehestens heute (11.11.) moeglich, unbestaetigt."
       }
     },
     {
@@ -146,12 +124,12 @@
       "sector": "Technologie / Cloud-Computing, Software und KI-Infrastruktur (Azure, Microsoft 365, OpenAI-Partnerschaft)",
       "price": 545.18,
       "pattern": "kurz_vor_pivot",
-      "chart_pattern": "Rekordhoch 559,15 USD am 04.11. nach Zahlen, Rueckschlag im KI-Ausverkauf vom 05.11., Erholung auf 545,18 USD am 09.11.",
+      "chart_pattern": "Rekordhoch 559,15 USD am 04.11. nach Zahlen, Rueckschlag im KI-Ausverkauf vom 05.11., Erholung auf 545,18 USD am 09.11. (Kurs vom 10.11. nicht verifiziert).",
       "status": "KURZ VOR DEM AUSBRUCH -- 2,5% unter dem Allzeithoch 559,15 USD, nach Rekord-Quartal und KI-Ausverkauf-Rebound.",
       "setup": "FQ1'27 (28.10.): Umsatz +19% auf 92,3 Mrd USD, Azure-Wachstum auf 48% beschleunigt (vorher 42%), non-GAAP-EPS 4,89 USD (+18%, GAAP +32%). Aktie markierte am 04.11. mit 559,15 USD ein Rekordhoch, gab im breiten KI-Ausverkauf vom 05.11. nach, erholte sich am 09.11. (+2,75%) auf 545,18 USD -- 2,5% unter dem Hoch.",
       "buy_trigger": "Kauf bei Ausbruch ueber 559,15 USD mit Volumen; Stop unter dem Tief des Ausverkaufstags vom 05.11.",
       "pct_from_ath": 2.5,
-      "reason": "KEIN NEUKAUF: Marktampel ROT, kein bestaetigter FTD (fruehestens Tag 4, 11.11.). Neu ins Scouting nach Rekord-Quartal und ueberdurchschnittlicher Erholung seit dem Ausverkauf. Vor jedem Trade zwingend Live-Kurs pruefen.",
+      "reason": "KEIN NEUKAUF: Marktampel ROT, kein bestaetigter FTD (fruehestens heute, 11.11., noch unbestaetigt). Neu ins Scouting nach Rekord-Quartal und ueberdurchschnittlicher Erholung seit dem Ausverkauf. Vor jedem Trade zwingend Live-Kurs pruefen.",
       "canslim": {
         "C": "FQ1'27-Umsatz +19% auf 92,3 Mrd USD, non-GAAP-EPS 4,89 USD (+18%), GAAP-EPS +32%.",
         "A": "Azure-Wachstum von 42% auf 48% beschleunigt, Management erwartet FQ2 49-50%.",
@@ -159,7 +137,7 @@
         "S": "Laufendes Rueckkaufprogramm, stabile Grossaktionaersstruktur.",
         "L": "Fuehrender Hyperscaler, erholte sich am 09.11. deutlich (+2,75%).",
         "I": "Breite Analysten-Kurszielanhebungen nach dem Rekord-Quartal.",
-        "M": "NICHT ERFUELLT -- Marktampel ROT, kein bestaetigter FTD (fruehestens Tag 4, 11.11.)."
+        "M": "NICHT ERFUELLT -- ROT, FTD fruehestens heute (11.11.) moeglich, unbestaetigt."
       }
     },
     {
@@ -168,12 +146,12 @@
       "sector": "Biotechnologie / Pharma (Dupixent, Eylea/Eylea HD, Libtayo, Sanofi-Kollaboration)",
       "price": 919.96,
       "pattern": "kurz_vor_pivot",
-      "chart_pattern": "52-Wochen-Hoch 991,73 USD nach Q3-Blowout Ende Oktober, Rueckschlag im KI-Ausverkauf, Erholung auf 919,96 USD am 09.11.",
+      "chart_pattern": "52-Wochen-Hoch 991,73 USD nach Q3-Blowout Ende Oktober, Rueckschlag im KI-Ausverkauf, Erholung auf 919,96 USD am 09.11. (Kurs vom 10.11. nicht verifiziert).",
       "status": "KURZ VOR DEM AUSBRUCH -- 7,2% unter dem 52-Wochen-Hoch 991,73 USD, nach Q3-Blowout und KI-Ausverkauf-Rueckschlag.",
       "setup": "Q3 2026 (30.10.): Umsatz +36% auf 5,1 Mrd USD (Konsens 4,56 Mrd), non-GAAP-EPS 20,07 USD (+70%, Konsens 16,19 USD). Dupixent-Kollaborationsertrag +68%. Aktie markierte danach ein 52-Wochen-Hoch von 991,73 USD, gab im breiten KI-Ausverkauf nach, Schlusskurs 09.11. bei 919,96 USD -- 7,2% unter dem Hoch.",
       "buy_trigger": "Kauf bei Ausbruch ueber 991,73 USD mit Volumen; Stop unter dem Tief der Konsolidierung nach dem Q3-Gap.",
       "pct_from_ath": 7.2,
-      "reason": "KEIN NEUKAUF: Marktampel ROT, kein bestaetigter FTD (fruehestens Tag 4, 11.11.). Neu ins Scouting nach klarem Q3-Doppel-Beat; als Biotech-Titel weniger stark vom KI-Ausverkauf betroffen als der Technologiesektor. Vor jedem Trade zwingend Live-Kurs pruefen.",
+      "reason": "KEIN NEUKAUF: Marktampel ROT, kein bestaetigter FTD (fruehestens heute, 11.11., noch unbestaetigt). Als Biotech-Titel weniger stark vom KI-Ausverkauf betroffen als der Technologiesektor, Abstand zum Pivot aber der groesste im Pool. Vor jedem Trade zwingend Live-Kurs pruefen.",
       "canslim": {
         "C": "Q3-Umsatz +36% auf 5,1 Mrd USD, non-GAAP-EPS 20,07 USD (+70% YoY).",
         "A": "FY26-Guidance nach dem Beat angehoben, Sanofi-Kollaboration erweitert.",
@@ -181,7 +159,29 @@
         "S": "TEILWEISE -- Eylea-Originalumsatz -41% durch Umstellung auf Eylea HD, Gesamtbild aber positiv.",
         "L": "Fuehrender Biotech-Titel, hielt sich im KI-Ausverkauf relativ stabiler als der Technologiesektor.",
         "I": "Deutliche Kaufreaktion nach dem Q3-Beat, mehrere Kurszielanhebungen.",
-        "M": "NICHT ERFUELLT -- Marktampel ROT, kein bestaetigter FTD (fruehestens Tag 4, 11.11.)."
+        "M": "NICHT ERFUELLT -- ROT, FTD fruehestens heute (11.11.) moeglich, unbestaetigt."
+      }
+    },
+    {
+      "ticker": "BIIB",
+      "company": "Biogen Inc.",
+      "sector": "Biotechnologie / Pharma (Neurologie, Alzheimer, Spinraza, Apellis-Portfolio)",
+      "price": 258.81,
+      "pattern": "ausgebrochen",
+      "chart_pattern": "Markierte am 09.11. (Rally-Tag) ein neues 52-Wochen-Hoch von 258,81 USD nach dem Q3-Beat vom 28.10. (Kurs vom 10.11. nicht verifiziert).",
+      "status": "KUERZLICH AUSGEBROCHEN -- neues 52-Wochen-Hoch 258,81 USD am 09.11. nach Q3-Beat und Guidance-Anhebung.",
+      "setup": "Q3 2026 (28.10.): Non-GAAP-EPS 2,62 vs. 1,98 USD Konsens, Umsatz 2,80 vs. 2,63 Mrd USD Konsens (+11% YoY). Wachstumsportfolio inkl. Apellis-Produkte +49% auf 1,26 Mrd USD. FY26-Guidance-Unterkante auf 12,20 USD angehoben (vorher 12,00 USD). Aktie markierte am 09.11. ein neues 52-Wochen-Hoch von 258,81 USD -- frischer Ausbruch, Rueckzugsverhalten am 10.11. nicht verifiziert.",
+      "buy_trigger": "Kauf bei bestaetigtem Haltetest/Ausbruch ueber 258,81 USD mit Volumen; Stop unter dem Tief der Basis vor dem Q3-Ausbruch.",
+      "pct_from_ath": 0.0,
+      "reason": "KEIN NEUKAUF: Marktampel ROT, kein bestaetigter FTD (fruehestens heute, 11.11., noch unbestaetigt). Neu ins Scouting nach frischem Ausbruch auf ein neues 52-Wochen-Hoch; Kursverlauf am 10.11. (marktbreiter Ruecksetzer) nicht verifiziert. Vor jedem Trade zwingend Live-Kurs pruefen.",
+      "canslim": {
+        "C": "Q3-Non-GAAP-EPS 2,62 vs. 1,98 USD erwartet, Umsatz +11% auf 2,80 Mrd USD.",
+        "A": "FY26-Guidance-Unterkante auf 12,20 USD angehoben, Wachstumsportfolio +49%.",
+        "N": "Neues 52-Wochen-Hoch 258,81 USD am 09.11. -- frischer Ausbruch nach Q3-Beat.",
+        "S": "TEILWEISE -- Rueckkaufvolumen fuer diesen Lauf nicht verifizierbar.",
+        "L": "Wachstumsportfolio (inkl. Apellis) +49% auf 1,26 Mrd USD, fuehrender Neuro-Biotech-Titel.",
+        "I": "Mehrere Analysten-Upgrades seit Ende Oktober (Argus, Needham, Stifel, Wells Fargo).",
+        "M": "NICHT ERFUELLT -- ROT, FTD fruehestens heute (11.11.) moeglich, unbestaetigt."
       }
     }
   ],
@@ -201,6 +201,11 @@
     "SEAGATE TECHNOLOGY (STX): im Scouting Lauf 146 geprueft -- nach starkem Lauf auf ueber 1.100 USD im Sommer 2026 jetzt rund 60% unter dem 52-Wochen-Hoch, stark getroffen vom KI-Ausverkauf vom 05.11. -- kein Nahe-Pivot-Setup, Abstand in die falsche Richtung.",
     "NEXTPOWER / NEXTRACKER (NXT): im Scouting Lauf 146 geprueft -- sechs Quartale in Folge Schaetzungen uebertroffen, Guidance zum dritten Mal angehoben, aber 35,7% unter dem 52-Wochen-Hoch -- fundamental stark, aber kein Nahe-Pivot-Setup.",
     "WARBY PARKER (WRBY): im Scouting Lauf 147 geprueft -- nach Q3-Zahlen (05.11.) zwar +22% Kurssprung auf ein neues 52-Wochen-Hoch, aber duennes C/A-Fundament (GAAP-EPS nur 0,04 USD, KGV im hohen dreistelligen Bereich, Umsatzausblick fuer FY26 am untersten Ende verengt) -- kein ausreichend solides CANSLIM-Setup, nicht aufgenommen.",
-    "METHODIK-HINWEIS LAUF 147 (10.11.2026): Schlusskurs Montag 09.11.2026 per Live-Quellen bestaetigt (Dow +2,2% auf 52.389, S&P500 +2,4% auf 7.549, Nasdaq +2,7% auf 25.253 -- Nasdaq damit erstmals seit dem 05.11. wieder ausserhalb der Korrekturzone). Der Rallye-Versuch zaehlt den 06.11. als Tag 1, den 09.11. als Tag 2 -- ein gueltiger Follow-Through-Day ist nach IBD-Regel erst ab Tag 4 (fruehestens 11.11.2026) moeglich, daher zaehlen die kraeftigen Gewinne vom 09.11. trotz Ueberschreitens der 1,25%-Schwelle formal noch nicht als FTD. Fuer den laufenden Handelstag 10.11.2026 lagen zum Laufzeitpunkt keine verifizierbaren Kurs- oder Futures-Daten vor. Breites Zusatzscouting identifizierte Microsoft (MSFT) und Regeneron (REGN) als neue Nahe-Pivot-Kandidaten nach starken Quartalszahlen und ueberdurchschnittlicher Erholung seit dem KI-Ausverkauf vom 05.11.; Warby Parker (WRBY) wurde trotz starkem Kurssprung wegen duenner Profitabilitaet verworfen. Marktampel bleibt ROT, 0 Picks, 8 Watchlist-Titel."
+    "MANH (Manhattan Associates): nach zwei Laeufen in Folge mit schwacher relativer Staerke (02. und 09.11. jeweils im Minus trotz starkem Gesamtmarkt) aus der Watchlist entfernt -- Q3-Zahlen (27.10., adj. EPS +14%, Umsatz-Beat) und FY26-Guidance bleiben solide, aber das L-Kriterium bestaetigt sich wiederholt nicht.",
+    "UNITY (U): im Scouting Lauf 148 geprueft -- starkes Q3 (05.11., Umsatz +32% auf 622 Mio USD, erstmals seit dem IPO 2020 GAAP-profitabel), aber rund 12% unter dem Zwischenhoch vom 20.08.2026 (48,46 USD) und damit kein Nahe-Pivot-Setup.",
+    "AFFILIATED MANAGERS GROUP (AMG): im Scouting Lauf 148 geprueft -- EPS-Beat (9,50 vs. 8,87 USD) am 09.11. und neues 52-Wochen-Hoch, aber Umsatz deutlich unter Konsens (595,2 vs. 661,6 Mio USD) -- C-Kriterium nicht ausreichend solide fuer die Aufnahme.",
+    "MODERNA (MRNA), XERIS BIOPHARMA (XERS): im Scouting Lauf 148 als 52-Wochen-Hoch-Kandidaten nach starken Q3-Zahlen identifiziert, aber ohne belastbares mehrjaehriges CANSLIM-Gewinnwachstumsprofil (MRNA weiterhin stark schwankende Jahresergebnisse, XERS sehr kleine Marktkapitalisierung) -- nicht aufgenommen.",
+    "GILEAD SCIENCES (GILD): im Scouting Lauf 148 geprueft -- Hinweise auf angehobene HIV-Umsatzguidance und ein neues Hoch oberhalb von 165,70 USD, aber Kurs- und Datumsangaben in den verfuegbaren Quellen widersprachen sich zu stark fuer eine verifizierbare Aufnahme in diesem Lauf.",
+    "METHODIK-HINWEIS LAUF 148 (11.11.2026): Letzter bestaetigter Schlusskurs ist der 10.11.2026 (Dow -0,30% auf 52.231,89, S&P500 -0,38% auf 7.520,93, Nasdaq -0,74% auf 25.065,88) nach einem heisseren als erwarteten US-Inflationsbericht fuer Oktober. Der Rallye-Versuch zaehlt den 06.11. als Tag 1, den 09.11. als Tag 2, den 10.11. als Tag 3 -- der Ruecksetzer unterschritt die Tiefs des Versuchs nicht. Der fruehestmoegliche Follow-Through-Day (Tag 4) ist damit heute, 11.11.2026, erreichbar, war zum Laufzeitpunkt aber noch nicht bestaetigt oder widerlegt. Fuer die sieben uebernommenen Watchlist-Titel (LH, HAS, MAR, NDAQ, XYZ, MSFT, REGN) konnten keine frischen Einzelkurse zum 10.11. verifiziert werden; die Preisangaben stammen vom zuletzt bestaetigten Stand (09.11.2026). MANH wurde wegen wiederholt schwacher relativer Staerke entfernt, BIOGEN (BIIB) nach einem frischen 52-Wochen-Hoch neu aufgenommen. Marktampel bleibt ROT, 0 Picks, 8 Watchlist-Titel."
   ]
 }
